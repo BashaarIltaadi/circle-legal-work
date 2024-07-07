@@ -1,0 +1,1375 @@
+RICHARD DE BELDER*
+MAKDOOM AL KHANt
+Legal Aspects of Doing Business
+in Pakistant
+I. Introduction
+During the last several years, the Government of Pakistan has introduced
+numerous measures which have been designed to encourage foreign invest-
+ment and generally to promote private business in that country. These
+measures coupled with a major aid scheme that the United States Govern-
+ment has entered into with the Pakistani Government have made it a
+country that companies may wish to include in their investment programs.
+The Pakistani and U.S. Governments recently finalized arrangements for a
+U.S. $4.02 billion package of economic and military assistance for 1988-
+1993, continuing on from the existing assistance program (1981-1987) total-
+ing U.S. $3.2 billion. (Economic assistance generally consists of a grant
+representing two-thirds of the amount involved and with the remainder
+being in the form of a commercial loan.)
+Pakistan has a large population (around ninety-five million)1 and,
+although it is generally a poor country, there has been evidence of a growing
+middle class in the past ten years due to a substantial number of persons
+working in the oil-producing countries of the Middle East. Remittances
+from these countries to Pakistan have in recent years been around U.S. $2.9
+billion per year which has assisted in encouraging the growth of a new
+middle class. 2 Pakistan's GNP has grown rapidly over the last six years and,
+*Solicitor of the Supreme Court of England and Wales and member of the California Bar;
+practices with Whitman & Ransom in London.
+tMember, Lincoln's Inn and barrister and advocate with Fazle Ghani Khan & Co. in
+Karachi, Pakistan.
+:The description of laws and regulations in this article is current as of June 1, 1986.
+1. Government of Pakistan, Federal Bureau of Statistics, Statistics Division, PAKISTAN
+STATISTICAL YEARBOOK 1985, 5.
+2. Remittances which were only U.S. $578 million in 1976-77 rose to U.S. $2,886 in 1982-83
+CORE
+Metadata, citation and similar papers at core.ac.uk
+Provided by Southern Methodist University
+536 
+THE INTERNATIONAL LAWYER
+for the 1984 fiscal year, it grew at the rate of approximately 7.3 percent. 3
+Pakistan's geographical location also offers easy access to the Middle East,
+Africa and the Near Far East.
+The legal system of Pakistan is a mixture of Anglo-Islamic law4 which
+grew out of the interaction of English and Islamic laws prior to 1947. 5 In
+recent years there has been a trend in Pakistan, similar to that experienced
+in other countries in the Islamic world, towards the implementation of
+Islamic principles and the deemphasis of previous Western-imposed
+influences. 6 These changes have included the introduction of Islamic forms
+of criminal punishment, the prohibition of alcohol and certain develop-
+ments in the areas of taxation and interest. 7 The legal system is administered
+but, affected by economic recession in the Gulf countries, these fell to U.S. $2,740 in 1983-84
+and U.S. $2,450 in 1984-85. Falling remittances have caused the Government to accelerate
+measures intended to mobilize domestic resources and attract foreign investment to create an
+industrial structure based on modern technology. The apparent motive of these efforts is to
+create infra-structural facilities, stimulate industrial and agricultural growth and thus help
+reduce the balance of payments deficit and meet the country's debt servicing requirements. See
+STATE BANK OF PAKISTAN ANNUAL REPORT 1983-84, 118-119; Economic Advisers Wing,
+Finance Division, Islamabad, PAKISTAN ECONOMIC SURVEY 1983-84, 70-71.
+3. The growth rate, however, reflects the effect of an unusually low level of GNP in 1983-84.
+Computed at 1982-83 levels the average annual increase would be approximately 5.1%. See
+PAKISTAN ECONOMIC SURVEY 1984-85, supra note 2 at 40. With agriculture and industry
+currently showing sharp improvements GDP is likely to increase by 10% according to the
+World Bank Annual Report, 1985.
+4. See Esposito, Perspectives 
+on Islamic Law Reform: The Case of Pakistan, 13 INT'L LAW
+AND POLITICS, 217 (1980).
+5. English rule over the Indian subcontinent ended in 1947 with the creation of independent
+Pakistan on August 14, 1947 and Independent India on August 15, 1947.
+6. A five-member Federal Shariat Court (FSC) has replaced the various Shariat Benches of
+the High Court by substituting chapter 3-A in Part VII of the 1973 Constitution 
+vide President's
+Order 1 of 1980. The FSC exercises revisional jurisdiction over the criminal courts responsible
+for trial of offenses under Islamic Penal statutes. It can also be petitioned to rule as to whether
+any law (other than the Constitution), Muslim personal law or the law of the procedure of any
+court or tribunal conforms with Islamic principles. Appeals arising from any proceedings before
+the Federal Shariat Court are heard by a specially constituted Shariat Bench of the Supreme
+Court.
+7. Prohibition of alcohol has been introduced in Pakistan pursuant to Islamic principle. No
+Muslim may consume, sell, keep or manufacture alcohol, and violators face stiff punishments
+including whipping.
+Criminal courts have been empowered to order amputation in the case of theft (ORDINANCE
+VII oF 1979) and, in the case of adultery, stoning to death (ORDINANCE VII OF 1979) although
+the evidentiary requirements for such orders are extremely strict and the courts have so far been
+reluctant to impose these maximum penalties.
+On December 31, 1984, the BANKING AND FINANCIAL SERVICES (AMENDMENT 
+OF LAWS)
+ORDINANCE (LVII of 1984) was enacted. This provided the banks with additional powers to
+carry out interest free banking which has become mandatory as from January 1, 1985. These
+powers include, among other matters, the ability to (i) issue "musharika" and "modaraba"
+certificates, (ii) participate in import and export activities in the normal course of business
+without a license, and (iii) invest in companies through a new share capital medium (participa-
+tory redeemable capital).
+The MODARBA COMPANIES AND MODARBA (FLOATATION AND CONTROL) ORDINANCE, 1980
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+537
+by civil and Shariah courts. 8 In general, commercial activities of the type
+undertaken by most foreign investments are regulated by Western-style
+laws and by the civil courts.
+regulates the registration and management of modarba companies defines modarba as "a
+business in which a person participates with his money and another with his efforts or skill or
+both his efforts and skill and shall include Unit Trusts and Mutual Funds by whatever name
+called." "Modarba Certificate" is defined as "a certificate of definite denomination issued to
+the subscriber of the modarba acknowledging receipt of money subscribed by him" and a
+"Modarba Company" as "a company engaged in the business of floating and managing
+modarba." Only companies registered as "Modarba companies" can float a modarba. To be
+eligible for registration the company must be registered under the COMPANIES ORDINANCE, 1984
+or any other law; if it is solely engaged in floatation and management of modarba its paid up
+capital should not be less than Rs 5 
+million, and where it is engaged in other business the
+company must have capital of such amount and nature as may be prescribed. In addition its
+promoters must possess the necessary qualifications and means and its managers and employees
+be free from the specified disqualifications.
+No statutory definition of Musharika has been enacted as yet. It may, however, be defined as
+an arrangement of business or its financing based on the concept of profit-loss sharing in which
+parties contribute their money or efforts or skills or a combination of these. Profits may be
+shared in pre-agreed proportions but the loss if any shall be borne by the capital alone strictly in
+the proportion contributed by each party. See Ahmed, Iqbal & Khan, MONEY AND BANKING IN
+ISLAM, 262-63 (Institute of Policy Studies, Islamabad, 1983).
+The conduct of Musharika is governed, like any other contract, by the terms and conditions
+of the agreement. The Musharika Financing Scheme launched by the banks was meant initially
+for the corporate sector alone but from April 1, 1985 firms and individuals have also become
+eligible for financing on this basis.
+A tax called "Zakat" is levied at a rate of 2.5% on the assets of Muslim Pakistani citizens and
+companies in which a majority interest is held by such citizens. ZAIT AND USHR ORDINANCE
+(XVIII) 1980. Under the same Ordinance, a tax (Ushr) on produce from land has also been
+instituted. Ushr is levied at a rate of 5%. The purpose of these taxes is to give effect to the
+Islamic obligation of Muslims to donate part of their wealth to assist persons such as orphans,
+widows and the handicapped. Certain exemptions from and tax concessions in relation to Zakat
+and Ushr are available. Zakat and Ushr are also not levied on a Muslim who has filed a
+declaration that his faith and fiqh (a school of religious thought) do not oblige him to pay Zakat
+or Ushr. ZAKAT AND USHR (AMENDMENT) ORDINANCE (LII), 1980.
+The QANUN-E-SHAHADAT 
+(LAW OF EVIDENCE), 1984 makes some changes in the law of
+evidence which was otherwise based on the principles of the English common law. The only
+notable change for the present purposes is that, with regard to future and financial transactions,
+an instrument must be attested by two men or one man and two women.
+8. On July 5, 1977 the government was taken over by the Chief of Army Staff, General
+Zia-ul-Huq who assumed the office of Chief Martial Law Administrator, and who proclaimed
+martial law.
+The structure of the Constitution has been substantially altered under the Revival of the
+Constitution Order, 1985. Through a proclamation issued on December 30th, 1985 by the Chief
+Martial Law Administrator, martial law has been withdrawn, the Proclamation of July 5th,
+1977 imposing martial law revoked and the Provisional Constitutional Order, 1981 repealed.
+All military courts and tribunals have been abolished. THE MARTIAL LAW (PENDING
+PROCEEDINGS) ORDER, 1985 transfers all cases pending before military courts and tribunals to
+ordinary courts of criminal jurisdiction. A S.R. 0. issued by the Ministry of Justice enforces all
+provisions of the Constitutions, including fundamental rights.
+Subject to the above, the highest court in Pakistan is the Supreme Court of Pakistan which
+resides in Rawalpindi. Civil and criminal appeals from the various High Courts are heard by the
+Supreme Court. There are four High Courts with one being located in each of the four
+Provinces. Beneath the High Courts are the District Courts for civil matters and the Sessions
+SPRING 1986
+538 
+THE INTERNATIONAL LAWYER
+II. Approvals
+Prior to forming a business entity in Pakistan, the foreign investor must
+obtain certain approvals relating to the investment, the issuance of shares,
+certain foreign currency transactions and the importation of products.
+A. INVESTMENT APPROVAL
+Foreign private investment (including subsequent changes thereto) re-
+gardless of its form and the amount involved requires prior written approval
+from the Department of Investment Promotion Bureau (IPB) 9 through its
+Central Investment Promotion Committee (CIPC)to 
+of the Federal Ministry
+and Magistrate's Courts for criminal matters. There are also a number of special tribunals and
+courts whose decisions may be appealed or reviewed by the superior courts.
+Federal Shariah Courts have certain review functions to ascertain if laws and regulations are
+Islamic in nature (see note 6, supra) and also have jurisdiction in non-contentious matters.
+On December 31, 1984, the BANKING TRIBUNALS ORDINANCE LVIII was enacted which,
+pursuant to Section 4 created specially constituted Banking Tribunals. These Banking Tribu-
+nals are to provide a speedy remedy for banks in respect of bad loans. A decree from such a
+tribunal will allow a bank, without recourse to court, to sell any property held as security
+(section 11(3)).
+9. The application is processed in the first instance by the IPB. This application is circulated
+to the various ministries concerned and the State Bank of Pakistan for their comments. After
+consultation with the foreign investor these comments together with a summary of the applica-
+tion prepared by IPB are submitted for circulation to the CIPC. The general functions of the
+IPB include:
+(i) dissemination of investment information;
+(ii) processing of proposals involving foreign private investment equity as well as loan or
+foreign technical collaboration;
+(iii) regulation of employment of foreign personnel in Pakistan; and
+(iv) assisting foreign and local investors in obtaining import licenses, land, buildings, raw
+material, power, water and other facilities for which approval of Federal or Provincial
+governments is necessary.
+See generally Investment Promotion Bureau, Ministry of Industries, Government of Pakistan,
+PAKISTAN FOREIGN INVESTMENT GUIDE (1982).
+10. The Chairman of CIPC is the Secretary of the Federal Ministry of Industries. CIPC
+members include the Secretaries Industries of all the four provinces, a representative from
+Federal Ministry of Defense, Federal Ministry of Finance, State Bank of Pakistan, Pakistan
+Industrial Credit and Investment Corporation (PICIC), Industrial Development Bank of
+Pakistan (IDBP) and the Director General of IPB who also acts as secretary to the CIPC. The
+committee meets at least once a month and decides all applications submitted to it. If the CIPC
+decides that an agreement requires revision the investor is invited to discuss the proposed
+revisions before a final decision is announced.
+In certain specified areas, (i.e., national security and defense, where religious and socio-
+economic considerations are paramount, subjects of national importance, sectors where it is
+necessary to regulate price or where industrialization has already reached a saturation level) the
+final decision is that of the Economic Coordination Committee (ECC) of the Federal Cabinet,
+and the CIPC is only authorized to refer the matter with its recommendations to the ECC.
+Projects which fall within these areas include arms, ammunition, high explosives, security
+printing, currency, mint, defense oriented electronics, radioactive substances (National Secu-
+rity and Defense); alcoholic beverages, foreign brand concentrate-based synthetic beverages
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+539
+of Industries in Karachi. Only upon receipt of the necessary approvals
+should the foreign investor proceed with the registration of a corporate
+entity.
+Investment approval will only be granted if the proposed investment (i)
+will provide sophisticated technology that will assist in creating a sound
+industrial and agricultural base; (ii) 
+will be export-oriented and, preferably,
+use local raw materials; or (iii) is an import substitution industry." Invest-
+ment in purely commercial or professional activities is actively discouraged.
+Some areas previously reserved for nationalized industries have now been
+opened up to the private sector and may provide opportunities for the
+foreign investor.12 Investors must submit twenty-five copies of Application
+Form IPB-1 to the IPB. 13 In addition, it is advisable to submit draft techni-
+cal, management and loan agreements for approval. Provisions in these
+agreements relating to financial arrangements will be subject to scrutiny by
+and will require the specific additional approval of the Federal Ministry of
+Finance (Ministry) and the State Bank of Pakistan (State Bank).
+The procedure may take many months to complete,' 4 and the foreign
+investor will be encouraged to grant a majority Pakistani holding in the
+investment. The investment approval may be subject to certain conditions
+relating to, for example, the sales and marketing policy that is 
+to be adopted,
+the remuneration of the directors and, on occasion, the number of em-
+ployees that the new investment may have. In addition, it may be a condition
+(religious and socio-economic considerations); basic steel, manufacture of basic metals and
+alloys, heavy mechanical plants, heavy electrical plants, basic chemicals, petrochemicals,
+public utilities, ships, aircrafts, railway locomotives (projects of national importance); fertil-
+izer, cement, drugs, pharmaceuticals, vegetable ghee (price regulation); sugar and cotton
+spinning (saturated markets).
+11. FOREIGN PRIVATE INVESTMENT (PROMOTION AND PROTECrION) AcT, 1976, § 3.
+12. Pursuant to the ECONOMIC REFORMS ORDER No. 1 OF 1972, ten industries were reserved
+for the public sector: iron and steel; basic metals; heavy engineering manufacturing; heavy
+electrical manufacturing; assembly and manufacture of motor vehicles; assembly and manufac-
+ture of tractors and farm machinery; heavy and basic chemicals; petrochemicals; cement; and
+public utilities. In October 1977, the government opened up certain of these areas by subdivid-
+ing them into activities in which private investment could be made. A Disinvestment Commit-
+tee composed of the Federal Ministers of Finance, Production and Industries has been set up
+and currently the government has decided to sell Rs 2 billion worth of shares of profitable
+industrial units in the public sector. The Committee also analyzes problems of non-profitable
+operations of the public sector. In its meeting of September 22, 1985 the ECC approved a
+charter of terms and conditions under which the private sector would be invited to participate in
+the generation of power in the country.
+13. The application form requests information on the foreign participants, the Pakistani
+participants, repatriation and remittances, the proposed project, machinery and equipment,
+technical know-how, the proposed schedule of completion, the cost of the project, financing,
+the production programme, the proposed market and various miscellaneous matters. The
+application also states the method of capitalization and IPB expects that required local
+expenditure should be met from local equity capital.
+14. However in certain priority areas, e.g., computers, it is completed within weeks.
+SPRING 1986
+540 
+THE INTERNATIONAL LAWYER
+that, over time, local materials must be substituted for imported raw mate-
+rials. These conditions should be carefully analysed and negotiated to
+ensure that the successful operation of the investment will not be adversely
+affected.
+B. ISSUANCE OF SHARES
+If the investment is to be made through a company, the prior approval of
+the Controller of Capital Issues (CCI), which is a separate discussion within
+the Ministry, and of the State Bank is required before the company may
+issue shares or securities or undertake certain other actions. 1
+5 CCI approval
+for the initial issuance of shares is part of the initial approval procedure
+involving the IPB, the Ministry and the State Bank. Subject to any condi-
+tions in the original approval, future issues of shares or debentures will,
+however, require additional consents from the CCI. CCI approval is made
+in the form of orders which have the force of law and may contain such
+conditions as the CCI considers appropriate. CCI approval is also required
+for (i) the creation by instrument of a charge or lien on a company's assets,
+(ii) the terms of employment of a chief executive officer, and (iii) the
+remuneration of directors in respect of any additional services that they may
+perform.
+Certain transactions do not require CCI approval but companies in which
+there is foreign investment cannot claim the benefit of these exemptions. 16
+A private company (including one having foreign investment) that proposes
+to have a paid up share capital in excess of Rs 10,000,000 must convert itself
+into a public company and offer fifty percent of its capital to the public on the
+Stock Exchange and the National Investment (Unit) Trust (NIT). In addi-
+tion its shares must be quoted. 17 However, in such a situation, foreign
+capital is exempt from this requirement and need not be offered to the
+public.
+15. CAPITAL ISSUES (CONTINUANCE OF CONTROL) ACT, 1947.
+16. Issues of capital in Pakistan by companies other than banks, insurance companies or
+provident societies, may be made without consent up to Rs 10,000,000 unless the company is
+one in which foreign capital is wholly or partially associated.
+17. The CCI approval is a mere formality except when shares are to be offered to the public
+and NIT, in which case the procedure and mode of 
+issue is specified. Generally the sponsors and
+promotors are allowed 50% capital participation. Where the company does not propose to issue
+capital in excess of Rs 10 million it is not obliged to go public and the total capital may be
+subscribed by the foreign investor and his local partner, if any. Deviations from this framework
+are possible but these will depend primarily on the importance of the project to the country so
+that, for example, export oriented projects will often be permitted liberal deviations.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+- 541
+C. FOREIGN CURRENCY TRANSACTIONS
+A company is deemed to be controlled by a person resident outside
+Pakistan if fifty percent or more of the shares are issued in favour of a foreign
+national (Non-Resident Company). Such a company will be subject to
+certain regulations of the State Bank with regard to the issue of shares and
+debentures and certain other financial transactions.
+No shares or debentures in a company registered in Pakistan may be
+issued or transferred to a person who is a non-resident of Pakistan without
+the prior permission of the State Bank. Certain blanket permissions have,
+however, been given for certain categories of transactions. The prior per-
+mission of the State Bank is also required before a Non-Resident Company
+may accept loans, advances or other credit facilities from a local bank. 1
+8 In
+general, the State Bank permits a Non-Resident Company engaged in
+industrial operations to borrow up to an amount equal to 50 percent of its
+issued share capital plus reserves. For Non-Resident Companies engaged in
+commercial or trading operations the permitted borrowing level is reduced
+to a figure between 10 percent to 25 percent of such amounts. These limits
+are subject to review in each case. The impact of the State Bank regulation
+must be carefully considered in deciding whether or not the foreign investor
+should be a minority shareholder thereby qualifying the ocmpany as resi-
+dent for the purpose of these regulations.
+D. INITIAL IMPORT LICENSE
+Once the investment project has been approved, the foreign investor
+must apply to the IPB for a license to import any plant or machinery that
+may be required for the investment's start-up operations. Subsequent
+licenses will be required for future imports of plant, raw materials and spare
+parts. Foreign investors should be aware that certain difficulties have on
+occasion been experienced in obaining sufficient import licenses for raw
+materials, components and spare parts and careful monitoring of their
+availability should be undertaken. Licenses are issued by the Chief Control-
+ler of Imports and Exports and are generally valid for six months although,
+in the case of parts and accessories relating to machinery and mills, they are
+valid for twelve months. It is also possible, in certain instances, to obtain
+18. STATE BANK FOREIGN EXCHANGE CONTROL MANUAL of 1982, chap. 19, p. 126. Permission
+is granted on form "L" on the basis of matching funding and other criteria. Foreign trading,
+manufacturing and semi-manufacturing companies are permitted to borrow on a 
+percentage of
+their paid-up capital, reserves, undistributed profits and undistributed dividends. Loans are
+permitted only for meeting working capital requirements and not for the acquisition of fixed
+assets.
+SPRING 1986
+542 
+THE INTERNATIONAL LAWYER
+twenty-four month terms. A fee based on 2 percent of the value of the goods
+covered by the license is payable upon its issue.
+I1. Business Entities for Foreigners in Pakistan
+A. INTRODUCTION
+Foreign investors may use a partnership or some type of corporate entity
+as the vehicle for their investment. Partnerships are regulated by legislation
+which is based on English common law. 1
+9 Registration with the Registrar of
+Firms is not compulsory but is advisable to permit the firm and its partners to
+sue on claims exceeding Rs 100.20
+However, most foreign investors wish to obtain the protection of limited
+liability and accordingly adopt an entity that is subject to the Companies
+Ordinance. 21 The Companies Ordinance is generally patterned on English
+legislation and contains detailed rules on the organization and operation of
+companies incorporated in Pakistan and branches of foreign companies.
+This article assumes that the foreign investor will operate through a com-
+pany or a branch and, except as otherwise specified, the term "company"
+will refer to one of these two forms of corporate investment.
+B. LIMITED LIABILITY COMPANY
+A foreign investor which proposes to incorporate a company with limited
+liability in contrast to establishing a branch office may choose either a
+private or a public limited liability company. The IPB may, however,
+require the use of a public company.
+19. PARTNERSHIP ACT 
+OF 1932.
+20. Under section 69 of the PARTNERSHIP ACT where a partnership has not been registered,
+claims arising from the partnership agreement or ACT cannot be enforced by legal action by a
+partner against another partner or the firm. In addition the firm cannot legally enforce its
+contractual claims against third parties and this will apply mutatis 
+mutandis 
+to set-offs and other
+proceedings. The section however has no application to claims not exceeding Rs 100, to firms or
+partners of firms which have no place of business in Pakistan or if their place of business is
+situated in areas which have been exempted from the application of this section. See also
+Habib-ur-Rahman, About Partnership, 
+Pakistan & Gulf Economist, January 1983, at 22-28.
+21. The COMPANIES ORDINANCE (XLVII) 1984 has repealed the COMPANIES ACT, 1913,
+COMPANIES 
+(FOREIGN 
+INTERESTS) 
+ACT, 
+1918; 
+COMPANIES 
+(AMENDMENT) 
+ACT, 
+1930;
+UNDESIRABLE COMPANIES AcT, 1958; COMPANIES (MANAGING 
+AGENCY AND ELECTION OF
+DIRECTOR) ORDER, 1972; COMPANIES (SHIFTING OF REGISTERED OFFICE) ORDINANCE, 1972 and
+sections 11 to 15 of the SECURITIES AND EXCHANGE ORDINANCE, 1969. The ORDINANCE has been
+implemented in phases in order to provide time to the corporate sector to switch over to the new
+system. All the sections of the ORDINANCE, as of date, have been enforced except sections 41
+and 226 which will be enforced on January 1, 1986 and sections 88, 295 and 296 whose
+enforcement dates have not yet been notified. Under section 11 of the ORDINANCE a Corporate
+Law Authority has been established to regulate corporate law matters.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+543
+Regardless of the type of company chosen, the formation is evidenced by
+two documents, namely the Memorandum of Association (Memorandum)
+and the Articles of Association (Articles).
+The Memorandum describes the activities that the company may lawfully
+undertake, the subdivision of its share capital, the registered office, the
+initial subscribers and the fact that their liability is limited. The Articles
+contain the internal rules and regulations by which the company is to
+operate. The Companies Ordinance contains a standard form of Memoran-
+dum and Articles which, subject to the provisions of the Ordinance, may be
+amended to meet the requirements of a particular transaction.2 2 These two
+documents must be filed with the Registrar or Assistant Registrar of Joint
+Stock Companies (Registrar) in Karachi, Lahore, Peshawar, Quetta, Mul-
+tan or Hyderabad.
+A private company is one whose Articles restrict the right to transfer
+shares, limit the number of its members to fifty (but excluding persons that
+are in the employment of the company), and prohibits any invitation to the
+public to subscribe for the shares or debentures of the company. It must
+have at least two shareholders and two directors while a public company
+must have at least seven shareholders and seven directors. A public com-
+pany is a limited liability company that is not private. It offers its shares to
+the public and advertises these through a prospectus. It does not impose
+restrictions on the transfer of its shares and there is no maximum limit on the
+number of its members. 23
+On registration of the Memorandum and Articles and all other relevant
+documentation, the Registrar, if satisfied that everything is in order, will
+issue a certificate of incorporation at which time the company will have a
+valid legal existence. The company's name must include the word "limited,"
+and in the case of a private company the words "private limited." The name
+must not be identical to or resemble an existing company name and must not
+include certain proscribed words.24
+There is no minimum share capital requirement although, with foreign
+investments, the licensing procedure will invariably mean that a specific
+minimum equity contribution will be required. No-par shares are prohibited
+and shares must be transferred in accordance with the company's Articles.
+A private company must hold its first annual meeting not later than
+eighteen months from the date of incorporation while a public company
+must hold such meeting within six months of such date. Thereafter annual
+meetings must be held at least once every calendar year within a period of six
+22. COMPANIES ORDINANCE, 1984, First Schedule, Table B.
+23. Id. §§ 2(28) and 2(30).
+24. The name must not denote royal, government or municipal patronage. It must not
+contain the word "Finance" and must not be deceptive or offend religious principles. Id. § 
+37.
+SPRING 1986
+544 
+THE INTERNATIONAL LAWYER
+months following the close of the financial year and not later than fifteen
+months after the preceding meeting.
+Unless otherwise specified in the Articles, ordinary resolutions are passed
+by majority vote and special and extraordinary resolutions require at least a
+seventy-five percent majority. Cumulative voting on a pattern similar to that
+found in certain U.S. states is permitted. All special and extraordinary
+resolutions must be filed with the Registrar. A special resolution is required
+to amend the Memorandum or Articles and such a resolution must be
+confirmed by the Courts.
+It is important to note that the Companies Ordinance forbids the appoint-
+ment by a company (whether or not incorporated in Pakistan) of a "manag-
+ing agent.'25 The device often used by foreign investors of having the local
+company appoint the foreign investor to manage its affairs is, therefore,
+generally impossible in Pakistan. The Government may, however, upon
+application or otherwise, grant exemption from this rule by notification in
+the official Gazette, to agreements, already approved by it, relating to
+investment advisors, hotels and joint ventures with public sector financial
+institutions or industrial undertakings.2 6
+Every private company must have at least two directors and a public
+company at least seven. 27 Although the Articles need not provide that
+directors hold qualification shares, such a requirement is normally imposed
+by the CCI. 28 Directors may only hold office for three years at which time, if
+they wish to continue in office, they must offer themselves for re-election.
+With Board approval, alternate directors may be appointed. Directors must
+disclose any interest they may have in a contract being considered by the
+Board and refrain from voting thereon.
+Companies having a paid-up capial of Rs 5,000,00029 or more must retain
+at least one legal advisor to provide advice on its operations and on the
+discharge of its legal duties and obligations. 30 The minimum fee payable to
+legal advisors is Rs 350 per month. A legal advisor must be a lawyer
+admitted to practice in Pakistan31 and may only represent up to three
+companies in such capacity.
+25. Id. § 206.
+26. Id. § 206(2).
+27. Id. § 174.
+28. See supra note 15. Under Section 187(h) of the COMPANIES ORDINANCE also a director
+must be a member except where he is 
+a representativ# of (i) 
+the government, (ii) a creditor, (iii)
+a financial institution, which is 
+a member or if he is an employee or chief executive officer of the
+company.
+29. The principal unit of currency is 
+a Rupee. As of April 4, 1986, the rate of exchange was
+U.S. $1 equals 15.98 Rupees.
+30. COMPANIES 
+(APPOINTMENT 
+OF LEGAL 
+ADVISORS) ACT, 1974, as amended by the
+COMPANIES (APPOINTMENT OF LEGAL ADVISORS) (AMENDMENT) ACT 
+1975.
+31. A legal advisor must be a lawyer entered on a Roll under the provisions of the LEGAL
+PRACTITIONERS AND BAR COUNCILS ACT, 1973.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+545
+C. BRANCHES
+If a foreign investor decides to establish a branch office, certain provisions
+of the Companies Ordinance will apply. 32 Within one month of establishing
+a branch office, the parent of foreign company, after securing IPB permis-
+sion, must register under the Companies Ordinance. It must file three
+printed copies of its charter or Memorandum and Articles of Association,
+the address of its principal registered office, a list of its directors, chief
+executive officer and secretary, the names and addresses of one or more
+persons in Pakistan authorized to accept service of process and notices
+together with their consent, the address of its principal office in Pakistan and
+the name and address of the principal officers of the company in Pakistan. 33
+Any subsequent changes to the above information must generally be re-
+ported to the Registrar within thirty days. 3 4
+Documents that are submitted by the parent company must generally be
+certified as being true copies. For this purpose a certified true copy may be
+obtained from (i) an official of the government in whose custody the original
+is to be found certifying the same as a true copy and with his signature being
+confirmed by an authorized official of the body dealing with the incorpora-
+tion of companies or by a Commissioner of Oaths; or (ii) a notary public in
+the place of incorporation authenticating the document as a true copy; or
+(iii) an officer of the company certifying the document as a true copy before
+a notary public.
+In every calendar year, a branch must file with the Registrar three copies
+of its annual audited balance sheet and profit and loss account and three
+copies of the annual accounts that are filed in the country of its incorpora-
+tion. As with a locally incorporated company, a branch must register details
+of certain mortgages, charges and other security interests with the Registrar
+generally within twenty-one days of their creation.35
+IV. Publicly Quoted Companies
+If the foreign investment is made through the vehicle of or converted into
+a quoted public company, it will be subject to the Securities & Exchange
+32. COMPANIES ORDINANCE §§ 420-465.
+33. This information is provided on Forms XXXVI-XLIII (inclusive).
+34. Companies Ordinance § 452.
+35. Registration is required in respect of a mortgage or charge for the purposes of securing
+any issue of debentures; a mortgage or charge on uncalled share capital of the company; a
+mortgage or charge of any immovable property wherever situated, or any interest therein; a
+mortgage or charge on any book debts of the company; a mortgage or a charge, not being a
+pledge of any immovable property of the company except stock-in-trade; or a floating charge of
+the undertaking or property of the company. A copy of the instrument creating the mortgage or
+SPRING 1986
+546 
+THE INTERNATIONAL LAWYER
+Ordinance.3 6 The Corporate Law Authority (CLA) enforces this leg-
+islation.37 In addition to the CLA, the stock exchanges, which are located in
+Karachi and Lahore, have their own set of regulations which are self-
+regulatory and not statutory. 38
+These detailed regulations, in general, impose greater reporting require-
+ments on publicly quoted companies than are found in the Companies
+Ordinance. Financial statements must be submitted to the CLA, the stock
+exchanges and the stockholders on both a semi-annual and annual basis.
+The statements must be audited and show that (i) proper books have been
+kept pursuant to the Companies Ordinance, (ii) the accounts have been
+prepared in accordance with that statute and, where applicable, with the
+requirements of the Second Schedule to the Securities and Exchange Rules,
+and (iii) the financial statements represent a true and correct view of the
+company's affairs. The CLA and the Institute of Chartered Accountants of
+Pakistan define and promote the application of generally accepted account-
+ing principles.
+V. Antitrust Legislation
+During the late 1960s and the first half of the last decade, the Pakistani
+Government attempted to remove the perceived stranglehold on business
+by a small number of families. 39 Certain industries were nationalized 4
+0 and
+charge must also be filed for public recordation. Failure to do so will make the mortgage or
+charge unenforceable against creditors.
+36. SECURITIES & 
+EXCHANGE ORDINANCE, 1969. This Ordinance appears to have been based
+upon U.S. legislation, and some commentators believe that the detailed provisions found
+therein are not relevant for a developing country such as Pakistan; see paper prepared by Dr.
+Parvez Hassan for the first session of the National Seminar on the New Socio-Economic Order
+for Pakistan, 15-16 October, 1982, the Economist's Discussion Group of Experts, WAPDA
+House Auditorium.
+37. The words "Securities & Exchange Authority" have been substituted by the words
+"Corporate Law Authority" by Notification S.R.O. No. 669(1)/82 of July 10, 1982 in Section
+2(a) of the Securities & Exchange Rules 1971.
+38. Listing Rules of Karachi Stock Exchange & Listing Rules of Lahore Stock Exchange.
+39. During the late 1960s, a popular political slogan directed attacks at the "Twenty
+Families" who were perceived by some persons as unfairly controllng the Pakistani economy.
+40. Pursuant to the ECONOMIC REFORMS ORDER, 1972, as amended by the ECONOMIC REFORMS
+(AMENDMENT) ACT, 1973 and the ECONOMIC REFORMS (AMENDMENT) ORDINANCE, 1974, ten
+categories of industries were nationalized. Further nationalizations followed, including, among
+others, the LIFE INSURANCE (NATIONALIZATION) ORDER, 1972; BANK (NATIONALIZATION) ACT,
+1974; HYDROGENATED VEGETABLE OIL INDUSTRY (CONTROL AND DEVELOPMENT) ACT, 1973;
+FLOUR MILLING CONTROL AND 
+DEVELOPMENT ACT, 1976; RICE MILLING CONTROL AND
+DEVELOPMENT ACT, 1976; CoTToN GINNING CONTROL AND DEVELOPMENT ACT, 1976; and the
+PAKISTAN MARITIME SHIPPING (REGULATION AND CONTROL) AT, 1974.
+In September 1977, the flour and rice milling and cotton ginning industries were de-
+nationalized. Legislation has also been passed permitting the Government to offer, in the
+national interest, shares in those maritime industries that have been nationalized. ORDINANCE
+No. XXII of 1980.
+VOL. 20, NO. 2 "
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+547
+legislation was introduced more closely regulating industry in general.
+Although current Government policy is to encourage foreign investment
+and to simplify the investment procedure, 4' foreign investment may still be
+affected by this earlier legislation and, in particular, by the Monopolies and
+Restrictive Trade Practices (Control and Prevention) Ordinance, 1970
+(MRTP).4 2 The law prohibits undue concentration of economic power,
+unreasonable 
+monopoly power and unreasonably restrictive trade
+practices. 43 The Monopoly Control Authority (MCA) implements the pro-
+visions of the MRTP. 44
+The Government's policy of encouraging foreign investment in new in-
+dustries will often mean that the foreign investor will be the major, and
+perhaps the only, participant in that economic activity. This may result in
+foreign investors encountering problems with regard to the prohibition on
+"undue concentration of economic power" which is defined as having been
+brought about, maintained or continued if:
+(a) 
+There is established, run or continued an undertaking, the total value of
+whose assets is not less than Rs 50,000,000, or such other amounts as the
+MCA may by rule prescribe and which is:
+(i) not owned by a public company, or
+(ii) is owned by a public company in which any individual holds or controls
+shares carrying not less than 50 percent, or such other percentage as the
+MCA may by rule prescribe, of the voting power of the undertaking; and
+(b) 
+there are any dealings between associated undertakings which have, or are
+likely to have the effect of unfairly benefiting the owners or shareholders of
+one such undertaking to the prejudice of the owners or shareholders of any
+other of its associated undertakings.45
+As many foreign investments operate through the form of a private
+limited liability company it is possible that they may be affected by MRTP.
+41. On 23 May, 1985, the Government set up a Deregulation Commission. The first three
+terms of reference of the Commission deal with review and evaluation of existing economic
+controls. The fourth requires it to make recommendations regarding reduction, restructuring
+or expanding of 
+existing industries, or the setting up of new industries, removing restrictions on
+setting up private commercial banks, removal and reduction of price and distribution controls,
+privatization of domestic and export trade in cotton, privatization of power distribution,
+establishment of an autonomous corporation for telephones and telecommunications and such
+other issues which may be referred to it by the Federal Finance and Planning Minister. The
+Commission is chaired by the Governor of State Bank of Pakistan and includes two Senators,
+two Members of National Assembly, the Chairman of the Agricultural Development Bank, the
+Principal of the Administrative Staff College and two industrialists.
+42. Many aspects of the MONOPOLIES AND RESTRICTIVE TRADE PRACTICES (CONTROL AND
+PREVENTION) ORDINANCE, 1970 (hereinafter cited as the Monopolies Ordinance) are similar to
+U.S. anti-trust legislation.
+43. Id. § 3.
+44. Id. 88 8 and 10.
+45. Id. § 4; see also id. §§ 5, 6 and 7 detailing circumstances constituting unreasonable
+monopoly power, restrictive trade practices and other circumstances constituting concentration
+of economic power.
+SPRING 1986
+548 
+THE INTERNATIONAL LAWYER
+The key test is to ascertain whether the value of a company's "assets ' 4 6
+exceeds Rs 50 million. The MCA has issued certain rulings on the definition
+of "assets," the effect of which has been to make it difficult to exclude
+certain items from being classified as assets. In particular, the MCA has
+concluded that "assets" includes both current and fixed,47 that liabilities
+cannot be deducted,4 8 and that investments must be included even if they
+are made from borrowings. 49
+If the MCA decides that there is or may be a violation and that, in the
+public interest, this violation warrants action on its part, the company is
+notified of the MCA's proposed remedial action. Upon receipt of such
+notification, the company is given an opportunity to prove why the proposed
+action is unwarranted or unnecessary. The MCA is empowered to order
+that:
+(i) the firm or company concerned be converted into public limited company; or
+(ii) .. .the controlling shareholders of the public limited company concerned
+... 
+offer such part of the stocks and shares held by them within such time and
+in such manner as may be specified in the order to the general public including
+the National Investment Trust and an investment institution established or
+controlled by the Government. 5
+0
+These orders prevail over any other law, practice, contract, regulation or
+the provisions of the company's Memorandum and Articles.51 Such an order
+may be appealed to the High Court.52 Failure to comply with an order of the
+MCA will result in the imposition of penalties up to Rs 100,000 together with
+a daily fine thereafter for continued disobedience of Rs 10,000.
+In the case of a wholly-owned company, recent practice of the MCA has
+been to require that thirty percent of the share capital be offered to the
+public. Careful consideration should therefore be given by foreign investors
+as to the possible impact of the MRTP.
+VI. Protection of Foreign Investments
+The Government has enacted two laws in an attempt to promote foreign
+investors' confidence. These laws are the Foreign Private Investment
+46. Id. § 2(1) defines "assets" as "the value of assets of an undertaking at cost less deprecia-
+tion at the normal rates at which depreciation is calculated for the purpose of assessment of
+income tax."
+47. In re Lahore Textile and General Mills, Lahore, PIJ 1973 Tr. C. 9 (Monopoly); In re
+Metalex Corporation Limited, PLJ 1978 Tr. C. (Monopoly) 320.
+48. In re CIBA-Geigy (Pakistan) Ltd., PLJ 1973 Tr. C. (Monopoly) 68.
+49. In re Lasani Cotton Mill Ltd., PLJ 1974 Tr. C. (Monopoly) 1978.
+50. Monopolies Ordinance §§ 12(1) (i) and (ii).
+51. Rafhan Maize Products Company Limited, PU 1983 Tr. C. (Monopoly) 134.
+52. Section 20 of the Monopolies Ordinance provides that an appeal must be made within
+sixty days from receipt of the order.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+549
+(Promotion and Protection) Ordinance (FPI)53 and the Protection of Rights
+in Industrial Property Order (PRIP).54
+A. FPI
+The main effect of the FPI is that certain foreign investments are not to be
+discriminated against and are to be treated on an equal basis with Pakistani
+investments. In particular, foreign private investments shall not be subject
+to additional or more burdensome income taxes than those applicable to
+investments made in similar circumstances by citizens of Pakistan.55 The FPI
+applies to an enterprise that (i) is an industrial undertaking that has been
+established at any time since September 1, 1954, (ii) has foreign private
+investment, 56 and (iii) has been established with Government approval.
+The foreign investment must be an industrial undertaking before it can
+claim the FPI's protection. To be an industrial undertaking, the foreign
+investment must be engaged in certain Government-approved activities. In
+addition, the enterprise must be of a type that (i) does not exist in Pakistan,
+(ii) the establishment of which is desirable and will contribute to the econo-
+mic and social welfare of the country, or (iii) will contribute to certain other
+defined economic criteria. 57
+A foreign investment that meets these requirements can claim specific
+rights in the event of the Government performing certain actions. If the
+Government decides, in the public interest, to take over managerial control
+or claim the shares of any Pakistani citizens in the undertaking, this action
+must not prejudice any arrangements that may exist between the foreign
+investor or any creditor of that undertaking and any other person in Pakis-
+tan. In addition, foreign capital or foreign private investment may only be
+acquired under due process of law and adequate compensation must be paid
+in the currency in which the foreign capital was paid. 58
+The FPI also has certain other benefits that affect not only the foreign
+53. The FOREIGN PRIVATE INVESTMENT (PROMOTION AND PROTECTION) AcT, 1976 (ACT No.
+XLII OF 1976).
+54. PRESIDENT'S ORDER No. 5 of 1979, February 9, 1979.
+55. FOREIGN PRIVATE INVESTMENT (PROMOTION AND PROTECTION) ORDINANCE, 1976, § 8
+(hereinafter cited as Foreign Investment Ordinance).
+56. "Foreign private investment" includes investment of foreign capital by (i) a person who
+is not a citizen of Pakistan or (ii) by a company incorporated outside Pakistan, but does not
+include investment by a foreign government or an agency of a foreign government.
+57. Foreign Investment Ordinance § 3. The other criteria include contributions to (i) the
+development of capital, technical and managerial resources of Pakistan; (ii) the discovery,
+mobilization or better utilization of national resources; (iii) the strengthening of the balance of
+payments of Pakistan; (iv) the increase of employment opportunities in Pakistan; and (v) the
+improvement of Pakistan's economic development in any other way.
+58. Id. § 5.
+SPRING 1986
+550 
+THE INTERNATIONAL LAWYER
+investor but the creditors and employees of the undertaking. The foreign
+investor is able, subject to the Foreign Exchange Regulation Act, to repatri-
+ate, in foreign currency, the original capital investment, subsequent profits
+and reinvested profits. 59 Creditors of such undertakings may repatriate
+foreign currency loans and interest thereon which have been approved by
+the Government.60 Subject to the rules of the State Bank, employees may
+obtain foreign exchange for private remittance outside Pakistan.6 t
+B. PRIP
+The provisions of PRIP have effect regardless of any conflicting provi-
+sions in the Constitution or in any other law. The basic protection is that if a
+person is to be deprived of his or her "industrial property" 62 it must be in a
+manner that is in accordance with the law. Industrial property may only be
+compulsorily acquired for a public purpose and in such event adequate
+compensation must be paid within a reasonable time. In addition, the legal
+instrument ordering the acquisition must either specify the compensation to
+be paid or the principles upon which the figure is to be computed. If a person
+considers the compensation to be unfair, application may be made to the
+courts for a ruling as to whether the compensation is adequate. If the courts
+find the compensation to be inadequate, they are empowered to decide what
+is a fair figure.6 3
+VII. Export Processing Zones
+The Government has created special economic zones called Export Pro-
+cessing Zones (EPZ), to encourage foreign investment. 64 The first EPZ has
+been set up in Karachi and is administered by the Export Processing Zones
+Authority (EPZA). Investments within the EPZ are approved not by the
+IPB but by the EPZA. One advantage, therefore, is that the foreign investor
+need only deal with one body to obtain all the necessary consents and
+59. Id. § 6(a).
+60. Id. § 6(b).
+61. Id. § 
+7. Foreign nationals employed by the joint-venture must produce a 
+service contract
+approved by the Department of Investment Promotion & Supplies. The employer must submit
+a certificate giving details of all remuneration. Remittances may be made to cover family
+expenses.
+62. PROTECTION OF RIGHTS IN INDUSTRIAL PROPERTY ORDER § 2. "Industrial property" is
+defined as 'property, movable or immovable, used in the production, manufacture, processing
+or assembling of any goods or the development and extraction of mineral resources, or both in
+such production, manufacture, processing or assembling and in such development and extrac-
+tion, and includes any right, title or interest in such property.'
+63. Id. Art. 4.
+64. EXPORT PROCESSING ZONES AUTHORITY ORDINANCE, 1980, February 6, 1980.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+551
+approvals. The application that is submitted to the EPZA must provide
+details on certain aspects of the investment including the foreign investors.65
+Preference is shown for investments in industries not present in Pakistan,
+which offer advanced technology and which do not compete with export-
+orientated industries outside the EPZ. Industries located within the EPZ
+are exempt from Federal, Provincial and local taxes, including, among
+others, all custom and excise duties, sales taxes and octroi charges.6 6 Recent
+amendments now allow local investors to take up to 15 percent of the equity
+in a company establishing operations in an EPZ. This investment is to be
+made in foreign exchange purchased from State Bank and any dividends on
+this capital may be repatriated in foreign exchange. 67
+VIII. Imports and Exports
+Pakistan uses the Customs Co-operation Council Nomenclature system in
+the classification and description of imported and exported goods. Begin-
+ning with the fiscal year 1983-84, which commenced on July 1, 1983,
+Pakistan adopted a negative listing of imports as opposed to the previous
+positive listing. Under this system, all items may be imported except those
+appearing on a Negative List or on a Restricted List. The previous method
+utilized a Free List which specified those goods that could be imported. The
+Free List is being kept temporarily during the switchover and was recently
+expanded.6 8 The Negative List bans certain items for religious or security
+reasons, luxury consumer goods, and items that are protected by tariff in
+order to encourage local industry. The Restricted List includes (i) items that
+may be imported only by the public sector, (ii) items importable exclusively
+under tied sources of loans, barters or credits, and (iii) consumer goods
+subject to specific quantitative restrictions. The Prohibited List prohibits the
+import of a number of items on religious, moral and economic grounds.
+Items not covered in the aforesaid three lists are considered to be freely
+importable. 69 Imports may be subject to customs duties 70 and a sales tax.
+65. The application form (Form No. EPZA 05 Edition: April 1983) is four pages in length
+and requests information on the investors, the proposed industry, cost of production and sales,
+infrastructure requirements, utilities and other services, time schedules and manpower require-
+ments.
+66. Export Processing Zones Authority Ordinance, supra note 64, § 25. Notifications have
+been made by the Government, from time to time, exempting the EPZ from application of
+certain laws including the labour laws.
+67. Decision of the Economic Coordination Committee of the Cabinet in its February 21,
+1985, meeting.
+68. An additional 122 new importable items were added in 1983; Business America, Septem-
+ber 5, 1983, at 34. The IMPORT & 
+EXPORT POLICY 1985-86 removes a number of items from the
+negative list.
+69. S.R.O. 636(J)/85 of July 1, 1985. However sections 2(i) and 5 of the FINANCE ACr, 1985
+SPRING 1986
+552 
+THE INTERNATIONAL LAWYER
+It is possible to obtain non-binding advance rulings on the customs duty
+tariff classification of an item from the Collector of Customs in Karachi.
+Customs duties are payable in Pakistan rupees at the rate of exchange
+prevailing on the date when the bill of entry is presented to customs. Duty is
+normally levied on the invoice price although with regard to certain imports,
+additional duties may be levied when the export price is artificially low or
+when the country of origin has provided a subsidy or other financial assist-
+ance to promote the product's manufacture or export.71 Samples up to the
+value of Rs 3,000 per annum can be imported without involving foreign
+exchange or import authorization. 72
+Sales tax is chargeable at standard rate of 12.5 percent on the value of
+goods or classes of goods produced or manufactured in Pakistan except on
+such goods or classes of goods specified in the general exemption.73 All
+goods chargeable at a higher or lower rate are separately notified by the
+Government.74 The standard rate on imports is 20 percent.75 On some items
+a tax is levied at a higher rate.76 Certain staple goods are taxed at lower
+levels and a number of items have been exempted. 77 In the case of manufac-
+turers who import raw materials for use in the manufacture of goods, sales
+tax paid at the time of clearance for home consumption is adjusted against
+sales tax payable on manufactured goods.78 A number of articles falling
+under the heading numbers of the First Schedule to the Customs Act, 1969,
+specified by the Government are exempt from sales tax provided they fall
+under the definition of machinery or component parts of machinery.79
+levy a 5% general surcharge and a 5% "Iqra Surcharge" on all imports excluding certain items
+like medicine, books and duty free baggage. Exemptions from customs duty under any other
+law do not apply to these surcharges. The Iqra Surcharge has been levied to finance the
+promotion of education and mass literacy.
+70. THE CUSTOMS ACT, 1969, as amended by the PREVENTION OF SMUGGLING ORDINANCE 1977
+Chap. VI (AMENDMENT OF CUSTOMS ACT, 1969) consolidates and amends the law relating to the
+levy and collection of customs duties. It also deals with certain other related matters.
+71. IMPORT OF GOODS (ANTI-DUMPING AND COUNTERVAILING DUTIES) ORDINANCE, 1983;
+International Trade Reporter, July 26, 1983, at 125-26. Such items include pig iron; various
+iron and steel products; copper rods; cement; coal and synthetic rubber.
+72. S.R.O. 459(i)/72 of 1 July 1972.
+73. A list is contained in S.R.C. 666(1)/81 of 25 July 1981, as amended.
+74. S.R.O. 667(1)/81 of 25 June 1981, as amended.
+75. S.R.O. 662(1)/80 of 26 June 1980.
+76. Id.
+77. S.R.O. 661(1)/80 of 26 June 1980.
+78. SALES TAX CIRCULAR No. 12 of 1972, as amended and SALES TAX CIRCULAR No. 2 OF 1982.
+79. S.R.O. 697(1)/77 of 4 August 1977, as amended. Machinery is defined by this S.R.O. as
+follows:
+i. Machinery operated by power of 
+any description (excluding agricultural machinery or
+implements imported into Pakistan) such as is used in any industrial process, including
+the generation, transmission and distribution of power, or used in processes directly
+connected with the extraction of minerals and timber, construction of buildings, roads,
+dams, bridges and similar structures and the manufacture of goods.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+553
+IX. Exchange Controls
+The Government of Pakistan controls the outflow of foreign currency
+through a series of detailed exchange control laws and regulations.80 During
+the investment approval procedure the foreign investor should obtain cer-
+tain consents with regard to the repatriation of capital and profits. Subject to
+any specific approvals contained during that procedure and the provisions of
+other laws, 8 1 the foreign investor will be subject to these exchange control
+laws and regulations.
+The State Bank is empowered to implement the exchange control policies
+of the Government and has delegated certain of its functions to a number of
+banks and financial institutions (authorized dealers). 2 The State Bank fixes
+the rates at which foreign exchange may be sold and bought and foreign
+exchange transactions may only be effected through an authorized dealer.
+Controls are also imposed on the import and export of currency notes and
+bank notes (whether Pakistani or foreign), gold, silver and precious stones.
+Securities are also subject to controls and may not be transferred to a person
+resident outside Pakistan without prior permission. A foreign resident in
+Pakistan and a Pakistani company that is controlled by non-residents are,
+for this purpose, deemed to be non-resident. In addition, a company that is
+controlled by Pakistanis may not cease to be so controlled except with prior
+State Bank permission. Permission is also required for loans to be made or
+securities to be issued to any company (other than a bank) which is con-
+trolled by non-residents.
+Violations may result in a two-year imprisonment or a fine, or both, and
+confiscation of the property which was the subject matter of the offense.
+X. Technology Transfer Agreements
+The Federal Government through Annexure II (Guidelines for Agree-
+ments for Transfer of Technology) to the Industrial Policy Statement of
+ii. Apparatus and appliances, including metering and testing apparatus and appliances
+specially adapted for use in conjunction with machinery, specified in item (i) above;
+iii. Mechanical and electrical control and transmission gear adapted for use in conjunc-
+tion with machinery as specified in item (i) above;
+iv. Component parts of machinery as specified in items (i), (ii) and (iii) above, identi-
+fiable as for use in or with such machinery.
+80. FOREIGN EXCHANGE REGULATION ACT of 1947, as amended by FOREIGN EXCHANGE
+REGULATION (AMENDMENT) ACT, 1973. This legislation imposes restrictions on payments and
+dealings in foreign exchange and securities in addition to the export and import 
+of currency and
+bullion.
+81. See supra notes 52 and 54.
+82. The delegated powers include the authority to deal in all foreign currencies, to supervise
+the surrender of foreign currencies, and to sell foreign exchange for specified purposes within
+limits imposed by the State Bank. By NOTIFICATION No. F.5(2)-ADMN.1/85 of July 1, 1985 a
+SPRING 1986
+554 
+THE INTERNATIONAL LAWYER
+June, 1984, has stipulated standard terms for technical fee and royalty
+agreements. If these conditions are met, the approval of IPB is not needed
+and these agreements will be automatically approved and registered by the
+State Bank.83 If the agreement, however, deviates from the standard
+terms84 it must be submitted to the IPB for consideration and approval.
+National Taxation Commission has been constituted. Its terms of reference include the review
+and evaluation of the existing tax structure and identification of areas in need of reform.
+83. STATE BANK OF PAKISTAN F.E. CIRCULAR No. 55 OF 17 JULY 1984.
+84. Following are the standard terms:
+(a) Royalty-
+(1) Definition of Royalty:
+Royalty is a fee paid by a local firm to the foreign collaborator in consideration
+of:-License to use the foreign manufacturer's patent/brand name for
+marketing the product(s).
+(2) No Royalty will be allowed:-
+(i) On consumer goods for home market; and
+(ii) In cases where more than 50 percent shares are held by the owners of the
+patent/trademark/brand name.
+Existing agreements will, however, continue as per terms and duration
+already determined.
+(3) In other cases, the Royalty shall be allowed:-
+(i) 
+Up to 3 percent on consumer goods manufactured for exports; and
+(ii) 
+Up to 2 percent on consumer goods manufactured for exports; and
+(iii) Up to 1 percent on capital goods manufactured for home market.
+(4) A Royalty shall be for a period not exceeding 5 years.
+(5) A Royalty will be calculated and certified by the applicants' auditors on the
+basis of ex-factory price less Excise Duty and Sales Tax, if any, for home
+market and F.O.B. price for exports.
+(b) Technical Fee-
+(1) Definition of Technical Fee:
+It is a fee paid by the local firm to the foreign collaborators in consideration
+of:-
+(i) Engineering and Technical Services including assistance on the manufac-
+turing process, testing and quality control, assistance by way of making
+available patented process and/or secret know-how, and rights to avail of
+technical/confidential information resulting from continuous technical
+research and development etc; and
+(ii) Technical training of local personnel.
+(2) No Technical Fee shall be allowed on consumer goods or for simple conven-
+tional process goods, which are being produced in the country without foreign
+technical collaboration.
+(3) Technical Fee may either be determined in a lump sum to be paid in install-
+ments or be allowed:-
+(i) Up to 3 percent on engineering goods and for such basic manufacture
+which requires sophisticated technology.
+(ii) 
+Up to 1.5 percent for product(s) other than (i) on new products only.
+(iii) The aggregate rate of Royalty and Technical Fee should not exceed 5
+percent.
+(iv) Technical Fee shall not be allowed for more than 5 years.
+(v) 
+Lump-sum Technical Fee will not exceed 5 percent of foreign exchange
+cost of plant and machinery and will be admissible only for items (i) and
+(ii).
+(4) For basic manufacturer, Technical Fee will be calculated and certified by the
+company's auditors on the basis of ex-factory price.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+555
+XI. Taxation
+Income tax is a Federal tax85 and is administered by the Central Board of
+Revenue (CBR). The tax year runs from July 1st to June 30th. All assessees
+who have no business or professional income must have the accounting year
+ending June 30 but where the income of the assessee includes business or
+professional income then he may opt for the year ending December 31. If
+the assessee wants to adopt any other year end, permission is required from
+CBR. A tax return must be submitted within six and a half months from the
+end of the tax year and whichever year is chosen it will apply to all sources of
+income.
+Companies. A company that is resident 86 in Pakistan will be subject to
+standard rates of tax. A company incorporated in Pakistan in which there is
+foreign investment and which is controlled and managed from within Pakis-
+tan will be a Pakistani resident for tax purposes. Such a company will be
+taxed on its worldwide income whether or not actually received in Pakistan.
+Income tax will be levied at a flat standard rate of 30 percent on taxable
+(5) For assembly/manufacture, Technical Fee may be calculated on FOB price of
+deleted components of parts of the product(s) which would be manufactured
+by local licensed firm of ex-factory price of locally produced components or
+parts of the product(s) whichever is less.
+(6) While calculating Technical Fee, the Excise Duty, Sales Tax and the value of
+imported components and parts should be deleted from ex-factory price.
+Documentary evidence in support of the above may be called for from the
+applicant(s).
+(7) In the agreement no provision should be made for any compulsory minimum
+payment of Royalty/Technical Fee.
+(8) In case of payment of Technical Fee in lump-sum it should be spread over a
+number of years and should be linked with transfer of technology/services
+rendered. Further the supplier of technology should affirm that the price is in
+line with the agreement made in other countries.
+(9) There should be no requirement for the purchase of raw material/compo-
+nents from a particular source.
+(10) Agreements should be subject to Pakistan Law.
+(11) Arbitration should be held in Pakistan under Pakistan Law.
+85. The federal income tax laws are to be found in INCOME TAX ORDINANCE, 1979 which came
+into effect on July 1, 1979. The rates of tax are set forth in the First and Second Schedules
+thereto and are subject to amendment each year by the pertinent FINANCE ACr.
+86. A resident for any tax year is, inter alia,
+(a) an individual who:
+(i) is in Pakistan in that year for a period of, or for periods amounting in all to one
+hundred and eighty-two days or more; or
+(ii) is in Pakistan for a period of, or periods amounting in all to, ninety days or more in
+that year and who, within the four years preceding that year, has been in Pakistan
+for a period of, or periods amounting in all to, three hundred and sixty-five days or
+more;
+(b) a Hindu undivided family, firm or other association of persons, the control and
+management of whose affairs is situated wholly or partly in Pakistan in that year; or
+(c) a Pakistani company or any other company, the control and management of whose
+affairs is situated wholly in Pakistan for that year. (Section 2(40)). See also CBR
+CIRCULARS No. 4 AND 10 OF 1979.
+SPRING 1986
+556 
+THE INTERNATIONAL LAWYER
+income87 and a super tax at a rate of 25 percent (35 percent in the case of a
+banking company) will be levied on a certain proportion of income. 88 A tax
+credit in respect of income tax liability is generally allowed pursuant to
+certain double taxation treaties
+8 9 and certain reliefs from super tax are
+available under the Federal tax laws. 90
+A branch of a foreign company is non-resident for tax purposes and is only
+taxed on income that (i) is received or is deemed to be received in Pakistan
+and (ii) is generated or is deemed to be generated in Pakistan. However, as
+management and control resides abroad a legitimate proportion of head
+office expenses for managing and controlling the branch can be claimed as
+an admissible expense. 91
+Companies are subject to an advance income tax payment scheme under
+which they pay taxes in four installments during the fiscal year on September
+15, December 15, March 15 and June 15. The payments are based upon the
+87. Taxable income is deemed to include business and professional income and income from
+rents, royalties and technical assistance fees. Deductions include exempt income, casualty
+losses, salaries, rents, bad debts, repairs, insurance premiums, depreciation and interest on
+loans for the purpose of the business. Income from dividends, bonus or bonus shares is
+excluded. Foreign source income is included in taxable income at an amount "grossed up" to
+include foreign taxes paid thereon although the provisions of certain double taxation treaties
+may have lessened the Pakistani tax consequences. See infra note 88.
+88. Super tax is levied on a company's taxable income excluding the amounts retained for
+purposes of capitalisation or for meeting working capital requirements.
+89. Pakistan has entered into double taxation treaties with Austria, Belgium, Canada,
+Denmark, France, Germany, Greece, India, Ireland, Libya, Malta, Netherlands, Philippines,
+Poland, Romania, Sri Lanka, Sweden, Switzerland, Thailand, Turkey, the United Kingdom,
+and the United States. In addition, it has entered into limited treaties with Italy (airlines and
+shipping), Iran (airlines), Lebanon (airlines) and Saudi Arabia (airlines).
+90. Certain rebates in respect of super tax may be claimed by a resident company:
+(a) 5% for a public company, other than a bank;
+(b) 5% for a public company whose paid-up capital and free reserve does not exceed
+(i) Rs 1,000 in the case of 
+an industrial undertaking and (ii) Rs 500,000 in any other
+case;
+(c) 5% for a company commencing commercial production at any time from July 1,
+1975 to June 30, 1988 provided that the original cost of fixed assets (excluding
+land) owned and used by the company does not exceed Rs 500,000.
+(d) 10% for a company engaged in processing, freezing, preserving and canning of
+food, vegetables, fruit, grain, meat, fish or poultry; or profits and gains derived by
+a company from exploration of mineral deposits (other than petroleum and gas),
+and
+(e) 
+15% for a company whose profits and gains arise outside of and are remitted to
+Pakistan.
+91. The commonly accepted method of determining such proportion is:
+Proportionate Head 
+Total allowable 
+Pakistan gross
+Office Expenses 
+= 
+head office 
+x 
+revenue
+expenses. 
+World gross
+revenue
+From July 1, 1982 new rules have been promulgated whereby head office expenses will be
+allowable on the above basis or on the basis of the average head office expenses allowed in the
+preceding one, two or three years, as the case may be, whichever is lower.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+557
+tax assessed for the previous fiscal year. At the end of the fiscal year any
+shortfall based upon actual income for that fiscal year must be paid when the
+tax return is submitted and if an overpayment has been made a tax rebate
+can be claimed.
+The Government has introduced various tax holiday schemes to encour-
+age certain industries and less developed regions which generally exempt
+qualifying companies from taxes for certain periods of time. 9 2 There are also
+special incentives for companies engaged in the exploration and production
+of petroleum and minerals. 93
+Individuals. A resident individual is subject to income tax on his or her
+"taxable income" which includes, among other items, salary, interest and
+rental income. If a person's income is less than Rs 24,000 no income tax is
+levied. However, if a person's income exceeds this level, an amount equal to
+Rs 24,000 is deducted to compute that person's taxable income. The first Rs
+4,000 of taxable income creates a tax liability of Rs 60. On taxable income
+between Rs 4,001 and Rs 22,000, tax is Rs 60 plus 15 percent of the amount
+exceeding Rs 4,000. Where the taxable income exceeds Rs 50,000 but does
+not exceed Rs 100,000, tax is Rs 5,000 plus 25 percent of the amount
+exceeding Rs 50,000. Where the taxable income exceeds Rs 100,000 but
+does not exceed Rs 200,000 tax is Rs 17,500 plus 35 percent of the amount
+exceeding Rs 100,000. Where the taxable income exceeds Rs 200,000 tax is
+Rs 52,500 plus 45 percent of the amount exceeding Rs 200,000; up to
+one-third of the income but subject to a maximum of Rs 50,000, may be
+deducted from taxable income in respect of contributions made to certain
+approved investments. A foreign technician providing services under a
+contract of service approved by the Commissioner of Income Tax prior to or
+within one year of the commencement of employment, is exempt from
+income tax for a three-year period provided that he is neither a citizen of
+Pakistan nor was resident in Pakistan in any of the four years immediately
+92. Companies that invest in certain areas that include, among others, the Province of
+Baluchistan and certain approved industrial estates in the N.W.F.D., Sind and Punjab are
+entitled to a five-year tax holiday. Five-year tax holidays were also available for companies
+which started commercial operations by June 6, 1983 in certain industries such as poultry and
+dairy farming, fish farms, cattle and sheep breeding, and the manufacture of garments made
+from cloth produced in Pakistan.
+93. These incentives relate to the computation of profits of such companies. In respect of
+petroleum companies, they are to be found in Part I of the Fifth Schedule of the INCOME TAX
+ORDINANCE, 1979 and, in respect of companies involved in the exploration and extraction of
+minerals, in Part II of the Fifth Schedule. Some of the main tax concessions include (i)
+depreciation of 100% on below-ground installations; (ii) a depreciation allowance (other than
+for petroleum industries) of 100% for machinery and equipment used for extraction in the year
+of first use; and (iii) companies engaged in exploration activities relative to iron ore, byarite,
+dolomite, fireclay, limestone, flourite, baurcite, phosphate, chrome, soapstone and copper
+may claim a tax holiday for five years and thereafter pay taxes at 50% of normal rates for a
+further five years.
+SPRING 1986
+558 
+THE INTERNATIONAL LAWYER
+preceding the year in which he arrived in Pakistan. Expatriate staff are
+entitled to remit 50 percent of their salary after deducting taxes of $750 per
+month whichever is less.
+Other 
+taxes. Dividend income received by a company will be subject to
+super tax at rates ranging from 5 percent to 30 percent.94 If the company is
+owned in the majority by Muslim Pakistanis, it will be subject to the Zakat
+tax on its assets.95
+Capital gains realized on the transfer of shares of public companies are
+exempt from Federal tax until June 30, 1988. Capital gains realized on the
+transfer of capital assets (excluding (i) assets on which tax depreciation is
+claimed and (ii) immovable properties) which are held for twelve months or
+less from the date of acquisition are taxable at normal corporate rates, but if
+they are held for more than twelve months, they are taxed at a rate of 25
+percent. Gains on the sale of immovable property are subject to provincial
+taxes at graduated rates.
+XII. Labor
+Numerous labor laws in Pakistan cover, among other matters, health and
+safety, salaries, worker participation, employee funds and foreign per-
+sonnel.
+Factories. 
+If ten or more workers are working in premises including the
+precincts thereof and in any part of it a manufacturing process is being
+carried on, the operation will be a "factory" subject to the Factories Act.96
+This law seeks to ensure that the health and safety of employees are
+protected. Certain minimum standards are prescribed with regard to,
+among other matters, cleanliness, ventilation, artificial humidification and
+94. Intercorporate dividends received by a company, other than a public company, are taxed
+at the following rates:
+(a) Where a shareholder is a public company and dividends are declared and paid by a
+company formed and registered in Pakistan under the COMPANIES ORDINANCE, 1984, or a
+body corporate formed in pursuance of an Act of the Federal Legislature, in respect of
+the shares issued, subscribed and paid after August 14, 1947: 5%.
+(b) Where such dividends are received by a body corporate incorporated by or under the law
+of a country outside Pakistan relating to incorporation of companies or a foreign
+association declared to be a company by the Central Board of Revenue under clause (16)
+of section 2 of the INCOME-TAX ORDINANCE, 1979: 15%.
+(c) In other cases: 20%.
+Exemption is granted to dividend income received from any public company registered under
+the COMPANIES ORDINANCE, 1984 at any time between the first day of July 1978, and the thirtieth
+day of June 1983, having its registered office in Pakistan and engaged in an industrial undertak-
+ing set up at any time within the aforesaid period out of the profits of the undertaking, for a
+period of five years beginning from the year in which commercial production is commenced.
+95. See supra note 7.
+96. THE FACTORIES ACT, 1934, as amended (see § 2(j) for the definition of "factory").
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+559
+lighting. Other provisions relate to working hours, holidays, rest periods,
+overtime and shift systems.
+Salaries. Employees whose salaries are less than Rs 1,500 per month must
+be paid at minimum specified periods and must not suffer unfair fines and
+salary deductions. 97 If the organization is deemed to be an "industrial
+undertaking," it must pay its employees the minimum wage (if any) spec-
+ified by the Minimum Wages Council.98
+Worker Participation. 
+Companies having fifty employees or more must
+form a joint management board. At least one-third of the members of such a
+board must be employee nominees. The employer's representatives must be
+directors or senior executives. The board's responsibilities include, among
+other matters, consideration of methods to improve production, productiv-
+ity and efficiency; the setting of job and piece rates; the transfer of em-
+ployees; and the structuring of remuneration systems. The board may
+demand reasonable information on the operations of the company and the
+management is obligated to supply such information. 99
+Certain labor practices on the part of the employer and others on the part
+of the employees have been prescribed as unfair and violations thereof may
+result in four years imprisonment and a fine of Rs 5,000.100 The National
+Industrial Relations Committee and the Labour Courts have jurisdiction to
+try offenses relating to unfair labor practices.
+Employee Fund. A Company that has (i) fifty or more employees or (ii) a
+paid-up capital of Rs 2 million or more, or (iii) fixed assets in excess of Rs 4
+million, must establish an employee's participation fund into which 5 per-
+cent of annual profits must be paid.' 0'
+Foreign 
+Employees. Foreigners may only be employed with the consent of
+the IPB. Permission will only be given if there are no Pakistanis available for
+the position. As part of the investment approval procedure, foreign com-
+panies must often undertake progressively to increase the percentage of
+local employees and may be required to submit annual compliance reports.
+However, a foreign-owned company may permanently maintain a foreigner
+as its chief executive officer. There are no nationality restrictions or resi-
+dence requirements on executives, managers or technical personnel em-
+ployed, but a balancing of Pakistan and non-Pakistan nationals at the
+executive level is generally a prudent idea.
+97. PAYMENT OF WAGES ACT, 1936, as amended.
+98. MINIMUM WAGES ORDINANCE, 1961.
+99. INDUSTRIAL RELATIONS ORDINANCE, 1969, as amended, § 23.
+100. A list of unfair labor practices by an employer is given in section 15, and penalty is
+stipulated under section 53(1A), of the INDUSTRIAL RELATIONS ORDINANCE, 1969.
+101. COMPANIES PROfiTS (WORKERS PARTICIPATION) ACT, 1968, as amended by the COMPANIES
+PROfiTS (WORKERS PARTICIPATION) ACT, 1972.
+SPRING 1986
+560 
+THE INTERNATIONAL LAWYER
+Miscellaneous. Employees also have certain rights against employers with
+respect to industrial accident 1
+02 and old-age benefits. 1
+03 Both employers and
+employees are entitled to establish and form associations of their choice. 1
+0 4
+XIII. Intellectual Property
+Pakistan has detailed legislation relating to patents, trademarks and
+copyrights. 
+105
+Patents. The inventor or the assignee of the inventor may apply for the
+registration of a patent regardless of his nationality. When submitting the
+application it is necessary to appoint a local agent for service of process and
+of notices. Upon receipt of the application, the proposed patent will under-
+go a novelty examination and prior public knowledge or use in Pakistan will
+be prejudicial to the grant. There is an opposition period of four months and
+once granted a patent is valid for sixteen years and may be extended for a
+further five-year or, in some cases, ten-year term. A patent must be worked
+within four years of its grant, otherwise compulsory licensing is possible.
+Although Pakistan is not a member of the Paris Union,°106 it offers reciprocal
+priority rights with regard to applications filed in the United Kingdom and
+certain other Commonwealth countries.
+Trademarks. A trademark may be registered by a person who is either
+using or is proposing to use the trademark. 1
+07 It is not possible to register
+trade names or trademarks that are scandalous, deceptive, or contrary to
+law, morality or religious principles. If, prior to registration, another person
+has been honestly using the trademark concurrently with the applicant, that
+other person may be permitted to obtain a dual concurrent registration with
+the original applicant.
+An application is valid for seven years and may be renewed upon payment
+of certain fees. The opposition period is four months and a trademark may
+be cancelled if it is not used on a continuous five-year basis. A registration
+that remains unchallenged for seven years becomes incontestable. There are
+also registered-user provisions.
+102. WORKERS COMPENSATION ACT, 1923, as amended.
+103. EMPLOYEES OLD-AGE BENEFITS ORDINANCE, 1975.
+104. INDUSTRIAL RELATIONS ORDINANCE § 3.
+105. Patents are regulated by the PATENTS AND DESIGNS ACT, 1911. Trademarks are reg-
+ulated by the TRADEMARKS ACT, 1940, and copyright is regulated by the COPYRIGHT ORDINANCE,
+1962 as amended by the COPYRIGHT (AMENDMENT) ACT, 1973.
+106. International Convention for the Protection of Industrial Property (Paris Convention),
+13 U.S.T. & O.I.A.1, T.I.A.S. No. 4931.
+107. Applications are submitted to the Registrar of Trademarks, Muslimabad, Dadabhai,
+Maoroji Road, Karachi.
+VOL. 20, NO. 2
+LEGAL ASPECTS OF DOING BUSINESS IN PAKISTAN 
+561
+Copyright. Copyright registrations are handled by the Registrar of the
+Copyright Office which also deals with the registration of assignments and
+licenses. Copyright protection is available for certain original works includ-
+ing literary, dramatic or musical works, artistic works, cinematographic
+work, and records. Generally the term of the copyright is fifty years.
+XIV. Tenders
+The Government of Pakistan, together with its agencies and instrumen-
+talities (government entities) are one of the main sources of business oppor-
+tunities in Pakistan. Many central government tenders are issued by the
+Director General, Department of Supplies in Karachi, although a large
+number of governent entities have their own independent purchasing
+departments. 
+108
+Many government entities require that a foreign bidder be represented by
+a Pakistani agent and that the agent be registered in accordance with the
+rules and regulations of that government entity. It is also often necessary to
+produce a legalized copy of the agency agreement which must be exclusive.
+The agent may also be required to provide bank references in respect of the
+foreign company. A company containing foreign investment that has re-
+ceived investment approval from the IPB does not require an agent and may
+submit bids in its own name.
+XV. Agents and Distributors
+Agency or distributor agreements are governed by their contractual terms
+subject to the provisions of general contract law. A reasonable notice of
+termination must be given, otherwise damages resulting from such un-
+reasonable conduct must be paid.109 The principal cannot terminate the
+agency where the agent has an interest in the property which forms the
+subject matter of the agency11° and cannot revoke the authority where it has
+been partly exercised as regards such acts and obligations which arise from
+acts already done in the agency." 1 If a foreign company wishes to appoint a
+distributor (i.e., an independent merchant as contrasted to an agent) it must
+ensure that the proposed distributor is a Pakistani national or a Pakistani
+108. Some ministries, agencies and instrumentalities which have their own purchasing
+departments include, among others, the Ministry of Defense which operates through the
+Directorate of Procurement for the Army, Navy and Air Force; the Department of Telegraph
+and Telephone; Pakistan International Airlines; and Pakistan Steel Mills Corporation Limited.
+109. CONTRACT ACr 1872, § 206.
+110. Id. 
+§ 202.
+111. Id. 
+§ 204.
+SPRING 1986
+562 
+THE INTERNATIONAL LAWYER
+controlled company. The distributorship agreement must grant exclusive
+rights to the distributor. 2 In addition, the distributor must register with the
+Chief Controller of Imports and Exports in order to be able to import the
+products into Pakistan. It is forbidden, however, for a company incorpo-
+rated in Pakistan or outside Pakistan which carries on business in Pakistan to
+appoint a sole purchase, sale or distribution agent unless the prior approval
+of the Corporate Law Authority has been obtained.'l 3
+XVI. Conclusion
+The Government's recent Sixth Five-Year Plan which began on July 1,
+1983, continues to encourage foreign investment. With its central location
+with regard to the Middle Eastern, African and Far Eastern markets
+together with its large local population, Pakistan offers foreign investors
+major opportunities in many fields of investment. The detailed laws and
+regulations that are present in Pakistan coupled with certain administrative
+uncertainties with regard to their implementation, however, require that
+foreign investors carefully consider their impact when structuring their
+investment. 114
+112. Pursuant to the Import Policy Order, 1985-1986, an "indentor" is:
+"a firm, institution, body, organisation, person or group of persons, holding sole agency, sole
+dealership or sole distribution rights from, or representing any other trade or commercial
+interest of a supplier abroad."
+A distributor is therefore an "indentor" and subject to the requirements relating to nationality
+and registration.
+113. Companies Ordinance § 206(3) 1984.
+114. Useful additional information can be obtained from such sources as: the U.S. Depart-
+ment of Commerce, USAID-Pakistan, the Investment Corporation of Pakistan, the American
+Business Council of Pakistan, the Pakistan section in MARTINDALE-HUBBELL, and certain
+international banks operating in Pakistan.
+VOL. 20, NO. 2

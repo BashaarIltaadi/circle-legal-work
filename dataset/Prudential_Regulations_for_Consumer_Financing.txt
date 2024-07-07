@@ -1,0 +1,1165 @@
+PRUDENTIAL REGULATIONS
+FOR 
+CONSUMER FINANCING
+(Updated on January 31, 2011)
+BANKING POLICY & REGULATIONS DEPARTMENT
+STATE BANK OF PAKISTAN
+Disclaimer:
+State Bank of Pakistan compiles a booklet of Prudential Regulations from time to time for 
+convenience of users. Updated version of such a booklet containing amendments in the 
+regulations made through circulars/Circular letters to date is being issued. Due care has been 
+taken while incorporating amendments, however, errors and omission may be expected. In 
+case of any ambiguity, users are advised to refer to the original circulars/circular letters on 
+the relevant subject(s), which are available on SBP’s website (www.sbp.org.pk).
+THE TEAM
+NAME
+DESIGNATION
+Inayat Hussain 
+Executive Director (BPRG)
+Syed Irfan Ali
+Director (BPRD)
+Muhammad Saleem
+Additional Director (BPRD)
+Kazi Sarfraz
+Joint Director (BPRD)
+Amjad Ali
+Joint Director (BPRD)
+Ishrat Hussain
+Deputy Director (BPRD)
+Rao Ahmed Mukhtar
+Deputy Director (BPRD)
+Mahvish Naeem
+Assistant Director (BPRD)
+Nazia Tahir Bodla
+Assistant Director (BPRD)
+Website Address:   www.sbp.org.pk
+C O N T E N T S
+PART-A 
+Definitions 
+1
+PART-B
+Minimum 
+requirements 
+for 
+consumer 
+financing.
+3
+PART-C
+Regulations
+6
+Regulation R-1
+Facilities to related persons & utilization of 
+clean loans for Initial Public Offerings (IPOs)
+6
+Regulation R-2
+Limit on exposure against total consumer 
+financing.
+6
+Regulation R-3
+Total financing facilities to be commensurate
+with the income.
+7
+Regulation R-4
+General reserve against consumer finance.
+7
+Regulation R-5
+Bar on transfer of facilities from one category
+to another to avoid classification.
+7
+Regulation R-6
+Margin requirements.
+8
+REGULATIONS FOR CREDIT CARDS
+Regulation O-1
+Receipt of credit cards.
+10
+Regulation O-2
+Statement of accounts.
+10
+Regulation O-3
+Unauthorized/wrong transactions.
+10
+Regulation O-4
+Partial payment by cardholder.
+10
+Regulation O-5
+Due date for payment.
+10
+Regulation R-7
+Maximum card limit.
+11
+Regulation R-8
+Classification and provisioning.
+11
+REGULATIONS FOR AUTO LOANS
+Regulation R-9
+Prohibition 
+on 
+financing 
+commercial 
+vehicles.
+  12
+Regulation R-10
+Maximum tenure of loan.
+  12
+Regulation R-11
+Minimum down payment.
+  12
+Regulation R-12
+Hypothecation of vehicles.
+  12
+Regulation R-13
+Insurance.
+  12
+Regulation O-6
+Repossession of vehicles.
+  12
+Regulation O-7
+Repayment schedule.
+  13
+Regulation O-8
+Financing the purchase of used cars.
+  
+  13
+Regulation O-9
+Authorized auto dealers.
+  13
+Regulation R-14
+Classification and provisioning.
+13
+REGULATIONS FOR HOUSING FINANCE
+Regulation R-15
+Maximum per party limit.
+14
+Regulation R-16
+Debt-equity ratio.
+14
+Regulation R-17
+Maximum tenure of loan.
+14
+Regulation R-18
+Mortgage.
+14
+Regulation R-19
+Evaluation of property.
+15
+Regulation R-20
+Monitoring of market conditions.
+15
+Regulation R-21
+Floating rate products.
+15
+Regulation R-22
+Classification and provisioning.
+15
+REGULATIONS FOR PERSONAL LOANS INCLUDING LOANS
+FOR THE PURCHASE OF CONSUMER DURABLES
+Regulation R-23
+Per party limit.
+17
+Regulation R-24
+Hypothecation.
+17
+Regulation R-25
+Maximum tenure of loan.
+17
+Regulation R-26
+Running/revolving finance.
+18
+Regulation R-27
+Classification and provisioning.
+18
+Annexure 
+  19
+P R E F A C E
+The amendments made in the Prudential Regulations for Consumer Financing 
+during January 31, 2009 to January 31, 2011 have been incorporated in this updated 
+version for ease of reference of the users.
+The Prudential Regulations for Consumer Financing covers Risk Management (R), 
+and Operations (O) aspects.  Regulations for Corporate/Commercial Banking may 
+be referred to for areas concerning Corporate Governance (G) and Customer Due 
+Diligence and Anti Money Laundering (M), However, in case of international 
+operations, the Prudential Regulations of host country shall prevail.
+The Prudential Regulations for Consumer Financing do not supersede other 
+directives issued by State Bank of Pakistan in respect of areas not covered here.  Any 
+violation or circumvention of these regulations shall render the bank/DFI/officer(s) 
+concerned liable for penalties under the Banking Companies Ordinance, 1962.
+SYED IRFAN ALI 
+Director
+Banking Policy & Regulation Department
+1
+PART – A
+D E F I N I T I O N S
+1. Bank means a banking company as defined in the Banking Companies 
+Ordinance, 1962. 
+2. Borrower means an individual to whom a bank/DFI has allowed any consumer 
+financing during the course of business.
+3. Consumer Financing means any financing allowed to individuals for meeting 
+their personal, family or household needs. The facilities categorized as Consumer 
+Financing are given as under:
+i)
+Credit Cards mean cards which allow a customer to make payments on 
+credit. Supplementary credit cards shall be considered part of the principal 
+borrower for the purposes of these regulations.  Corporate Cards will not 
+fall under this category and shall be regulated by Prudential Regulations for 
+Corporate/Commercial Banking or Prudential Regulations for SMEs 
+Financing as the case may be. The regulations for credit cards shall also be 
+applicable on charge cards, debit cards, stored value cards and BTF (Balance 
+Transfer Facility).
+ii)
+Auto Loans mean the loans to purchase the vehicle for personal use. 
+iii)
+Housing Finance means loan provided to individuals for the purchase of 
+residential house/apartment/land.   The loans availed for the purpose of 
+making improvements in house/apartment/land shall also fall under this 
+category.
+iv)
+Personal Loans mean the loans to individuals for the payment of goods, 
+services and expenses and include Running Finance/Revolving Credit to 
+individuals.
+4. DFI means Development Financial Institution and includes the Pakistan 
+Industrial Credit and Investment Corporation (PICIC), the Saudi Pak Industrial 
+and Agricultural Investment Company Limited, the Pak Kuwait Investment 
+Company Limited, the Pak Libya Holding Company Limited, the Pak Oman 
+Investment Company (Pvt.) Limited, Investment Corporation of Pakistan, House 
+Building Finance Corporation,  Pak Brunei Investment Company Limited1, Pak-
+Iran Joint Investment Company Limited2, Pak-China Investment Company 
+Limited3, and any other financial institution notified under Section 3-A of the 
+Banking Companies Ordinance, 1962.
+5. Documents include vouchers, cheques, bills, pay-orders, promissory notes, 
+securities for leases/advances and claims by or against the bank/DFI or other 
+papers supporting entries in the books of a bank/DFI.
+6. Equity of the Bank/DFI means Tier-I Capital or Core Capital and includes paid-
+up capital, general reserves, balance in share premium account, reserve for issue 
+                                               
+1 Specified vide GoP Notification No.F.1(4)-BKG(R&S)/2002 dated December 21, 2006.
+2 Specified vide GoP Notification No.F.1(4)-BKG(R&S)/2002 dated July 21, 2007.
+3 Specified vide GoP Notification No.F.1(4)-BKG(R&S)/2002 dated November 29, 2007.
+2
+of bonus shares and retained earnings/accumulated losses as disclosed in latest 
+annual audited financial statements. In case of branches of foreign banks 
+operating in Pakistan, equity will mean capital maintained, free of losses and 
+provisions, under Section 13 of the Banking Companies Ordinance, 1962.
+7. Financial Institutions mean banks, Development Financial Institutions (DFIs) 
+and Non-Banking Finance Companies (NBFCs).
+8. Government Securities shall include such types of Pak. Rupee obligations of the 
+Federal Government or a Provincial Government or of a Corporation wholly 
+owned or controlled, directly or indirectly, by the Federal Government or a 
+Provincial Government and guaranteed by the Federal Government as the 
+Federal Government may, by notification in the Official Gazette, declare, to the 
+extent determined from time to time, to be Government Securities.
+9. Liquid Assets are the assets which are readily convertible into cash without 
+recourse to a court of law and mean encashment/realizable value of government 
+securities, bank deposits, gold ornaments, gold bullion1, certificates of deposit, 
+shares of listed companies which are actively traded on the stock exchange, NIT 
+Units, certificates of mutual funds, Certificates of Investment (COIs) issued by 
+DFIs/NBFCs rated at least ‘A’ by a credit rating agency on the approved panel of 
+State Bank of Pakistan, listed TFCs rated at least ‘A’ by a credit rating agency on 
+the approved panel of State Bank of Pakistan and certificates of asset 
+management companies for which there is a book maker quoting daily offer and 
+bid rates and there is active secondary market trading. These assets with 
+appropriate margins should be in possession of the banks/DFIs with perfected 
+lien.
+Guarantees issued by domestic banks/DFIs when received as collateral by 
+banks/DFIs will be treated at par with liquid assets whereas, for guarantees 
+issued by foreign banks, the issuing banks’ rating, assigned either by Standard & 
+Poors, Moody’s or Fitch-Ibca, should be ‘A’ and above or equivalent.
+The inter-branch indemnity/guarantee issued by the bank’s overseas branch in 
+favor of its sister branch in Pakistan, would also be treated at par with liquid 
+assets, provided the bank is rated ‘A’ and above or equivalent either by Standard 
+& Poors, Moody’s or Fitch-Ibca. The indemnity for this purpose should be similar 
+to a guarantee i.e. unconditional and demand in nature.
+10. NBFC means Non-Banking Finance Company and includes a Modaraba, Leasing 
+Company, Housing Finance Company, Investment Bank, Discount House, Asset 
+Management Company and a Venture Capital Company.
+11. Secured means exposure backed by tangible security with appropriate margins 
+(in cases where margin has been prescribed by State Bank of Pakistan, 
+appropriate margin shall at least be equal to the prescribed margin).  Exposure 
+without any tangible security is defined as clean.
+12. Tangible Security
+means liquid assets (as defined in these Prudential 
+Regulations), mortgage of land and building, hypothecation or charge on vehicle, 
+but does not include hypothecation of household goods, etc. 
+                                               
+1 Inserted vide BPRD Circular Letter No. 16 of 2010 dated July 15, 2010.
+3
+PART – B
+MINIMUM REQUIREMENTS FOR CONSUMER FINANCING
+Apart from the specific regulations given under each mode of financing separately, 
+general requirements laid down here should also be followed by the banks/DFIs 
+while undertaking consumer financing. It may be noted that these are the minimum 
+requirements and should not in any way be construed to restrict the role of the
+management of the banks/DFIs to further strengthen the risk management processes 
+through establishing comprehensive credit risk management systems appropriate to 
+their type, scope, sophistication and scale of operations. The Board of Directors of 
+the banks/DFIs are required to establish policies, procedures and practices to define 
+risks, stipulate responsibilities, specify security requirements, design internal 
+controls and then ensure strict compliance with them. 
+PRE-OPERATIONS:
+Before embarking upon or undertaking consumer financing, the banks/DFIs shall 
+implement/follow the guidelines given below.  The banks/DFIs already involved in 
+the consumer financing will ensure compliance with these guidelines within six 
+months of the date of issuance of Prudential Regulations for Consumer Financing.
+1.
+Banks/DFIs shall establish separate Risk Management capacity for the purpose 
+of consumer financing, which will be suitably staffed by personnel having 
+sufficient expertise and experience in the field of consumer finance/business.
+2.
+The banks/DFIs shall prepare comprehensive consumer credit policy duly 
+approved by their Board of Directors (in case of foreign banks, by Country 
+Head and Executive/Management Committee), which shall interalia cover loan 
+administration, including documentation, disbursement and appropriate 
+monitoring mechanism.  The policy shall explicitly specify the functions, 
+responsibilities and various staff positions’ powers/authority relating to 
+approval/sanction of consumer financing facility.
+3.
+For every type of consumer finance activity, the bank/DFI shall develop a 
+specific program.  The program shall include the objective/quantitative 
+parameters for the eligibility of the borrower and determining the maximum 
+permissible limit per borrower.
+4.
+Banks/DFIs shall put in place an efficient computer based MIS for the purpose 
+of consumer finance, which should be able to effectively cater to the needs of 
+consumer financing portfolio and should be flexible enough to generate 
+necessary information reports used by the management for effective monitoring 
+of the bank’s/DFI’s exposure in the area.  The MIS is expected to generate the 
+following periodical reports:
+
+Delinquency reports (for 30, 60, 90, 180 & 360 days and above) on monthly 
+basis.
+
+Reports interrelating delinquencies with various types of customers or 
+various attributes of the customers to enable the management to take 
+important policy decisions and make appropriate modifications in the 
+lending program.
+4
+
+Quarterly product wise profit and loss account duly adjusted with the 
+provisions on account of classified accounts.  These profit and loss 
+statements should be placed before the Board of Directors in the immediate 
+next Board Meeting.  The branches of foreign banks in order to comply with 
+this condition shall place the reports before a committee comprising of 
+CEO/Country Manager, CFO and Head of Consumer Business.
+5.
+The banks/DFIs shall develop comprehensive recovery procedures for the 
+delinquent consumer loans.  The recovery procedures may vary from product 
+to product.  However, distinct and objective triggers should be prescribed for 
+taking pre-planned enforcement/recovery measures.
+6.
+The banks/DFIs desirous of undertaking consumer finance will become a 
+member of at least one Consumer Credit Information Bureau.  Moreover, the 
+banks/DFIs may share information/data among themselves or subscribe to 
+other databases as they deem fit and appropriate.
+7.
+The financial institutions starting consumer financing are encouraged to impart 
+sufficient training on an ongoing basis to their staff to raise their capability 
+regarding various aspects of consumer finance.
+8.
+The banks/DFIs shall prepare standardized set of borrowing and recourse
+documents (duly cleared by their legal counsels) for each type of consumer 
+financing.
+OPERATIONS:
+1.
+Consumer financing, like other credit facilities, must be subject to the 
+bank’s/DFI’s risk management process setup for this particular business. The 
+process may include, identifying source of repayment and assessing customers’ 
+ability to repay, his/her past dealings with the bank/DFI, the net worth and 
+information obtained from a Consumer Credit Information Bureau.
+2.
+At the time of granting facility under various modes of consumer financing, 
+banks/DFIs shall obtain a written declaration on the prescribed format 
+attached as Annexure–CF1 from the borrower divulging details of various 
+facilities already obtained from other banks/financial institutions1. The 
+banks/DFIs should carefully study the details given in the undertaking and 
+allow fresh finance/limit only after ensuring compliance with the limits set in 
+these PRs for exposure and for total monthly amortization payments of 
+consumer loans. The undertaking will also help banks/DFIs to avoid exposure 
+against a person having multiple facilities from different financial institutions 
+on the strength of an individual source of repayment.
+3.
+Before allowing any facility, the banks/DFIs shall obtain a consumer credit 
+report from the Credit Information Bureau of State Bank of Pakistan or from 
+any consumer Credit Information Bureau of which they are a member1. The 
+report will be given due weightage while making credit decision.
+                                               
+1 Amended vide BPRD Circular No. 4 of 2009 dated February 11, 2009.
+5
+4.
+Internal audit and control function of the bank/DFI, apart from other things,
+should be designed and strengthened so that it can efficiently undertake an 
+objective review of the consumer finance portfolio from time to time to assess 
+various risks and possible weaknesses. The internal audit should also assess the 
+adequacy of the internal controls and ensure that the required policies and 
+standards are developed and practiced. Internal audit should also comment on 
+the steps taken by the management to rectify the weaknesses pointed out by 
+them in their previous reports for reducing the level of risk.
+5.
+The banks/DFIs shall ensure that their accounting and computer systems are 
+well equipped to avoid charging of mark-up on mark-up.  For this purpose, it 
+should be ensured that the mark-up charged on the outstanding amount is kept 
+separate from the principal.
+6.
+The banks/DFIs shall ensure that any repayment made by the borrower is 
+accounted for before applying mark-up on the outstanding amount.
+DISCLOSURE/ETHICS:
+The banks/DFIs must clearly disclose, all the important terms, conditions, fees, 
+charges and penalties, which interalia include Annualized Percentage Rate, pre-
+payment penalties and the conditions under which they apply.  For ease of reference 
+and guidance of their customers, banks/DFIs are encouraged to publish brochures 
+regarding frequently asked questions.
+For the purposes of this regulation, Annualized Percentage Rate means as follows:
+        Mark-up paid for the period         x           360            x   100
+                   Outstanding Principal Amount             No. of Days   
+6
+PART – C
+R E G U L A T I O N S
+REGULATION R-1
+FACILITIES TO RELATED PERSONS AND UTILIZATION OF
+CLEAN LOANS FOR INITIAL PUBLIC OFFERINGS (IPOs)
+Facilities to Related Persons:
+The consumer finance facilities extended by 
+banks/DFIs to their directors, major shareholders, employees and family members 
+of these persons shall be at arms length basis and on normal terms and conditions 
+applicable for other customers of the banks/DFIs.  The banks/DFIs shall ensure that 
+the appraisal standards are not compromised in such cases and market rates are 
+used for these persons. This condition shall not apply to the consumer financing 
+allowed by the banks/DFIs to their employees as part of compensation package 
+provided the detailed terms and conditions of the benefits which the banks/DFIs 
+want to give to their employees are specifically mentioned in the Employees Service 
+Rules/HR Policy. These employees Service Rules/HR policy should be duly 
+approved by the Board of Directors. Further, such consumer financing to the 
+employees should be treated as staff loans and not as general consumer loans.1
+Utilization of Clean Loans for Initial Public Offerings IPOs: While the State Bank’s 
+intent is not to create any undue hindrance in the smooth flow of consumer 
+financing to the borrowers, the banks /DFIs are, however, advised to institute 
+necessary checks, so that clean loans are not used for subscription in Initial Public 
+Offerings (IPOs). In this connection, State Bank of Pakistan suggests the following 
+two minimum requirements:
+a)
+At the time of sanction of a clean consumer loan/credit line, the banks/DFIs 
+should obtain an undertaking from the client, that the drawings from the loan 
+account will not be used for subscription in an IPO.
+b)
+The banks/DFIs should introduce an internal system, whereby, no cheques, 
+drafts and/or payment instructions will be made for an IPO subscription 
+account from a clean personal loan/credit line account.
+REGULATION R-2
+LIMIT ON EXPOSURE AGAINST 
+TOTAL CONSUMER FINANCING
+Banks/DFIs shall ensure that the aggregate exposure under all consumer financing 
+facilities at the end of first year and second year of the start of their consumer 
+financing does not exceed 2 times and 4 times of their equity respectively.  For 
+subsequent years, following limits are placed on the total consumer financing 
+facilities:
+PERCENTAGE OF CLASSIFIED CONSUMER 
+FINANCING TO TOTAL CONSUMER 
+FINANCING
+MAXIMUM LIMIT
+a)
+Below 3%
+b)
+Below 5%
+c)
+Below 10%
+d)
+Upto and above 10%
+10 times of the equity
+6 times of the equity
+4 times of the equity
+2 times of the equity
+                                               
+1 Substituted vide BPRD Circular No. 01 of 2011 dated January 06, 2011.
+7
+REGULATION R-3
+TOTAL FINANCING FACILITIES TO BE
+COMMENSURATE WITH THE INCOME
+While extending financing facilities to their customers, the banks/DFIs should 
+ensure that the total installment of the loans extended by the financial institutions is 
+commensurate with monthly income and repayment capacity of the borrower. In this 
+connection, while determining the credit worthiness and repayment capacity of the 
+prospective borrower,
+the banks/DFIs shall ensure that the total monthly 
+amortization payments of consumer loans should not exceed 50% of the net 
+disposable income of the prospective borrower1. This measure would be in addition 
+to banks’/DFIs’ usual evaluations of each proposal concerning credit worthiness of 
+the borrowers, to ensure that the banks’/DFIs’ portfolio under consumer finance 
+fulfills the prudential norms and instructions issued by the State Bank of Pakistan 
+and does not impair the soundness and safety of the bank/DFI itself. 
+2. Banks/DFIs may waive the requirement of 50% Debt Burden in case a Credit 
+Card and Personal loan is properly secured through liquid assets (as defined in 
+prudential regulations) with minimum 30% margin.2
+REGULATION R-4
+GENERAL RESERVE AGAINST CONSUMER FINANCE:
+The banks/DFIs shall maintain a general reserve at least equivalent to 1.5% of the 
+consumer portfolio which is fully secured and 5% of the consumer portfolio which is 
+unsecured, to protect them from the risks associated with the economic cyclical 
+nature of this business.
+The above reserve requirement will, however, be maintained for the performing 
+portion only of consumer portfolio.
+REGULATION R-5
+BAR ON TRANSFER OF FACILITIES FROM ONE 
+CATEGORY TO ANOTHER TO AVOID CLASSIFICATION:
+The banks/DFIs shall not transfer any loan or facility to be classified, from one 
+category of consumer finance to another, to avoid classification.
+REGULATION R-5A 3  
+RESCHEDULING/RESTRUCTURING OF NON-PERFORMING CONSUMER 
+LOANS:
+a) Banks/DFIs should frame policy for rescheduling/ restructuring of non-
+performing consumer loans. The policy should be approved by the Board of 
+Directors or by the Country Head/Executive/Management Committee in case of 
+branches of foreign banks.
+b) For the purpose of rescheduling/ restructuring, banks/DFIs may:
+                                               
+1 Amended vide BPRD Circular No. 04 of 2009 dated February 11, 2009.
+2 Inserted vide BPRD Circular No. 01 of 2011 dated January 06, 2011.
+3 Inserted vide BPRD Circular Letter No. 43 0f 2009 dated December 31, 2009.
+8
+i)
+Club or consolidate outstanding amounts on account of personal loans and 
+credit cards and create one loan. The new loan so created shall be placed in 
+the lowest category of   classification amongst the classifications of the loans 
+clubbed.
+ii) Convert revolving facility into an installment loan.
+iii) Change the tenure of the loan by maximum two years beyond any regulatory 
+cap on maximum tenure.
+c) Rescheduling/ restructuring should not be done just to avoid classification of 
+loans /advances and provisioning requirements. In this connection, banks /DFIs 
+shall ensure that consumer financing facilities of any borrower should not be 
+rescheduled/ restructured more than once within 12 months and three times 
+during five year period.
+d) While considering rescheduling/restructuring, banks/DFIs should, inter alia, 
+take into account the repayment capacity of the borrower. The condition of 50% 
+of Debt Burden Requirement (DBR) mentioned at Regulation R-3 of Prudential 
+Regulations for Consumer Financing shall not be applicable to loan rescheduled/ 
+restructured. However, any new consumer financing facility extended to a 
+borrower who is availing any rescheduled/ restructured facility shall be subject 
+to observance of minimum DBR prescribed in the Regulation R-3 of Prudential 
+Regulations for Consumer Financing.
+e) The status of classification of the non-performing loans shall not be changed 
+because of rescheduling/restructuring unless borrower has paid at least 10% of 
+the rescheduled/restructured amount or six installments as per terms & 
+conditions of the rescheduling/ restructuring. However, for internal monitoring 
+purpose, banks/DFIs may re-set the dpd (days past due) counter of the newly 
+created loan to “0” dpd.
+f)
+Provisions already held against non-performing loan, to be rescheduled 
+/restructured, will only be reversed if condition of 10% recovery or six 
+installments is met.
+g) If the borrower defaults (i.e. reaches 90 dpd) again within one year after 
+declassification, the loan shall be classified as under:
+Type of Consumer Loan
+Classification
+Unsecured
+Loss
+Secured
+Same 
+category 
+in 
+which 
+it 
+was 
+prior 
+to 
+rescheduling/restructuring. Banks/ DFIs, however, at their 
+discretion may further downgrade the classification based 
+on their own internal policies.
+REGULATION R-6
+MARGIN REQUIREMENTS:
+Banks/DFIs are free to determine the margin requirements on consumer facilities 
+provided by them to their clients taking into account the risk profile of the 
+borrower(s) in order to secure their interests. However, this relaxation shall not 
+apply in case of items, import of which are banned by the Government. 
+9
+Banks/DFIs will continue to observe margin restrictions on shares/TFCs as per 
+existing instructions under Prudential Regulations for Corporate/Commercial 
+Banking (R-6). Further, the restrictions prescribed under paragraph 1.A of 
+Regulation R-6 of the Prudential Regulations for Corporate/Commercial Banking 
+will also be applicable in case of Consumer Financing.
+State 
+Bank 
+of 
+Pakistan 
+shall 
+continue 
+to 
+exercise 
+its 
+powers 
+for 
+fixation/reinstatement of margin requirements on consumer facilities being 
+provided by banks/DFIs for various purposes, as and when required.
+10
+REGULATIONS FOR CREDIT CARDS
+REGULATION O-1
+The banks/DFIs should take reasonable steps to satisfy themselves that cardholders 
+have received the cards, whether personally or by mail. The banks/DFIs should 
+advise the card holders of the need to take reasonable steps to keep the card safe and 
+the PIN secret so that frauds are avoided.
+REGULATION O-2
+Banks/DFIs shall provide to the credit card holders, the statement of account at 
+monthly intervals, unless there has been no transaction or no outstanding balance on 
+the account since last statement.
+REGULATION O-3
+Banks/DFIs shall be liable for all transactions not authorized by the credit card 
+holders after they have been properly served with a notice that the card has been 
+lost/stolen.  However, the bank’s/DFI’s liability shall be limited to those amounts 
+wrongly charged to the credit card holder’s account.  In order to mitigate the risks in 
+this respect, the banks/DFIs are encouraged to take insurance cover against wrongly 
+charged amounts, frauds, etc.
+The bank/DFI shall, however, not charge the borrowers’ account with any amount 
+under the head of “insurance premium” (by what so ever name called) without 
+obtaining consent of each existing & prospective customer in writing. In addition to 
+obtaining consent in writing, the banks/DFIs may also use the following modes for 
+obtaining prior consent of their customers provided proper record is maintained by 
+banks/DFIs:-
+i)
+Customer’s consent on recorded lines via out bound/in bound call center 
+(after due verification)
+ii) ATM screens – screen pop up before conducting transaction and after 
+inputting pin code
+iii) Signed consent acquired with credit card application or as separate form
+iv) IVR (Integrated Voice Recording)
+REGULATION O-4
+In case the cardholders make partial payment, the banks/DFIs should take into 
+account the partial payment before charging service fee/mark-up amount on the 
+outstanding/billed amount so that the possibility of charging excess amount of 
+mark-up could be avoided. 
+REGULATION O-5
+Due date for payment must be specifically mentioned on the accounts statement. If 
+fine/penalty is agreed to be charged in case the payment is not made by the due 
+date, it should be clearly mentioned in the agreement.
+11
+REGULATION R-7
+MAXIMUM CARD LIMIT 
+Bank/DFI may issue credit card to one person with a maximum unsecured limit not 
+exceeding  Rs 1,000,000, subject to mandatory credit check & prescribed debt burden 
+and condition that total unsecured credit card limits availed by that person from all 
+banks/DFIs does not exceed   Rs. 1,000,000.1
+Banks/DFIs may merge the clean limits to single person for Credit Cards and 
+Personal Loans subject to the condition that total clean limit availed by him/her 
+from all banks/DFIs does not exceed Rs. 2,000,000 at any point in time. It is re-
+emphasized that the aggregate clean limit of the borrower should not exceed Rs. 
+2000,000 in any case.2
+Banks/DFIs shall ensure that overall credit card and personal loan limits, both on 
+secured as well as on unsecured basis, availed by one person from all banks/DFIs in 
+aggregate should not exceed Rs 5,000,000, at any point in time, subject to the 
+condition that the overall unsecured/clean facilities on account of credit card and 
+personal loan of that individual does not exceed Rs 2,000,000.3
+The loan secured against liquid securities shall, however, be exempted from the 
+above limit.
+The loans against the securities issued by Central Directorate of National Savings 
+(CDNS) shall be subject to such limits as are prescribed by CDNS/Federal 
+Government/State Bank of Pakistan from time to time.
+For Charge Cards, pre-set spending limits generated by the standardized systems, as 
+is the global practice, shall be allowed.
+REGULATION R-8
+CLASSIFICATION AND PROVISIONING
+The credit card advances shall be classified and provided for in the following 
+manner:
+CLASSIFICATION
+DETERMINANT
+TREATMENT OF 
+INCOME
+PROVISION TO
+BE MADE*
+(1)
+(2)
+(3)
+(4)
+Loss.
+Where 
+mark-
+up/interest 
+or 
+principal 
+is 
+overdue 
+by 180 
+days or more from 
+the due date.
+Unrealized 
+mark-
+up/interest to be put in 
+Suspense Account and 
+not to be credited to 
+Income Account except 
+when realized in cash.
+Provision of 100% of the 
+difference resulting from 
+the outstanding balance of 
+principal less the amount 
+of liquid securities with 
+the bank/DFI.
+It is clarified that the lenders are allowed to follow more conservative policies. 
+Further, provisioning may be created and maintained by the bank/DFI on a 
+portfolio basis provided that the provision maintained by the bank/DFI shall not be 
+less than the level required under this Regulation.
+                                               
+1 Amended vide BPRD Circular No. 4 of 2009 dated February 11, 2009.
+2 Inserted vide BPRD Circular Letter No. 43 0f 2009 dated December 31, 2009.
+3 Substituted vide BPRD Circular No. 01 of 2011 dated January 06, 2011.
+12
+REGULATIONS FOR AUTO LOANS
+REGULATION R-9
+The vehicles to be utilized for commercial purposes shall not be covered under the 
+Prudential Regulations for Consumer Financing.  Any such financing shall ensure 
+compliance with Prudential Regulations for Corporate/Commercial Banking or 
+Prudential Regulations for SMEs Financing.  These regulations shall only apply for 
+financing vehicles for personal use including light commercial vehicles also used for 
+personal purposes.
+REGULATION R-10
+The maximum tenure of the auto loan finance shall not exceed seven years.
+REGULATION R-11
+While allowing auto loans, the banks/DFIs shall ensure that the minimum down 
+payment does not fall below 10% of the value of vehicle. Further, banks/DFIs shall 
+extend auto loans only for the ex-factory tax paid price fixed by the car 
+manufacturers. In other words, banks/DFIs cannot finance the premium charged by 
+the dealers and/or investors over and above the ex-factory tax paid price of cars, 
+fixed by the manufacturers.
+REGULATION R-12
+In addition to any other security arrangement on the discretion of the banks/ DFIs, 
+the vehicles financed by the banks/DFIs shall be properly secured by way of 
+hypothecation. Payments against the sale orders issued by the manufacturers are 
+allowed till the time of delivery of the vehicle subject to the condition that payment 
+will directly be made to the manufacturer/authorized dealer by the bank/ DFI and 
+upon delivery, the vehicle will immediately be hypothecated to the bank/ DFI.
+REGULATION R-13
+The banks/DFIs shall ensure that the vehicle remains properly insured at all times 
+during the tenure of the loan. However, where the bank/DFI holds 100% provision 
+against such loan, bank/DFI, if deemed appropriate, may not obtain insurance cover 
+for the vehicle for remaining tenure of the loan.1
+REGULATION O-6
+The clause of repossession in case of default should be clearly stated in the loan 
+agreement mentioning specific default period after which the repossession can be 
+initiated. The repossession expenses charged to the borrower shall not be more than 
+actual incurred by the bank/DFI. However, the maximum amount of repossession 
+charges shall be listed in the schedule of charges provided to customers. The 
+banks/DFIs shall develop an appropriate procedure for repossession of the vehicles 
+and shall ensure that the procedure is strictly in accordance with law.
+                                               
+1 Substituted vide BPRD Circular Letter No. 32 of 2009 dated October 12, 2009.
+13
+REGULATION O-7
+A detailed repayment schedule should be provided to the borrower at the outset. 
+Where alterations become imminent because of late payments or prepayments and 
+the installment amount or period changes significantly, the revised schedule should 
+be provided to the borrower at the earliest convenience of the bank/DFI but not later 
+than 15 days of the change.  Further, even in case of insignificant changes, upon the 
+request of the customer, the bank/DFI shall provide him revised repayment 
+schedule free of cost.
+REGULATION O-8
+The banks/DFIs desirous of financing the purchase of used cars shall prepare 
+uniform guidelines for determining the value of the used vehicles.  However, in no 
+case the bank/DFI shall finance the cars older than five years.
+REGULATION O-9
+The banks/DFIs should ensure that a good number of authorized auto dealers are
+placed at their panel to eliminate the chances of collusion or other unethical 
+practices.
+REGULATION R-14
+The auto loans shall be classified and provided for in the following manner:
+CLASSIFICATIO
+N
+DETERMINANT
+TREATMENT OF 
+INCOME
+PROVISIONS TO
+BE MADE*
+(1)
+(2)
+(3)
+(4)
+1. Substandard.
+Where mark-up/ 
+interest or 
+principal is 
+overdue by 90 
+days or more from 
+the due date.
+Unrealized mark-
+up/interest to be kept in 
+Memorandum Account 
+and not to be credited to 
+Income Account except 
+when realized in cash. 
+Unrealized mark 
+up/interest already taken 
+to income account to be 
+reversed and kept in 
+Memorandum Account.
+Provision of 25% of the 
+difference resulting 
+from the outstanding 
+balance of principal 
+less the amount of 
+liquid assets.
+2. Doubtful.
+Where mark-up/ 
+interest or 
+principal is 
+overdue by 180 
+days or more from 
+the due date.
+As above.
+Provision of 50% of the 
+difference resulting 
+from the outstanding 
+balance of principal 
+less the amount of 
+liquid assets.
+3. Loss.
+Where mark-up/ 
+interest or 
+principal is 
+overdue by one 
+year or more from 
+the due date
+As above.
+Provision of 100% of 
+the difference resulting 
+from the outstanding 
+balance of principal 
+less the amount of 
+liquid assets.
+14
+REGULATIONS FOR HOUSING FINANCE
+REGULATION R-15
+Banks/DFIs shall determine the housing finance limit, both in urban and rural areas, 
+in accordance with their internal credit policy, credit worthiness and loan repayment 
+capacity of the borrowers. At the same time, while determining the credit worthiness 
+and repayment capacity of the prospective borrower, banks/DFIs shall ensure that 
+the total monthly amortization payments of consumer loans, inclusive of housing 
+loan, should not exceed 50% of the net disposable income of the prospective 
+borrower.
+Banks/DFIs will not allow housing finance purely for the purchase of land/plots; 
+rather, such financing would be extended for the purchase of land/plot and 
+construction on it. Accordingly, the sanctioned loan limit, assessed on the basis of 
+repayment capacity of the borrower, value of land/plot and cost of construction on it 
+etc., should be disbursed in tranches, i.e. up to a maximum of 50% of the loan limit 
+can be disbursed for the purchase of land/plot, and the remaining amount be 
+disbursed for construction there-upon. Further, the lending bank/DFI will take a 
+realistic construction schedule from the borrower before allowing disbursement of 
+the initial loan limit for the purchase of land/plot.
+Banks/DFIs may allow housing finance facility for construction of houses against 
+the security of land/plot already owned by their customers. However, the lending 
+bank/DFI will ensure that the loan amount is utilized strictly for the construction 
+purpose and loan is disbursed in tranches as per construction schedule.
+Loans against the security of existing land/plot, or for the purchase of new piece of 
+land/plot, for commercial and industrial purposes may be allowed. But such loans 
+will be treated as Commercial Loans, which will be covered either under Prudential 
+Regulations for Corporate/Commercial Banking or Prudential Regulations for SMEs 
+Financing.
+Banks/DFIs may allow Housing Loans in the rural areas provided all relevant 
+guidelines/regulations on the subject are complied with by them. 
+REGULATION R-16
+The housing finance facility shall be provided at a maximum debt-equity ratio of 
+85:15.
+REGULATION R-17
+Banks/DFIs may extend mortgage loans for housing upto any tenure defined in the 
+bank’s/DFI’s duly approved credit policy and keeping in view the maturities profile 
+of their assets & liabilities.1
+REGULATION R-18
+The house financed by the bank/DFI shall be mortgaged in bank’s/DFI’s favour by 
+way of equitable or registered mortgage.
+                                               
+1 Amended vide BPRD Circular No. 4 of 2009 dated February 11, 2009.
+15
+REGULATION R-19
+Banks/DFIs shall either engage professional expertise or arrange sufficient training 
+for their concerned officials to evaluate the property, assess the genuineness and 
+integrity of the title documents, etc.
+It may, however, be noted that the requirement of full-scope and desk-top 
+evaluation, as required under R-8 and R-11 of Prudential Regulations for
+Corporate/Commercial Banking and SMEs Financing respectively, will not be 
+applicable on housing finance.
+REGULATION R-20
+The bank’s/DFI’s management should put in place a mechanism to monitor 
+conditions in the real estate market (or other product market) at least on quarterly 
+basis to ensure that its policies are aligned to current market conditions.
+REGULATION R-21
+Banks/DFIs are encouraged to develop floating rate products for extending housing 
+finance, thereby managing interest rate risk to avoid its adverse effects. Banks /DFIs 
+are also encouraged to develop in-house system to stress test their housing portfolio 
+against adverse movements in interest rates as also maturity mismatches.
+REGULATION R-22 1
+The mortgage loans shall be classified and provided for in the following manner:
+CLASSIFICATION
+DETERMINANT
+TREATMENT OF INCOME
+PROVISIONS TO
+BE MADE*
+(1)
+(2)
+(3)
+(4)
+1. Substandard
+Where mark-
+up/ interest or 
+principal is 
+overdue by 90 
+days or more 
+from the due 
+date.
+Unrealized mark-up/interest 
+to be kept in Memorandum 
+Account and not to be 
+credited to Income Account 
+except when realized in cash. 
+Unrealized mark up/interest 
+already taken to income 
+account to be reversed and 
+kept in Memorandum 
+Account.
+Provision of 25% of the
+difference resulting from the
+outstanding 
+balance 
+of
+principal less the amount of
+liquid 
+assets 
+realizable 
+without recourse to a Court 
+of Law and
+Forced Sale 
+Value (FSV) of mortgaged 
+properties to the extent of 
+50% of such FSV.
+2. Doubtful
+Where mark-
+up/ interest or 
+principal is
+overdue by 180 
+days or more 
+from the due 
+date.
+As above.
+Provision of 50% of the
+difference resulting from the
+outstanding 
+balance 
+of
+principal less the amount of
+liquid 
+assets 
+realizable 
+without recourse to a Court 
+of Law and
+Forced Sale 
+Value (FSV) of mortgaged 
+properties to the extent of 
+50% of such FSV.
+                                               
+1 Amended vide BSD Circular No. 2 of 2010 dated June 03, 2010.
+16
+1. Loss
+Where mark-
+up/ interest or 
+principal is 
+overdue by one 
+year or more 
+from the due 
+date
+As above.
+Provision of 100% of the 
+difference resulting from the 
+outstanding 
+balance
+of 
+principal less the amount of 
+liquid 
+assets 
+realizable 
+without recourse to a Court 
+of Law and Forced Sale 
+Value (FSV) of mortgaged 
+properties to the extent of 
+50% of such FSV for first and 
+second year and 40% of FSV 
+for third year from the date 
+of classification. Benefit of 
+FSV against NPLs shall not 
+be available after 3 years 
+from 
+the 
+date 
+of 
+classification 
+of 
+loan. 
+However, the 40% benefit of 
+FSV of land (open plot and 
+separate valuation of land if 
+building is constructed) shall 
+be available for four years 
+from 
+the 
+date 
+of 
+classification of loan.
+* These specific provisions will be in addition to general reserve maintained under Regulation R-4
+17
+REGULATIONS FOR PERSONAL LOANS INCLUDING
+LOANS FOR THE PURCHASE OF CONSUMER DURABLES
+REGULATION R-23
+CLEAN LIMIT PER PERSON FOR PERSONAL LOANS
+Banks/DFIs may assign personal loan limits to one person with a maximum 
+unsecured limit not exceeding Rs 1,000,000/, subject to mandatory credit check & 
+prescribed debt burden and condition that total unsecured personal loans limits 
+availed by that person from all banks/DFIs does not exceed Rs. 1,000,000.1
+Banks/DFIs may merge the clean limits to single person for Personal Loans and 
+Credit Cards subject to the condition that total clean limit availed by him/her from 
+all banks/DFIs does not exceed Rs. 2,000,000 at any point in time. It is re-emphasized 
+that the aggregate clean limit of the borrower should not exceed Rs. 2000,000 in any 
+case.2
+Banks/DFIs shall ensure that overall personal loan limits and credit card limits, both 
+on secured as well as on unsecured basis, availed by one person from all banks/DFIs 
+in aggregate should not exceed Rs 5,000,000/-, at any point in time, subject to the 
+condition that the overall unsecured/clean facilities on account of personal loan and 
+credit card of that individual does not exceed Rs 2,000,000.3
+The loan secured against liquid securities shall, however, be exempted from this 
+limit.
+The loans against the securities issued by Central Directorate of National Savings 
+(CDNS) shall be subject to such limits as are prescribed by CDNS/Federal 
+Government/State Bank of Pakistan from time to time.
+REGULATION R-24
+In cases, where the loan has been extended to purchase some durable goods/items, 
+including personal computers and accessories thereof, the same will be 
+hypothecated with the bank/DFI besides other securities, which the bank/DFI may 
+require on its own.
+REGULATION R-25
+The maximum tenure of the loan shall not exceed 5 years. However, this period may 
+be extended to 7 years for loans/advances given for educational purposes, provided 
+that disbursement of such loans shall directly be made by the bank/DFI to the 
+educational institution and the borrower shall not be allowed to utilize/withdraw 
+cash directly from the bank/DFI under this head for any other purpose.
+                                               
+1 Amended vide BPRD Circular No. 4 of 2009 dated February 11, 2009.
+2 Inserted vide BPRD Circular Letter No. 43 0f 2009 dated December 31, 2009.
+3 Substituted vide BPRD Circular No. 01 of 2001 dated January 06, 2011.
+18
+REGULATION R-26
+In case of Running Finance/Revolving Finance, it shall be ensured that at least 15% 
+of the maximum utilization of the loan during the year is cleaned up by the borrower 
+for a minimum period of one week.  In case the clean up is not made by the 
+borrower, the loan will be appropriately classified. However, banks/DFIs who 
+require their customers to repay a minimum amount each month, will be considered 
+compliant with this regulation subject to the condition that the aggregate cumulative 
+monthly installments exceed the 15% clean up requirement and accordingly the 
+loans where the specified minimum repayments are being made by the borrowers 
+regularly, will not require classification under this regulation.
+REGULATION R-27
+The personal loans shall be classified and provided for in the following manner:
+CLASSIFICATION
+DETERMINANT
+TREATMENT OF 
+INCOME
+PROVISIONS TO
+BE MADE*
+(1)
+(2)
+(3)
+(4)
+1. Substandard.
+Where mark-
+up/ 
+interest 
+or principal is 
+overdue by 90 
+days or more 
+from the due 
+date.
+Unrealized 
+mark-
+up/interest to be kept 
+in 
+Memorandum 
+Account and not to
+be credited to Income 
+Account except when 
+realized 
+in 
+cash. 
+Unrealized 
+mark 
+up/interest 
+already 
+taken 
+to 
+income 
+account 
+to 
+be 
+reversed and kept in 
+Memorandum 
+Account.
+Provision of 25% of the 
+difference resulting from 
+the outstanding balance of 
+principal less the amount 
+of liquid assets.
+2. Loss.
+Where mark-
+up/ 
+interest 
+or principal is 
+overdue 
+by 
+180 days or 
+more from the 
+due date.
+As above.
+Provision of 100% of the 
+difference resulting from 
+the outstanding balance of 
+principal less the amount 
+of liquid assets.
+* These specific provisions will be in addition to general reserves maintained under Regulation R-4
+19
+ANNEXURE – CF-1 1
+UNDERTAKING
+I ----------------------------- S/O, D/O, W/O ------------------------------- holder of CNIC ---------------
+----------, undertake that the detail of my existing exposure from the “Entire Banking Sector” 
+as on---------- is as under:
+Details of Credit Cards (Clean) limits being availed from other banks/DFIs:
+Sr. #
+Name of the Bank/DFI
+Approved Limit
+Details of Credit Cards (Secured) limits being availed from other banks/DFIs:
+Sr. #
+Name of the Bank/DFI
+Approved Limit
+Details of Personal Loan (Clean) limits being availed from other banks/DFIs:
+Sr. #
+Name of the Bank/DFI
+Approved Limit
+Amount Outstanding On 
+Application date
+Details of Personal Loan (Secured) limits being availed from other banks/DFIs:
+Sr. #
+Name of the Bank/DFI
+Approved Limit
+Amount Outstanding On 
+Application date
+Details of other facilities if any (Clean & Secured) being availed from other banks/DFIs:
+Sr. #
+Name of the Bank/DFI
+Approved 
+Limit
+Nature 
+(Clean/Secured)
+Current 
+Outstanding
+Applied Limits (Including the application in process):
+Sr. #
+Name of the Bank/DFI 
+Facility under Process
+Nature 
+of 
+Facility 
+(Clean/Secured)
+  
+Signature:____________________________
+Name of Applicant: ____________________
+CNIC # _____________________________
+                                               
+1 Inserted vide BPRD Circular No. 4 of 2009 dated February 11, 2009.

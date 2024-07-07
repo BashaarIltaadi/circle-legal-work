@@ -1,0 +1,3470 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRUDENTIAL REGULATIONS 
+FOR CORPORATE /COMMERCIAL BANKING  
+(Risk Management, Corporate Governance and Operations) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Revised till January 2015) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BANKING POLICY & REGULATIONS DEPARTMENT  
+STATE BANK OF PAKISTAN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer:  
+State Bank of Pakistan compiles a booklet of Prudential Regulations from time to time for 
+convenience of users. Updated version of such a booklet containing amendments in the 
+regulations made through circulars/circular letters to date is being issued. Due care has been taken 
+while incorporating amendments, however, errors and omission may be expected. In case of any 
+ambiguity, users are advised to refer to the original circulars/ circular letters on the relevant 
+subject(s), which are available on SBP’s website (www.sbp.org.pk).  
+ 
+ 
+ 
+ 
+ 
+ 
+C O N T E N T S 
+ 
+PART-A 
+Definitions. 
+04 
+PART-B 
+Regulations. 
+09 
+ 
+RISK MANAGEMENT (R) 
+Regulation R-1 
+Exposure limits. 
+09 
+Regulation R-2 
+Limit on exposure against contingent liabilities. 
+09 
+Regulation R-3 
+Financial analysis & other conditions. 
+10 
+Regulation R-4 
+Security and margin requirements 
+11 
+Regulation R-5 
+Monitoring 
+12 
+Regulation R-6 
+Exposure in shares and TFCs/Sukuk. 
+13 
+Regulation R-7 
+Guarantees. 
+14 
+Regulation R-8 
+Classification and provisioning for assets. 
+15 
+Regulation R-9 
+Assuming obligations on behalf of NBFCs. 
+17 
+Regulation R-10 
+Payment of dividend. 
+17 
+ 
+CORPORATE GOVERNANCE (G) 
+Regulation G-1 
+Corporate Governance/ Board of Directors and Management.               17 
+Regulation G-2 
+Dealing with Directors, major shareholders and employees                    23 
+                                                     of the banks/DFIs.  
+Regulation G-3 
+Contributions and donations for charitable, social, educational              23 
+                                                     and public welfare purposes.  
+Regulation G-4 
+Credit Rating.                                                                                             24 
+ 
+OPERATIONS (O) 
+Regulation O-1 
+Undertaking of  cash  payments  outside  the 
+bank’s 
+24 
+                                                     authorized place of business. 
+Regulation O-2 
+Window dressing. 
+24 
+Regulation O-3 
+Reconciliation of inter-branch accounts and settlement of 
+25 
+                                                     suspense account entries. 
+Regulation O-4 
+Maintenance of assets in Pakistan. 
+25 
+Regulation O-5 
+Foreign currency deposits under FE 25-1998 
+25 
+ 
+ 
+ 
+Annexures                                                                                                                                                 27-51 
+                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P R E F A C E 
+ 
+In order to align the regulatory framework to changing business environment and the best 
+international practices, the State Bank of Pakistan, in consultation with stakeholders, has revised the 
+Prudential Regulations on Risk Management, Corporate Governance and Operations for Corporate & 
+Commercial Banking. The revised regulations aim to assist banks/DFIs in better addressing their 
+unique risk factors and dynamic environment by giving more discretion in business decisions. These 
+regulations also describe minimum prudential benchmarks in critical risk areas to balance the 
+considerations of financial stability of banks/DFIs vis-à-vis diversity and innovation. 
+ 
+2) These Prudential Regulations do not supersede directives and instructions issued by the State Bank 
+in respect of areas not covered under these regulations. Banks/DFIs that are compliant to the revised 
+or new limits as introduced in these regulations shall follow the same instantly. However, such 
+institutions which are in breach of these limits will have to achieve the compliance by 30-06-2015, 
+unless otherwise specifically mentioned in the regulations. 
+ 
+3) Banks/DFIs are advised to ensure meticulous compliance of these Regulations in letter and spirit. 
+Any non-compliance or circumvention of the requirements will attract punitive action under the 
+provisions of the Banking Companies Ordinance, 1962.  
+ 
+ 
+ 
+ 
+SHAUKAT ZAMAN  
+Director 
+Banking Policy & Regulations Department 
+ 
+4 
+ 
+PART - A 
+D E F I N I T I O N S 
+For the purpose of these regulations: - 
+ 
+1. 
+Account Holder means a person who has opened any account with a bank directly or through 
+branchless banking agent or is a holder   of   deposit/deposit   certificate  or   any   instrument   
+representing deposit/placing of money with a bank/DFI or has borrowed money from the 
+bank/DFI. 
+ 
+2. 
+Branchless Banking Agent means an agent providing banking services to the customers    of a 
+ 
+bank/DFI on behalf of the bank/DFI/MFBs under a valid agency agreement. 
+ 
+3. 
+Alternate Director means a person who has been designated by a director during his absence, as per 
+provisions of the sub-section (2) of section 192 of Companies  Ordinance, 1984. 
+ 
+4. 
+Bank means a banking company as defined in the Banking Companies Ordinance, 1962. 
+ 
+5. 
+Borrower or Obligor means a person on whom a bank/DFI has taken any exposure during the 
+course of business. 
+ 
+6. 
+Chief Executive Officer (CEO), in relation to bank/DFI means an individual who, subject to the 
+control and directions of the Board of Directors , is entrusted with the  whole, or substantially the 
+whole, of the powers of management of the affairs of  the bank/DFI occupying the position of   Chief 
+Executive Officer and include President, acting President, Managing Director, Country Head of 
+Foreign bank, Executive assuming charge of the bank for interim period or by whatever name called, 
+and whether under a contract of service or otherwise. 
+ 
+7. 
+Contingent Liability means:  
+a)  a possible obligation that arises from past events and whose existence will be confirmed only by 
+the    occurrence or non- occurrence of one or more uncertain future events not wholly within the 
+control of the enterprise; or  
+b) a present  obligation  that  arises  from  past  events  but  is  not  recognized because:  
+i)   it  is  not  probable  that  an  outflow  of  resources  embodying  economic  benefits will be required 
+to settle the obligation; or  
+ii) the  amount  of  the  obligation  cannot  be  measured  with  sufficient reliability; and includes 
+letters of credit, letters of guarantee, bid bonds/performance bonds, advance payment guarantees and 
+underwriting commitments. 
+ 
+8. 
+Control refers to an ownership directly or indirectly through subsidiaries, of more   than one half of 
+voting power of an enterprise. 
+ 
+9. 
+Corporate Card means credit card issued to the employees of an entity where the repayment is to 
+be made by the said entity. 
+ 
+10. Derivative means a type of financial contract the value of which is determined by reference to 
+one or more underlying assets or indices. The major categories of such contracts include forwards, 
+futures, swaps and options. Derivative also includes structured financial products that have one or more 
+characteristics of forwards, futures, swaps and options.  
+ 
+11. DFI  means  Development  Financial  Institution  and  includes  the   Saudi Pak Industrial and 
+Agricultural Investment Company Limited,  Pak Kuwait Investment Company Limited, Pak 
+Libya Holding Company Limited, Pak Oman Investment Company (Pvt.) Limited, , House Building 
+Finance Company Limited,  Pak Brunei Investment Company Limited, PAIR Investment Company 
+ 
+Limited,  Pak-China  Investment  Company Limited, and any other financial institution notified 
+under Section 3-A of the Banking Companies Ordinance, 1962.  
+ 
+12. Documents include vouchers, cheques, bills, pay-orders, promissory notes, securities for 
+leases/advances and claims by or against the bank/DFI or other papers supporting entries in the 
+books of a bank/DFI or any other document which   establishes relationship between the bank/DFI and 
+5 
+ 
+its customers. 
+ 
+13. Director includes any person occupying the position of a director on the Board of  
+a bank/DFI and 
+includes sponsor, nominee and alternate director or by whatever name called. 
+  
+14.   Executive Director1 means a paid employee or executive in the concerned bank/DFI who 
+is also a member of the Board of Directors2.  
+ 
+15. Equity of the Bank/DFI includes paid-up capital in respect of ordinary shares, general reserves, 
+balance in share premium account, reserve for issue  of bonus shares, statutory reserves, and retained 
+earnings/accumulated losses as disclosed in latest  annual audited financial statements.  In case of 
+branches of foreign  banks  operating in Pakistan, equity will mean capital maintained, free of 
+losses and  provisions, under Section 13 of the Banking Companies Ordinance, 1962.  
+For the purpose of Regulation R-1, reserve shall also include revaluation reserves on account of 
+fixed assets to the extent of 50% of their value. However, for this purpose assets must be prudently 
+valued by valuators on the panel of Pakistan Banks Association (PBA), fully taking into account 
+the possibility of price fluctuations and forced sale value. Revaluation reserves reflecting the 
+difference between the book value and the market value will be eligible up to 50%.  
+ 
+16. Exposure shall include:  
+A)  Financing Facilities whether fund based or non-fund based extended by a bank /DFI 
+       and include: 
+i) Any form of financing facility extended or Bills purchased/discounted, Bills purchased / 
+discounted on the guarantee of the person. 
+ii) Credit facilities extended through Corporate Cards.  
+iii) Any financing obligation undertaken on behalf of the person under a letter  of credit including a 
+stand-by letter of credit, or similar instrument. 
+iv) Loan repayment financial guarantees issued on behalf of the person. 
+v) Any  obligations  undertaken  on behalf  of  the  person  under  any  other  
+guarantees including 
+underwriting commitments. 
+vi) Acceptance/endorsements made on account.  
+vii) Any other liability assumed  on behalf  of  the person  to  advance     funds pursuant to a 
+contractual commitment.  
+ 
+B) Subscription to or investment in shares,  Participation Term Certificates, Term Finance 
+Certificates,    Sukuk or any other Commercial Paper by whatever name called   issued or 
+guaranteed by the persons.  
+ 
+C) Exposure (Net open position) on account of derivative transactions   allowed under Financial 
+Derivatives Business Regulations  (FDBR) issued vide   BSD  Circular  No. 17  dated November 26, 
+2004. For the purpose of calculating exposure, the sanctioned limits, or outstanding, whichever are 
+higher, will be considered. However, in case of fully drawn term loans where there is no scope for re-
+drawal of any portion of the sanctioned limit, bank/DFI may consider the outstanding as 
+exposure.  
+ 
+17. Family Member as defined in sub-section (ff) of section 5 of Banking Companies Ordinance 1962. 
+ 
+18. Financial Institutions for the purpose of these regulations mean Banks, Development 
+Financial Institutions (DFIs) and NBFCs. 
+ 
+19.   Forced Sale Value (FSV) means the value which fully reflects the possibility of price   
+fluctuations   and   can   currently   be   obtained   by   selling   the mortgaged/pledged assets in 
+a forced/distressed sale conditions.  
+ 
+20. Government Securities shall include such types of Pak. Rupee obligations of the Federal 
+                                                            
+1 Amended vide BPRD Circular Letter No. 06 of 2012 dated March 21, 2012 
+ 
+ 
+6 
+ 
+Government or a Provincial Government or of a Corporation wholly owned or controlled, 
+directly or indirectly, by the Federal Government or a Provincial Government and guaranteed 
+by the Federal Government as the Federal Government may, by notification in the Official 
+Gazette, declare, to the extent determined from time to time, to be Government Securities.   
+ 
+21. Group means persons, whether natural or juridical, if one of them or his dependent family 
+members or its subsidiary, have control or hold substantial ownership interest (as defined in these 
+regulations) over the other. 
+ 
+ 
+For the purpose of this definition:  
+a) Subsidiary will have the same meaning as defined in section 3 of the Companies Ordinance, 1984 
+i.e. a company or a body corporate shall deemed to be a subsidiary of another company if that 
+other company or body corporate directly or indirectly controls, beneficially owns or holds more 
+than 50% of its voting securities or otherwise has power to elect and appoint more than 50% of its 
+directors.  
+b)  Control refers to an ownership directly or indirectly through subsidiaries, of  more than one half of 
+voting power of an enterprise.  
+c) Substantial ownership/affiliation means beneficial shareholding of more than 25% by a 
+person and/or by his dependent family members, which will 
+ include his/her spouse, dependent lineal 
+ascendants and descendants and dependent brothers and sisters.  However, shareholding in or by 
+the Government owned entities and financial institutions will not constitute substantial 
+ownership/affiliation, for the purpose of these regulations.  
+ 
+22. Independent Director means such a person who is not linked directly or indirectly with 
+bank/DFI or its sponsor or strategic shareholders.  For  the purpose of such determination, an 
+"independent director" is a director who:  
+• Has not been employed by Bank /DFI within the last five years; 
+• Has not been an employee or affiliate of any present or former external auditor/consultant/legal 
+advisor of Bank/DFI within the last three years;  
+• Has not been an executive officer or employee of a subsidiary or associate company 
+of 
+the 
+bank/DFI or where Directors of the bank/DFI has substantial  beneficial 
+interest 
+(20% 
+or 
+more 
+shareholding of director’s own or combined  with family members);  
+• Has not been employed by a company of which an executive officer of  
+Bank/DFI 
+has 
+been 
+a 
+director within the last three years;  
+• Is not affiliated with a not-for-profit entity that received contributions from Bank/DFI exceeding of 
+10 million or 2 percent of such charitable  organization's consolidated gross revenues during the 
+current fiscal year or any of the last three completed fiscal years. 
+(Note:  An independent director shall submit a declaration for his/her independence to SBP at the 
+time of his/her appointment.)  
+ 
+23. Key Executive1 means key executives of banks/DFIs and includes the  following functional 
+responsibilities for the present: 
+a) Any executive, acting as second to CEO including Chief Operating Officer,  Deputy 
+Managing 
+Director or by whatever name called  
+b)  Chief Financial Officer/Head of Finance/Head of Accounts  
+c)  Head of Internal Audit  
+d) Country Treasurer  
+e)  Head of Credit/Risk Management  
+f)   Head of Operations  
+g)  Head of Compliance  
+h) Head of Human Resource  
+i)   Head of Information Technology  
+j)  Head of Islamic Banking    
+k)  Head of overseas operations of a bank at head office level 2 
+l) Country Head/Regional Head (where a region is consisting of more than one  foreign countries)  
+                                                            
+1 Inserted vide BPRD Circular No. 04 of 2007 dated April 23, 2007. 
+2 k) to n) inserted vide BPRD Circular No. 05 of 2009 dated March 05, 2009. 
+7 
+ 
+m) CEO/Head of subsidiary banking company outside Pakistan  
+n) CEO of Joint Venture (where majority stake is with the bank incorporated in Pakistan & authority 
+to appoint CEO)  
+ 
+The above list will be reviewed from time to time by SBP.  
+ 
+24. Large Exposure means an exposure of 10% or more of a bank’s/DFI’s equity to a single obligor 
+or a group. 
+ 
+25. Liquid Assets are the assets which are readily convertible into cash without recourse to a 
+court of law and mean encashment/realizable value of government securities, bank deposits, 
+certificates of deposit, shares of listed companies which are actively traded on the stock exchange, NIT 
+Units, certificates of mutual funds, Certificates of Investment (COIs) issued by DFIs/NBFCs rated at 
+least ‘A’ by a credit rating agency on the approved panel of State Bank of Pakistan, listed TFCs rated 
+at least ‘A’ by a credit rating agency on the approved panel of State Bank of Pakistan and certificates 
+of asset management companies for which there is a book maker quoting daily offer and bid 
+rates and there is active secondary market trading. These assets with appropriate margins should be 
+in possession of the banks/DFIs with perfected lien.  
+Guarantees issued by domestic banks/DFIs when received as collateral by banks/DFIs will be 
+treated at par with liquid assets whereas, for guarantees  issued by foreign banks, the issuing 
+banks’ rating, assigned either by Standard & Poors, Moody’s or Fitch-IBCA, Japan Credit Rating 
+Agency (JCRA) should be ‘A’ and above or equivalent.  
+The inter-branch indemnity/guarantee issued by the bank’s overseas branch in favor of its sister 
+branch in Pakistan, would also be treated at par with liquid assets, provided the bank is rated ‘A’ 
+and above or equivalent either by Standard & Poors, Moody’s, Fitch-IBCA  or Japan  Credit 
+Rating  Agency (JCRA).  The indemnity for this purpose should be similar to a guarantee i.e. 
+unconditional and demand in nature.  
+ 
+26. Major Shareholder of a bank/DFI means any person holding 5% or more of the share  capital  of  
+a  bank/DFI  either  individually  or  in  concert  with  family members.  
+ 
+27. Medium and Long Term Facilities mean facilities with maturities of more than one year and 
+Short Term Facilities mean facilities with maturities up to one year. 
+ 
+28. NBFC means Non-Banking Finance Company as defined in Section 282A of Companies 
+Ordinance 1984 and includes Leasing  
+Company, Housing Finance Company, Investment Bank, 
+Discount House, Asset  Management Company and a Venture Capital Company. For the purpose  of 
+these regulations Modaraba will also be considered as NBFC.    
+ 
+29. Nominee Director means a person nominated on the board of a bank/DFI by sponsor(s), 
+persons, company, institution etc. by virtue of his/their shareholding in a bank/DFI.  
+ 
+30. PBA means Pakistan Banks Association. 
+ 
+31. Person means and includes an individual, a Hindu undivided family, a firm, an association or 
+body of individuals whether incorporated or not, a company and every other juridical person.  
+ 
+32. Recognized Rating Agency means rating agency either on the approved panel of State Bank of 
+Pakistan or Standard & Poor’s, Moody’s, Fitch or Japan Credit Rating Agency (JCRA)  
+ 
+33. Related Party in respect of a bank / DFI means:  
+a.) Directors, CEO, sponsor shareholders, employees or any of their family members.  
+b.) Any entity (proprietorship, firm, company or trust) in which a bank / DFI or any of the above 
+persons are interested as director, proprietor, partner or as a shareholder holding 5% or more of paid-up 
+capital in that entity.  
+c.)  Any other entity which for its business acquisition or provision of services relies / depends to a 
+greater extent on the bank/DFI i.e. major portion (50% or more) of its business (upstream or 
+downstream) is with the bank/DFI.  
+d.) The relationship of the related party on the basis of Nominee Director appointed by 
+8 
+ 
+Federal/Provincial government by virtue of their shareholding shall be excluded from this definition. 
+However, it shall include personal/family business interests of such director.  
+ 
+34. Secured means exposure backed by liquid assets, pledge stock, mortgage of land, plant, 
+building, machinery or any other fixed assets, hypothecation of stock (inventory), trust receipt, 
+assignment of receivable, lease rentals, and contact receivables but does not include 
+hypothecation of household goods. The unsecured exposure will be considered as clean.  
+ 
+35. Sponsor Shares1 mean 5% or more paid-up shares of a bank, acquired by a person(s) 
+individually or in concert with his family members  (including his spouse, lineal ascendants and 
+descendents and dependent brothers and sisters), group companies, subsidiaries,  and 
+affiliates/associates.  Such  acquisition  of shareholding  will  include  all  the  shares  acquired  
+by  aforesaid  person(s) including, interalia, through (a) as original subscriber/promoter of the bank; 
+(b) subsequent  right/bonus  issues; (c)   market  based  acquisition  deal; (d) 
+reconstruction/restructuring of a bank carried out by SBP;  (e) strategic sale through privatization 
+(f) amalgamation of banking companies; or (g) any other mode of acquisition. All shares acquired by 
+common shareholders, who are also sponsor shareholders, of amalgamating banking companies in 
+amalgamation transaction shall be considered Sponsor Shares.  
+ 
+36. Sponsor Shareholders2 mean all those shareholders of a bank holding sponsor shares. 
+ 
+37. Sponsor Director3 means the member of the Board of Directors of a bank holding sponsor shares.    
+ 
+38. Strategic Investment is an investment which a bank/DFI makes with the intention to hold it for 
+a period of minimum 5 years.  
+The following must be noted further in respect of strategic investment:  
+a. The bank should mark strategic investment as such at the time of investment.  
+b. If there are a series of purchases of stocks of a company, the minimum  retention period of 5 
+years shall be counted from the date of the last purchase.  
+ 
+39. Substantial ownership/affiliation4 means beneficial shareholding of more than 20% by a person 
+and/or by his dependent family members, which will include his/her spouse, dependent lineal 
+ascendants and descendants and dependent brothers and sisters. However, shareholding in or by 
+the Government owned entities and   financial   institutions   will   not   constitute   substantial
+ 
+ownership/affiliation, for the purpose of these regulations.  
+ 
+40. Underwriting Commitments mean commitments given  by  commercial banks/DFIs to the 
+limited companies at the time of new issue of equity/debt instrument, that in case the proposed issue 
+of equity/debt instrument is not fully subscribed, the un-subscribed portion will be taken up by them 
+(commercial banks/DFIs). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                            
+1 Introduced vide BPRD Circular 4 of 2008 dated May 22, 2008. 
+2 Introduced vide BPRD Circular 4 of 2008 dated May 22, 2008. 
+3 Introduced vide BPRD Circular 4 of 2008 dated May 22, 2008. 
+4
+Introduced vide BPRD Circular No. 04 of 2007 dated April 23, 2007.  
+ 
+ 
+ 
+9 
+ 
+PART - B 
+R E G U L A T I O N S 
+REGULATION R-1  
+EXPOSURE LIMITS  
+ 
+1.   Single Obligor/Group Limit  
+Exposure Limits for a single obligor, and obligor Group effective from 31-12-2013 and onward would 
+be as under:  
+ 
+ 
+Effective date 
+Exposure limit as a % of bank’s/DFI’s equity 
+(as disclosed in the latest audited financial statements) 
+For single obligor  
+For obligor group 
+Total (fund and non-
+fund based) exposure 
+limit 
+Fund based limit 
+Total (fund and 
+non-fund based) 
+exposure limit 
+Fund based 
+limit 
+31-12-2013  
+25 
+25 
+25 
+25 
+30-06-2015 
+20 
+20 
+25 
+25 
+ 
+2. Related Party Exposure Limit: 
+ 
+Maximum exposure limit of a bank/DFI to its related party or group of related parties would be as 
+under: 
+  
+Effective Date 
+Total  exposure limit as a % of bank’s/DFI’s equity (as disclosed in 
+the latest audited financial statements)  
+For Single Related Party 
+For Related Group  
+30-06-2015 
+7.5% 
+15% 
+ 
+The related party exposures shall be subject to the following:  
+a) Loans given to employees under the Bank’s/DFI’s respective Human Resource policies duly 
+approved by its BOD or Country Head (in case of branches of foreign banks) are excluded from 
+this limit.  
+b) Placement of funds of FE-25 deposits by the bank with its own branches/subsidiaries overseas shall 
+also be excluded from this limit.  
+c) Bank’s/DFI’s investment in common shareholding of its subsidiaries shall not be counted 
+towards this exposure limit.  
+d) Facilities extended to related parties should be at arm’s length basis and on normal terms & 
+conditions applicable to other borrowers of the bank/DFI. Further, banks/DFIs shall ensure that  
+the 
+standards are not compromised in such cases and market rates are used while extending facilities to 
+related parties. 
+e) Banks shall also follow the requirements of section 24 of the Banking Companies Ordinance, 1962.  
+ 
+3.   For the purpose of para 1 and 2 above, banks/DFIs are required to follow the guidelines given at 
+Annexure-I. It is further clarified that the group will also cover SMEs, in cases where these are owned 
+by the same group.  
+ 
+4.   Large Exposure Limit:  
+The aggregate amount of large exposures of a bank/DFI shall not, at any point in time, exceed 50% of 
+its total gross advances and investments (excluding investment in government securities and loans 
+secured against GOP guarantees). Large exposure limits shall not be applicable to investment in 
+government securities and loans secured against GOP guarantees.  
+ 
+5. Different concentration limits may be assigned to different banks/DFIs by SBP based on their 
+supervisory assessment.  
+ 
+REGULATION R-2  
+LIMIT ON EXPOSURE AGAINST CONTINGENT LIABILITIES  
+ 
+1. Contingent liabilities of a bank/DFI shall not exceed at any point in time 10 times of its equity.   
+10 
+ 
+2. 
+The banks/DFIs that are Authorized Derivative Dealers in terms of BSD Circular No. 17 of 2004    
+shall restrict their exposure to derivatives up to 5 times of their equity within overall limit of 
+contingent liabilities.  
+3. Following shall not constitute contingent liabilities for the purpose of this regulation:  
+a)   Bills for collection.  
+b)   Non-fund based exposure to the extent covered by cash/liquid assets.  
+c)  Letters  of  credit/guarantee  where  the  payment  is  guaranteed  by  the  State  Bank  of      
+Pakistan/Federal Government or banks/DFIs rated at least ‘A’ by a recognized  rating agency.  
+d)   Claims other than those related to provision of facilities (fund based or non-fund based) to the 
+banks’/DFIs’ constituents, where the probability of conversion of these claims into liabilities are 
+remote.  
+4. 
+ For  the  purpose  of  this  regulation,  weightage  of  50% shall be given to  bid/mobilization     
+advance/performance bonds and 10% to forward foreign exchange contracts.  
+ 
+ REGULATION R-3  
+FINANCIAL ANALYSIS & OTHER CONDITIONS  
+ 
+1. 
+  Financial Analysis:  
+a)  At the time of allowing any exposure (including renewal, enhancement and rescheduling / 
+restructuring) and annual review of long term facilities, Banks/DFIs shall, as a matter of rule, obtain a 
+copy of financial statements relating to the business of every borrower. The financial statements 
+should be duly audited by a practicing Chartered Accountant. In case of a borrower other than a 
+public company or a private company which is a subsidiary of a public company, financial 
+statements  audited  by  a  practicing  Cost  and  Management  Accountant  are  reckoned  equally 
+acceptable.    However, if the borrower is a public limited company and aggregate exposure from all 
+Banks/DFIs exceeds Rs.  500 million, banks/DFIs should obtain the financial statements duly 
+audited by a firm of Chartered Accountants which has received satisfactory rating under the Quality 
+Control  Review (QCR)  Program  of  the  Institute  of  Chartered  Accountants  of  Pakistan. 
+Subsequently, if the firm’s rating is downgraded in QCR program, then the financial statements of 
+such borrowers should be audited in the subsequent year by a firm having satisfactory rating under 
+QCR.  
+ 
+b)   In case of public sector entities and allied departments / divisions of government which are not 
+under  obligation  to  prepare  and  get  audited  their  annual  financials  from  accounting  firms, 
+banks/DFIs should devise criteria to obtain management accounts or some other mechanism be 
+adopted to assess their financial position and performance.  
+ 
+c)  The Board of Directors of the bank/DFI shall approve a credit policy prescribing a minimum 
+current ratio and linkage between borrower’s equity and its total financing facilities from all 
+financial institutions. The Credit Policy shall emphasize upon higher credit standards and provide full 
+guidance to the management about the above requirements for various categories of clients and 
+corresponding risk mitigants etc. acceptable to the bank/DFI. The policy shall also have explicit 
+provisions  for  circumstances  or  conditions  under  which  the  bank/DFI  may  extend  financing 
+facilities that are in breach of these limits, should the bank decide to do so. The policy shall clearly 
+provide approving authorities that would be responsible to allow exemptions in accordance with the 
+policy. All such exceptions allowed shall be reported to the Board of Directors at least on quarterly 
+basis. 
+ 
+d) Banks/DFIs are advised to properly assess the credit need of the borrower based on their 
+financial analysis and genuine credit requirements.  
+ 
+2.  Credit Report  While  considering   proposals   for   any   exposure  
+(including 
+ 
+ 
+renewal,   
+enhancement   and rescheduling/restructuring), banks/DFIs should give due weightage to the credit 
+report relating to the borrower and its group obtained from Credit Information Bureau (CIB) of State 
+Bank of Pakistan.   If the  banks/DFIs    decide  to  take  exposure  on  defaulters,  they  should  
+strictly  follow  their  risk management policies and credit approval criteria and  properly record 
+reasons and justifications in the approval form. The banks/DFIs shall ensure that CIB report is not 
+older than two months at the time of approval of credit limits.     
+ 
+11 
+ 
+3. Borrower Basic Fact Sheet  Banks/DFIs are required to obtain Borrower’s Basic Fact Sheet 
+(BBFS) as per format given at Annexure-II  from  their  prospective  borrowers  at  the  time  of 
+sanctioning  fresh  facility,  or enhancement, renewal, rescheduling and restructuring of an existing 
+facility. However, if the Loan Application Form already contains all the information as required in 
+BBFS, then no separate BBFS may be required.   
+ 
+REGULATION R-4 
+SECURITY AND MARGIN REQUIREMENTS  
+ 
+1.   Security Requirements  
+a) All exposures shall be adequately secured. However, banks/DFIs, in aggregate, may provide clean 
+financing facility in any form up to Rs 2,000,000/- (Rupees two million only) to any single 
+obligor.  Financing facilities  granted without securities including those granted against personal 
+guarantees shall be deemed as ‘clean’ for the purpose of this regulation. Further, at the time of 
+granting a clean facility, banks/DFIs shall obtain a written declaration to the effect that the borrower, 
+has not availed of such facilities from other banks/DFIs so as to exceed the prescribed limit of Rs 
+2,000,000/- in aggregate.  
+b) In case of clean placements with banks/DFIs in Pakistan, single obligor limits given in 
+Prudential Regulation R-1 shall be observed.   However, for Banks/DFIs rated below ‘A-3’ (short 
+term) or ‘BBB’ (long term) clean exposure limit given in para a) above shall be applicable.  
+c) In case of Nostro Balances with financial institutions abroad, banks shall prudently set limits duly 
+approved by their Board of Directors and that shall be exempt from the above limits.  
+ 
+d) Banks/DFIs shall ensure that the aggregate exposure against all their clean facilities shall not, at any 
+point in time, exceed the amount of their equity as disclosed in their latest audited financial 
+statements. However, following shall be excluded / exempted from aggregate limits for unsecured / 
+clean exposure:  
+(i) Facilities provided to finance the export of commodities eligible under Export Finance Scheme 
+ 
+backed by LCs.  
+(ii) Financing covered by the guarantee of Pakistan Export Finance Guarantee Agency up to the
+ 
+amount of guarantee.  
+(iii) Loans/ advances given to the employees of the banks/ DFIs in accordance with their 
+entitlement / staff loan policy. 
+(iv) Investment in COIs / interbank placements with NBFCs, provided the investee NBFC is at least 
+ 
+rated ‘A’ for long-term rating and ‘A2’ for short-term rating or equivalent by a   recognized  rating 
+agency.  
+(v) Investment of banks/DFIs in subordinated and unsecured TFCs, issued by other banks/DFIs to 
+ 
+raise Tier-II Capital as per State Bank of Pakistan’s instructions.  
+e) Banks/DFIs will be free to decide about obtaining security/collateral against the L/C facilities for 
+the interim period, i.e. from the date of opening of L/C till the receipt of title documents to the 
+goods.  
+ 
+2.   Requirement of Personal Guarantee  
+Banks/DFIs shall formulate a policy, duly approved by their Board of Directors, about obtaining 
+personal guarantees of directors of private limited companies. Banks/DFIs may, at their discretion, 
+link this requirement to the credit rating of the borrower, their past experience with it or its financial 
+strength and operating performance.  
+ 
+3.   Margin Requirements  
+a)  Banks/DFIs are free to determine the margin requirements on facilities provided by them to their 
+clients  taking into account the risk profile of the borrower(s) in order to secure their interests. 
+However, in cases where margin has been prescribed by State Bank/Government of Pakistan, 
+appropriate margin shall at least be equal to the prescribed margin.  
+ 
+b)  Exposure against the shares of listed companies shall be subject to minimum margin of 30% of 
+their current market value. However, the banks/DFIs may consider to set higher margin requirements, 
+and maintain list of shares acceptable as security, keeping in view liquidity, trading activity and other 
+factors. Banks/DFIs will monitor the margin at least on weekly basis and will take appropriate action 
+for top-up and sell-out on the basis of their Board of Directors’ approved credit policy and prior 
+12 
+ 
+written authorization from the borrower enabling the bank/DFI to do this.  
+ 
+c)  Exposure against TFCs/Sukuks rated ‘BBB’ and above by a credit rating agency on the approved 
+panel of State Bank of Pakistan shall be subject to a minimum margin of 20%.  
+ 
+d) The cash margin requirement of 100% on Caustic Soda (PCT heading 2815.1200) for opening 
+Import Letter of Credit as advised by the Federal Government and notified in terms of BPD Circular 
+Letter No. 5 dated 4th May, 2002, will also continue to remain applicable.  
+ 
+REGULATION R-5  
+MONITORING  
+ 
+1. Collateral Management  
+a)  The banks/DFIs shall have in place Collateral Management Policy duly approved by the BOD or 
+Country Head (in case of branches of foreign banks). The policy may be part of the bank’s overall 
+credit policy or separate as deemed appropriate by the bank/DFI. The Policy shall cover different 
+aspects related to collateral such as generally acceptable forms, quality, valuation at the time of 
+acceptance as well as over the tenor of loan, haircuts, price volatility, diversification, margin calls 
+limits, substitution of collateral and managing collateral in the event of a counterparty default.  
+b)  The policy shall clearly delineate the responsibilities in various scenarios, including safe custody 
+& inspection of collateral, where bank/DFI is a sole lender or where it is one of multiple lenders. In 
+the later case the policy should cover the aspect of coordination with other financial institutions 
+particularly where financing is made against hypothecation of stock and/or receivables on pari-passu 
+or ranking charge basis and pledge of stock.  
+c)  The Banks/DFIs shall devise an appropriate mechanism to ensure that the financing extended is 
+utilized for the intended purpose. Further, they will also ensure that financing is not used for non 
+productive purpose like hoarding, speculation etc.  
+ 
+2.   Joint Inspection of Pledged Stocks  
+a)  All  the  banks/DFIs  financing  any  particular  customer  against  pledge  of  stocks  of  below 
+mentioned commodities shall conduct joint inspection of the pledged stocks at least once in a quarter, 
+where aggregate exposure against such stocks equals or exceeds the amount shown against each 
+commodity:  
+ 
+Sr. No. 
+Commodity 
+Aggregate Committed 
+Exposure (limits) 
+1 
+Cotton (bales), excluding phutti 
+Rs. 500 million ` 
+2 
+Sugar 
+Rs. 500 million 
+3 
+Wheat 
+Rs. 250 million 
+4 
+Rice/Paddy 
+Rs. 150 million 
+5 
+Edible Oil 
+Rs. 250 million 
+ 
+Nonetheless, the banks/DFIs can, if they decide so, voluntarily conduct joint inspections for smaller 
+committed exposures and for commodities other than the ones mentioned above.  
+b) The bank/DFI with the largest committed exposure (limit) shall act as the lead bank/DFI to 
+coordinate the quarterly joint inspection. In case two or more banks/DFIs have the same level of 
+highest  committed  exposure,  they  shall  mutually  agree  on  which  bank/DFI  to  assume  the 
+responsibility.  The  lead  bank/DFI  once  selected  shall  perform  coordination  for  one  year  and 
+subsequently transfer the responsibility if, during the one year period, some other bank/DFI commits 
+the largest exposure. In case of syndicate financing against pledge of stocks, the agent bank/DFI shall 
+act as the lead bank/DFI for coordinating the quarterly joint inspection.  
+c)  The Borrower’s Basic Fact Sheet (BBFS) shall serve as the main source for obtaining information 
+on exposures committed by the banks/DFIs against pledged stocks for any particular customer. Any 
+bank/DFI taking exposure on a customer against pledge of stocks shall inform, after seeking prior 
+written consent from obligor as per law, about the same to all the banks/DFIs already financing that 
+customer, within five working days of the credit approval.   
+ 
+ 
+ 
+13 
+ 
+REGULATION R-6  
+EXPOSURE IN SHARES AND TFCs/SUKUK  
+ 
+1. 
+Acquisition of Shares/Mutual Funds: 
+A. 
+Single Company Investment Limit: 
+i) Banks / DFIs shall not own shares of any single company in excess of 5% of their own equity.      
+This limit will also be applicable to units of all types of mutual funds and REITs.  
+ii) Banks/DFIs will obtain prior approval from the State Bank for purchasing shares of a 
+company exceeding, in aggregate, 10% of the capital of Investee Company or 5% of their paid-up 
+capital, whichever is lower. These limits will be calculated as under:  
+iii) 
+  In the case of investee company, limit will be calculated by taking 10% of the number of its paid-
+up shares,  
+iv) 
+  In the case of investing bank/DFI, limit will be calculated by taking 5% of paid-up  shares 
+of 
+the bank/DFI, and then multiplying with their face value.  
+The bank’s/DFI's request will be considered in the light of the nature of relationship of the 
+investing bank and the investee company. Further, other factors, such as financial standing of the 
+investing bank, its aggregate investment portfolio, experience in managing the same, efficacy of 
+internal controls etc. will also be taken into account.  
+ 
+B.  Aggregate Investment Limits:  
+i.)   Aggregate  equity  investment  limit  for  banks,  and  DFIs  which  are mobilizing funds  as 
+ 
+deposits/COIs from general public/individuals, shall be 30% of their respective equity.  
+ii.)  For Islamic banks, and DFIs which are not mobilizing funds as deposits/COIs from general 
+ 
+public/individuals, the aggregate investment limit will be 35% of their respective equity.  
+iii.) Within the above limits, Banks/DFIs may take maximum exposure in future contracts up to  10% 
+of their equity on aggregate basis. In this connection, the 10% exposure limit for future  contracts will 
+include both positions taken in futures buying and selling.  
+iv.) Exposure as a result of strategic investment and investment in units of all forms of Mutual 
+Funds, excluding NIT units till its privatization, shall also be considered part of above limits.  
+v.) Aggregate investment limit in units of REIT shall be  10% of equity of the bank/DFI, 
+exclusive of the above aggregate limits.  
+vi.) Investments of the bank/DFI in its subsidiary companies (listed as well as non-listed) shall not  be 
+included in these limits.  
+ 
+2. The limits  prescribed  in  para 1 above shall  not  apply  to  the  shares  acquired  due  to  the 
+underwriting commitments, satisfaction of debts or debt-equity conversion scheme. However these 
+will be sold off/off loaded within a period of eighteen months; otherwise the same will be counted 
+towards the above limit from the expiry of that period. The banks/DFIs are required to plan their 
+disposal to ensure compliance within the due date.  
+ 
+3. Investment in preference shares, which fulfill the criteria of equity instrument as laid down in 
+Annexure-III, shall be considered as part of investment in equities.  Correspondingly, any investment 
+in preference shares that do not conform to these conditions shall not be included in  the 
+limits 
+prescribed under this regulation. However, such investment portfolio will be considered  as part of the 
+maximum exposure limit as prescribed under R-1 of these regulations.  
+ 
+4. For the purpose of calculating bank’s/DFI’s exposure, investments will be valued at cost of 
+acquisition unless mentioned otherwise. While calculating the maximum limit for investment in 
+shares, the amount of provisions created against permanent impairment by debiting the Profit &  
+Loss 
+account, as instructed vide BSD Circular No.10 dated July 13, 2004, may be deducted from  the cost of 
+acquisition of such investments and the maximum limit.  
+ 
+5. Financing against Shares/TFCs/Sukuk 
+Banks/DFIs shall not: 
+a) take exposure against the security of shares/TFCs/Sukuk issued by them. 
+b) provide unsecured credit to finance subscription towards floatation of share capital and issue of 
+TFCs/Sukuk. 
+c) take exposure against the non-listed TFCs/Sukuk or the shares of companies not listed on the Stock 
+Exchange(s). However, banks/DFIs may make direct investment in non-listed TFCs. 
+14 
+ 
+d) take exposure on any person against the shares/TFCs/Sukuk issued by that person or its group 
+companies. 
+e) take exposure against ‘sponsor director’s shares’ (issued in their own name or in the name of their 
+family members) of banks/DFIs. 
+f) take exposure on any one person (whether singly or together with other family members or 
+companies owned and controlled by him or his family members) against shares of any 
+commercial bank/DFI in excess of 5% of paid-up capital of the share issuing bank/DFI.  
+g) take exposure against the shares/TFCs of listed companies that are not member of the Central 
+Depository System.  
+h) take  exposure  against  unsecured  or  non-rated  TFCs  or  TFCs rated  below ‘BBB’ or 
+equivalent. Exposure may, however, be taken against unsecured/subordinated TFCs, which are issued 
+by the banks/DFIs for meeting their minimum capital requirements, as per terms and conditions 
+stipulated in BSD Circular No. 8 of June 27, 2006.  
+i) take exposure against shares unless the beneficiary of the facility is absolute owner of the shares so 
+pledged or has the necessary mandate to pledge the shares of third party as security for availing 
+financing facility from the bank/ DFI.  
+ 
+REGULATION R-7  
+GUARANTEES  
+ 
+1. All guarantees issued by the banks/DFIs shall be fully secured, except in the cases mentioned at 
+Annexure-IV where it may be waived up to 50% by the banks/DFIs at their own discretion, provided 
+that banks/DFIs hold at least 20% of the guaranteed amount in the form of liquid assets as security.  
+ 
+2. The banks/DFIs can issue guarantees on behalf of Pakistani firms and companies functioning in 
+Pakistan against the back to back/counter-guarantees of banks/DFIs rated at least ‘A’ or equivalent by a 
+credit rating agency on the approved panel of State Bank of Pakistan. Besides, the counter-guarantee of  
+bank/DFI situated in a foreign country is also acceptable if it has the rating of at least 'A' or 
+equivalent on global or National Rating scale by Standard & Poor, Moody's, Fitch, Japan Credit 
+Rating Agency (JCRA) or a local credit rating agency of the respective country provided the 
+guarantee issuing bank in Pakistan is comfortable with and accepts the counter -guarantee of such 
+foreign bank.  
+ 
+3. Furthermore, the Banks/DFIs may provide guarantees/ performance bonds, in favour of residents of 
+Pakistan, on the basis of counter guarantee of the banks falling within the world ranking of 1000 on the 
+basis of Balance Sheet size. In this regard the banks/DFIs will have a Board approved policy 
+having internal limits for acceptance of such counter guarantees based on, interalia, their own risk 
+appetite and risk profile of the counter-guarantee issuing bank. The Banks/DFIs shall also institute a 
+mechanism to monitor such limits.  
+ 
+4. Banks/DFIs shall ensure that counter-guarantees received are properly evaluated and their own 
+guarantees against such guarantees are issued with due care.  
+ 
+5. Cases where payments are not received within 20 working days by the banks/DFIs when the 
+guarantees of overseas banks are invoked, shall be reported to SBP indicating the steps being taken by 
+the bank/DFI to recover the amount due under the guarantee.  
+ 
+6. In case of back to back letter of credit issued by the banks/DFIs for export oriented goods and 
+services, banks/DFIs are free to decide the security arrangements at their own discretion subject to the 
+condition that the original L/C has been established by branches of guarantee issuing bank or a bank 
+rated at least ‘A’ by Standard & Poor, Moody’s, Fitch or Japan Credit Rating Agency (JCRA).  
+ 
+7. The guarantees shall be for a specific amount and expiry date and shall contain claim lodgment 
+date. However, banks/DFIs are allowed to issue open-ended guarantees without clearance from State 
+Bank of Pakistan provided banks/DFIs have secured their interest by adequate collateral or other 
+arrangements acceptable to the bank/DFI for issuance of such guarantees in favour of Government 
+departments, corporations/autonomous bodies owned/controlled by the Government and guarantees 
+required by the courts.  
+ 
+15 
+ 
+REGULATION R-8  
+CLASSIFICATION AND PROVISIONING FOR ASSETS  
+ 
+1.   Loans/Advances:  
+a) Banks/DFIs shall observe the prudential guidelines given at Annexure-V in the matter of 
+classification of their asset portfolio and provisioning there-against on time based criteria.  
+ 
+b)  In  addition  to  the  time-based  criteria  prescribed  in  Annexure-V,  subjective  evaluation  of 
+performing and non-performing credit portfolio shall be made for risk assessment and, where 
+considered necessary, any account including the performing account will be classified, and the 
+category of classification  determined  on the basis  of  time based  criteria  shall  be  further 
+downgraded. Such evaluation shall be carried out on the basis of credit worthiness of the 
+borrower, its cash flow, operation in the account, adequacy of the security, inclusive of its 
+realizable value and documentation covering the advances.  
+ 
+2.  Benefit of collateral/security held: 
+a) Banks/DFIs are allowed to take the benefit of Forced Sale Value (FSV) of the pledged stocks, plant 
+& machinery under charge,  and  mortgaged  residential,  commercial  and  industrial properties held 
+as collateral against Non Performing Loans (NPLs) for calculating provisioning requirement as 
+tabulated above. 
+The benefit of FSV against NPLs shall not be available after the period prescribed above. For the 
+purpose of determination of FSV, Annexure-VI of PR for Corporate / Commercial Banking shall 
+be followed.  
+b) Banks/DFIs may avail the above benefit of FSV subject to compliance with the following 
+conditions:  
+i.) The additional impact on profitability arising from availing the benefit of FSV shall not be  
+available 
+for payment of cash or stock dividend/bonus to employees.  
+ii.) Heads of Credit of respective banks/DFIs shall ensure that FSV used for taking benefit of 
+provisioning is determined accurately as per guidelines contained in PRs and is reflective of market 
+conditions under forced sale situations; and 
+iii.)   Borrower-wise details of all such cases where banks/DFIs have availed the benefit of FSV shall be 
+maintained for verification by State Bank’s inspection team during regular/special inspection.  
+c) Any misuse of FSV benefit detected during regular/special inspection of State Bank shall
+ 
+attract  strict  punitive  action  under  the  relevant  provisions  of  the  Banking  Companies
+ 
+Ordinance,  1962. Furthermore, State Bank may also withdraw the benefit of FSV from
+ 
+bank/DFI found involved in its misuse.  
+ 
+3. Rescheduling/Restructuring:  
+a)  
+Banks/DFIs may reschedule/restructure their loans as per their policy but it should not merely to 
+avoid classification. The rescheduling/restructuring of non-performing loans shall not change the 
+status of classification of a loan/advance etc. unless the terms and conditions of 
+rescheduling/restructuring are fully met for a period of at least one year (excluding grace period, if 
+any) from the date of such rescheduling/restructuring and at least 10% of the   total restructured loan 
+Category of Asset  
+Forced Sale Value Benefit allowed from 
+the date of classification 
+Mortgaged residential, commercial and industrial 
+properties (land & building only) 
+• 75% for first year  
+• 60% for second year  
+• 45% for third year  
+• 30% for fourth year, and  
+• 20% for fifth year  
+Plant & Machinery under charge  
+• 30% for first year  
+• 20% for second year, and  
+• 10% for third year  
+Pledged stock  
+• 40% for first, second, and third year  
+16 
+ 
+amount (principal + mark-up), is recovered in cash. However, the condition of one year retention 
+period, prescribed for restructured/rescheduled loan account to remain in the classified category, will 
+not apply in case the borrower has repaid or adjusted in cash at least 35% of the total restructured 
+loan amount (principal + mark-up), either at the time of restructuring agreement or later-on during the 
+grace period if any.  
+b)  The unrealized mark-up on loans (declassified after rescheduling/restructuring) shall not be taken 
+to income account unless at least 50% of the amount is realized in cash. However, any short 
+recovery in this respect will not impact the de-classification of this account if all other criteria 
+(meeting the terms and conditions for at least one year and payment of at least 10% of outstanding 
+amount by the borrower) are met. The banks/DFIs are further directed to ensure that status of 
+classification, as well as provisioning, is not changed in relevant reports to the State Bank of 
+Pakistan merely because a loan has been rescheduled or restructured.   However, while reporting to 
+the Credit Information Bureau (CIB) of State Bank of Pakistan, such loans/advances may be shown as 
+‘rescheduled/restructured’ instead of ‘overdue’.  
+c)  
+Where  a  borrower  subsequently  defaults  
+(either   principal   or   mark-up)   after   the  
+rescheduled/restructured loan has been declassified by the bank/DFI as per above guidelines, the loan  
+will   again  be  classified   in   the   same  category  it   was  in   at  the  time  of 
+rescheduling/restructuring and the unrealized markup on such loans taken to income account shall also  
+be  reversed.    However, banks/DFIs at their discretion may further downgrade the classification, 
+taking into account the subjective criteria.  
+d)  At the time of rescheduling/restructuring, banks/DFIs shall consider and examine the requests for  
+working capital strictly on merit, keeping in view the viability of the project/business and 
+appropriately securing their interest etc.  
+e)  All fresh loans granted by the banks/DFIs to a borrower after rescheduling/ restructuring of its 
+existing facilities may be monitored separately, and will be subject to classification under this 
+Regulation on the strength of their own specific terms and conditions.  
+ 
+4.  Investments and Other Assets:  
+The banks shall classify their investments into three categories viz. ‘Held for Trading’, ‘Available for 
+Sale’ and ‘Held to Maturity’. However, investments in subsidiaries and associates shall be reported 
+separately in accordance with International Financial Reporting Standards as applicable in Pakistan 
+and shall not be subject to mark to market. All investments and other assets shall be tested for 
+impairment periodically. Investment portfolio in ‘Held for Trading’ and ‘Available for Sale’ and other 
+assets will be subject to detailed evaluation for the purpose of their classification keeping in view 
+various subjective and objective factors given as under.  
+ 
+a)  Quoted Securities:  
+Government Securities will be valued at PKRV (Reuter Page). TFCs, PTCs, Sukuk and shares will be 
+valued at their market value. The difference between the market value and book value will be treated 
+as surplus/deficit.  
+ 
+b)  Un-quoted Securities:  
+PTCs and TFCs and Sukuk will be classified on the valuation date on the basis of default in their 
+repayment in line with the criteria prescribed for classification of medium and long-term facilities. 
+Shares will be carried at the cost. However, in cases where the breakup value of such shares is less than 
+the cost, the difference of the cost and breakup value will be classified as loss and provided for 
+accordingly by charging to the Profit and Loss account of the bank/DFI.  
+ 
+c)  Treatment of Surplus/deficit:  
+The measurement of surplus/deficit shall be done on portfolio basis in line with BSD Circular No. 10 of 
+2004 as amended from time to time. That is, surplus/deficit arising as a result of revaluation of ‘Held 
+for Trading’ securities shall be taken into Profit & Loss Account. The surplus/deficit on revaluation of 
+‘Available for Sale’ category shall be taken to “Surplus/Deficit on Revaluation of Securities” through 
+“Statement of Comprehensive Income.” and not to Profit and Loss Account. Impairment in the value of 
+‘Available for Sale’ or ‘Held to Maturity’ securities will be provided for by charging it to the Profit and 
+Loss Account.  
+ 
+d)  Other Assets:  
+Classification of Other Assets and provision required there-against shall be determined keeping in view 
+17 
+ 
+the risk involved and the requirements of the International Financial Reporting Standards.  
+ 
+5.  Timing of Creating Provisions:  
+Banks/DFIs shall review, at least on a quarterly basis, the collectability of their loans/advances 
+portfolio and shall properly document the evaluations so made. Shortfall in provisioning, if any, 
+determined, as a result of quarterly assessment shall be provided for immediately in their books of 
+accounts by the banks/DFIs on quarterly basis.  
+ 
+6.  Reversal of Provision:  
+In case of cash recovery banks/DFIs may reverse specific provision held against classified assets, 
+subject to the condition that provision will be maintained in accordance with Annexure V.  
+ 
+However, the accounts classified and provision made on the advice of State Bank of Pakistan will not 
+be declassified / provision will not be reversed without prior approval of State Bank of Pakistan, 
+except in cases where cash recovery has been made through customer’s own sources, to the extent that 
+balance provision is maintained in accordance with this regulation.  
+ 
+7.  Verification by the Auditors:  
+The external auditors as a part of their annual audits of banks/DFIs shall verify that all requirements 
+of Regulation R-8 for classification and provisioning for assets have been complied with. The State 
+Bank of Pakistan shall also check the adequacy of provisioning during on-site inspection.  
+ 
+REGULATION R-9  
+ASSUMING OBLIGATIONS ON BEHALF OF NBFCs  
+ 
+1. Banks/DFIs shall not issue any guarantee or letter of comfort nor assume any obligation 
+whatsoever in respect of deposits, sale of investment certificates, issue of commercial papers, or 
+borrowings of any non-banking finance company.  
+2. Banks/DFIs may, however, underwrite TFCs, commercial papers and other debt instruments issued 
+by NBFCs, and issue guarantees in favor of multilateral agencies for providing credit to NBFCs.  
+Banks/DFIs may also allow exposure to any of their client against the guarantee of an NBFC which is 
+rated at least ‘A’ or equivalent by a credit rating agency on the approved panel of State Bank of 
+Pakistan. However, the banks/DFIs shall ensure that such aggregate exposure remains within the 
+single obligor exposure limit as prescribed in Regulation R-1.  
+3. Before taking exposure against the guarantee of NBFC, banks/DFIs shall ensure that total 
+guarantees issued by an NBFC in favour of banks/DFIs do not exceed 2.5 times of capital of the 
+NBFC as evidenced by the latest available audited financial statements of the NBFC and such other 
+means as the banks/DFIs may deem appropriate.  
+ 
+REGULATION R-10  
+PAYMENT OF DIVIDEND  
+ 
+Banks/DFIs shall not pay any dividend on their shares unless and until:  
+a) they meet the minimum capital requirement  (MCR) and capital adequacy ratio requirement 
+(CAR) as laid down by the State Bank of Pakistan from time to time;  
+b) all their classified assets have been fully and duly provided for in accordance with the Prudential 
+Regulations and to the satisfaction of the State Bank of Pakistan; and  
+c) all the requirements laid down in Banking Companies Ordinance, 1962 relating to payment of 
+dividend are fully complied.  
+                
+REGULATION G-1  
+CORPORATE GOVERNANCE/BOARD OF DIRECTORS AND MANAGEMENT  
+ 
+The following guidelines are required to be followed by banks/DFIs incorporated in Pakistan. They 
+will also follow ‘Code of Corporate Governance’ issued by the Securities & Exchange 
+Commission of Pakistan (SECP) so long as any provision thereof does not conflict with any 
+provision of the Banking Companies Ordinance, 1962, Prudential Regulations and the 
+instructions/guidelines issued by the State Bank of Pakistan. Foreign banks are required to adhere to 
+these guidelines wherever feasible and applicable. However, they need not necessarily seek approval 
+18 
+ 
+of their Board of Directors, as stipulated below in the case of local banks/DFIs:  
+ 
+A.    FIT AND PROPER TEST  
+The “Fit and Proper Test” (FPT) is applicable on the sponsors (both individual & companies) who 
+apply for a commercial banking license, the investors acquiring strategic/controlling stake in the 
+banks/DFIs, major shareholders of the banking companies and for the appointment of Directors, 
+CEO, and Key Executives of the banks/DFIs. The fitness & propriety will be assessed on the 
+following broad elements (Annexure A): 
+a) Integrity, Honesty & Reputation  
+b) Track Record 
+c) Solvency & Integrity 
+d) Qualification & Experience 
+e) Conflict of Interest 
+f) Others 
+ 
+2. First three elements are applicable to all categories of individuals, whereas the last three elements 
+will be considered while assessing the FPT of Directors, CEO& Key Executives of banks/DFIs. In 
+addition to above requirements, sponsors and strategic investors are evaluated respectively in terms 
+of “Guidelines & Criteria for setting  up  of  a  Commercial  Bank”  & “Criteria  for  Establishment  
+of  Islamic Commercial Banks” issued by SBP and Code of Corporate Governance issued by SECP.  
+3.  The sponsors, the strategic investors, and appointment of the Directors and CEO require prior 
+clearance in writing from SBP. The CEO and Key Executives shall be full time employees of the 
+bank/DFI. The Directors and CEO will not assume the charge of their respective offices until their 
+appointments are approved in writing by SBP. All the requests for seeking approval of SBP for 
+appointment of Directors& CEO of the banks/DFIs should be routed through respective banks/DFIs 
+along with information on Annexure-I & II (of Corporate Governance).  
+4.  The appointment of Key Executives will not require prior clearance of SBP. However, Banks 
+will seek State Bank’s prior approval for overseas appointments.1  Further, the banks/DFIs must 
+themselves ensure while appointing Key Executives that they qualify FPT in letter and spirit. The 
+information on appointment of Key Executive is required to be forwarded to SBP on prescribed 
+format at Annexure-III (of Corporate Governance) within seven days of assumption of the charge of 
+the post by the incumbent. The information submitted may be checked on post fact basis by 
+Banking Inspection Department of SBP during inspection.  
+5.  Further, to ensure compliance with SBP’s FPT Criteria in respect of appointment on key positions, 
+the Banks/DFIs shall conduct prior self assessment of the fitness and propriety of their Directors, 
+Presidents/CEOs and Key Executives and furnish an undertaking to this effect as per enclosed 
+Annexure-IV(of Corporate Governance). Any FPT documents received without the undertaking shall 
+not be considered by SBP.2 
+6. 
+Moreover, 
+the 
+appointment, 
+compensation 
+package 
+(including 
+retirement 
+benefits), 
+promotion/demotion and renewal of the employment contracts of Key Executives shall invariably be 
+approved by the Board of Directors or the concerned Board Committee of the Bank/DFI. The Board 
+of Directors shall also formulate an organization-wide rotation policy, inter-alia ensuring that the Key 
+Executives are rotated appropriately after having served on a particular position for a reasonable time 
+(five to six years). However, for those Key Executives who have already completed six years in the 
+same position, the rotation should take effect immediately after implementation of rotation policy. 
+Under extreme situations only, the positions of Head of IT, Treasury, HR, Islamic Banking, Legal, 
+Company/Corporate Secretary, Chief Operating Officer (COO) and Deputy CEO/Deputy MD may be 
+exempted from compulsory rotation. Further, the Banks/DFIs shall ensure that none of the posts of 
+Key Executives shall be filled by an executive on acting/additional charge basis for more than three 
+(3) months. 
+ 
+7. The sponsors are required to seek prior approval of SBP along with the information at 
+                                                            
+1   Inserted vide BPRD Circular No. 05 of 2009 dated March 05, 2009 
+2  Para 5 & 6 inserted vide BPRD Circular No. 5 of 2015 dated March 12, 2015. 
+19 
+ 
+Annexure-II and other information as required in the “Guidelines & Criteria for Setting up a 
+Commercial Bank” and” Criteria for Establishment of Islamic  Commercial  Banks”.  The  
+strategic  investors  contemplating  to  acquire strategic/controlling stake are required to seek 
+prior approval from SBP either directly or through the concerned department/Ministry of 
+Government executing strategic sale transaction of the bank as required and provided in the 
+transaction structure. The bank should also ensure to give prior intimation to SBP before dealing with 
+any investors/bank/institutions/person for sale/purchase of sponsors/ strategic shares and seek 
+approval of SBP for conducting due diligence of bank/DFI in terms of BPD Circular No. 8 of 2003.  
+ 
+8. The major shareholders are required to seek prior approval in writing from SBP for acquiring 5% 
+or more shares along-with information on Annexure-II, with proper justification for holding more 
+than 5% shares of the paid up capital. All the banks/DFIs are required to ensure that major 
+shareholders have sought such an approval from SBP and place it on record.  
+ 
+9. Fit & Proper Test prescribed in the guideline is continuous in nature. All persons subject to 
+FPT should immediately submit any change in the information already submitted (at the time of 
+clearance) either through Company Secretary or Human Resources Department to Banking Policy 
+and Regulations Department. Violation of the instructions, circumvention, concealment, misreporting 
+and delay in submission of information to SBP may result in withdrawal of SBP approval, besides 
+penal action under the provisions of BCO.  
+ 
+10. Deposit of sponsor shares in blocked account with Central Depository Company of Pakistan 
+(CDC).1 
+a) All sponsor shares and subsequent right and bonus shares shall be deposited in a blocked 
+account with CDC. The procedure for deposit of sponsor shares in the  CDC blocked account is 
+provided at Annexure-AA of Corporate Governance (BPRD Circular No. 04 of 2008).  
+b) No withdrawal of the sponsor shares from the blocked account would be allowed without prior   
+written permission of SBP.  
+c)  Blocked Account should be opened by the sponsor shareholders of banks  exclusively 
+for 
+deposit of the sponsor shares and subsequent right and bonus shares issued thereon.  
+d) Charges for opening and operating of the blocked account with CDC will be borne by the 
+sponsor shareholders.  
+e) These instructions shall not be applicable to the shareholding of Federal and Provincial 
+governments in banks.  
+ 
+11.  
+Every Chairman, Managing Director or Chief Executive Officer (by whatever name called) of a 
+banking company shall furnish to the State Bank of Pakistan through the banking company returns on 
+yearly basis containing full particulars of the extent and value of his holding of shares, whether 
+directly or indirectly, in the banking company and of any change in the extent of such holding or any 
+variation in the rights attaching thereto as per attached annexure (referred as Annexure-I in the 
+circular) within 15 days of the close of each calendar year.2 
+ 
+B.     RESPONSIBILITIES OF THE BOARD OF DIRECTORS:  
+ 
+1. The Board of Directors shall assume its role independent of the influence of the 
+Management and should know its responsibilities and powers in clear terms. It should be 
+ensured that the Board of Directors focus on policy making and general direction, oversight and 
+supervision of the affairs and business of the bank/DFI and does not play any role in the day-
+to-day operations, as that is the role of the Management.  
+ 
+2. The Board shall approve and monitor the objectives, strategies and overall business plans of the 
+institution and shall oversee that the affairs of the institution are carried out prudently within the 
+framework of existing laws & regulations and high business ethics.  
+ 
+3. All the members of the Board should undertake and fulfill their duties & responsibilities 
+                                                            
+1   Inserted vide BPRD Circular No. 4 of 2008 dated May 28, 2008 
+2   Introduced vide BPRD Circular No. 04 of 2010 dated March 04, 2010. 
+20 
+ 
+keeping in view their legal obligations under all the applicable laws and regulations. All Board 
+members should preferably attend at least 1-2 weeks training program(s) which will enable 
+them to play effective role as a director of bank/DFI, at an institution like Pakistan Institute of 
+Corporate Governance or other similar institution within first year of their directorship on the 
+Board of bank/DFI. Further, the Company Secretary of the Banks/DFIs shall provide to all Board 
+members the extracts from the relevant laws, rules and regulations regarding their powers, duties 
+and responsibilities and keep them updated of any revisions/amendments therein.1 
+ 
+4. The Board shall clearly define the authorities and key responsibilities of both the Directors and 
+the Senior Management without delegating its policy-making powers to the Management and 
+shall ensure that the Management is in the hands of qualified personnel.  
+ 
+5. The Board shall approve and ensure implementation of policies, including but not limited to, in 
+areas of Risk Management, Credit, Treasury & Investment, Internal Control System and Audit, IT 
+Security, Human Resource, Expenditure, Accounting & Disclosure,  and  any  other  
+operational  area  which  the  Board  and/or  the Management may deem appropriate from 
+time to time. The Board shall also be responsible to review and update existing policies 
+periodically and whenever circumstances justify.  
+ 
+6. As regards Internal Audit or Internal Control, a separate department shall be created which shall 
+be manned preferably by professionals responsible to conduct audit  of  the  bank’s/DFI’s  
+various  Divisions,  Offices,  Units,  Branches  etc.  in accordance with the guidelines of the 
+Audit Manual duly approved by the Broad of Directors. The Head of this department will report 
+directly to the Board of Directors or Board Committee on Internal Audit.  
+ 
+7. The business conditions and markets are ever changing and so are their requirements. The 
+Board, therefore, is required to ensure existence of an effective ‘Management Information 
+System’  to  remain  fully  informed  of  the  activities, operating performance and financial 
+condition of the institution, the environment in which it operates, the various risks it is exposed 
+to and to evaluate performance of the Management at regular intervals.  
+ 
+8. The Board should meet frequently (preferably on monthly basis, but in any event, not less than 
+once every quarter) and the individual directors of an institution should attend at least half of the 
+meetings held in a financial year. The Board should ensure that it receives sufficient information 
+from Management on the agenda items well in advance of each meeting to enable it to 
+effectively participate in and contribute to each meeting. Any advisor, if appointed by the 
+Board member, shall neither attend the Board meeting(s) on behalf of the Board member 
+nor shall regularly sit in the Board meeting(s) as an observer or any other capacity. Further, the 
+banks/DFIs, incorporated in Pakistan, shall submit certified copies of the minutes of meeting of 
+their Board of Directors (BoD) and the General Meetings /Extra Ordinary General Meetings 
+(AGMs/EOGMs), within twenty one days of the date of the meeting to the Director, Off-site 
+Supervision and Enforcement Department, State Bank of Pakistan, Karachi. It may be ensured 
+that the minutes also contain the details of matters decided/resolved through circulation. The 
+minutes may be forwarded in the form of hard copies, duly certified by the company secretary 
+along with soft copies on a floppy diskette/compact disk.2 
+ 
+9. The Board should carry out its responsibilities in such a way that the external auditors and 
+supervisors can see and form judgment on the quality of Board’s work and its contributions 
+through proper and detailed minutes of the deliberations held and decisions taken during the Board 
+meetings.  
+ 
+10. To share the load of activities, the Board may form specialized committees with well-defined 
+objectives, authorities and tenure. These committees, comprising of at least one non-executive 
+Board member, shall oversee areas like Audit, Risk Management, Credit, and Recruitment, 
+Remuneration & Nomination. The Chairman of the Board shall not be member of the 
+aforementioned committees. Further, the Audit Committee of the Board shall invariably be 
+                                                            
+1   Introduced vide BPRD Circular Letter No. 13 of 2011 dated May 28, 2011. 
+2   Introduced vide BPRD Circular No. 02 of 2013 dated March 19, 2013. 
+21 
+ 
+chaired by an Independent Director.  These committees of the Board should neither indulge in 
+day-to-day affairs/operations of the bank nor enjoy any credit approval authority for 
+transaction/limits. These committees should apprise the Board of their activities and 
+achievements on regular basis.1  
+ 
+11. The Board should ensure that it receives management letter from the external auditors without 
+delay. It should also be ensured that appropriate action is taken in consultation with the Audit 
+Committee of the Board to deal with control or other weaknesses identified in the 
+management letter. A copy of that letter should be submitted to the State Bank of Pakistan so 
+that it can monitor follow-up actions.  
+ 
+12. Whenever the Board of Directors/relevant appointing/removing authority of a bank/DFI 
+considers to remove its President/Chief Executive Officer/Country Head/Country Manager 
+before the expiration of his/her term of office through the defined statutory process, State Bank of 
+Pakistan (SBP) must invariably be informed at least two months ahead of the implementation of 
+such decision along-with the reasons for the same.2  
+ 
+13. The President/CEO/Country Head/Country Manager, wherever, decides to tender resignation 
+before completion of his/her term of office, he/she must inform SBP at least two months before 
+tendering resignation.  
+ 
+14. The Chairman of the Board of Directors/relevant removing authority of bank/DFI would be 
+responsible for submission of the requisite information to SBP.  
+ 
+15. Acting CEO appointed pursuant to resignation/removal of the CEO is invariably required to meet 
+the FPT Criteria prescribed for the CEO and the Banks/DFIs shall duly submit FPT documents of 
+such person to SBP before assumption of charge. In case of temporary vacation (not exceeding 
+one month) of the office of CEO, the Banks/DFIs shall ensure to entrust charge of the office of 
+CEO to such an officer who meets the FPT Criteria prescribed for Key Executives and whose 
+FPT documents have already been submitted to SBP.3  
+ 
+16. The banks incorporated in Pakistan having foreign participation/equity can hold board meetings 
+abroad in following manner in a calendar year4: 
+17.  
+17. The bank concerned will, however, only inform SBP in writing before its Board Meeting abroad in 
+accordance with the above instructions. The banks/DFIs are advised to hold BoDs meetings at the 
+place of residence of foreign directors. Further, those having no foreign shareholding and 
+directorship shall not be allowed BoDs meetings abroad. They are also encouraged to make 
+maximum use of video conferencing facilities for Board Meetings. 
+C. MANAGEMENT:  
+No member of the Board of Directors of a bank/DFI holding 5% or more of the paid-up capital of the 
+bank/DFI either individually or in concert with family members or concerns /companies  in  which  
+                                                            
+1   Amended vide BPRD Circular No. 9 of 2015 dated May 06, 2015.  
+2   Para 12, 13, & 14 amended vide BPRD Circular No. 9 of 2008 dated August 19, 2008 
+3   Inserted vide BPRD Circular Letter No. 12 of 2011 dated May 13, 2011 
+4   Revised vide BPRD Circular No. 11 of 2013 dated May  06, 2013 
+i. Banks having more than 51% foreign shareholding and
+minimum two directors residing abroad. 
+Maximum of 4 Board Meetings.
+ii. Banks having more than 40% foreign shareholding and
+minimum one director residing abroad. 
+3 Board Meetings. 
+iii. Banks having upto 40% foreign shareholding and minimum
+one director residing abroad. 
+1 Board Meeting. 
+22 
+ 
+he/she  has  the  controlling  interest,  shall  be appointed in the bank  /DFI in any capacity 
+except as Chief Executive of the bank/DFI. Further, maximum two members of Board of 
+Directors of a bank/DFI including its CEO can be the Executive Directors.  
+ 
+2.  The banks/DFIs during a calendar year may pay a reasonable and appropriate remuneration 
+for attending the Board or its committee(s) meeting(s), to their non-executive directors and 
+chairman. The scale of remuneration to be paid to the non-executive directors and chairman for 
+attending the Board and/or committee meetings shall be approved by the shareholders on a pre 
+or post facto basis in the Annual General Meeting (AGM). However, no such remuneration 
+shall be paid to the executive directors except usual TA/DA as per bank’s/DFI’s standard rules 
+and regulations. No consultancy or allied work will be awarded to the directors or to the 
+firms/institutions/companies etc. in which they hold substantial interest. Further, the 
+administrative expenses pertaining to the office, staff and security allocated to the Chairman of 
+the Board should be determined rationally.1 
+  
+3.   Chairman of the Board of Directors may, if deemed necessary, appoint one advisor to advise 
+and facilitate him in discharge of his duties/responsibilities. The appointment of such an advisor will 
+be subject to the following conditions:  
+a) The advisor must possess the required technical experience relating to banking and finance at 
+a senior level to enable him /her to render a professional advice to the Board.  
+b) The terms of reference of the advisor shall be approved by the Board.  
+c) A reasonable remuneration may be paid to the advisor with the approval of the Board of 
+Directors.  
+d) The  advisor  may  attend  the  meetings  of  Board  of  Directors  and  Board Committees 
+in which his/her participation is required but he/she will not be a member of the Board and/or 
+its committees.  
+e) The advisor shall be required to sign an appropriate confidentiality agreement to ensure 
+confidentiality of documents/information that may come to his/her knowledge, before 
+assuming any such role.2 
+ 
+D. COMPLIANCE OFFICER:  
+Banks/DFIs shall put in place a Compliance Program to ensure that all relevant laws are complied 
+with, in letter and spirit, and, thus, minimize legal and regulatory risks.  For this purpose, the 
+Board of Directors, or Country Manager in case of foreign banks, shall appoint/designate a 
+suitably qualified and experienced person as Compliance Officer on a countrywide basis, who 
+may be assisted by other Compliance Officers down the line. The Head of Compliance will report 
+directly to the President/Chief Executive Officer of the bank/DFI. The Compliance Officers will 
+primarily be responsible for banks/DFI’s effective compliance relating to:  
+(a)   SBP Prudential Regulations.  
+(b)   Relevant provisions of existing laws and regulations.  
+(c)   Guidelines for KYC.  
+(d)   Anti money laundering laws and regulations.  
+(e)   Timely submission of accurate data/returns to regulator and other agencies.  
+(f)   Monitor and report suspicious transactions to President/Chief Executive  
+Officer of the bank/DFI 
+and other related agencies.  
+2. Banks/DFIs are, however, free to add other areas of compliance under the responsibilities of 
+Compliance Officer and consider setting up a compliance committee under him, as they deem fit to 
+protect the interest of the institution.  
+3. The  Compliance  Officers  will (i) serve  as  a  contact  point  between President/Chief  
+Executive  Officer  and  senior  management,  with  regard  to functioning  of  the  compliance  
+program  (ii)  provide  assistance  in  this  area  to branches and other departments of the bank/DFI, 
+and  (iii) act as liaison with State Bank of Pakistan concerning the issues related to compliance.’  
+4. Banks/DFIs are, therefore, advised to put in place, in writing, a complete program of 
+compliance down the line under the supervision of a Compliance Officer.  
+ 
+ 
+                                                            
+1   Amended vide BPRD Circular No. 9 of 2015 dated May 06, 2015 
+2   Amended vide BPRD Circular Letter No. 12 of 2009 dated April 24, 2009 
+23 
+ 
+E. FITNESS AND PROPRIETY OF KEY EXECUTIVES:  
+Banks/DFIs shall strictly follow the guidelines contained in the ‘Fit and Proper Test’ (FPT) during the 
+course of appointment of key executives. 
+ 
+2. The banks/DFIs should also develop and implement appropriate screening procedures  to  ensure  
+high  standards  and  integrity  at  the  time  of  hiring  all employees, whether contractual or 
+permanent.  
+ 
+3. In case it is found at subsequent stage/during the course of inspection that guidelines of FPT 
+have not been followed or the incumbent is not a fit and proper person, strict punitive action will be 
+taken under the relevant provisions of Banking Companies Ordinance 1962, in addition to directing 
+the banks/DFIs to dispense with the services of concerned officer if recruited afresh; and in case 
+of existing employee, the same to be transferred from the post immediately.  
+                                 
+REGULATION G-2  
+DEALING WITH DIRECTORS, MAJOR SHARE-HOLDERS AND EMPLOYEES OF THE 
+BANKS/DFIs  
+ 
+Banks/DFIs shall not enter into leasing, renting and sale/purchase of any kind with their directors, 
+officers, employees or such persons who either individually or in concert with family members 
+beneficially own 5% or more of the equity of the bank/DFI.  This restriction does not apply in case 
+of purchase of vehicles, laptops, mobile phone devices and iPads1 by the paid directors, officers or 
+employees of the banks/DFIs which remained in their own use, provided such sale is covered under 
+the employees service rules duly approved by the Board of Directors of the banks/DFIs and is 
+effected by the banks/DFIs at least at book value at the date of such transaction.  
+ 
+2.  
+Banks/DFIs shall not: 
+a)  take unsecured exposure on, or take exposure against the guarantee of: 
+i)   any of their directors; 
+ii)  any of the family members of any of their directors; 
+iii) any firm or private company in which the bank/DFI or any of the   persons  referred to in (i) or 
+(ii) are interested as director, proprietor or partner; or  
+iv) any public limited company in which the bank/DFI or any of the persons as aforesaid are 
+substantially interested; and  
+v) their Chief Executive and shareholders holding 5% or more of the share capital of the 
+bank/DFI, including their spouses, parents, and children or to firms and companies in which 
+they are interested as partners, directors or shareholders holding 5% or more of the share 
+capital of that concern.  
+ 
+b)  take any exposure on any of their directors or to individuals, firms or companies  in which they or 
+any of their directors,  either directly in the borrowing entity or in any of its group companies, hold 
+key management positions, or are interested  
+as partner, director or guarantor, as the case may be,   
+their Chief Executives and shareholders holding 5% or more of the share capital of the bank/DFI, 
+including their spouses, parents, and children or to firms and companies in which they are interested 
+as partners, directors or shareholders holding 5% or more of the share capital of that concern, 
+without the approval of the majority of the directors of that bank/DFI excluding the director 
+concerned. The facilities to the persons mentioned above shall be extended at market terms and 
+conditions and be dealt with at arm length basis.  
+ 
+REGULATION G-3  
+CONTRIBUTIONS AND DONATIONS FOR CHARITABLE, SOCIAL, EDUCATIONAL AND 
+PUBLIC WELFARE PURPOSES  
+ 
+Banks/DFIs shall strictly observe the following rules in the matter of making any 
+donation/contribution for charitable, social, educational or public welfare purposes: 
+i) 
+The total donations/contributions made by the bank/DFI during the year shall not exceed such 
+amount as approved by their Board of Directors. It is expected that banks/DFIs making these 
+                                                            
+1 Introduced vide BPRD Circular Letter No. 32 of  2013 dated December 17, 2013 
+24 
+ 
+donations/contributions would have already met provisioning and capital adequacy requirements.  
+ii) The banks/DFIs shall develop policy/guidelines duly approved by the Board of Directors for 
+making donations/contributions. 
+ 
+2.     All donations or contributions to be made during the year must be specifically approved by the 
+Board of Directors on pre or post facto basis as convenient.  
+ 
+3.    Banks/DFIs are further directed to expressly disclose in their annual audited financial 
+statements the total donation/contribution made during the year along with names of donees, to 
+whom total donations/ contributions during the year were made in excess of Rs 100,000/. In the 
+case of donations where any director or his family members have interest in the donee, the names of 
+such directors, their interest in the donee and the names and addresses of all donees, shall also be 
+given.  
+ 
+REGULATION G-4  
+CREDIT RATING  
+ 
+With a view to safeguard the interest of prospective investors, depositors and creditors, it shall 
+be mandatory for all banks/DFIs to have themselves credit rated by a credit rating agency on the 
+approved panel of the State Bank of Pakistan.  
+2.  
+Foreign banks which are credit rated by M/s. Standard & Poor, Moody’s Fitch-Ibca and 
+Japan Credit Rating Agency (JCRA) are given a minimum rating of A3/A- and above shall be 
+exempt from the application of this requirement. All other foreign banks have to go through credit 
+rating process in Pakistan.  
+3.  
+The credit rating will be an ongoing process i.e. credit rating should be updated on a 
+continuous basis from year to year, within six months from the date of close  of  each  financial  year  
+and  the  rating report  complete  in  all  respects  be submitted to the State Bank of Pakistan and 
+made public within a period of seven days of the notification of rating by the credit rating agency. 
+Further, the banks/DFIs will disclose their credit rating prominently in their published annual and 
+quarterly financial statements.  
+ 
+REGULATION O-1 
+UNDERTAKING OF CASH PAYMENTS OUTSIDE THE BANK’S AUTHORIZED PLACE OF 
+BUSINESS  
+ 
+Banks shall not undertake any business of cash payments, other than the authorized place of 
+business, except through the installation of Automated Teller Machine (ATM). Banks desirous of 
+providing the facility of withdrawal through Authorized Merchant Establishments at various Points of 
+Sale (POS) may do so upto a maximum cash limit of Rs 10,000/- For this purpose, adequate and 
+suitable security measures should be put in place for cash feeding and safety of the Automated Teller 
+Machines. 
+ 
+2. Branchless banking receipts/payments are allowed in accordance with branchless banking 
+regulations.  
+ 
+3. Banks may do collection and payment of cash for their prime customers through cash carrying 
+companies registered with concerned Government department. This facility should, however, be 
+provided through designated branches of the banks and after the banks have devised procedures 
+including necessary security measures.  
+ 
+REGULATION O-2  
+WINDOW DRESSING  
+ 
+Banks/DFIs shall refrain from  adopting any measures or  practices whereby they would either 
+artificially or temporarily show an ostensibly different position of bank’s/DFI’s accounts as given in 
+their  financial  statements.  Particular  care  shall  be  taken  in  showing their  deposits,  MCR, non-
+performing loans/assets, provisioning, profit,  inter-branch  and inter-bank accounts, or  any other 
+method to artificially inflate balance sheet or show improved profitability.  
+ 
+25 
+ 
+REGULATION O-3  
+RECONCILIATION OF INTER-BRANCH ACCOUNTS  
+AND SETTLEMENT OF SUSPENSE ACCOUNT ENTRIES  
+ 
+All entries outstanding in the Inter-Branch Accounts (by whatever name called)    and/or Suspense 
+Account must be reconciled/cleared and taken to the proper head of account within a maximum 
+period of 30 days from the date the entry is made in the above-named accounts.  
+ 
+2. Entries made on account of tax at source, advance tax paid, tax recoverable, advance expense on 
+new branches, advance rent paid, legal expenses, mark-up/service charge recoverable, Qarze Hasna 
+for marriage, and forward cover fee, shall not be classified as Suspense Account and may be recorded 
+in  their  respective  head  of  account  under  other  assets  and  the  above instructions shall  not  be 
+applicable to these items . Further, outstanding amount of the premium on Crop Loan Insurance 
+Scheme (CLIS) receivable from Government of Pakistan (GoP) shall also be classified in other assets. 
+The outstanding amount shall, however, be reconciled/cleared immediately on reimbursement of 
+premium amount from the GoP. Besides, entries relating to frauds and forgeries, cash theft and looted, 
+payments against equity, scrips/debt instruments and contributory payments of capital nature to be 
+capitalized at a later stage shall also be excluded from the purview of the said regulation. The 
+exclusion of entries relating to frauds and forgeries, cash theft and looted will, however, be subject to 
+the condition that the same are cleared immediately on receipt of insurance claims.  
+ 
+3. Banks/DFIs shall institute an effective internal control system for the operations of Inter-Branch 
+and Suspense Accounts, which ensures reconciliation/clearing of the entries in shortest possible time 
+and also clearly fixes the responsibilities on the official(s) for neglecting the timely reconciliation and 
+clearance.  
+ 
+REGULATION O-4  
+MAINTENANCE OF ASSETS IN PAKISTAN  
+ 
+Every bank/DFI shall maintain in Pakistan not less than 80% of the assets created by it against such 
+time and demand liabilities as specified in Part-A of Form X (prescribed under Rule 17 of the 
+Banking Companies Rules, 1963). Accordingly, assets held abroad by any bank/DFI shall not, at any 
+point in time, exceed 20% of its time and demand liabilities specified in the said Form X. All other 
+assets financed from sources other than time and demand liabilities specified in the said Form X shall 
+be held within Pakistan.  
+ 
+REGULATION O-5  
+FOREIGN CURRENCY DEPOSITS UNDER FE 25-1998  
+ 
+Banks shall not invest FE 25 deposits in foreign currency/local currency denominated instruments 
+below investment grade. Neither, shall they invest/place such deposits in fund management schemes 
+of other banks/DFIs/NBFCs whether in Pakistan or abroad.  
+2. Banks shall be required to maintain the prescribed ratio of Cash Reserve/Special Cash Reserve 
+against FE 25 deposits in US Dollars.  
+3. Placement of funds of FE-25 deposits with any one bank/financial institution, whether in Pakistan 
+or abroad, shall be subject to the following conditions:  
+a) The investing bank shall comply with Regulation R-1 (Annexure-1 Para G), which mentions 
+different weightages according to credit ratings of financial institutions.  
+b) The investing bank will not place in a single institution an amount exceeding 25% of the total 
+investable funds, available with the investing bank, under the FE-25 Deposit Scheme.  
+The conditions above shall, however, not be applicable to placement of funds by the bank with its 
+own branches overseas. Furthermore, compliance with all other relevant Prudential Regulations shall 
+also be ensured.  
+4. Banks shall be free to decide the rate of return on deposits mobilized under FE-25.  
+5. Banks shall be free to use such deposits for their trade-related activities provided the exchange risks 
+are adequately covered and a square position is maintained.  
+6. Foreign currency deposits mobilized under FE 25 scheme, after netting-off the deposits utilized to 
+finance trade related activities such as financing against Import and Export documents, should not at 
+any point exceed twenty percent of the local currency deposits of the banks at the close of business on 
+26 
+ 
+the last working day of the preceding quarter. Banks/DFIs may also exclude FE-25 Deposits in the 
+form of the Foreign Direct Investment and funds received for social and economic uplift through 
+international donor agencies/welfare organizations from the calculation of above limit of 20%. This 
+will, however, be subject to the condition that the banks/DFIs will obtain an undertaking from the 
+Account Holder that such funds are remitted from abroad and would be used for poverty alleviation 
+and socio-economic uplift. The genuineness of all such exclusions will be verified by the SBP 
+Inspectors during the subsequent inspections.  
+7. Banks will report the amount of FE 25 deposits and their utilization in the Weekly Statement of 
+Position through reporting chart of account DWH Portal as required by the SBP.  
+ 
+******************** 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+ 
+ 
+ANNEXURE-I 
+GUIDELINES REGARDING LIMIT ON EXPOSURE  
+TO A SINGLE OBLIGOR UNDER REGULATION R-1 
+ 
+1. In arriving at exposure under Regulation R-1: 
+ 
+A) 100% of the deposits placed with lending bank/DFI, under perfected lien and in the same currency, 
+as that of the loan, shall be deducted. 
+ 
+B) 90% of the following shall be deducted; 
+i) deposits placed with the lending bank/DFI, under perfected lien, in a currency other than that of the 
+loan; 
+ii) deposits with another bank/DFI under perfected lien; 
+iii) 
+encashment value of Federal Investment Bonds, Pakistan Investment Bonds, Treasury Bills and 
+National Saving Scheme securities, lodged by the borrower as collateral; and 
+iv) 
+Pak. Rupee equivalent of face value of Special US Dollar Bonds converted at inter-bank rate, 
+lodged by the borrower as collateral. 
+ 
+C) 85% of the unconditional financial guarantees accepted as collateral and payable on demand by 
+banks/DFIs, rated at least ‘A’ or equivalent by a recognized rating agency) shall be deducted. Similar 
+weightage to guarantees issued by the International Finance Corporation (IFC), Commonwealth 
+Development Corporation (CDC) Deutsche Investitions und Entwicklungsgesellschaft mbH (DEG), 
+Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden  N.V (FMO) and Asian 
+Development Bank (ADB) shall also apply. 
+ 
+D) 50% of listed Term Finance Certificates held as security with duly marked lien shall be deducted. 
+The TFCs to qualify for this purpose should have been rated at least ‘A’ or equivalent by a credit 
+rating agency on the approved panel of State Bank of Pakistan. 
+ 
+E) Weightage of 10% shall be given to pre-shipment/post-shipment credit provided to finance exports 
+of goods covered by letter of credit/firm contracts including financing provided from the bank’s 
+/DFI’s own sources. 
+ 
+F) Weightage of 50% shall be given to; 
+i) documentary credits (except Standby Letter of Credits where 100% exposure would be counted) 
+opened by banks/DFIs; 
+ii) guarantees/bonds other than financial guarantees;  
+iii) 
+underwriting commitments. 
+ 
+G) The following different weightages will be applicable to exposure taken against commercial 
+banks/DFIs in respect of placements; 
+i) 
+25% weightage on exposure to banks/DFIs with ‘AAA’ rating. 
+ii) 50% weightage on exposure to banks/DFIs rated ‘A' and AA. 
+iii) 100% weightage on exposure to banks /DFIs rated below ‘A’. 
+ 
+The banks/DFIs shall ensure that the overall limit for each financial institution in respect of inter-
+bank placements is invariably approved by their Board of Directors. 
+ 
+2. For the purpose of the Regulation R-1, exposure shall not include the following: 
+ 
+a.) Loans and advances (including bills purchased and discounted) given to the Federal Government or 
+any of their agencies under the commodity operations program of the Federal Government, or 
+guaranteed by the Federal Government. 
+ 
+b.) 
+Obligations under letters of credit and letters of guarantee to the extent of cash margin held by the 
+bank/DFI. 
+ 
+28 
+ 
+c.) Letters of credit, which do not create any obligation on the part of the bank/DFI (no liability L/C) to 
+make payments on account of imports. 
+ 
+d.) 
+Letters of credit opened on behalf of Federal Government where payment is guaranteed by State 
+Bank of Pakistan/Federal Government. 
+ 
+ 
+ 
+e.) Facilities provided to commercial banks/DFIs through REPO transactions with underlying SLR 
+eligible securities. 
+f.) Letters of credit established for the import of plant and machinery subject to the condition that 
+financial close has been done in case of such LCs. 
+ 
+g.) 
+Bills discounted/purchased from the borrower, drawn against the L/Cs of banks/DFIs meeting the 
+following criteria. 
+ 
+Sr. 
+No. 
+Maturity of the bill(s) 
+discounted/purchased 
+Aggregate amount of 
+bill(s) purchased/ 
+discounted on account of 
+one person 
+Minimum rating of the L/C 
+issuing and accepting banks/DFIs 
+assigned by Recognized Rating 
+Agencies 
+a) 
+ Short term (not more 
+than 1 year) 
+ Up to US$ 250,000 
+ No restriction 
+b) 
+ Short term (not more 
+than 1 year) 
+ More than US$ 250,000 
+ At least “BBB” and above 
+c) 
+ Long term (more than 1 
+year) 
+-Any- 
+ At least “A” and above 
+ 
+3. For the purpose of Regulation R-1, net open exposure shall be used in the calculation on account of 
+derivative transactions as allowed under Financial Derivatives Business Regulations issued vide BSD 
+Circular No. 17 dated November 26, 2004. 
+ 
+For the purpose of Regulation R-1, reserve shall also include revaluation reserves on account of fixed 
+assets of the bank/DFI to the extent of 50% of their value. However, for this purpose assets must be 
+prudently valued by valuators on the panel of Pakistan Bank Association (PBA), fully taking into 
+account the possibility of price fluctuations and forced sale value. Revaluation reserves reflecting the 
+difference between the book value and the market value will be eligible up to 50%. 
+ 
+ 
+29 
+ 
+                                      ANNEXURE II 
+ 
+BORROWER’S BASIC FACT SHEET- FOR CORPORATE 
+PRESCRIBED UNDER REGULATION R-3 
+ 
+Date of Request._____________ 
+(TO BE COMPLETED IN CAPITAL LETTERS OR TYPEWRITTEN) 
+BORROWER’S PROFILE: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. NATURE OF BUSINESS: 
+ 
+Industrial 
+Commercial 
+Agricultural 
+Services 
+Any other 
+ 
+ 
+ 
+ 
+ 
+ 
+3. DETAILS OF DIRECTORS/OWNERS/PARTNERS: 
+ 
+ 
+Name 
+Address 
+ 
+ 
+Phone # 
+Fax #
+E-mail Address
+Office 
+Res. 
+ 
+ 
+Computerized National Identity Card  # 
+National Tax  # 
+Sales Tax # 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Import Registration 
+# 
+Export 
+Registration # 
+Date of 
+Establishment 
+Date of opening of A/c. 
+ 
+ 
+ 
+ 
+Name 
+Address 
+ 
+ 
+Phone # 
+Fax # 
+E-mail Address 
+Office 
+Res. 
+ 
+ 
+Computerized National Identity Card  # 
+National Tax  # 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Share-holding 
+Amount 
+%  of Share-holding 
+ 
+ 
+ 
+30 
+ 
+4. CORPORATE STATUS: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. MANAGEMENT: 
+ 
+A) EXECUTIVE DIRECTORS/PARTNERS: 
+Name 
+Address 
+CNIC # 
+Phone # 
+1. 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+B) NON-EXECUTIVE DIRECTORS/PARTNERS: 
+Name 
+Address 
+CNIC # 
+Phone # 
+1. 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+6. REQUESTED LIMITS: 
+ 
+ 
+Amount 
+Tenor 
+Fund Based 
+ 
+ 
+Non-Fund Based 
+ 
+ 
+ 
+7. BUSINESS HANDLED/EFFECTED WITH ALL FINANCIAL 
+    INSTITUTIONS DURING THE LAST ACCOUNTING YEAR: 
+ 
+Imports 
+Exports 
+Remittances effected (if any) 
+ 
+ 
+ 
+ 
+8. EXISTING LIMITS AND STATUS: 
+ 
+ 
+ 
+Amount 
+ 
+Expiry 
+Date 
+Status 
+Regular 
+Amount Overdue(if any) 
+Fund Based 
+ 
+ 
+ 
+ 
+Non-Fund 
+Based 
+ 
+ 
+ 
+ 
+ 
+9. ANY WRITE-OFF, RESCHEDULING/ RESTRUCTURING  
+    AVAILED DURING THE LAST THREE YEARS: 
+Sole 
+Proprietorship 
+Partnership 
+Public/Private Limited Company 
+ 
+ 
+ 
+31 
+ 
+ 
+ 
+ 
+Name of 
+Financial 
+Institution 
+Amount during 
+1st Year 
+Amount during  
+2nd Year 
+Amount during 
+3rd Year 
+Write-
+off 
+Rescheduled/ 
+Restructured
+Write-
+off 
+Rescheduled/ 
+Restructured
+Write-
+off 
+Rescheduled/ 
+Restructured 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. 
+ DETAILS OF CLEAN FACILITIES CURRENTLY AVAILED: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. 
+ DETAILS OF PRIME SECURITIES MORTGAGED/ PLEDGED: 
+ 
+A) AGAINST EXISTING FACILITIES: 
+Name of Financial 
+Institution 
+Nature of 
+Security 
+Total 
+Amount 
+Rank of Charge 
+Net Realizable Value 
+1. 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+B) AGAINST REQUESTED/ FRESH/ ADDITIONAL FACILITIES: 
+Name of Financial 
+Institution 
+Nature of Security 
+Total Amount 
+Net Realizable 
+Value 
+1.  
+ 
+ 
+ 
+2.  
+ 
+ 
+ 
+ 
+12.   DETAILS OF SECONDARY COLLATERAL MORTGAGED/ PLEDGED: 
+A) AGAINST EXISTING FACILITIES: 
+Name of Financial 
+Institution 
+Nature of 
+Security 
+Total 
+Amount 
+Rank of Charge 
+Net Realizable Value 
+1.  
+ 
+ 
+ 
+ 
+2.  
+ 
+ 
+ 
+ 
+B) AGAINST REQUESTED/ FRESH/ ADDITIONAL FACILITIES: 
+Name of Financial 
+Institution 
+Nature of Security 
+Total Amount 
+Net Realizable Value 
+1.  
+ 
+ 
+ 
+2.  
+ 
+ 
+ 
+ 
+13.   CREDIT RATING (WHERE APPLICABLE): 
+Name of Rating Agency 
+Rating 
+ 
+ 
+ 
+14.   DETAILS OF ASSOCIATED CONCERNS 
+        (AS DEFINED IN COMPANIES ORDINANCE, 1984): 
+ Name of 
+Concern 
+Name of 
+Directors 
+Share-holding 
+% of Total Share Capital  
+ 
+ 
+ 
+ 
+ 
+Name of Financial 
+Institution 
+Nature of  Facility 
+Total Limit  
+Amount 
+Outstanding 
+1.  
+ 
+ 
+ 
+2.  
+ 
+ 
+ 
+32 
+ 
+15.   FACILITIES TO ASSOCIATED CONCERNS BY THE CONCERNED FI: 
+Name of 
+Concern 
+Nature & 
+Amount of 
+Limit 
+Outstanding 
+ as on-------- 
+ Nature & 
+Value of 
+Securities 
+Overdues 
+Defaults 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16. DETAILS OF PERSONAL GUARANTEES PROVIDED BY THE 
+      DIRECTORS/PARTNERS ETC. TO FIs TO SECURE CREDIT: 
+Names of the 
+Guarantors 
+Institutions/persons 
+to whom Guarantee 
+given 
+Amount 
+of 
+Guarantee
+Validity 
+Period 
+NIC # 
+NTN 
+Net-worth 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.   DIVIDEND DECLARED (AMOUNT) DURING THE LAST THREE YEARS: 
+During 1st Year 
+During 2nd Year 
+During 3rd Year 
+ 
+ 
+ 
+ 
+18.   SHARE PRICES OF THE BORROWING ENTITY: 
+Listed Company  
+Break-up Value of the Shares 
+in case of Private Limited Company 
+Current Price 
+Preceding 12 Months 
+Average 
+ 
+ 
+ 
+ 
+19.   NET-WORTH (PARTICULARS OF ASSETS OWNED IN THEIR 
+        OWN NAMES BY THE DIRECTORS/PARTNERS/PROPRIETORS): 
+Owner’s Name 
+Particulars of 
+Assets 
+Market value 
+Particulars of Liabilities 
+ 
+ 
+ 
+ 
+ 
+20.   DETAILS OF ALL OVERDUES (IF OVER 90 DAYS): 
+Name of Financial Institution 
+Amount 
+ 
+ 
+ 
+21. Details of payment schedule if term loan sought. 
+22. Latest Audited Financial Statements as per requirements of Regulation R-3 to be 
+submitted with the LAF (Loan Application Form). 
+23. Memorandum and Articles of Association, By-laws etc. to be submitted by the borrower 
+along with the request. 
+24. I/We do hereby authorise the bank/DFI to share information about my pledged stock with 
+other banks/DFIs to monitor the position as per SBP Prudential Regulations. 
+I certify and undertake that the information furnished above is true to the best of my 
+knowledge. 
+ 
+CHIEF EXECUTIVE’S/ 
+BORROWER’S 
+SIGNATURE & STAMP 
+COUNTER SIGNED BY: 
+AUTHORISED SIGNATURE 
+& STAMP 
+(BANK/DFI OFFICIAL) 
+ 
+ 
+ 
+33 
+ 
+ 
+ANNEXURE-III  
+ 
+CRITERIA FOR PREFERENCE SHARES FOR INCLUSION IN INVESTMENT IN EQUITIES  
+ 
+a)  Redemption of such preference shares is at the option of the issuer.  
+b)  In case the issuer has an option to redeem the preference shares, as per agreed terms and conditions, 
+the 
+redemption will be made through a sinking fund created out of the profits of the company.  
+c)  The terms and conditions of such shares does not give rise to a contractual obligation on the part of the 
+issuer to deliver another financial asset or exchange another financial instrument under conditions that are or 
+can be potentially unfavorable to the issuer. However, an option to convert preference shares into common 
+shares can be the feature of the preference shares.  
+d)  The terms and conditions of the preference shares are not such as to compel the issuer economically, 
+financially or otherwise to redeem the shares.  
+e)  Payment and distribution of dividend to the holders of preferred shares, whether cumulative or non-
+cumulative, is at the discretion of the issuer.  
+ 
+ 
+ 
+ 
+34 
+ 
+ 
+ANNEXURE-IV  
+CASES ELIGIBLE FOR RELAXATION UNDER REGULATION R-7  
+ 
+The following cases will be eligible for relaxation under regulation R-7: 
+  
+1. For bid bonds issued on behalf of local consultancy firms/ contractors of goods and services 
+bidding for international contracts/Tenders where the consultancy fees and other payments are to be 
+received in foreign exchange.  
+ 
+2. For issue of performance bonds on behalf of local construction companies/ contractors of goods 
+and services bidding for international tenders.   Provided that the liability of the bank/DFI will be on 
+reducing balance basis after taking into account progressive billing certified by the beneficiary/project 
+owner and payment received against these bills. 
+  
+3. For issue of guarantees on behalf of local construction companies/ contractors of goods and 
+services bidding for international tenders in respect of mobilization advance.  
+a)  Guarantees issued should contain clause that the mobilization advance and other proceeds under the 
+contract shall be routed by the beneficiary/project owner through the account of the contractors 
+maintained with the guaranteeing bank/DFI.  
+b)  At the time of issuing such guarantee the construction company/contractor shall sign an 
+agreement with the bank/DFI that cash proceeds out of mobilization advance will be released as 
+per satisfaction of the bank/DFI about the progress of the contract.  
+ 
+4. While issuing guarantees to the exporters of cotton in terms of F.E. Circular No.77 dated 
+December 4, 1988, banks/DFIs may settle the type and quantum of security with their customers. 
+ 
+5.  Issue of performance bonds/bid bonds and guarantees issued for mobilization advances on behalf of 
+the manufacturers of engineering goods. The term  ‘engineering goods’ shall have the same 
+meanings as are given to locally manufactured machinery in State Bank of Pakistan scheme for 
+financing locally manufactured machinery. Such condition may, however, not be necessary in case of 
+guarantees issued by the International Banks. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 
+ 
+ 
+ANNEXURE-V  
+GUIDELINES IN THE MATTER OF CLASSIFICATION 
+AND PROVISIONING FOR ASSETS (REGULATION R-8) 
+All Financing Facilities (including Short, Medium and Long Term) 
+ 
+CLASSIFICATION DETERMINANT
+TREATMENT OF 
+INCOME 
+PROVISIONS TO 
+ BE MADE 
+(1) 
+(2) 
+(3) 
+(4) 
+ 
+ 
+ 
+ 
+1. Substandard. 
+Where mark-up/ 
+interest 
+or 
+principal 
+is 
+overdue by 90 
+days 
+or 
+more 
+from the due date. 
+ 
+Unrealized 
+mark-up 
+/interest to be kept in 
+Memorandum 
+Account 
+and not to be credited to 
+Income Account except 
+when realized in cash. 
+Unrealized 
+mark 
+up/interest already taken 
+to income account to be 
+reversed 
+and 
+kept 
+in 
+Memorandum Account. 
+Provision of 25% of the difference 
+resulting 
+from 
+the 
+outstanding 
+balance of principal less the amount 
+of liquid assets realizable without 
+recourse to a Court of Law and 
+Forced 
+Sale 
+Value 
+(FSV) 
+of 
+pledged stocks, plant & machinery 
+under 
+charge, 
+and 
+mortgaged 
+residential, commercial & industrial 
+properties (land & building only) to 
+the extent allowed in Para 2 of the 
+Regulation R-8 (see Note 2 below) 
+ 
+2. Doubtful. 
+Where mark-up/ 
+interest 
+or 
+principal 
+is 
+overdue by 180 
+days 
+or 
+more 
+from the due date. 
+ 
+As above. 
+ 
+ 
+Provision of 50% of the difference 
+resulting 
+from 
+the 
+outstanding 
+balance of principal less the amount 
+of liquid assets realizable without 
+recourse to a Court of Law and FSV 
+of 
+pledged 
+stocks, 
+plant 
+& 
+machinery 
+under 
+charge, 
+and 
+mortgaged residential, commercial 
+& industrial properties (land & 
+building only) to the extent allowed 
+in Para 2 of the Regulation R-8 (see 
+Note 2 below).  
+3. Loss. 
+(a)  Where mark-
+up/ 
+interest 
+or 
+principal 
+is 
+overdue by one 
+year or more from 
+the due date 
+ 
+ 
+ 
+(b)   Where Trade 
+Bills 
+(Import/Export or 
+Inland Bills) are 
+not paid/adjusted 
+within 180 days 
+As above 
+ 
+ 
+ 
+ 
+ 
+ 
+As above. 
+ 
+ 
+Provision of 100% of the difference 
+resulting 
+from 
+the 
+outstanding 
+balance of principal less the amount 
+of liquid assets realizable without 
+recourse to a Court of Law and FSV 
+of 
+pledged 
+stocks, 
+plant 
+& 
+machinery 
+under 
+charge, 
+and 
+mortgaged residential, commercial 
+& industrial properties (land & 
+building only) to the extent allowed 
+in Para 2 of the Regulation R-8 (see 
+Note 2 below).  
+ 
+As above. 
+36 
+ 
+of the due date. 
+Notes : 
+1) Classified loans/advances that have been guaranteed by the Government would not require provisioning, 
+however, mark up/interest on such accounts to be taken to Memorandum Account instead of Income Account. 
+2) FSV shall be determined in accordance with the guidelines contained in Annexure-VI to these Regulations. 
+ 
+ 
+37 
+ 
+ 
+ 
+ 
+ANNEXURE-VI  
+ 
+Uniform Criteria for Determining the Value of Pledged Stock, Plant & Machinery under  
+ 
+Charge and Mortgaged Properties (Prudential Regulation R-8) 
+ 
+Only liquid assets, pledged stock, plant & machinery under charge, and property having registered or 
+equitable mortgage shall be considered for taking benefit for provisioning, provided no NOC for 
+creating further charge to another bank / DFI / NBFC has been issued by the bank/DFI. The aforesaid 
+assets having pari-passu charge shall be considered on proportionate basis of outstanding amount.  
+ 
+2. Hypothecated assets, excluding plant & machinery under charge, shall not be considered for taking the 
+FSV benefit for provisioning requirement. Similarly, all assets with second charge and floating charge 
+shall not be considered for taking the FSV benefit for provisioning requirement.  
+ 
+3. Valuations shall be carried out by an independent professional evaluator who should be listed on the 
+panel of evaluators maintained by the Pakistan Banks Association (PBA). The evaluator while 
+assigning any values to the pledged stock, plant & machinery under charge, and mortgaged property, shall  
+take into  account all  relevant  factors affecting the  salability of  such  assets including any difficulty  
+in  obtaining their possession, their location & condition, and the prevailing economic conditions in 
+the relevant sector, business or industry. The values of pledged stock, plant & machinery under charge, and 
+mortgaged property so determined by the evaluators must represent a reasonably good estimate of the 
+amount that could currently be obtained by selling such assets in a forced / distressed sale condition. 
+The evaluators should also mention in their report the assumptions made, the calculations / formulae / 
+basis used and the method adopted in determination of the values i.e. the Market Value and Forced Sale 
+Value (FSV).  
+ 
+4. The valuation process will include conducting a “Full-scope Valuation” of the assets in the first year 
+and then followed by “Desktop Valuations” in the second and third year. Full-scope Valuation shall be 
+valid for three years from the date of last Full-scope Valuation.  
+ 
+5. The following may be noted in respect of the Desktop and Full-scope Valuations:  
+  Desktop Valuation is defined as “an Interim Brief Review of Full-scope Valuation, so that any 
+significant change in the factors, on which the Full-scope Valuation was based, is accounted for and 
+brought to the notice of the lending bank/DFI”.  
+   In case the loan amount exceeds Rs 100 million, the Desktop Valuation will be done by the same 
+evaluator, who had conducted the Full-scope Valuation (the evaluator should be on the panel of the 
+PBA) whereas for loans below this threshold, the Desktop Valuation may be done by the  banks/DFIs  
+themselves  or  by  the  approved  evaluators.  For  conducting  Desktop Valuation,  the  evaluator  will  
+pay  a  short  visit  to  the  borrower’s  site.  The  bank’s/DFI’s responsibility in this respect will be to 
+ensure that the evaluator is contacted for conducting Desktop Valuation and is provided all necessary 
+information which is materially important for the interim review.  
+  The Desktop Valuation shall be used for determining any additional provisioning requirement only and 
+will not be applied for reducing the provisioning requirement assessed on the basis of Full-scope Valuation.  
+  In cases where the evaluators are not allowed by the borrowers to enter in their premises, the Full-
+scope Valuation, conducted as such, will not be accepted for provisioning benefit.  
+ 
+6. State Bank of Pakistan may check the valuations of the assets under mortgage/charge, through an 
+independent  evaluator,  on  random  basis,  to  verify  the  reasonableness  of  the  valuations.  The 
+unjustified differences in the valuations of banks/DFIs and State Bank of Pakistan shall render the 
+concerned bank/DFI and evaluator to penal actions including, inter alia, withdrawal of FSV benefit.  
+ 
+7. Various categories of assets to be considered for valuation would be as under (no other assets shall be 
+taken into consideration):  
+a) Liquid Assets:  
+38 
+ 
+ 
+ 
+ 
+Valuation of Liquid Assets shall be determined by the bank / DFI itself and verified by the external 
+auditors. However, in the case of pledged shares of listed companies, values should be taken at market value 
+as per active list of Stock Exchange(s) on the balance sheet date. Moreover, valuation of shares pledged 
+against loans/advances shall be considered only if such shares are in dematerialized form in the Central 
+Depository Company of Pakistan (CDC), otherwise these will not be admissible for deduction as 
+liquid assets while determining required provisions.  
+b) Mortgaged Property and Plant & Machinery under Charge:  
+Valuation of residential, commercial & industrial property (land and building only) and plant & 
+machinery would be accepted as determined by evaluators in accordance with the criteria given 
+above.  
+c) Pledged Stocks:  
+In case of pledged stocks of perishable and non-perishable goods, forced sale value should be 
+provided by evaluators, and such valuation should not be more than six months old, at each balance sheet 
+date. The goods should be perfectly pledged, the operation of the godown(s) or warehouse(s) should be in 
+the control of the bank/DFI and regular valid insurance and other documents should be available.  In case 
+of perishable goods, the  evaluator  should also give the approximate date of complete erosion of value.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39 
+ 
+ 
+ 
+CORPORATE GOVERNANCE ANNEXURES 
+ 
+ANNEXURE  A 
+ASSESSMENT OF FITNESS AND PROPRIETY 
+ 
+1. INTEGRITY, HONESTY AND REPUTATION 
+ 
+i) 
+Has not been convicted/involved in any fraud/forgery, financial 
+crime etc, in Pakistan or elsewhere, or is not being subject to any 
+pending proceedings leading to such a conviction.  
+ii)  
+Has not been subject to any adverse findings or any settlement in  
+ 
+civil/criminal proceedings particularly with regard to investments,  
+ 
+financial   matters/business,  misconduct,  fraud,  formation  or  
+ 
+management of a corporate body etc by SBP, other regulatory  
+ 
+authorities (within  or  outside  Pakistan),  professional  bodies  or  
+ 
+government bodies/agencies.  
+ 
+iii)  
+Has not contravened any of the requirements and standards of SBP  
+ 
+or  the  equivalent  standards/requirements  of  other  regulatory  
+ 
+authorities (outside  Pakistan  as  well),  professional  bodies  or  
+ 
+government bodies/agencies.  
+iv)  
+Has not been involved with (management or conduct of the affairs  
+ 
+of) a company/firm or any other organization that has been refused  
+ 
+registration/licence to carry out trade, business etc.  
+ 
+v)  
+Has not been involved with (management or conduct of the affairs  
+ 
+of) a company/firm whose registration/licence has been revoked or  
+ 
+cancelled or gone into liquidation or other similar proceedings due  
+ 
+to  mismanagement  of  affairs,  financial     misconduct  or  mal  
+ 
+practices.  
+ 
+vi) 
+Has not been debarred  for  being  Chief  Executive,  Chairman, 
+Director, Controlling Shareholder/Sponsor or Key Executive of a 
+company/firm or in similar capacity. 
+ 
+2. TRACK RECORD 
+ 
+i) 
+The person must have an impeccable track record in the companies 
+served either in the capacity of an employee or director/Chief 
+Executive or as Chairman.  
+ 
+ii)  
+Has not  been  demoted,  dismissed  or  forced  to  resign  from  
+ 
+employment by the bank/DFI, or has not been removed by   any  
+ 
+regulator  or  government  body,  in  the  capacity  of  employee,  
+ 
+director, chairman or key executive of the company/firm or any  
+ 
+other position of  trust.  
+40 
+ 
+ 
+ 
+ 
+3.  SOLVENCY & FINANCIAL INTEGRITY  
+ 
+i) 
+Has not  been  associated  with  any  illegal  activity  concerning 
+banking  business,  deposit  taking,  financial  dealing  and  other 
+business. 
+ 
+ii)  
+Has not been in default of payment of dues owed to any financial  
+ 
+institution and/ or default in payment of any taxes in individual  
+ 
+capacity or as proprietary concern or any partnership firm or in any  
+ 
+private unlisted/listed company.  
+ 
+iii)  
+Has not been associated as director and/or chief executive with the  
+ 
+corporate bodies who have defaulted in payment of Government  
+ 
+duties/taxes etc.  
+ 
+iv) 
+Has sufficient means to discharge his/her financial obligations, if 
+any. 
+ 
+ 
+4.  QUALIFICATION & EXPERIENCE  
+ 
+This section shall apply separately for Directors, CEO and Key Executives 
+of Banks/DFIs as under: - 
+ 
+i.   Directors on the Board  
+a.  Must have management/business experience of at least 5 years at  
+ 
+senior  level  in  an  active  capacity.  In  case  of  lawyers, 7 years  
+ 
+experience   is   required,   provided   that   they   are   not  
+ 
+practicing/involved with or acting as legal counsel/adviser or on  
+ 
+payroll of a bank where he is proposed to be appointed as director.  
+b.  Minimum qualification for a person to be appointed as Director on  
+ 
+the  Board  of  a  bank/DFI  is  graduation.  Higher  education  
+ 
+accomplished in the discipline of banking and finance may be an  
+ 
+added qualification.  
+ 
+ii.   Chief Executive Officer  
+a.  Must be a career banker having at least 5 years of experience at  
+ 
+senior level as EVP and above or equivalent i.e. Group Head of  
+ 
+Financial/Business Line in a bank and posses expertise and skill set  
+ 
+to  undertake  responsibilities  of  the  position  effectively  and  
+ 
+prudently.  
+ 
+b.  Should be between 40 to 70 years of age.  
+41 
+ 
+ 
+ 
+c.   Should have minimum qualification of graduation or equivalent in  
+ 
+the   discipline   of   banking,   finance,   economics,   business  
+ 
+administration and related fields. CEO of the Islamic Bank should  
+ 
+preferably be having experience/training in Islamic Banking.  
+ 
+iii.   Key Executive  
+a.  Must be a qualified professional possessing relevant experience &  
+ 
+degree relating to the job/assignment.  
+ 
+5. CONFLICT OF INTEREST 
+ 
+i. 
+The CEO is not a Chairman of the Board of Directors of the same 
+bank/DFI .  
+ 
+ii.  
+The Directors on the Board should avoid conflict of interest in their  
+ 
+activities with, and commitments to, other organizations.  
+ 
+iii.  
+Is not a director (including as a nominee director of the Government) of  
+ 
+any other bank/DFI. However, this clause will not be applicable in  
+ 
+case  of  Managing  Director  and  other  employees  of  National  
+ 
+Investment Trust (NIT) nominated on the Board of banks/DFIs, till its  
+ 
+privatization.  
+ 
+iv.  
+No person can become a Director of the bank/DFI, if he/she is :  
+a.  Holding  substantial  interest  or  is  working  as  Chairman,  
+ 
+Director, Chief Executive, Chief Financial Officer, Chief Internal  
+Auditor,   Research   Analyst   or   Trader 
+(by   whatever 
+name/designation called) of a: 
+ 
+i. 
+Exchange Company (firm or sole proprietorship) 
+ii. 
+Member of a Stock Exchange 
+iii. 
+Corporate Brokerage House 
+iv. 
+Any company/entity  owned  and  controlled  by  the 
+person mentioned at (i) to (iii) above  
+ 
+b.  Acting,  either  in  personal  capacity  and/or  through  firm/  
+ 
+company where he/she has substantial interest, as consultant  
+ 
+/advisor to bank/DFI in which he/she intends to become a  
+ 
+director.  
+ 
+6. OTHERS 
+ 
+i. 
+Not more than 25% directors of the same family are permitted to be on 
+the Board of a bank/DFI. 
+ 
+ii. 
+Maximum two members of Board of Directors of a bank/DFI including 
+its CEO can be the Executive Directors. 
+42 
+ 
+ 
+ 
+ 
+iii.  
+Directors  should  preferably  be  professionals  from  diversified  
+ 
+field/industry. However, a minimum of 25% members of Board of  
+ 
+Directors of a bank/DFI shall be Independent Directors.  
+ 
+iv.  
+No member of Senate, National/ Provincial Assembly, Local bodies  
+ 
+shall  be appointed/ recommended for appointment as Member of  
+ 
+Board of Directors and/or Chief Executive Officer/Key Executive of  
+ 
+any bank/DFI.  
+ 
+v.  
+No Key Executive  shall  head  more  than  one  functional  area.  
+ 
+Furthermore, he/she shall not hold directorship in his /her personal  
+ 
+capacity: (a)  in  a  business  concern  which  is  also  a  client  of  the  
+ 
+bank/DFI, and (b) in any other financial institution.  
+43 
+ 
+ 
+ 
+ANNEXURE - I  
+PROFORMA - FIT & PROPER TEST 
+             
+ 
+ 
+ 
+        
+     
+ 
+ 
+        
+ 
+      
+ 
+C.N.I.C No. 
+N.I.C. No.(Old) 
+ 
+Passport Number (for foreign national) 
+ 
+Present Residential Address in Full 
+ 
+ 
+Permanent Residential Address in Full 
+ 
+ 
+Residential Telephone Number (s)  
+Mobile Number 
+ 
+If you have changed your name, state previous name and reason for change 
+ 
+Academic Education 
+Qualification 
+Name & Address of Degree 
+Awarding Institution 
+Date of Completion 
+ 
+ 
+ 
+ 
+Professional Education 
+Qualification 
+Name & Address of Institution/ 
+Professional Body 
+Date of Completion 
+ 
+ 
+ 
+ 
+Trainings if any 
+  Cont’d… 
+ 
+ 
+Full Name 
+ 
+   Photo  
+   1X 1 1/2 
+ 
+ 
+Father’s Name 
+Date of Birth 
+Place of Birth (City and Country) 
+Nationality (ies) 
+NTN Number 
+44 
+ 
+ 
+ 
+ 
+Existing Employment 
+Present Designation 
+Present Department 
+Official Address 
+Telephone Number (s) 
+Email 
+ 
+Please provide  complete  and true  particulars of all business (es), including  proprietary 
+concern/partnership firms,  companies,  in which you have been associated as a 
+proprietor, partner or a director thereof during the last ten years and the accounts maintained 
+by them: 
+Name        of       Proprietary 
+Concern/Partnership Firm/    
+Company 
+Name of bank  and/or  NBFIs 
+Together    with     Name     of 
+Branches 
+Account Number (s) 
+ 
+ 
+ 
+ 
+Position held during the last ten years (along with name and address of company/institution/ 
+body where appointment held, nature of the company/institution/body and dates of 
+appointment) 
+ 
+ 
+ 
+Position of the shares held in the bank 
+Number of shares held as of ___ 
+As a Sponsor Shareholder 
+• 
+Own name 
+• 
+In name of your company 
+• 
+In name of  your family member  
+Other than Sponsor Shareholder 
+• 
+Own name 
+• 
+In name of your company 
+• 
+In name of  your family member 
+ 
+  
+ 
+ 
+ 
+ 
+(Signature of concerned official) 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+ 
+ 
+  
+ANNEXURE-II  
+ 
+Affidavit  
+(On Non-Judicial Stamp Paper)  
+ 
+I, ________________ son/daughter/wife of _______________________ adult, resident  
+of _________________________________________________________________________ 
+and holding CNIC No. ______________________________ do hereby state on solemn 
+affirmation as under:- 
+ 
+a.   that  the  deponent  hereby confirm that the statement made and  the  
+ 
+information supplied in the attached questionnaire and the Annexure-I and  
+ 
+the answers thereof are correct and that there are no other facts that are  
+ 
+relevant for “Fit and Proper Test”  
+ 
+b.    that  the  deponent  undertake  that the State Bank of Pakistan may seek  
+ additional information from any third party it deems necessary in view of  
+ assessing “Fit and Proper Test”  
+ 
+c.    that the deponent undertake to bring to the attention of the State Bank of  
+ 
+Pakistan any matter which may potentially affect my status as being someone  
+ 
+fit and proper as and when it crops up; and  
+ 
+d.   that whatever is stated above is correct to the best of my knowledge and belief  
+ 
+and nothing has been concealed therefrom.  
+ 
+ 
+DEPONENT  
+ 
+The Deponent is identified by me  
+ 
+ 
+Signature _______________________  
+ 
+ADVOCATE  
+(Name and Seal)  
+ 
+Solemnly affirmed before me on this ______ day of _____________ at ______________ by 
+the Deponent above named who is identified to me by ________________, Advocate, 
+who is known to me personally.  
+ 
+ 
+Signature__________________________________________ 
+OATH COMMISSIONER FOR TAKING AFFIDAVIT  
+ 
+(Name and Seal)  
+46 
+ 
+ 
+ 
+ 
+QUESTIONNAIRE FOR ACCESSING “FIT & PROPER TEST”  
+Please    answer     the  following  questions  by  entering a tick (√ ) in the 
+appropriate box. If answer of any of these questions in YES and need 
+explanation, use a separate sheet with proper reference to the question. 
+ 
+   Yes   No 
+ 
+1. 
+ 
+Have you ever been convicted/involved in any fraud/forgery, 
+financial crime etc, in Pakistan or elsewhere, or is being subject to  
+any pending proceedings leading to any conviction? 
+□ □ 
+2. 
+Have  you  ever     been   associated  with any illegal activity  
+concerning banking business, deposit taking, financial dealing  
+and other business 
+□ □ 
+3. 
+Have you ever been subject to any adverse findings or any  
+settlement in civil/criminal proceedings particularly with regard  
+to investments, financial/business, misconduct, fraud, formation  
+or management of a corporate body etc by SBP, other regulators,  
+professional bodies or government bodies/agencies? 
+□ □ 
+4. 
+Have you ever   contravened  any  of   the   requirements  and  
+standards of regulatory system or the equivalent standards or  
+requirements of other regulatory authorities? 
+□ □ 
+5. 
+Have you ever been involved with a company or firm or other  
+organization that has been refused registration/licence to carry  
+out trade, business etc? 
+□ □ 
+6. 
+Have you ever been involved with a company/firm whose  
+registration/licence has been revoked or cancelled or gone into  
+liquidation or other similar proceedings? 
+□ □ 
+7. 
+Have  you   ever  been  debarred for  being  Chief  Executive,  
+Chairman, Director or Sponsor/Strategic Investor of a company,  
+especially financial institutions? 
+□ □ 
+8. 
+Have you ever been dismissed/ asked to resign/resigned in 
+Pakistan or elsewhere in order to avoid legal or disciplinary 
+action?  
+□ □ 
+9. 
+Have you ever resigned from a professional or regulatory  
+body in Pakistan or elsewhere in order to  avoid  legal  or 
+disciplinary action?  
+□ □ 
+10. 
+Have you ever been disqualified/   removed   by 
+regulators/Government bodies/ agencies?  
+□ □ 
+11. 
+Have you ever been in default of payment of dues owed to any  
+financial   institution in   individual  capacity or  as  proprietary  
+ concern or any partnership firm or in any private unlisted/listed  
+ company? 
+□ □ 
+12 
+Have you ever been in default of taxes in individual capacity or  
+as proprietary concern or any partnership firm or in any private  
+listed/unlisted company? 
+□ □ 
+13 
+Have you ever been associated as director and/or chief executive  
+with the   corporate   bodies  whose  corporate and  tax  record,  
+including custom duties, central excise and sales tax has been  
+unsatisfactory? 
+□ □ 
+cont’d...  
+47 
+ 
+ 
+ 
+ 
+  Yes   No 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature
+______________________ 
+Name
+______________________ 
+Position
+______________________ 
+Date
+______________________ 
+ 
+ 
+ 
+ 
+14. 
+Have you entered into  any agreement with any other  person 
+(natural or legal) which  will influence the way in which you 
+exercise your voting rights or the way in which you otherwise 
+behave in your relationship with the authorized entity? 
+□ □ 
+15. 
+Are  you  a   director on   the Board  of  Directors of  any  other  
+Financial Institution(s)? 
+□ □ 
+16. 
+Are you a  Chairman, Chief Executive,  Chief Financial Officer, 
+Chief Internal Auditor, Research Analyst or Trader (by whatever 
+name/designation called) of a  Exchange Company (firm or sole 
+proprietorship), member of a Stock Exchange, Corporate 
+Brokerage House? 
+□ □ 
+17. 
+Are you  owing/controlling  any Exchange Company or 
+Corporate Entity? 
+□ □ 
+18. 
+Have you been or are  you  working as consultant or adviser of 
+bank/DFI in which you intend to become a director? 
+□ □ 
+19. 
+Are you employee of the Bank/DFI? 
+□ □ 
+20. 
+Are  you  employee of a company/entity/organization where 
+sponsor shareholders of bank/DFI have substantial interest 
+□ □ 
+21. 
+Are you a member/office bearer of any political party or 
+member  of Senate/National/Provincial Assembly/Local Body? 
+□ □ 
+22. 
+If independent director, have  you enclosed declaration  in this 
+behalf? 
+□ □ 
+23. 
+Any other information that is relevant for the purpose of SBP 
+and needs to be mentioned? 
+□ □ 
+48 
+ 
+ 
+ANNEXURE - III  
+ 
+PROFORMA - FITNESS & PROPRIETARY OF KEY EXECUTIVES 
+             
+ 
+ 
+ 
+ 
+        
+ 
+ 
+      
+ 
+    
+       
+ 
+ 
+ 
+ 
+ 
+C.N.I.C No. 
+N.I.C. No.(Old) 
+ 
+Telephone Number (s) 
+Mobile number 
+ 
+Academic Education 
+Qualification 
+Name & Address of Degree 
+Awarding Institution 
+Date of Completion 
+ 
+ 
+ 
+ 
+Professional Education 
+Qualification 
+Name & Address of Degree 
+Awarding Institution 
+Date of Completion 
+ 
+ 
+ 
+ 
+Trainings if any 
+ 
+Previous Employment (s) (date-wise) 
+Designation 
+Department 
+Official Address 
+Telephone Number (s) 
+ 
+Has ever been convicted of any offence 
+Yes 
+No 
+If yes, nature of offence and penalty imposed 
+ 
+ 
+Has ever been censured or penalized by any financial regulator (local or 
+foreign)? 
+Yes 
+No 
+If yes, reasons for adverse findings and amount of penalty imposed (if any) 
+ 
+Have you ever been dismissed from employment 
+Yes 
+No 
+If yes, name of the employer and reason for dismissal 
+ 
+ 
+ 
+(Signature of the concerned official)  
+(Signature and Stamp of Employer)  
+ 
+ 
+ 
+Position and Grade held by the Executive 
+ 
+Photo 
+1X 1 1/2 
+ 
+Date of assumption of current position (dd/mm/yyyy) 
+Full Name 
+Father’s Name 
+Date of Birth 
+Place of Birth (City and Country) 
+Nationality (ies) 
+NTN Number 
+49 
+ 
+ 
+ 
+ ANNEXURE- IV 
+               
+(BPRD Circular No. 5 of 2015) 
+DECLARATION BY THE PROPOSING BANK/DFI 
+ 
+(To be signed either by the President/Chief Executive Officer, Head of Human 
+Resources or the Company Secretary of the incorporated Bank/DFI) 
+ 
+I, _______________________ on behalf of ___________________ (name of proposing 
+Bank/DFI) ("the proposing Bank/DFI") submit the FPT Proforma in respect of Mr./Ms. 
+_______________ for the proposed position of ____________________ and declare that: 
+(i) 
+To the best of my knowledge, information and belief, the information that is 
+being submitted to SBP is true, accurate and supports my view that this person 
+fulfils all the criteria for the post for which he/she is proposed.   
+ 
+(ii) 
+Select (9) as appropriate: 
+ 
+ 
+a) 
+The Bank/DFI has satisfied itself that the proposed person meets the 
+requirements of all the applicable laws, rules and regulations including 
+Companies Ordinance, 1984, Banking Companies Ordinance, 1962, 
+Banks Nationalization Act, 1974 (if applicable) and FPT Criteria and is, 
+in the opinion of the Bank/DFI, capable of fulfilling the assigned role.  
+ 
+ 
+□ 
+ 
+OR 
+ 
+ 
+ 
+The Bank/DFI acknowledges that the proposed person needs an 
+exemption from some provision(s) of the applicable laws, rules and 
+regulations, details of which are given in the attached letter along with 
+justifications thereof. 
+ 
+ 
+□ 
+b) 
+The bank/DFI has obtained copies of educational degrees/certificates and 
+verified the same from relevant institutions/universities or obtained 
+certified copies of verification from previous employer directly. 
+ 
+ 
+□ 
+ 
+OR 
+ 
+The bank/DFI undertakes to confirm to the SBP within a period of four 
+(4) months hereof that educational degrees/certificates shall be got 
+verified by them and status of the same shall be communicated to SBP 
+accordingly.   
+ 
+ 
+□ 
+c) 
+The bank/DFI has obtained satisfactory confidential reports from the 
+former employer(s).  
+ 
+□ 
+ 
+ 
+Signature & Stamp of Bank/DFI’s Official:  ________________________________ 
+50 
+ 
+ 
+ 
+  
+OR 
+ 
+ 
+The bank/DFI undertakes to obtain confidential reports from the former 
+employer(s) within a period of three (3) months hereof and status of the 
+same shall be communicated to SBP accordingly.  
+□ 
+ 
+(iii) I am aware that it may be: 
+a. an offence and/or  
+b. grounds for refusal of this application and/or 
+c. grounds for revocation of an authorization granted on the basis of this application 
+and/or 
+d. grounds for SBP to commence an administrative sanctions procedure against both 
+myself and/or the Bank/DFI 
+ 
+       if the undersigned and/or the Bank/DFI knowingly or recklessly  
+• provide false or misleading information and/or to make a false or misleading statement 
+(which, I acknowledge, may include the withholding by me and/or the Bank/DFI of 
+relevant information) in this application for authorization 
+• fail to inform and/or withhold from the SBP details of any change in 
+circumstances/new information which is relevant and/or material to the status of the 
+proposed person anytime from now on. 
+• fail to inform to SBP immediately any legal and/or contractual infirmity resulting from 
+behavior, conduct or incapacity in whatever form any time from now on which could 
+potentially debar the person from holding the position. 
+ 
+ 
+ 
+Dated this                                                         day of                                 
+ 
+Name:                                                              Signature: 
+ 
+Position/Designation: 
+ 
+For and on behalf of (name of Bank/DFI): 
+ 
+ 
+ 
+51 
+ 
+ 
+ 
+Annexure-AA 
+(BPRD Circular 04 of 2008) 
+ 
+Procedure for deposit of sponsor shares into 
+a blocked account with CDC 
+ 
+Following   procedure  shall be followed by  banks  for  deposit / transfer  of 
+sponsor shares into CDC account: 
+ 
+1.    The existing sponsor shareholders who have already deposited 
+ their shares with SBP BSC shall : 
+a) Open account (sub-participant account or investor account) at 
+CDC exclusively for depositing sponsor shares and subsequent 
+bonus and right shares. 
+b) Confirm the account number to SBP through company secretary 
+of the bank. 
+c) On receipt of above confirmation, SBP will allow the withdrawal 
+of shares deposited with SBP BSC for deposit with CDC. 
+d) The bank shall confirm the deposit of sponsor shares in the CDC account 
+within 15 days of release of shares by SBP. 
+ 
+2.  The prospective sponsor shareholders shall open CDC account (sub- participant 
+account or investor account) and confirm the account number to SBP through 
+Company Secretary of the bank at least 15 days prior to issuance/transfer of 
+shares. Further, they shall arrange for confirmation of submission of shares in 
+CDC account within 3 days of issuance of shares. 
+ 
+3.   For those sponsor shareholders who are yet to deposit their sponsor shares in a 
+blocked account with CDC, shall either open a new account or identify an 
+existing account and confirm the same through Company Secretary of the 
+bank to SBP by 31st May, 2008 along with schedule for transfer of sponsor 
+shares in the account by 31st July, 2008. 
+ 
+ 
+ 
+ 
+                                                             ************************ 

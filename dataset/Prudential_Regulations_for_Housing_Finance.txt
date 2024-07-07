@@ -1,0 +1,557 @@
+ 
+Housing Finance 
+Prudential Regulations 
+ 
+ 
+ 
+(May, 2014) 
+ 
+ 
+ 
+ 
+ 
+Infrastructure, Housing & SME Finance Department 
+State Bank of Pakistan 
+ 
+ 
+ 
+THE TEAM 
+ 
+NAME 
+DESIGNATION 
+Muhammad Ashraf Khan 
+Executive Director-DFG & BPRG 
+Syed Samar Hasnain 
+Director-IH&SMEFD & AC&MFD 
+Imran Ahmad 
+Additional Director-IH&SMEFD 
+Nafees Khan 
+Deputy Director-IH&SMEFD 
+Wasif Hussain 
+Assistant Director-IH&SMEFD 
+ 
+Website Address: www.sbp.org.pk 
+ 
+ 
+Preface 
+Housing and construction sector is an important driver of economic growth, as it employs large 
+labour force worldwide. It also has significant implications for the development of the country’s 
+financial markets, and it influences (and is influenced by) fiscal policy. Last but not least, a 
+vibrant housing sector has important positive socio-economic implications, with greater 
+participation of the populous economically, politically and socially1. 
+ 
+In Pakistan, housing sector can be very instrumental in poverty reduction and economic growth 
+as it is labour intensive and has forward and backward linkages with more than forty 
+industries2. Investment in the housing sector leads to creation of more jobs in a number of 
+allied sectors.  
+ 
+Presently, State Bank of Pakistan is working on few initiatives to create an enabling environment for 
+banks/DFIs to increase outreach of housing finance. It involves relatively greater sums of financing 
+compared to other consumer finance products and is extended for longer period of time. 
+Keeping in view the peculiar nature of housing finance, and to facilitate banks/DFIs in 
+enhancing housing finance portfolio, SBP in consultation with different stakeholders, has issued 
+separate set of Prudential Regulations specifically for Housing Finance.  
+ 
+It is vital that the banks/DFIs develop a comprehensive understanding of the full spectrum of 
+risks inherited in housing finance business. The risk assessment and risk management systems 
+of the banks/DFIs should have in-built ability to prompt early warning signals to keep their 
+balance sheets safe from any adverse effects. Having adequate safeguards put in place, they 
+are encouraged to facilitate housing sector growth through enhanced outreach of financing 
+services and innovative products. The banks/DFIs need to ensure that their internal policy 
+framework guiding housing finance practices calls for broad scrutiny and due diligence and is 
+adequately risk-aligned and resilient to cyclical developments to bolster soundness of the 
+economy. 
+ 
+The Prudential Regulations for Housing Finance do not supersede other directives issued by 
+State Bank of Pakistan in respect of areas not covered here. Any violation or circumvention of 
+these regulations shall render the bank/DFI/officer(s) concerned liable for penalties under the 
+Banking Companies Ordinance, 1962. 
+ 
+ 
+SYED SAMAR HASNAIN 
+Director 
+Infrastructure, Housing & SME Finance Department
+                                                          
+ 
+1 Expanding housing finance to the underserved in South Asia by Tatiana Nenova- The World Bank (2010) 
+2 Expanding housing finance to the underserved in South Asia by Tatiana Nenova- The World Bank (2010) 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 1 of 10 
+ 
+DEFINITIONS 
+ 
+1. Bank means a banking company as defined in the Banking Companies Ordinance, 1962. 
+2. Borrower means an individual to whom a bank/DFI has allowed any Housing Finance during 
+the course of business. 
+3. DFI as defined in Banking Companies Ordinance, 1962. 
+4. Documents include vouchers, cheques, bills, pay-orders, promissory notes, securities for 
+leases/advances and claims by or against the bank/DFI or other papers supporting entries in 
+the books of a bank/DFI. 
+5. Housing Finance means financing provided to individuals for the construction, purchase of 
+residential house/apartment and for purchase of plot and construction thereupon. The 
+finance availed for the purpose of making improvements in house/apartment shall also fall 
+under this category. 
+6. Mortgage means written document evidencing the charge/transfer of interest in a property 
+taken by a financier as security for its ownership interest in the asset being financed by way 
+creating registered mortgage (legally compatible to stand in court of law) with the related 
+registration authority. 
+7. Secured means housing finance backed by tangible security with appropriate margins (in cases 
+where margin has been prescribed by State Bank of Pakistan, appropriate margin shall at least 
+be equal to the prescribed margin). 
+8. Tangible Security under these PRs means liquid assets (as defined in the Prudential 
+Regulations for Corporate/Commercial Banking), mortgage of land and building. 
+ 
+ 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 2 of 10 
+ 
+Regulation HF 1: Minimum Requirements 
+Before embarking upon or undertaking housing finance, the banks/DFIs shall implement/follow 
+the Prudential Regulations contained in this document. 
+ 
+1. House Financing Policy 
+Banks/DFIs shall have a comprehensive house financing policy, separate or as a part of overall 
+credit policy, duly approved by their Board of Directors (in case of foreign banks, Country 
+Head and by Executive/Management Committee; however, if Country Head is also member of 
+Executive/ Management Committee then no separate approval of his/ her is required). The 
+policy shall explicitly specify the functions, responsibilities and various staff positions’ 
+powers/authority relating to approval/sanction of housing financing facility.  
+For every type of housing finance activity, the banks/DFIs shall develop a specific program that 
+shall include the objective/quantitative parameters for the eligibility of the borrower and 
+determining the maximum permissible limit per borrower. Banks/DFIs shall determine the 
+housing finance limits, both in urban and rural areas, in accordance with their internal credit 
+policy, credit worthiness and repayment capacity of the borrowers. Banks/DFIs should keep in 
+consideration that this facility should not be used for speculative purposes and banks’/DFIs’ 
+policies and other procedures should be so designed to discourage, to the extent possible, any 
+speculative intent. 
+2. Promotion and Development of Housing Finance 
+Banks/DFIs are encouraged to develop floating, fixed and hybrid rate products for extending 
+housing finance, suiting to varied needs of borrowers. Switching over from one type of rate to 
+another unilaterally by the banks/DFIs to the disadvantage of customer should not be done. 
+They are also encouraged to enhance housing finance outreach through increasing the areas 
+and the number of branches offering housing finance particularly at small towns and cities of 
+the county. Banks/DFIs shall explore the ways and means of broadening their product base 
+beyond the prevalent housing finance products. For effective house financing, banks/DFIs 
+shall develop strategies that will elaborate measures on improving delivery channels 
+(branchless banking, tele-marketing etc.), adoption of credit scoring technology, improved 
+understanding of the target market through field work and research, and putting in place 
+strong marketing and sales culture. 
+3. Risk Management and Internal Control Systems 
+Banks/DFIs shall ensure strict compliance with laid down policies and procedures developed 
+internally by them as well as those promulgated by SBP from time to time. The management 
+of the banks/DFIs, under the guidance of Board of Directors, is required to establish systems, 
+policies, procedures and practices to define and manage risks, stipulate responsibilities, 
+specify security requirements, and design and implement internal controls. Risk management 
+framework of banks/DFIs should appropriately cover housing finance.  
+ 
+ 
+ 
+ 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 3 of 10 
+ 
+4. Development of Financing Documentation 
+The banks/DFIs shall prepare standardized set of borrowing/financing and recourse 
+documents (duly cleared by their legal counsels) comprising of financing agreement, 
+application form and the other requisite supplementary financing documents. These 
+documents should clearly spell out all the terms and conditions of housing finance. Banks/DFIs 
+should provide the copies of these documents to the customers. The banks/DFIs are also 
+encouraged to provide terms and conditions in Urdu language for better understanding of the 
+customers. 
+5. Title Documents  
+Banks/DFIs shall obtain all title and ownership related property documents from customers 
+and shall get these documents vetted by their legal department/advisor(s). Banks/DFIs shall 
+provide a signed copy of the list of all title and property documents to the borrower. 
+6. Management Information System (MIS) and Reporting 
+Banks/DFIs shall ensure adequate hardware, software, logistics support and strong IT 
+infrastructure for effective and efficient monitoring of housing finance portfolio. 
+For effective monitoring and reporting purposes, banks/DFIs shall maintain, with respect to 
+each financing transaction, necessary information/data which may include financing ID, 
+original financing term, remaining term to maturity, CNIC/NTN number of the borrower, age 
+of borrower, original financing balance & remaining financing balance, monthly principal & 
+mark-up, benchmark, credit spread, payment frequency, mark-up rate type (fixed or floating), 
+frequency of revision of mark-up rate, financing to value ratio, geographic region, appraisal 
+value, appraisal date, appraiser name, property type, purpose of housing finance etc. 
+In addition to above, the MIS is expected to generate the following periodical reports: 
+1. Delinquency reports (for 30, 60, 90, 180 days, one year and two years and above) on 
+monthly basis. 
+2. Reports interrelating delinquencies with various types of customers or various 
+attributes of the customers to enable the management to take important policy 
+decisions and make appropriate modifications in the financing program. 
+The banks/DFIs shall ensure that their accounting and computer systems are well equipped to 
+avoid charging of mark-up on mark-up. For this purpose, it should be ensured that the mark-
+up charged on the outstanding amount is kept separate from the principal. The banks/DFIs 
+shall ensure that any repayment made by the borrowers is accounted for before applying 
+mark-up on the outstanding amount. 
+7. Information to Borrowers 
+Banks/DFIs shall ensure that the applications for house financing are processed expeditiously 
+and shall provide following information to borrowers:  
+1. A true copy of the signed finance agreement(s). 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 4 of 10 
+ 
+2. Written notification of any change in repayment schedule in line with terms of the 
+agreement. 
+3. Statement of accounts, on annual basis, detailing the principal repayments, principal 
+outstanding, mark up/profit payments, and penalties (if any) during the year (may be 
+made available on-line as well). 
+All the components of fees/costs shall be explicit and transparent and shall be disclosed 
+before the transaction is initiated. There should be no hidden charges. For ease of reference 
+and guidance of their customers, banks/DFIs shall publish brochures on frequently asked 
+questions. 
+Banks/DFIs are, inter alia, encouraged to provide basic information on-line and through 
+marketing material of housing finance facilities to the borrowers and regularly upgrade the 
+housing finance section of their websites by providing necessary information for various stake-
+holders. 
+Banks/DFIs shall also provide, if requested by the borrower, additional statement(s), charges 
+for which may not exceed the amount as advised by SBP from time to time for provision of 
+duplicate/additional Statement of Account (SOA) to account holders. 
+8. Information Disclosure 
+Banks/DFIs shall clearly disclose, all the important terms, conditions, fees, charges and 
+penalties, which inter-alia include annualized percentage rate, pre-payment penalties and the 
+conditions under which they apply. For the purposes of this regulation, Annualized Percentage 
+Rate means as follows: 
+ 
+Mark-up for the period 
+X 
+360 
+x 
+100 
+Average Outstanding Principal Amount during the period 
+No. of Days 
+9. Confidentiality of Information 
+All information of a customer provided by him/her shall be kept confidential (even when the 
+borrowers have settled their financings and no longer have relationship with the bank/DFI). 
+Information of borrower can be shared credit information provider under the relevant 
+provisions of the Banking Companies Ordinance, 1962. 
+10. Credit Information 
+The financing profile of all intended borrowers shall be supplemented with credit report from 
+the consumer credit information bureau of State Bank of Pakistan. In addition, the banks/DFIs 
+may also obtain report from any other reliable bureau. At the time of granting facility under 
+various modes of housing finance, banks/DFIs shall obtain a written declaration from the 
+borrower divulging details of various facilities already obtained from other banks/DFIs. 
+ 
+ 
+ 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 5 of 10 
+ 
+11. Facilities to Related Persons 
+The housing finance facilities extended by banks/DFIs to their Directors, major shareholders, 
+employees and family members of these persons shall be at arm’s length basis and on normal 
+terms & conditions applicable for routine customers of the banks/DFIs. The banks/DFIs shall 
+ensure that the appraisal standards are not compromised in such cases. However, this 
+condition shall not apply to the house financing allowed by the banks/DFIs to their employees 
+as part of compensation package provided the detailed terms and conditions of the benefits 
+which the banks/DFIs want to give to their employees are specifically mentioned in the 
+Employees Service Rules/HR Policy, approved by the Board of Directors. Further, such 
+consumer financing to the employees should be treated as staff financing and not as general 
+consumer financing. In case of resignation/separation/termination, staff financing should be 
+converted into commercial housing finance immediately. 
+12. Asset Liability Mismatches 
+Banks/DFIs shall prudently manage the maturity mismatches arising out of their housing 
+finance portfolios. Banks/DFIs are encouraged to explore avenues to generate long-term funds 
+to finance the long-term housing finance products and develop in-house system to stress test 
+their housing finance portfolios against adverse movements in mark-up/profit rates and asset-
+liability maturity mismatches. 
+13. Capacity Building 
+Capacity building programs/initiatives for all the officials attached with housing finance shall 
+be held regularly to acquaint them with the systems, procedures, developments and best 
+housing finance practices, prevalent within and outside Pakistan.  
+14. Monitoring of Housing Finance market 
+The management of banks/DFIs shall put in place a mechanism to monitor conditions in 
+housing finance market at least on half-yearly basis to ensure that their policies are aligned 
+with current market conditions. 
+15. Verification of Property-related Documents 
+Banks/DFIs shall verify necessary information provided in the application form. In addition, all 
+title and other legal documents provided with application form shall be verified directly from 
+the relevant issuing authorities to establish their genuineness and authenticity as per banks’ 
+internal policy. Property documents shall be clear and free from all encumbrances and legal 
+charges. Title documents shall explicitly contain details of ownership as per relevant 
+registration authorities, area and demarcation etc. All the documents should be kept in safe 
+custody and meet all procedures/requirements relating to the completion of house finance. 
+16. Permission from Relevant Authorities 
+The banks/DFIs shall not disburse housing finance unless ensured that prior 
+permission/clearance for construction and/or approved map of house has been obtained by 
+the borrower from the relevant authorities, wherever required. In case of financing for 
+purchase of a house/flat, it shall be ensured that the house was constructed with prior 
+permission/clearance from relevant authorities. 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 6 of 10 
+ 
+17. Insurance/Takaful 
+Banks/DFIs shall obtain comprehensive insurance/takaful coverage of the housing unit 
+financed through a reputable insurance/takaful company. Banks/DFIs shall obtain insurance 
+upto full value in case of apartment and upto construction cost in case of house. Further, 
+banks/DFIs are allowed to obtain group insurance, life insurance or key-man insurance to 
+minimize insurance cost. Further, banks/DFIs are advised to explicitly disclose the nature & 
+type of insurance/takaful being obtained and rate of commission and other charges. 
+18. Recovery Procedures 
+Banks/DFIs should ensure that adequate procedures, systems and manpower are in place to 
+efficiently handle the recovery process of default amount and successful execution and 
+accomplishment of the auction proceedings wherever necessary, in accordance with the 
+procedures and articles laid down in the Financial Institutions (Recovery of Finances) 
+Ordinance, 2001 (FIRO-2001) and other provisions/clauses,  amendments in FIRO-2001 or any 
+law/regulations in force and SBP instructions issued from time to time. 
+ 
+Regulation HF 2: Types of Housing Finance 
+Banks/DFIs may provide following types of housing finance to borrowers: 
+a) Purchase, construction, renovation or extension of residential units to individuals, co-
+borrowers including non-resident Pakistanis 
+b) Financing for residential plots plus construction 
+c) Balance transfer of existing finance facility of borrower from other banks/DFIs, subject to 
+the condition that the bank/DFI where facility is transferred would not extend financing 
+higher than the balance amount in the transferring bank/DFI. Further, borrower cannot 
+transfer housing finance to other banks/DFIs before completion of three years with a 
+bank/DFI as a mortgagee.  
+Banks/DFIs shall not allow housing finance purely for the purchase of land/plots; rather, such 
+financing would be extended for the purchase of land/plot and construction on it. Accordingly, the 
+sanctioned financing limit, assessed on the basis of repayment capacity of the borrower, value of 
+land/plot and cost of construction on it etc., shall be disbursed in tranches, i.e. upto a maximum of 
+50% of the financing limit can be disbursed for the purchase of land/plot (however the amount 
+disbursed for purchase of plot must not exceed the 85% of the market value/cost of land/plot), 
+and the remaining amount be disbursed for construction there-upon. Further, the bank/DFI will 
+take a realistic construction schedule from the borrower before allowing disbursement of the 
+initial financing for construction. For construction-only cases, the sanctioned financing shall also 
+be released in tranches commensurate with the stage of construction. Moreover, if an individual 
+gets construction finance and there is cost overrun due to which property remains incomplete, 
+banks/DFIs may entertain the customer for additional finance for completion of house, keeping in 
+view the DBR and cushion in overall value (LTV). 
+Further, if there is sufficient cushion available as per valid valuation/revaluation, banks/DFIs may 
+consider providing additional finance for renovation or extension but not before 3 years of the last 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 7 of 10 
+ 
+finance availed by the borrower for the same house. The requirements regarding debt burden 
+ratio and loan-to-value ratio shall be duly observed while allowing such financing.  
+Regulation HF 3: Debt Burden Ratio 
+Total monthly amortization payments, including the housing finance under consideration and 
+repayment obligations against all other consumer financings, should not exceed 50% of the net 
+disposable income of the prospective borrower. In case any financing of the borrower requires 
+quarterly, bi-annual or annual payments, the debt burden ratio shall be calculated by assuming 
+that the financing is repaid in substantially equal monthly payments during its term. While 
+calculating net disposable income, verifiable income of the borrower and repayment capacity 
+should be taken into account. The income of co-borrower can be clubbed. 
+ 
+The above measures would be in addition to banks’/DFIs’ usual evaluations of each proposal 
+concerning credit worthiness of the borrowers to ensure that the banks’/DFIs’ portfolio under 
+housing finance fulfills the prudential norms and instructions issued by the State Bank of Pakistan 
+and does not impair the soundness and safety of the bank/DFI itself. They shall maintain record 
+evidencing assessment of repayment capacity of the borrower. 
+Regulation HF 4: Loan to Value Ratio 
+The housing finance shall be provided at a maximum Loan to Value ratio of 85:15. 
+Regulation HF 5: Limit on Exposure against Real Estate Sector 
+1) The banks/DFIs shall not take exposure on the real estate sector exceeding 10% of the 
+aggregate of their advances and investments (excluding investments in Government securities) at 
+any point in time.  
+2) For the purpose of this regulation, Real Estate Sector shall include: 
+a) Individual/family owned houses for the purpose of self-occupation or renting out 
+(non-commercial usage).  
+b) Builders, developers, contractors, corporations, property dealers and any other 
+person dealing in residential, commercial and industrial real estate, e.g., undeveloped 
+land, housing societies/residential buildings, office buildings, multi-purpose commercial 
+premises, hotels, shopping malls, retail space, retail store buildings, industrial space, 
+factories, warehouses. 
+c) Subsidiaries of (b)  
+d) Debt instruments and shares issued by (b) and (c) above and units of Real Estate 
+Investment Trusts (REIT) issued by a REIT Management Company.  
+3) In case of 2) b), such exposure shall be counted towards the above limit of 10% where the 
+prospects for repayment and recovery in the event of default depend primarily on the cash flows 
+generated by real estate.  
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 8 of 10 
+ 
+4) Infrastructure Project Financing (IPF), as defined in the SBP’s guidelines for Infrastructure 
+Project Financing as amended form time to time, shall not be included for calculating the above 
+limit. 
+ 
+5) With a view to promote the low cost/ low income/ affordable housing, financings under 
+Government Housing Scheme and initiatives shall also be not included for calculating above limit. 
+The above criterion is, however, not applicable to the specialized housing finance companies like 
+House Building Finance Company Limited as their core business is extending housing finance to 
+the borrowers. 
+Regulation HF 6: Financing Tenure  
+The banks/DFIs shall not extend housing finance for a tenure exceeding 25 years. The duly 
+approved financing policy of the banks/DFIs shall define the maximum tenure keeping in view 
+maturity profile of their assets and liabilities. In case the financing is rescheduled/restructured, it 
+should not result in extension in total tenure beyond 25 years. 
+Regulation HF 7: Property Assessment 
+Banks/DFIs shall ensure that a proper property valuation is done by a valuer on approved panel of 
+Pakistan Banks Association and valuation report provides banks/DFIs with an in-depth assessment 
+of the property that is being offered as security. They shall determine the frequency of property 
+revaluation and validity period of valuation report as per their internal requirement and get it 
+approved from the top management.  
+The properties valuing upto Rs. 3.0 million should not be subject to assessment by valuator. 
+Banks/DFIs can use their internal resources to assess the properties having market value upto Rs. 
+3.0 million. The properties valuing more than Rs. 10 million should be subject to assessment by at 
+least two valuators listed on a PBA approved panel. 
+Regulation HF 8: Mortgage Creation/Cancellation 
+Creation of the mortgage shall be recorded with the related registration authority through 
+registered mortgage (legally compatible to stand in court of law). Cancellation or 
+assignment/transfer of mortgage/rights, agreed upon by both the parties in legal agreements, 
+shall also be recorded with the same related registration authority by banks/DFIs. 
+Further, banks/DFIs may allow rebate to/ share cost with housing finance borrowers for creation 
+of registered mortgage. 
+Regulation HF 9: General Reserve against Housing Finance 
+Banks/DFIs shall maintain a general reserve in the following manner: 
+ 
+Percentage of Classified Housing Finance  
+to Total Housing Finance 
+General Reserve (percent of Active/ 
+Performing Housing Finance Portfolio) 
+Below 5% 
+0.5 
+Below 10% 
+ 
+1.0 
+Upto and above 10% 
+ 
+1.5 
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 9 of 10 
+ 
+Regulation HF 10: Classification and Provisioning 
+The housing finance shall be classified and provided for in the following manner: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Banks/DFIs may avail the benefit of FSV for provisioning with the condition that the profit arising 
+from availing the benefit shall not be available for the payment of cash or stock dividend. 
+The heads of credit of respective banks/DFIs shall ensure that FSV used for taking benefit of 
+provisioning is determined accurately and is reflective of market conditions under forced sale 
+situation. Any misuse of FSV benefit detected during regular/special inspection of SBP shall attract 
+strict punitive action under the relevant provisions of Banking Companies Ordinance, 1962. 
+Furthermore, SBP may also withdraw the benefit of FSV from banks/DFIs found involved in its 
+misuse.  
+ 
+ 
+Classification 
+Determinant 
+Treatment of Income  
+Provisioning to be made 
+OAEM  
+ 
+Where mark-up or 
+principal is 
+overdue by 90 
+days or more from 
+the due date. 
+ 
+No provisioning Required. 
+Default notices to be issued to borrower. 
+Substandard  
+Where mark-up or 
+principal is 
+overdue by 180 
+days or more from 
+the due date. 
+Unrealized mark-up to be 
+kept in Memorandum 
+Account and not to be 
+credited to Income Account 
+except when realized in cash. 
+Unrealized mark-up already 
+taken to income account to 
+be reversed and kept in 
+Memorandum Account. 
+Provision of 25% of the difference resulting 
+from the outstanding balance of principal 
+less the amount of liquid assets realizable 
+without recourse to a Court of Law and 
+Forced Sale Value (FSV) of mortgaged 
+properties to the extent of 75% of such 
+FSV. 
+Doubtful  
+Where mark-up or 
+principal is 
+overdue by one 
+year or more from 
+the due date. 
+As above  
+Provision of 50% of the difference resulting 
+from the outstanding balance of principal 
+less the amount of liquid assets realizable 
+without recourse to a Court of Law and 
+Forced Sale Value (FSV) of mortgaged 
+properties to the extent of 75% of such 
+FSV. 
+Loss  
+Where mark-up or 
+principal is 
+overdue by two 
+years or more 
+from the due date 
+As above 
+Provision of 100% of the difference 
+resulting from the outstanding balance of 
+principal less the amount of liquid assets 
+realizable without recourse to a Court of 
+Law and Forced Sale Value (FSV) of 
+mortgaged properties to the extent of 75% 
+of such FSV for first year and 60% for 
+second year and 50% of FSV for third year 
+from the date of Classification. Benefit of 
+FSV against NPLs shall not be available after 
+3 years from the date of classification of 
+financing.  
+“HOUSING FINANCE PRUDENTIAL REGULATIONS” 
+Page 10 of 10 
+ 
+Regulation HF 11: Rescheduling/Restructuring of Non-Performing Housing Finance 
+a) Banks/DFIs shall have policy for rescheduling/restructuring of non-performing housing 
+finance, which should be approved by the Board of Directors or by the Country 
+Head/Executive/ Management Committee in case of branches of foreign banks. 
+b) Rescheduling/restructuring should not be done just to avoid classification of financing and 
+provisioning requirements. In this connection, banks/DFIs shall ensure that house financing 
+facilities of any borrower should not be rescheduled/ restructured more than once within two 
+years. 
+c) For the purpose of rescheduling/restructuring, banks/DFIs may change the tenure of the 
+financing by maximum two years beyond the original tenure agreed with the customer subject 
+to maximum financing tenure of 25 years. 
+d) While considering rescheduling/restructuring, banks/DFIs should, inter alia, take into account 
+the repayment capacity of the borrower. The condition of 50% of Debt Burden Requirement 
+(DBR) shall not be applicable to financing rescheduled/restructured. However, any new house 
+financing facility extended to a borrower who is availing any rescheduled/ restructured facility 
+shall be subject to observance of minimum DBR. 
+e) The status of classification of the non-performing assets shall not be changed because of 
+rescheduling/restructuring unless borrower has paid at least 10% of the rescheduled/ 
+restructured amount (including principal and mark-up both) or six installments as per terms & 
+conditions of the rescheduling/restructuring whichever is high. However, for internal 
+monitoring purpose, banks/DFIs may re-set the dpd (days past due) counter of the newly 
+created finance to “0” dpd. 
+f) Provisions already held against non-performing financing, to be rescheduled/ restructured, 
+will only be reversed if condition of 10% recovery or six installments is met. 
+g) If the borrower defaults (i.e. reaches 180 dpd) again within two years after declassification, 
+the financing shall be classified under the same category in which it was prior to rescheduling/ 
+restructuring. Banks/DFIs, however, at their discretion may further downgrade the 
+classification based on their own internal policies. 
+ 
+************************************ 
