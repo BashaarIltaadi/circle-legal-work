@@ -1,0 +1,1669 @@
+i  
+ 
+ 
+State Bank of Pakistan 
+ 
+Prudential Regulations 
+ for Small &  
+Medium Enterprises Financing 
+ 
+ 
+ (Updated till December 31, 2017)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Infrastructure, Housing & SME Finance Department 
+I.I. Chundrigar Road, Karachi 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+ii  
+ 
+ 
+ 
+ 
+ 
+ 
+The Team 
+ 
+ 
+ 
+ 
+ 
+Website Address:  www.sbp.org.pk 
+UAN: 111 727 111 
+ 
+ 
+NAME 
+ 
+ 
+DESIGNATION 
+ 
+TELEPHONE NO. & E-MAIL 
+Syed Samar Hasnain 
+Executive Director 
+(+92-21) 99221606 
+samar.husnain@sbp.org.pk 
+Mr. Ghulam Muhammad 
+Director 
+ (+92-21) 99221414 
+ghulam.muhammad@sbp.org.pk 
+Mr. Imran Ahmad 
+Additional Director 
+(+92-21) 99221951 
+imran.ahmad@sbp.org.pk  
+ 
+Mr. Muhammad Azam  
+Joint Director  
+(+92-21) 32455561 
+azam.qureshi@sbp.org.pk  
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+iii  
+ 
+ 
+Preface 
+ 
+SME sector contributes significantly towards national GDP, employment generation and export earnings. Hence, 
+the impact of financial inclusion of SMEs has important implications for economic growth, competitiveness, and 
+job creation. The potential for this sector to contribute to the economic development objectives of Pakistan, in 
+areas like creating jobs, increasing incomes, improving competitiveness, boosting exports and fostering 
+economic growth is the justification for a strategy of support to unleash the sector’s potential. Keeping this in 
+view, SBP issued separate Prudential Regulations for SMEs in 2003, which were subsequently revised in 2013 
+and 2016 in line with the changing market dynamics.  
+ 
+Banks & DFIs had tilt towards larger-size medium enterprises as compared to small enterprises (SEs) in their 
+banking business. Therefore, for improving SEs’ access to finance, SME definition prescribed in the PRs issued 
+in 2003 was segregated and small enterprises and medium enterprises were separately defined in 2013, along 
+with formulation of specific regulations for the small enterprises (SEs). We feel that a separate definition for 
+small enterprises is helping banks & DFIs in aligning their business strategy with the SE Financing needs.  
+ 
+Then in 2016, certain amendments were made in these regulations while responding to market changes. These 
+included changes in the definition of small enterprise (SE) and medium enterprise (ME), upward revision in per 
+party exposure limit for SE financing, requirement of audited accounts for SE Financing for exposure above Rs 
+15 million, waiver of general reserve requirement against SEs’ non-fund based portfolio and rationalization of 
+cash repayment requirement for immediate declassification of SE and ME restructured/ rescheduled loans.  
+ 
+Recently, a holistic exercise was undertaken by SBP in collaboration with concerned stakeholders to plug in the 
+gaps in the way of smooth SME financing in the country. In this regard, ‘Policy for Promotion of SME Finance’ 
+was launched by the Prime Minister of Pakistan on 22nd December 2017. In this perspective, amendments have 
+been introduced in following SME financing PRs to allow rapid promotion of SME financing in the country: 
+ 
+1) 
+Regulation SME R-1: SME Specific Credit Policy 
+2) 
+Regulation SME R-2: e-CIB Report 
+3) 
+Regulation SME R-9: General Measures 
+4) 
+Regulation SE R-7: General Reserve against Small Enterprise Finance 
+5) 
+Regulation SE R-10: Turn-Around-Time  
+6) 
+Regulation ME R-6: Turn-Around-Time (newly introduced) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+iv  
+ 
+It is worth mentioning that providing enabling regulatory framework is one important aspect only. Visible 
+improvement in SME Financing will only occur when banks & DFIs re-position themselves strategically in the 
+market by appropriately aligning their business strategies with the specific needs of the SME sector. The 
+regulatory framework will bear its intended results, only if banks & DFIs take the necessary steps including the 
+following:  
+ 
+ Bring strategic change at higher level to expand share in SME portfolio. 
+ Use relevant/ practical cash flow estimation techniques and other proxies to assess repayment capacity 
+of SME borrowers.  
+ Adopt program-based lending & down scaling strategies. 
+ Make appropriate alignment in their risk management processes. 
+ Allocate adequate resources for research & development. 
+ Take effective measures to capture market niche by conducting market segmentation. 
+ Strengthen credit appraisal and monitoring mechanism by greater use of technology and 
+documentation to undertake effective review of SME Portfolio. 
+ Adopt measures for greater financial awareness of SMEs specially SEs. 
+ 
+State Bank of Pakistan monitors the situation closely, and works with banks & DFIs to make SME banking a viable 
+success on sustainable basis. For this purpose, SBP is open to review any regulatory provision, if necessary, while 
+ensuring at the same time that banks & DFIs observe due prudence and necessary oversight.  
+ 
+The Prudential Regulations for small and medium enterprises (SMEs) financing cover Risk Management (R) 
+aspects. The Prudential Regulations for Corporate/ Commercial Banking may be referred to for areas concerning 
+Corporate Governance (G) and Operations (O) aspects as well as Anti-Money Laundering and Combating the 
+Financing of Terrorism (AML/ CFT) Regulations issued by BP&RD. However, in case of international operations, 
+the prudential regulations of host country shall prevail. 
+ 
+The Prudential Regulations for small and medium enterprises (SMEs) financing do not supersede other directives 
+issued by State Bank of Pakistan in respect of areas not covered here. Any violation or circumvention of these 
+regulations shall render the bank/DFI officer(s) concerned liable for penalties under the Banking Companies 
+Ordinance, 1962. 
+                                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        
+  Ghulam Muhammad                      
+Director 
+   
+ 
+ 
+ 
+  Infrastructure, Housing & SME Finance Department 
+Dated: December 31, 2017  
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+v  
+ 
+ 
+Table of Contents 
+Preface ......................................................................................................................................................... 
+iii 
+Chapter No: 01 Prudential Regulations – General for Small & Medium Enterprise Financing ............................1 
+Regulation SME R-1: SME Specific Credit Policy 
+.....................................................................................................2 
+Regulation SME R-2: Electronic Credit Information Bureau (e-CIB) Report ...........................................................2 
+Regulation SME R-3: Personal Guarantee ..............................................................................................................3 
+Regulation SME R-4: Limit on Clean Facility ...........................................................................................................3 
+Regulation SME R-5: Proper Utilization of Loan .....................................................................................................3 
+Regulation SME R-6: Restriction on Facilities to Related Parties ...........................................................................3 
+Regulation SME R-7: Translation of Loan Documents into Urdu Language ...........................................................3 
+Regulation SME R-8: Securities and Margin Requirements ...................................................................................4 
+Regulation SME R-9: General Measures 
+.................................................................................................................4 
+Chapter No: 02 Prudential Regulations for Small Enterprise Financing .............................................................6 
+Regulation SE R-1: Definition of Small Enterprise ..................................................................................................7 
+Regulation SE R-2: Per Party Exposure Limit ..........................................................................................................7 
+Regulation SE R-3: Requirement of Audited Accounts 
+...........................................................................................7 
+Regulation SE R-4: Repayment Capacity of the Borrower and Cash Flow Based Lending .....................................7 
+Regulation SE R-5: Collateral Valuation 
+..................................................................................................................8 
+Regulation SE R-6: Recovery of Outstanding Dues 
+.................................................................................................8 
+Regulation SE R-7: General Reserve against Small Enterprise Finance ..................................................................8 
+Regulation SE R-8: Classification and Provisioning for Loans/ Advances ...............................................................8 
+Regulation SE R-9: Restructuring/ Rescheduling of Loans/ Advances ...................................................................9 
+Regulation SE R-10: Turn-Around-Time 
+............................................................................................................... 10 
+Chapter No: 03 Prudential Regulations for Medium Enterprise Financing ...................................................... 
+11 
+Regulation ME R-1: Definition of Medium Enterprise 
+......................................................................................... 12 
+Regulation ME R-2: Repayment Capacity and Cash Flow Based Lending ........................................................... 12 
+Regulation ME R-3: Per Party Exposure Limit ..................................................................................................... 12 
+Regulation ME R-4: Requirement of Audited Accounts ...................................................................................... 13 
+Regulation ME R-5: Classification and Provisioning for Assets ........................................................................... 13 
+Regulation ME R-6: Turn-Around-Time ............................................................................................................... 15 
+ANNEXURE-I 
+......................................................................................................................................................... 17 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+vi  
+ 
+ANNEXURE-II 
+........................................................................................................................................................ 19 
+ANNEXURE-III 
+....................................................................................................................................................... 21 
+ANNEXURE-IV ...................................................................................................................................................... 23 
+ANNEXURE-V ....................................................................................................................................................... 26 
+ 
+ 
+ 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+ 
+1  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter No: 01 Prudential Regulations – General for 
+Small & Medium Enterprise Financing 
+ 
+ 
+2  
+ 
+Regulation SME R-1: SME Specific Credit Policy 
+Banks & DFIs shall prepare a comprehensive SME Specific Credit Policy duly approved by their 
+Board of Directors. The Credit Policy shall give special mention to Small Enterprises (SE) financing 
+keeping in view their specific characteristics and business conditions. The Credit Policy shall, 
+interalia, cover following for SME financing: 
+i. 
+Clearly laid down procedures on loan administration, disbursement, monitoring, and 
+recovery mechanism. 
+ii. 
+Specification of main functions, major responsibilities of various staff positions, as well as 
+their powers/ authority relating to approval/sanctioning of financing limits. 
+iii. 
+For loan size of upto Rs 2 million, it will be at the discretion of the banks & DFIs to obtain 
+the insurance cover of the hypothecated stock/ other securities keeping in view the credit-
+worthiness, past experience and financial strength of the prospective borrower. However, 
+if a bank/DFI decides to obtain an insurance cover, then it will not force to the respective 
+borrower for arranging the same from an insurance company of the bank’s/ DFI’s choice. 
+iv. 
+Banks & DFIs are encouraged to adopt program based lending. The Chief Executive Officer 
+of the bank/ DFI concerned will approve conventional/ Shariah-compliant program-based 
+products on recommendation of the respective committee. Such programs may carry 
+objective/ quantitative parameters for eligibility of borrowers, besides standardization and 
+simplification of loan documents required from the borrowers under the subject Program. 
+v. 
+Banks & DFIs shall adopt standardized and simplified loan application forms circulated by 
+PBA. 
+ 
+ 
+In case of SE Financing, following minimum points shall be covered under banks’/ DFIs’ Credit 
+Policy: 
+ 
+vi. 
+Clearly devised plan of the banks & DFIs regarding their frequency of visits to be made to 
+SE borrowers’ business sites keeping in view their human resource limitations and the 
+amount of exposure taken upon SEs. However, banks & DFIs shall ensure that at least one 
+visit must be made to SE borrowers’ sites during a year’s time. 
+vii. 
+In case the finance is secured against hypothecation of stock, banks & DFIs shall obtain stock 
+report at least semi-annually. 
+ 
+Regulation SME R-2: Electronic Credit Information Bureau (e-CIB) Report 
+While considering any credit proposal (including renewal, enhancement and rescheduling/ 
+restructuring), banks & DFIs shall obtain e-CIB Report on their prospective borrower(s) from 
+Electronic Credit Information Bureau (e-CIB) of State Bank of Pakistan. Banks & DFIs shall give due 
+weightage to the credit report relating to the borrower(s) and concerned group. However, they 
+can take exposure on defaulters keeping in view their risk management policies and criteria, 
+provided they properly record reasons and justifications in the approval form.  
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+3  
+ 
+Regulation SME R-3: Personal Guarantee 
+All facilities, except those secured against liquid assets, shall be backed by personal guarantees of 
+the owners of SMEs. In case of limited companies, guarantees of sponsor directors shall be 
+obtained. 
+ 
+Regulation SME R-4: Limit on Clean Facility 
+Banks & DFIs can take clean exposure (facilities secured solely against personal guarantees) on an 
+SME borrower up to Rs 5 million. Before taking clean exposure, banks & DFIs shall obtain a 
+declaration from the SME to ensure that the accumulated clean exposure on an SME does not 
+exceed the prescribed limit mentioned above. 
+ 
+It may be noted that clean exposure limit shall not include the clean consumer financing limits 
+(Credit Card and Personal Loans etc.) allowed to sponsors of the said SME under Prudential 
+Regulations for Consumer Financing. 
+ 
+Regulation SME R-5: Proper Utilization of Loan 
+Banks & DFIs shall ensure that loan has been utilized for the same purposes as specified in the 
+Loan Application Form. In case of financing to medium enterprises, banks & DFIs shall develop 
+and implement an appropriate system for monitoring utilization of loans. Such system may 
+include obtaining stock reports/ position of current assets in case of Working Capital Loans; and 
+supporting documents in case of Term Loans.  
+ 
+With regard to small enterprise financing, banks & DFIs shall adopt the following measures: 
+i. 
+In case of working capital/ revolving credits, banks & DFIs will obtain a declaration from the 
+borrowing SE stating that it has utilized the loan proceeds for the intended purpose only. 
+ii. 
+In the case of fixed assets/ project financing, banks & DFIs will adopt the same process as 
+mentioned above in the case of medium enterprise financing. 
+ 
+Regulation SME R-6: Restriction on Facilities to Related Parties 
+Banks & DFIs shall not take any exposure on an SME in which any of its directors, major 
+shareholders holding 5% or more of the share capital of the bank/ DFI or its Chief Executive, or an 
+Employee or any family member of these persons is interested, except as specified in section 24 
+of the BCO, 1962. In this regard, it will, however, suffice if banks & DFIs obtain an undertaking 
+from the small enterprise stating that there is no existence of any interest between the borrower 
+and the above-mentioned related parties.  
+ 
+Regulation SME R-7: Translation of Loan Documents into Urdu Language 
+To facilitate SMEs in better understanding important terms and conditions of loans, banks & DFIs 
+shall translate and make available Loan Application Form and other related documents, except 
+charge documents, in Urdu as well. Further, banks & DFIs will also provide information on 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+4  
+ 
+important terms with brief explanation of each term for convenience and better understanding 
+of the borrowers. 
+ 
+Regulation SME R-8: Securities and Margin Requirements 
+i. 
+Subject to the relaxation for clean facilities up to Rs. 5 million for SEs and MEs, all facilities 
+over and above this limit shall be appropriately secured as per satisfaction of the banks & 
+DFIs.  
+ii. 
+Banks & DFIs are free to determine the margin requirements on securities against facilities 
+provided by them to their clients taking into account the risk profile of the borrower(s) in 
+order to secure their interests. However, this relaxation shall not apply in case of items, 
+imports of which are banned by the Government. Banks & DFIs are advised not to open 
+import letter of credit for banned items in any case till such time the lifting of ban on any 
+such item is notified by the State Bank of Pakistan. 
+iii. 
+Banks & DFIs shall continue to observe margin restrictions on shares/ TFCs/ Sukuk as per 
+existing instructions under Prudential Regulations for Corporate/ Commercial Banking (R-
+6). Further, the cash margin requirement of 100% on Caustic Soda (PCT heading 2815.1200) 
+for opening Import Letter of Credit as advised by the Federal Government and notified in 
+terms of BPD Circular Letter No. 5 dated 4th May 2002, shall also continue to remain 
+applicable. 
+iv. 
+State Bank of Pakistan shall continue to exercise its powers for fixation/ reinstatement of 
+margin requirements on financing facilities being provided by banks & DFIs for various 
+purposes including Import Letter of Credit on a particular item(s), as and when required. 
+v. 
+In addition to above, the restrictions prescribed under paragraph 5 of Regulation R-6 of the 
+Prudential Regulations for Corporate/ Commercial Banking will also be applicable in case of 
+financing to small and medium enterprises. 
+Regulation SME R-9: General Measures 
+i. 
+Banks & DFIs shall establish SME Banking oriented Research & Development (R&D) 
+divisions/ units in their institutions. These R&D divisions/ units shall fulfil research related 
+needs of their institutes and provide them support in adopting suitable SME banking and 
+financing practices.   
+ii. 
+Banks & DFIs shall put in place an efficient MIS (Management Information System) which 
+will support them effectively catering reporting needs of their SME financing portfolio. The 
+system should be flexible enough to generate necessary information and at least following 
+reports in order to enable management, take important policy decisions and/ or make 
+appropriate modifications in their lending programs: 
+a. 
+Delinquency reports (for 30, 60, 90, 180 & 365 days and above) on monthly basis. 
+b. 
+Reports interrelating delinquencies with various customers and sectors types etc. 
+c. 
+List of SMEs having any kind of banking relationship(s) to be divisible w.r.t. 
+organizational structure (proprietorships, partnerships, limited company etc.) and/ 
+or nature of business (trading, service and manufacturing etc.).  
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+5  
+ 
+iii. 
+To address and minimize grievances of SMEs and stakeholders, banks & DFIs shall put in 
+place an effective, simple and transparent customers’ complaints resolution and helping 
+mechanism in their institutes, on permanent basis.  
+iv. 
+Banks & DFIs shall develop and offer customized lending products while adopting program 
+based lending and supply chain financing methodologies to cater specific SME financing 
+needs of various SME clusters. In this regard, banks & DFIs should explore mechanism for 
+adopting advanced delivery channels (branchless banking, tele-marketing etc.) and SME 
+credit scoring model etc.    
+v. 
+Banks & DFIs are also encouraged to leverage database of their walk-in and permanent 
+customers (depositors/ account-holders) which belong to SME sector, for cross selling of 
+financing products. This will provide them relatively more comfort in increasing SME 
+financing portfolio. 
+vi. 
+Pricing policy of banks & DFIs that include mark-up rates (including the IRR on the loan 
+products), processing & documentation fee, prepayment/ late-payment penalties etc. shall 
+be mentioned explicitly in the loan agreements viz banks shall strictly avoid imposing any 
+hidden charges in addition to those explicitly  stated in the loan agreement.    
+vii. 
+Banks & DFIs shall take measures for capacity building of their SME banking staff in SME 
+related areas. In this regard, they will design and implement dedicated capacity building 
+programs in coordination with their own training departments. Besides, SME financing staff 
+shall also be nominated for training programs offered by external training institutes like 
+NIBAF and IBP etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+6  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter No: 02 Prudential Regulations for 
+Small Enterprise Financing 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+7  
+ 
+Regulation SE R-1: Definition of Small Enterprise 
+A Small Enterprise (SE) is a business entity, which meets the following parameters:                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Number of Employees 
+Annual Sales Turnover 
+*Up to 50 
+Up to Rs. 150 million 
+   *including contract employees. 
+Further, an entity has to fulfill both the criteria of number of employees and sales turnover for   
+categorization as small enterprise. However, in cases where an entity fulfils one parameter of SE 
+and its second parameter falls within the range prescribed for medium enterprise (ME) or above 
+the upper limit prescribed for ME, then the subject entity shall be classified as ME or commercial/ 
+corporate entity as the case may be. 
+ 
+Regulation SE R-2: Per Party Exposure Limit 
+Small Enterprise can avail exposure up to Rs 25 million from a single bank/ DFI or from all banks 
+& DFIs. Banks &  DFIs are allowed to deduct the liquid assets (encashment value of bank deposits, 
+certificates of deposit/ investment, Pakistan Investment Bonds, Treasury Bills and National Saving 
+Scheme Securities) held under their perfected lien for the purpose of calculation of per party 
+exposure limit. 
+ 
+Regulation SE R-3: Requirement of Audited Accounts 
+Banks & DFIs are not required to obtain copy of audited accounts in case of lending to the small 
+enterprises for exposure upto Rs 15 million. However, in such cases, banks & DFIs may ask the 
+borrower to submit financial accounts in some form, signed by the borrower, to help banks & DFIs 
+assess SEs’ cash flows or carry out counter verification etc. 
+In case of lending to small enterprises above Rs 15 million, banks & DFIs shall obtain from the 
+small enterprises a copy of financial statements duly audited by a practicing Chartered Accountant 
+or a practicing Cost and Management Accountant for analysis and record. However, banks & DFIs 
+may waive the requirement of obtaining audited copy of financial statements when the exposure 
+net of liquid assets does not exceed the limit of Rs 15 million.   
+Regulation SE R-4: Repayment Capacity of the Borrower and Cash Flow Based Lending 
+Normally, small enterprises do not maintain proper financial accounts for the satisfaction of banks 
+& DFIs. Their record generally contains sale/ purchase books and cash received/ paid records in a 
+rudimentary form. Banks & DFIs shall use relevant/ practical cash flow estimation techniques and 
+other proxies to assess repayment capacity of SE borrower. To supplement, banks & DFIs are 
+encouraged to use the available sector/ cluster specific financial models that can capture cost 
+structure, revenue streams and margins in the sectors. For program-based lending, banks & DFIs 
+may also use, as a substitute, Income Estimation Models to assess repayment capacity of the 
+borrowers.  
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+8  
+ 
+Regulation SE R-5: Collateral Valuation 
+For valuation of securities against loans up to Rs 5 million, banks & DFIs at their own discretion 
+may either use the services of their own evaluating staff or the services of PBA approved 
+evaluator. However, valuation of securities for loans above Rs 5 million shall be done only by an 
+evaluator on the approved panel of PBA. 
+ 
+Regulation SE R-6: Recovery of Outstanding Dues 
+To facilitate the recovery efforts, banks & DFIs are allowed to undertake cash collection/ recovery 
+at places other than their authorized places of business as stipulated in the ‘Fair Debt Collection 
+Guidelines’ issued by Banking Policy and Regulations Department. However, in order to prevent 
+fraud and misappropriation of collected cash, adequate security and risk management measures 
+(including but not limited to adequate insurance cover all the time) must be in place and this 
+process should be appropriately documented, and audited at the bank/ DFI level. The banks & 
+DFIs are also encouraged to make use of mobile and wireless technologies/ devices for instant 
+updating of cash collection from field into their books and accounts, and sending confirmatory 
+SMS/ alert messages to borrowers.   
+ 
+Regulation SE R-7: General Reserve against Small Enterprise Finance 
+Banks & DFIs shall maintain general reserve equivalent to 1% of their unsecured SE portfolio to 
+protect them from the risks associated with the economic and cyclical nature of this business. This 
+reserve requirement shall, however, be maintained only for the performing fund based SE 
+portfolio of banks & DFIs. In order to calculate the general reserve, liquid securities under 
+perfected lien (encashment value of bank deposits, certificates of deposit/ investment, Pakistan 
+Investment Bonds, Treasury Bills and National Saving Scheme Securities) held against banks’/ DFIs’ 
+fund-based SE portfolio shall be netted. 
+ 
+Regulation SE R-8: Classification and Provisioning for Loans/ Advances 
+1. Banks & DFIs shall observe prudential guidelines given in this Regulation and at Annexure I 
+& II of these Regulations in the matter of classification of their SE asset portfolio and 
+provisioning there-against. 
+2. In addition to the time-based criteria prescribed in Annexure I, subjective evaluation of 
+performing and non-performing credit portfolio may be made for risk assessment purpose 
+and, where considered necessary, any account including the performing account shall be 
+classified, and the category of classification determined on the basis of time based criteria 
+shall be further downgraded. However, classification for program-based lending shall be 
+done based on objective (time-based) criteria only, though banks & DFIs at their own 
+discretion may also classify such portfolio on subjective basis.  
+3. In case of revolving/ running finance accounts, if the borrower pays mark-up regularly 
+without showing turn-over in the principal portion of the account, and bank/ DFI is satisfied 
+with this conduct and is willing to roll over the facility periodically; then such account will not 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+9  
+ 
+attract ‘subjective classification’ on the basis of lower/ nil activity in the principal account. 
+However, banks & DFIs can classify, at their discretion, such accounts as per their own policy. 
+4. Banks & DFIs can avail the benefit of Forced Sale Value (FSV) of collateral held against loans/ 
+advances, determined in accordance with the guidelines laid down in Annexure II, before 
+making any provision.  
+5. Party-wise details of cases, where banks & DFIs have taken the benefit of FSV shall be 
+maintained for verification by State Bank’s teams during their regular/ special inspection.  
+6. Banks & DFIs shall review, at least on a quarterly basis, the collectability of their loans/ 
+advances portfolio and shall properly document the evaluations so made. Shortfall in 
+provisioning, if any, determined, because of quarterly assessment shall be provided for 
+immediately in their books of accounts by the banks & DFIs on quarterly basis. 
+7. In case of cash recovery, other than rescheduling/ restructuring, banks & DFIs may reverse 
+specific provision held against classified assets only to the extent that required provision as 
+determined under this Regulation is maintained. 
+8. Banks &  DFIs will make suitable arrangements for ensuring that FSV used for taking benefit 
+of provisioning is determined accurately as per guidelines contained in these PRs and is 
+reflective of market conditions under forced sale situations. 
+9. The external auditors shall, as part of their annual audits of banks & DFIs, verify that all 
+requirements as stipulated above and in Annexure I & II for classification and provisioning 
+have been complied with. State Bank of Pakistan shall also check the adequacy of 
+provisioning during on-site inspection. 
+Regulation SE R-9: Restructuring/ Rescheduling of Loans/ Advances 
+1. The banks & DFIs may reschedule/ restructure problem loans as per their own policy duly 
+approved by their Board of Directors. However, the rescheduling/ restructuring of non-
+performing loans shall not change the status of classification of a loan/ advance etc. unless 
+the following minimum conditions are met: 
+i. 
+At least 10% of the outstanding loan amount is recovered in cash and the terms and 
+conditions of rescheduling/ restructuring are fully met for a period of at least 6 months 
+(excluding grace period, if any) from the date of such rescheduling/ restructuring. 
+However, the condition of 6 Months retention period, prescribed for restructured/ 
+rescheduled loan account to remain in the classified category, shall not apply in case 
+the borrower has repaid or adjusted in cash at least 35% of the total restructured loan 
+amount (principal + mark-up), either at the time of restructuring agreement or later-
+on any time before the completion of 6 Months period as above mentioned. 
+ii. 
+Rescheduling shall not be done simply to avoid classification.  
+iii. 
+While reporting to the Credit Information Bureau (e-CIB) of State Bank of Pakistan, 
+such loans/ advances may be shown as ‘rescheduled/ restructured’ instead of 
+‘default’.  
+iv. 
+Restructuring/ rescheduling of a loan account shall not lead to disqualification of the 
+borrower for fresh credit facilities or enhancement in the existing limits. Such fresh 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+10  
+ 
+loans may be monitored separately, and shall be subject to classification on the 
+strength of their own specific terms and conditions. 
+v. 
+Where a borrower subsequently defaults (either principal or mark-up) after the 
+rescheduled/ restructured loan has been declassified by a bank/ DFI, the loan shall 
+again be classified in the same category it was in at the time of rescheduling/ 
+restructuring and the unrealized markup on such loans taken to income account shall 
+also be reversed. However, banks & DFIs at their discretion may further downgrade 
+the classification, taking into account the subjective criteria. 
+Regulation SE R-10: Turn-Around-Time 
+Banks & DFIs shall not take more than 15 working days for the credit approval process (from the 
+date of receipt of complete information). In this respect, the following minimum points shall also 
+be considered:   
+i. 
+The pre-approval requirements and post-approval requirements (security/ collateral 
+documentation etc.) shall be advised preferably in one go.  
+ii. 
+The facility shall be disbursed only after security documentation is completed by the 
+customer.  
+11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chapter No: 03 Prudential Regulations for 
+Medium Enterprise Financing 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+12  
+ 
+Regulation ME R-1: Definition of Medium Enterprise 
+Medium Enterprise (ME) is a business entity, ideally not a public limited company which meets 
+the following parameters: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        
+*Number of Employees  
+Annual Sales Turn-Over  
+51-250  (Manufacturing & Service MEs)  
+51-100  (Trading MEs)  
+Above Rs 150 million and up to Rs 800 million 
+(All types of Medium Enterprises) 
+   *including contract employees. 
+Further, an entity has to fulfill both the criteria of number of employees and sales turnover for 
+categorization as medium enterprise. However, when an entity’s one parameter is as per ME 
+criteria and its second parameter is as per SE criteria, than subject entity would be categorized as 
+ME. Similarly, when an entity’s one parameter is as per ME and its second parameter is above the 
+upper limit prescribed for ME, then the subject entity shall be categorized as commercial/ 
+corporate entity. 
+ 
+Regulation ME R-2: Repayment Capacity and Cash Flow Based Lending 
+1. 
+Banks & DFIs shall specifically identify the sources of repayment and assess the repayment 
+capacity of the borrower on the basis of assets conversion cycle and expected future cash 
+flows. In order to add value, banks & DFIs are encouraged to assess conditions prevailing in 
+the particular sector/ industry they are lending to and its future prospects. Banks & DFIs 
+should be able to identify the key drivers of their borrowers’ businesses, the key risks 
+associated with their businesses and their risk mitigants. Banks & DFIs may also use Income 
+Estimation Models specially in program-based lending to assess repayment capacity of the 
+borrowers.  
+2. 
+The rationale and parameters used to project the future cash flows shall be documented and 
+annexed with the cash flow analysis undertaken by banks & DFIs. 
+ 
+Regulation ME R-3: Per Party Exposure Limit 
+Medium Enterprise can avail financing (including leased assets) upto Rs 200 million from a single 
+bank/ DFI or from all banks & DFIs. It is expected that Medium Enterprises approaching this limit 
+should have achieved certain sophistication as they migrate into larger firms and should be able 
+to meet the requirements of Prudential Regulations for Corporate/ Commercial Banking.  
+Banks & DFIs are allowed to deduct the liquid assets (encashment value of bank deposits, 
+certificates of deposit/ investment, Pakistan Investment Bonds, Treasury Bills and National Saving 
+Scheme Securities) held under their perfected lien for the purpose of calculation of per party 
+exposure limit. 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+13  
+ 
+Regulation ME R-4: Requirement of Audited Accounts 
+In case of lending to medium enterprises, banks & DFIs shall obtain a copy of financial statements 
+duly audited by a practicing Chartered Accountant, from the medium enterprise who is a limited 
+company or where the exposure of a bank/ DFI exceeds Rs 10 million, for analysis and record. 
+Banks & DFIs may also accept a copy of financial statements duly audited by a practicing Cost and 
+Management Accountant in case of a borrower other than a public company or a private 
+company, which is a subsidiary of a public company. However, banks & DFIs may waive the 
+requirement of obtaining audited copy of financial statements when the exposure net of liquid 
+assets does not exceed the limit of Rs 10 million.   
+ 
+Regulation ME R-5: Classification and Provisioning for Assets 
+Loans/ Advances 
+1. Banks & & DFIs shall observe the prudential guidelines given at Annexure III & IV in the matter 
+of classification of their ME asset portfolio and provisioning there-against. In addition to the 
+time-based criteria prescribed in Annexure III, subjective evaluation of performing and non-
+performing credit portfolio may be made for risk assessment purpose and, where considered 
+necessary, any account including the performing account shall be classified, and the category 
+of classification determined on the basis of time based criteria shall be further downgraded. 
+Such evaluation shall be carried out on the basis of credit worthiness of the borrower, its cash 
+flow, operation in the account, adequacy of the security inclusive of its realizable value and 
+documentation covering the advances. However, classification for program-based lending 
+shall be based on objective criteria. Nevertheless, banks & DFIs may, at their own discretion, 
+also classify such portfolio on subjective basis. 
+2. Banks &  DFIs shall classify their loans/ advances and make provisions in accordance with the 
+criteria prescribed above, and further stipulated in Annexure III & IV and also keeping in view 
+the following:  
+a. 
+Banks &  DFIs may avail the prescribed benefit of FSV subject to compliance with the 
+following conditions:  
+I. 
+The additional impact on profitability arising from availing the benefit of FSV against 
+the pledged stocks, plant & machinery under charge, and mortgaged residential, 
+commercial & industrial properties shall not be available for payment of cash or 
+stock dividend.  
+II. 
+Heads of Credit of respective banks &  DFIs shall ensure that FSV used for taking 
+benefit of provisioning is determined accurately as per guidelines contained in PRs 
+and is reflective of market conditions under forced sale situations; and  
+III. Party-wise details of all such cases where banks & DFIs have availed the benefit of 
+FSV shall be maintained for verification by State Bank’s inspection team during 
+regular/ special inspection.  
+b. 
+Any misuse of FSV benefit detected during regular/ special inspection of SBP shall attract 
+strict punitive action under the relevant provisions of the Banking Companies Ordinance, 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+14  
+ 
+1962. Further, SBP may also withdraw the benefit of FSV from banks & DFIs found 
+involved in its misuse. 
+ 
+Rescheduling/ Restructuring 
+3. The rescheduling/ restructuring of non-performing loans shall not change the status of 
+classification of a loan/ advance etc. unless the terms and conditions of rescheduling/ 
+restructuring are fully met for a period of at least one year (excluding grace period, if any) 
+from the date of such rescheduling/ restructuring and at least 10% of the outstanding amount 
+is recovered in cash. However, the condition of one year retention period, prescribed for 
+restructured/ rescheduled loan account to remain in the classified category, shall not apply in 
+case the borrower has repaid or adjusted in cash at least 35% of the total restructured loan 
+amount (principal + mark-up), either at the time of restructuring agreement or later-on any 
+time before the completion of one year period as above mentioned. Further, banks & DFIs 
+may credit their income account to the extent of cash recovery made against accrued markup 
+on the restructured/ rescheduled loans.  
+4. Banks & DFIs shall ensure that Rescheduling is not done simply to avoid classification. While 
+reporting to the Credit Information Bureau (e-CIB) of State Bank of Pakistan, such loans/ 
+advances may be shown as ‘rescheduled/ restructured’ instead of ‘default’.  
+Where a borrower subsequently defaults (either principal or mark-up) after the rescheduled/ 
+restructured loan has been declassified by a bank/ DFI as per above guidelines, the loan shall 
+again be classified in the same category it was in at the time of rescheduling/ restructuring 
+and the unrealized markup on such loans taken to income account shall also be reversed. 
+However, banks & DFIs may, at their discretion, further downgrade the classification, taking 
+into account the subjective criteria. 
+At the time of rescheduling/ restructuring, banks & DFIs shall consider and examine the 
+requests for working capital strictly on merit, keeping in view the viability of the project/ 
+business and appropriately securing their interest etc. 
+All fresh loans granted by the banks &  DFIs to a party after rescheduling/ restructuring of its 
+existing facilities may be monitored separately, and will be subject to classification under this 
+Regulation on the strength of their own specific terms and conditions. 
+ 
+Timing of Creating Provisions 
+5. Banks & DFIs shall review, at least on a quarterly basis, the collectability of their loans/ 
+advances portfolio and shall properly document the evaluations so made. Shortfall in 
+provisioning, if any, determined, as a result of quarterly assessment shall be provided for 
+immediately in their books of accounts on quarterly basis. 
+ 
+Reversal of Provision 
+6. In case of cash recovery, other than rescheduling/ restructuring, banks & DFIs may reverse 
+specific provision held against classified assets only to the extent that required provision as 
+determined under this Regulation is maintained. While calculating the remaining provision 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+15  
+ 
+required to be held after cash recovery and reversal of provision there-against, banks & DFIs 
+shall still enjoy the benefit of netting-off the amount of liquid assets and FSV of collateral from 
+the outstanding amount, as described in this regulation. Further, the provision made on the 
+advice of State Bank of Pakistan except where cash recovery is made shall not be reversed 
+without prior approval of State Bank of Pakistan. 
+ 
+Verification by the Auditors 
+7. The external auditors shall verify as part of their annual audits of banks & DFIs that all 
+requirements as stipulated above and Annexure III & IV for classification and provisioning for 
+assets have been complied with. State Bank of Pakistan shall also check the adequacy of 
+provisioning during on-site inspection.  
+ 
+Regulation ME R-6: Turn-Around-Time  
+Banks & DFIs shall not take more than 25 working days for the credit approval process (from the 
+date of receipt of complete information). In this respect, the following minimum points shall also 
+be considered: 
+i. 
+The pre-approval requirements and post-approval requirements (security/ collateral 
+documentation etc.) shall be advised preferably in one go.  
+ii. 
+The facility shall be disbursed only after the customer completes security documentation. 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+16  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexures to Prudential Regulations for 
+Small & Medium Enterprises Financing 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+17  
+ 
+ANNEXURE-I 
+Small Enterprise Financing (Regulation SE R-8) 
+Guidelines in the Matter of  
+Classification and Provisioning for Loans/ Advances 
+All Financing Facilities (including Short, Medium and Long Term) 
+CLASSIFICATION 
+DETERMINANT 
+TREATMENT OF 
+INCOME 
+PROVISIONS TO BE MADE 
+(1) 
+(2) 
+(3) 
+(4) 
+ 
+ 
+ 
+ 
+1. OAEM 
+(Other 
+Assets 
+Especially 
+Mentioned). 
+ 
+ 
+ 
+ 
+2. Substandard. 
+Where 
+mark-
+up/ interest or 
+principal 
+is 
+overdue by 90 
+days or more 
+from the due 
+date. 
+ 
+ 
+ 
+Where 
+mark-
+up/ interest or 
+principal 
+is 
+overdue by 180 
+days or more 
+from the due 
+date. 
+Unrealized 
+mark-up/ 
+interest to be kept in 
+Memorandum 
+Account and not to be 
+credited 
+to 
+Income 
+Account except when 
+realized 
+in 
+cash. 
+Unrealized 
+markup/ 
+interest already taken 
+to income account to 
+be reversed and kept 
+in 
+Memorandum 
+Account. 
+As above.   
+Provision of 10% of the difference 
+resulting from the outstanding balance 
+of principal less the amount of liquid 
+assets realizable without recourse to a 
+Court of Law and Forced Sale Value 
+(FSV) of pledged stocks, plant & 
+machinery 
+under 
+charge 
+and 
+mortgaged residential, commercial and 
+industrial properties (land & building 
+only) to the extent allowed in Annexure 
+II.   
+                                                         
+Provision of 25% of the difference 
+resulting from the outstanding balance 
+of principal less the amount of liquid 
+assets realizable without recourse to a 
+Court of Law and Forced Sale Value 
+(FSV) of pledged stocks, plant & 
+machinery 
+under 
+charge 
+and 
+mortgaged residential, commercial and 
+industrial properties (land & building 
+only) to the extent allowed in Annexure 
+II.  
+3. Doubtful. 
+Where 
+mark-
+up/ interest or 
+principal 
+is 
+overdue by 1 
+year or more 
+from the due 
+date. 
+As above. 
+ 
+Provision of 50% of the difference 
+resulting from the outstanding balance 
+of principal less the amount of liquid 
+assets realizable without recourse to a 
+Court of Law and Forced Sale Value 
+(FSV) of pledged stocks, plant & 
+machinery 
+under 
+charge 
+and 
+mortgaged residential, commercial and 
+industrial properties (land & building 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+18  
+ 
+only) to the extent allowed in Annexure 
+II.  
+4. Loss. 
+(a)   Where 
+mark-up/ 
+interest 
+or 
+principal 
+is 
+overdue by 18 
+months or more 
+from the due 
+date. 
+(b) 
+ 
+Where 
+Trade 
+Bills 
+(Import/ Export 
+or Inland Bills) 
+are not paid/ 
+adjusted within 
+180 days of the 
+due date. 
+As above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of 100% of the difference 
+resulting from the outstanding balance 
+of principal less the amount of liquid 
+assets realizable without recourse to a 
+Court of Law and Forced Sale Value 
+(FSV) of pledged stocks, plant & 
+machinery 
+under 
+charge 
+and 
+mortgaged residential, commercial and 
+industrial properties (land & building 
+only) to the extent allowed in Annexure 
+II. 
+ 
+ 
+ 
+Note:  
+Classified loans/ advances that have been guaranteed by the Government would not require 
+provisioning. However, mark up/ interest on such accounts would be taken to Memorandum 
+Account instead of Income Account. 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+19  
+ 
+ANNEXURE-II 
+Small Enterprise Financing (Regulation SE R-8) 
+Uniform Criteria for Determining the Value of Pledged Stock, Plant & Machinery 
+Under Charge and Mortgaged Properties 
+ 
+1. Banks & DFIs are allowed to take the benefit of Forced Sale Value (FSV) of pledged stocks, plant 
+& machinery under charge, and mortgaged residential, commercial and industrial properties held 
+as collateral against Non Performing Loans (NPLs) for calculating provisioning requirement as 
+tabulated below:  
+ 
+Category of Asset  
+Forced Sale Value Benefit allowed from the 
+date of classification  
+Mortgaged residential, commercial and 
+industrial properties (Land & building only)  
+ 
+75% for first year  
+ 
+60% for second year  
+ 
+45% for third year  
+ 
+30% for fourth year, and  
+ 
+20% for fifth year  
+Plant & Machinery under charge  
+ 
+30% for first year  
+ 
+20% for second year, and  
+ 
+10% for third year  
+Pledged stock  
+ 
+40% for first, second, and third year  
+ 
+The benefit of FSV against NPLs shall not be available after the period prescribed above.  
+2. While taking benefit of FSV and arriving at its value, the following minimum points shall be 
+taken into account:  
+a) At the time of classification, valuation shall not be more than 3 years old.  
+b) Valuations shall be carried out by an independent professional evaluator who should be 
+listed on the panel of evaluators maintained by the Pakistan Banks’ Association (PBA).  
+c) Only liquid assets, pledged stock, plant & machinery under charge and property having 
+registered or equitable mortgage shall be considered for taking benefit for provisioning, 
+provided no NOC for creating further charge to another bank/ DFI/ NBFC has been issued 
+by the bank/ DFI. Assets having pari-passu charge shall be considered on proportionate 
+basis of the outstanding amount.  
+d) Hypothecated assets and assets with second charge & floating charge shall not be 
+considered for taking the benefit for provisioning purposes.  
+e) The evaluator, while assigning any values to the pledged stock, plant and machinery under 
+charge and mortgaged residential, commercial and industrial properties (land and 
+building only), shall take into account all relevant factors affecting the salability of such 
+assets including any difficulty in obtaining their possession, their location, condition and 
+the prevailing economic conditions in the relevant sector, business or industry. The values 
+of pledged stock, plant and machinery under charge and mortgaged property so 
+determined by the evaluators have to be reasonably good estimate of the amount that 
+could currently be obtained by selling such assets in a forced/ distressed sale condition. 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+20  
+ 
+The evaluators should also mention in their report the assumptions made, the 
+calculations/ formulae/ basis used and the method adopted in determination of the 
+values i.e. the forced sales value (FSV).  
+f) In cases where the evaluators are not allowed by the borrowers to enter in their premises, 
+the benefit of FSV shall not be accepted for provisioning purposes. 
+g) The additional impact on profitability arising from availing the benefit of FSV against 
+pledged stocks, plant and machinery under charge, and mortgaged residential, 
+commercial and industrial properties (land and building only) shall not be available for 
+payment of cash or stock dividend. 
+3. Any misuse of FSV benefit detected during regular/ special inspection of SBP shall attract strict 
+punitive action under the relevant provisions of the Banking Companies Ordinance, 1962. Further, 
+SBP may also withdraw the benefit of FSV from banks & DFIs found involved in its misuse. 
+4. Various categories of assets to be considered for valuation would be as under (no other assets 
+shall be taken into consideration):  
+a) Liquid Assets: 
+Valuation of Liquid Assets shall be determined by the bank & DFI itself and verified by the external 
+auditors. However, in the case of pledged shares of listed companies, values should be taken at 
+market value as per active list of Stock Exchange on the balance sheet date. Moreover, valuation 
+of shares pledged against loans/ advances shall be considered only if such shares are in 
+dematerialized form in the Central Depository Company of Pakistan (CDC), otherwise these will 
+not be admissible for deduction as liquid assets while determining required provisions. 
+ 
+b) Mortgaged Property and Plant & Machinery under Charge: 
+Valuation of residential, commercial and industrial property (land and building only) and plant & 
+machinery would be accepted as determined by the evaluators in accordance with the criteria 
+given above. 
+ 
+c) Pledged Stocks: 
+In case of pledged stocks of perishable and non-perishable goods, forced sale value should be 
+provided by evaluators, and such valuation should not be more than six months old, at each 
+balance sheet date. The goods should be perfectly pledged, the operation of the godown (s) or 
+warehouse(s) should be in the control of banks & DFIs and relevant documents should be 
+available. In case of perishable goods, the evaluator should also give the approximate date of 
+complete erosion of value of pledged stock. 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+21  
+ 
+ANNEXURE-III 
+Medium Enterprise Financing (Regulation ME R-5) 
+ 
+Guidelines in the Matter of Classification 
+and Provisioning for Assets  
+ 
+All Financing Facilities (including Short, Medium and Long Term) 
+ 
+CLASSIFICATION 
+DETERMINANT 
+TREATMENT OF 
+INCOME 
+PROVISIONS TO 
+ BE MADE 
+(1) 
+(2) 
+(3) 
+(4) 
+ 
+ 
+ 
+ 
+1. Substandard. 
+Where mark-up/ 
+interest 
+or 
+principal 
+is 
+overdue by 90 
+days or more 
+from the due 
+date. 
+ 
+Unrealized 
+mark-
+up/ interest to be 
+kept 
+in 
+Memorandum 
+Account and not to 
+be 
+credited 
+to 
+Income 
+Account 
+except 
+when 
+realized in cash. 
+Unrealized 
+markup/ 
+interest 
+already taken to 
+income account to 
+be reversed and 
+kept 
+in 
+Memorandum 
+Account. 
+ 
+Provision of 25% of the 
+difference resulting from the 
+outstanding 
+balance 
+of 
+principal less the amount of 
+liquid assets realizable without 
+recourse to a Court of Law and 
+Forced Sale Value (FSV) of 
+pledged 
+stocks, 
+plant 
+& 
+machinery under charge and 
+mortgaged 
+residential, 
+commercial 
+and 
+industrial 
+properties (land & building 
+only) to the extent allowed in 
+Annexure IV.  
+ 
+2. Doubtful. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Where mark-up/ 
+interest 
+or 
+principal 
+is 
+overdue by 180 
+days or more 
+from the due 
+date. 
+ 
+As above. 
+ 
+ 
+Provision of 50% of the 
+difference resulting from the 
+outstanding 
+balance 
+of 
+principal less the amount of 
+liquid assets realizable without 
+recourse to a Court of Law and 
+Forced Sale Value (FSV) of 
+pledged 
+stocks, 
+plant 
+& 
+machinery under charge and 
+mortgaged 
+residential, 
+commercial 
+and 
+industrial 
+properties (land & building 
+only) to the extent allowed in 
+Annexure IV.  
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+22  
+ 
+1. Loss. 
+(a)   Where 
+mark-up/ 
+interest 
+or 
+principal 
+is 
+overdue by one 
+year or more 
+from the due 
+date. 
+ 
+(b)  Where Trade 
+Bills 
+(Import/ 
+Export or Inland 
+Bills) 
+are 
+not 
+paid/adjusted 
+within 180 days 
+of the due date. 
+As above. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of 100% of the 
+difference resulting from the 
+outstanding 
+balance 
+of 
+principal less the amount of 
+liquid assets realizable without 
+recourse to a Court of Law and 
+Forced Sale Value (FSV) of 
+pledged 
+stocks, 
+plant 
+& 
+machinery under charge and 
+mortgaged 
+residential, 
+commercial 
+and 
+industrial 
+properties (land & building 
+only) to the extent allowed in 
+Annexure IV. 
+ 
+Note: 
+Classified loans/advances that have been guaranteed by the Government would not require 
+provisioning; however, mark up/interest on such accounts would be taken to Memorandum 
+Account instead of Income Account. 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+23  
+ 
+ANNEXURE-IV 
+Prudential Regulations for Medium Enterprise Financing (Regulation ME R-5) 
+ 
+Uniform Criteria for Determining the Value of Pledged Stock, Plant & Machinery  
+under Charge and Mortgaged Properties  
+ 
+1. Only liquid assets, pledged stock, plant & machinery under charge and residential, commercial 
+and industrial property having registered or equitable mortgage shall be considered for taking 
+benefit for provisioning, provided no NOC for creating further charge to another bank/ DFI/ NBFC 
+has been issued by the bank/ DFI. The aforesaid assets having pari-passu charge shall be 
+considered on proportionate basis of outstanding amount. 
+ 
+2. Hypothecated assets and assets with second charge & floating charge shall not be considered 
+for taking the benefit for provisioning. 
+ 
+3. Banks & DFIs are allowed to take the benefit of Forced Sale Value (FSV) of pledged stocks, plant 
+& machinery under charge, and mortgaged residential, commercial and industrial properties held 
+as collateral against Non Performing Loans (NPLs) for calculating provisioning requirement as 
+tabulated below:  
+ 
+Category of Asset  
+Forced Sale Value Benefit allowed from the date 
+of classification  
+Mortgaged residential, commercial 
+and industrial properties (land & 
+building only)  
+ 
+75% for first year  
+ 
+60% for second year  
+ 
+45% for third year  
+ 
+30% for fourth year, and  
+ 
+20% for fifth year  
+Plant & Machinery under charge  
+ 
+30% for first year  
+ 
+20% for second year, and  
+ 
+10% for third year  
+Pledged stock  
+ 
+40% for first, second, and third year  
+ 
+The benefit of FSV against NPLs shall not be available after the period prescribed above.  
+ 
+4. Valuations shall be carried out by an independent professional evaluator who should be listed 
+on the panel of evaluators maintained by the Pakistan Banks’ Association (PBA). For selection and 
+listing of the evaluators, PBA lays down the minimum eligibility criteria with the prior approval of 
+the State Bank of Pakistan. The evaluator, while assigning any values to the pledged stock, plant 
+& machinery under charge and residential, commercial and industrial mortgaged property, shall 
+take into account all relevant factors affecting the salability of such assets including any difficulty 
+in obtaining their possession, their location, condition and the prevailing economic conditions in 
+the relevant sector, business or industry. The values of pledged stock, plant & machinery under 
+charge and residential, commercial and industrial mortgaged property so determined by the 
+evaluators must have to be a reasonably good estimate of the amount that could currently be 
+obtained by selling such assets in a forced/ distressed sale condition. The evaluators should also 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+24  
+ 
+mention in their report the assumptions made, the calculations/ formulae/basis used and the 
+method adopted in determination of the values i.e. the forced sale value (FSV). 
+ 
+5. The valuation process shall include conducting a ‘Full-Scope Valuation’ of the assets in the first 
+year and then followed by ‘Desktop Evaluations’ in the second and third year. Full-scope valuation 
+shall be valid for three years from the date of last Full-scope valuation. 
+  
+6. The following may be noted in respect of the Desktop and Full-Scope Valuations: 
+ 
+ 
+Desktop Evaluation is defined as “an Interim Brief Review of Full-Scope Evaluation, so that 
+any significant change in the factors, on which the full-scope valuation was based, is 
+accounted for and brought to the notice of the lending bank/ DFI.” 
+ 
+ 
+In case the loans exceed Rs 100 million, the Desktop Valuation shall be done by the same 
+evaluator, who had conducted the Full-Scope Valuation (the evaluator should be on the 
+approved panel of the PBA) whereas for loans below this threshold, the Desktop Valuation 
+may be done by banks & DFIs themselves or by the approved evaluators. For conducting 
+Desktop Evaluation, the evaluators shall pay a short visit to the borrower’s site. Banks’/ 
+DFIs’ responsibility in this respect will be to ensure that the evaluator is contacted for 
+conducting Desktop Valuation, and is provided all necessary information which is 
+materially important for the interim review. 
+ 
+ 
+Desktop Valuation shall be used for determining any additional provisioning requirement 
+only and will not be applied for reducing the provisioning requirement, assessed on the 
+basis of Full-Scope Valuation. 
+ 
+ 
+In cases where the evaluators are not allowed by the borrowers to enter in their premises, 
+the Full-Scope Valuation, conducted as such, will not be accepted for provisioning benefit. 
+ 
+7. State Bank of Pakistan may check the valuations of the assets under mortgage/ charge, through 
+an independent evaluator, on random basis, to verify the reasonableness of the valuations. The 
+unjustified differences in the valuations of banks & DFIs and State Bank of Pakistan shall render 
+the concerned bank/ DFI and evaluator to penal actions including, interalia, withdrawal of FSV 
+benefit. 
+ 
+8. Various categories of assets to be considered for valuation would be as under (no other assets 
+shall be taken into consideration):  
+ 
+a) Liquid Assets: 
+Valuation of Liquid Assets shall be determined by a bank/ DFI itself and verified by the external 
+auditors. However, in the case of pledged shares of listed companies, values should be taken at 
+market value as per active list of Stock Exchange(s) on the balance sheet date. Moreover, 
+valuation of shares pledged against loans/ advances shall be considered only if such shares are in 
+dematerialized form in the Central Depository Company of Pakistan (CDC); otherwise, these will 
+not be admissible for deduction as liquid assets while determining required provisions. 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+25  
+ 
+ 
+b) Mortgaged Property and Plant & Machinery under Charge: 
+Valuation of residential, commercial and industrial mortgaged property (land and building only) 
+and plant & machinery would be accepted as determined by the evaluators in accordance with 
+the criteria given above. 
+ 
+c) Pledged Stocks: 
+In case of pledged stocks of perishable and non-perishable goods, forced sale value should be 
+provided by evaluators, and such valuation should not be more than six months old, at each 
+balance sheet date. The goods should be perfectly pledged, the operation of the godown(s) or 
+warehouse(s) should be in the control of banks & DFIs and regular valid insurance and other 
+documents should be available. In case of perishable goods, the evaluator should also give the 
+approximate date of complete erosion of value. 
+ 
+ 
+ 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+26  
+ 
+ANNEXURE-V 
+DEFINITIONS OF IMPORTANT TERMS 
+ 
+For the purpose of these regulations: 
+ 
+1. Bank means a banking company as defined in Banking Companies Ordinance, 1962.  
+ 
+2. Borrower means a person on which a bank/ DFI has taken any exposure during the course of 
+business. 
+ 
+3. Contingent liability means: 
+(a) a possible obligation that arises from past events and whose existence shall be 
+confirmed only by the  occurrence or non- occurrence of one or more uncertain future 
+events not wholly within the control of the enterprise; or 
+(b) a present obligation that arises from past events but is not recognized because: 
+(i) it is not probable that an outflow of resources embodying economic benefits will 
+be required to settle the obligation; or 
+(ii) the amount of the obligation cannot be measured with sufficient reliability; and 
+includes letters of credit, letters of guarantee, bid bonds/ performance bonds, 
+advance payment guarantees and underwriting commitments. 
+ 
+4. 
+DFI means Development Financial Institution and includes the Saudi Pak Industrial and 
+Agricultural Investment Company Limited, the Pak Kuwait Investment Company Limited, 
+the Pak Libya Holding Company Limited, the Pak Oman Investment Company (Pvt.) Limited, 
+Pak-Brunei Investment Company Limited, Pak-China Investment Company Limited, Pak- 
+Iran Joint Investment Company Limited,  House Building Finance Corporation and any other 
+financial institution notified under Section 3-A of the Banking Companies Ordinance, 1962. 
+ 
+5. 
+Documents include vouchers, cheques, bills, pay-orders, promissory notes, securities for 
+leases/advances, and claims by or against banks & DFIs or other papers supporting entries 
+in the books of a bank & DFI. 
+ 
+6. 
+Exposure means financing facilities whether fund based and/or non-fund based and 
+include: 
+(i) 
+Any form of financing facility extended or bills purchased/discounted except ones 
+drawn against the L/Cs of banks & DFIs rated at least ‘A’ by Standard & Poor, Moody’s, 
+Fitch-Ibca or credit rating agency on the approved panel of State Bank of Pakistan and 
+duly accepted by such L/C issuing banks &  DFIs 
+(ii) 
+Any financing facility extended or bills purchased/discounted on the guarantee of the 
+person 
+(iii) 
+Subscription to or investment in shares, Participation Term Certificates, Term Finance 
+Certificates, Sukuk or any other Commercial Paper by whatever name called (at book 
+value) issued or guaranteed by the persons 
+(iv) 
+Credit facilities extended through corporate cards 
+(v) 
+Any financing obligation undertaken on behalf of the person under a letter of credit 
+including a stand-by letter of credit, or similar instrument 
+(vi) 
+Loan repayment financial guarantees issued on behalf of the person 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+27  
+ 
+(vii) Any obligations undertaken on behalf of the person under any other guarantees 
+including underwriting commitments 
+(viii) Acceptance/ endorsements made on account 
+(ix) 
+Any other liability assumed on behalf of the client to advance funds pursuant to a 
+contractual commitment 
+ 
+7. 
+Forced Sale Value (FSV) means the value, which fully reflects the possibility of price 
+fluctuations and can currently be obtained by selling the mortgaged/ pledged assets in a 
+forced/ distressed sale conditions.  
+ 
+8. 
+Government Securities include such types of Pak. Rupee obligations of the Federal 
+Government or a Provincial Government or of a Corporation wholly owned or controlled, 
+directly or indirectly, by the Federal Government or a Provincial Government and 
+guaranteed by the Federal Government as the Federal Government may, by notification in 
+the Official Gazette, declare, to the extent determined from time to time, to be Government 
+Securities. 
+ 
+9. 
+Group means persons, whether natural or juridical, if one of them or his dependent family 
+members or its subsidiary, have control or hold substantial ownership interest over the 
+other. For the purpose of this: 
+ 
+(a) 
+Subsidiary shall have the same meaning as defined in sub-section 3(2) of the 
+Companies Ordinance, 1984 i.e. a company or a body corporate shall deemed to be 
+a subsidiary of another company if that other company or body corporate directly or 
+indirectly controls, beneficially owns or holds more than 50% of its voting securities 
+or otherwise has power to elect and appoint more than 50% of its directors. 
+   
+(b) 
+Control refers to an ownership directly or indirectly through subsidiaries, of more 
+than one-half of voting power of an enterprise. 
+ 
+(c) 
+Substantial ownership/affiliation means beneficial shareholding of more than 25% 
+by a person and/or by his dependent family members, which shall include his/her 
+spouse, dependent lineal ascendants and descendants and dependent brothers and 
+sisters. However, shareholding in or by the Government owned entities and financial 
+institutions shall not constitute substantial ownership/affiliation, for the purpose of 
+these regulations. 
+ 
+10. 
+Liquid Assets are the assets which are readily convertible into cash without recourse to a 
+court of law and mean encashment/realizable value of government securities, bank 
+deposits, gold ornaments, gold bullion, certificates of deposit, shares of listed companies 
+which are actively traded on the stock exchange, NIT Units, certificates of mutual funds, 
+Certificates of Investment (COIs) issued by DFIs/NBFCs rated at least ‘A’ by a credit rating 
+agency on the approved panel of State Bank of Pakistan, listed TFCs rated at least ‘A’ by a 
+credit rating agency on the approved panel of State Bank of Pakistan and certificates of 
+asset management companies for which there is a book maker quoting daily offer and bid 
+rates and there is active secondary market trading. These assets with appropriate margins 
+should be in possession of the banks & DFIs with perfected lien. 
+Small & Medium Enterprise Financing 
+Prudential Regulations 
+ 
+28  
+ 
+ 
+Guarantees issued by domestic banks & DFIs when received as collateral by banks & DFIs 
+shall be treated at par with liquid assets whereas, for guarantees issued by foreign banks, 
+the issuing banks’ rating, assigned either by Standard & Poors, Moody’s, or Fitch-Ibca  
+should be ‘A’ and above or equivalent. 
+ 
+The inter-branch indemnity/guarantee issued by the bank’s overseas branch in favor of its 
+sister branch in Pakistan, would also be treated at par with liquid assets, provided the bank 
+is rated ‘A’ and above or equivalent either by Standard & Poors, Moody’s or Fitch-Ibca. The 
+indemnity for this purpose should be similar to a guarantee i.e. unconditional and demand 
+in nature. 
+ 
+11. 
+Medium and Long Term Facilities mean facilities with maturities of more than one year and 
+Short Term Facilities mean facilities with maturities up to one year. 
+ 
+12. 
+NBFC means Non-Banking Finance Company and includes a Leasing Company, Housing 
+Finance Company, Investment Bank, Discount House, Asset Management Company and a 
+Venture Capital Company. 
+ 
+13. 
+Other Form of Security means hypothecation of stock (inventory), assignment of 
+receivables, lease rentals, contract receivables, etc.  
+ 
+14. 
+PBA means Pakistan Banks Association. 
+ 
+15. 
+Readily Realizable Assets mean and include liquid assets and stocks pledged to the banks 
+& DFIs in possession, with ‘perfected lien’ duly supported with complete documentation.  
+ 
+16. 
+Secured means exposure backed by tangible security and any other form of security with 
+appropriate margins (in cases where margin has been prescribed by State Bank, appropriate 
+margin shall at least be equal to the prescribed margin). Exposure without any security or 
+collateral is defined as clean. 
+ 
+The banks & DFIs may also take exposure against Trust Receipts. They are, however, free to 
+take collateral/securities, to secure their risks/exposure, in addition to the Trust Receipts. 
+ 
+Banks & DFIs shall be free to decide about obtaining security/collateral against the L/C 
+facilities for the interim period, i.e. from the date of opening of L/C till the receipt of title 
+documents to the goods. 
+ 
+ 

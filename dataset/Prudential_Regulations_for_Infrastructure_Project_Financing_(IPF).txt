@@ -1,0 +1,1194 @@
+ 
+ 
+ 
+ 
+Prudential Regulations for 
+Infrastructure Project Financing (IPF) 
+ 
+ 
+ 
+ 
+ 
+ 
+Infrastructure, Housing & SME Finance Department 
+STATE BANK OF PAKISTAN 
+IPF Prudential Regulations Team 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Website address: www.sbp.org.pk 
+ UAN: 111 727 111 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name 
+Designation 
+Syed Samar Hasnain 
+Executive Director 
+samar.husnain@sbp.org.pk 
+ 
+Syed Basit Aly 
+Director 
+basit.aly@sbp.org.pk 
+ 
+Dr. Muhammad Saleem 
+Additional Director 
+saleem.zia@sbp.org.pk 
+ 
+Mr. Zahir Saeed Sakhi 
+Assistant Director 
+zahir.sakhi@sbp.org.pk 
+ 
+ 
+ 
+C O N T E N T S 
+ 
+PART-A 
+DEFINITIONS 
+1-5 
+PART-B 
+REGULATIONS 
+6-13 
+IPF.1 
+CREDIT APPRAISAL 
+6 
+IPF.1.1 
+Analysis of Financial Models 
+6 
+IPF.1.2 
+Requisite Expertise for Appraisal 
+6 
+IPF.1.3 
+Minimum Information Requirements 
+6 
+IPF.1.4 
+Assessment of Infrastructure Projects 
+6 
+IPF.1.5 
+Monitoring of Infrastructure Projects 
+8 
+IPF.2 
+COLLATERAL ARRANGEMENTS, SECURITY 
+PACKAGE AND PROJECT INSURANCE 
+10 
+IPF.2.1 
+Acceptance of Concession/License as Collateral 
+10 
+IPF.2.2 
+Security Package 
+10 
+IPF.2.3 
+Project Insurance/Takaful 
+11 
+IPF.3 
+REGULATORY COMPLIANCE 
+12 
+IPF.3.1 
+Exposure Limit 
+12 
+IPF.3.2 
+Debt-Equity 
+12 
+IPF.3.3 
+Funding of Infrastructure Projects 
+12 
+IPF.3.4 
+Classification and Provisioning Requirements 
+13 
+IPF.3.5 
+Reporting of Infrastructure Finance Data 
+13 
+PART-C 
+ANNEXURES 
+14-19 
+Annex A 
+IPF: Checklist for Minimum Information Requirements 
+14 
+Annex B 
+IPF: Provisioning Requirements 
+16 
+Annex C 
+List of Abbreviations 
+17 
+Annex D 
+IPF Data Formats 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+P R E F A C E 
+ 
+Infrastructure is the backbone for economic growth and development in a country. Availability 
+of infrastructure improves investment climate leading to job creation, export competitiveness and 
+uplifting of living standards. Pakistan faces acute lack of infrastructure facilities; energy, 
+communication networks, water & sanitation, educational institutions and recreational facilities 
+are some major infrastructure areas requiring urgent attention.  
+Government of Pakistan is making all out efforts to provide state of the art infrastructure 
+facilities across the country. A number of renewable energy projects are being set up by the 
+Federal as well as the Provincial Governments. Similarly a number of highways and motorways 
+are being built, which include both CPEC related and non CPEC related projects. Financial 
+resources in infrastructure projects constitute a major component of the whole resource envelope. 
+This is true universally including developed as well as developing nations.  
+State Bank of Pakistan recognizing the importance of infrastructure financing in the country, 
+issued Infrastructure Project Financing (IPF) Guidelines in 2005. These guidelines were then 
+updated in 2010. In order to promote infrastructure financing in Pakistan, the SBP is now issuing 
+Prudential Regulations (PRs) for Infrastructure Project Financing. These regulations have been 
+developed on the basis of broad based internal as well as external stakeholders’ consultations. 
+These PRs for IPF draw strength from financial sector’s experiences and SBP’s forward looking 
+approach in this area. 
+These Prudential Regulations place emphasis on important features of infrastructure project 
+finance which will facilitate the banks and DFIs to assess the cash flow generating capacity of 
+the projects like the requirement of technical feasibility, comprehensive risk assessment, project 
+insurance, technical monitoring of the project during loan tenure and requirement of supply and 
+off-take agreements. It is hoped that these features of the Regulations will help banks and DFIs 
+to develop expertise for financing of infrastructure projects, essentially by evaluating the 
+intrinsic cash flow generating ability of these projects.  
+It is also pertinent to mention here that these Regulations do take in to account environmental 
+impact of infrastructure projects. The banks/DFIs are advised to consider environmental 
+externalities in infrastructure projects along with other technical, legal and regulatory aspects. 
+ 
+ 
+ 
+Banks/DFIs are encouraged to prepare their own structured lending schemes for the development 
+of IPF. For this purpose, banks/DFIs may commission their own studies to determine the 
+potential in specific infrastructure projects. Besides conventional infrastructure financing, 
+banks/DFIs are also encouraged to adopt Islamic mode of banking to develop infrastructure 
+products as it is very conducive to infrastructure financing. In developing Islamic financing 
+products for infrastructure, the banks/DFIs should refer to relevant instructions issued by Islamic 
+Banking Department of SBP. Furthermore, Islamic Banking Institutions may convert 
+conventional IPF terms in context of Islamic banking practices wherever deemed necessary. 
+The IPF Prudential Regulations do not supersede other directives and instructions issued by SBP 
+from time to time in respect of areas not covered here.  The IPF Prudential Regulations cover 
+issues relating to risk management of infrastructure project financing only. However, the relevant 
+sections covering categories viz. corporate governance (G), anti money laundering (M), and 
+operations (O), as mentioned in Prudential Regulations for Corporate/Commercial Banking shall 
+be applied, wherever applicable. Any deviation or non-compliance shall attract punitive action 
+under the relevant provisions of the Banking Companies Ordinance, 1962. 
+ 
+Director 
+Infrastructure, Housing & SME Finance Department 
+30 December 2016 
+ 
+1 
+Prudential Regulations 
+for Infrastructure Project Financing 
+PART- A 
+D E F I N I T I O N S 
+ 
+1.  Asset Securitization means a process whereby any Special Purpose Vehicle raises 
+funds through the issue of Term Finance Certificates or any other instruments 
+with the approval of Securities and Exchange Commission of Pakistan (SECP). 
+The funds so received are used to make payment to the Originator, for acquiring 
+from the Originator the title, property or right in the receivables or other assets in 
+the form of actionable claims. Originator in this context has the same meaning as 
+explained 
+in 
+BPD 
+Circular 
+No. 
+31 
+of 
+November 
+14, 
+2002 
+http://www.sbp.org.pk/bpd/2002/C31.htm. 
+2.  Bank as defined in Prudential Regulations for Corporate/Commercial Banking. 
+3. Borrower means Concessionaire/Licensee/Project Company of an Infrastructure 
+Project, including a public sector entity, on whom the bank(s)/DFI(s) has/have 
+taken exposure during the course of business, including their successor(s). 
+4.   Concession Agreement means an agreement, usually with the government authority, 
+to operate the project or to provide the specified services for a certain period of 
+time on certain predetermined terms.  
+5. Concessionaire/Licensee means a legal entity, incorporated by sponsors of an 
+Infrastructure Project, to whom a Concession/License is awarded by a 
+government agency, including their successor(s) in the titles and assignments.  
+6. Contractor(s) means the entities which may be awarded the contract for 
+construction, supply of materials, operation, maintenance and other allied works of 
+an Infrastructure Project by the Concessionaire/Licensee/Project Company.  
+7. Debt Payment Account means an account created for the period of financing 
+provided 
+by 
+the 
+Lenders 
+that 
+shall 
+be 
+funded 
+by 
+the 
+Concessionaire/Licensee/Project Company as per the Financing Agreement(s) 
+from the Project Account(s) and/or the Project Collection Account to amortize debt.  
+8.  DFI as defined in Prudential Regulations for Corporate/Commercial Banking. 
+9. Equity of the Bank/DFI as 
+defined in 
+Prudential 
+Regulations 
+for 
+Corporate/Commercial Banking. 
+ 
+ 
+2 
+10. Exposure as defined in Prudential Regulations for Corporate/Commercial 
+Banking. 
+11. Financing Agreement(s) mean(s) the agreement(s) entered into between the 
+Concessionaire/Licensee/Project Company/Sponsors and the Lenders, for the purpose 
+of providing the fund-based and non-fund based facilities necessary to carry out the 
+Infrastructure Project, and will also include all other agreements/documents providing 
+security for such financing.  
+12. Financial Close means the stage at which financing agreement(s) has/have been 
+executed and conditions precedent in them have been satisfied/waived/deferred. 
+Subsequently, funding becomes available to the project and facilities are ready to be 
+disbursed on agreed terms and conditions. 
+13. Financial Completion means fulfillment of any one or more of the conditions listed 
+below:  
+a. 
+The project’s ability to produce below a certain unit cost that is 
+agreed beforehand by the concerned parties.  
+b. 
+Produce a minimum volume, output or level of performance above a 
+certain level.  
+c. 
+Show compliance with any similar conditionality for a specified 
+period of time.  
+d. 
+Have a minimum level of working capital and a certain current ratio.  
+e. 
+Achieve a minimum debt-service coverage ratio and debt-to-equity 
+ratio for a certain period and any other conditions set as per the 
+Financing Agreement(s).  
+14. Financial Covenants mean legal undertakings of  the borrower to adhere to certain 
+limits in its operations and financial performance as specified in the Financing 
+Agreement(s). For example, not to allow certain balance sheet items or ratios ( the 
+debt-service coverage ratio etc.) to fall below or go over an agreed-upon limit. 
+15. Government Agency means:  
+(a) A division, department, attached department, bureau, section, 
+commission, board, office or unit of the Federal Government or a 
+Provincial Government or a Local Government; 
+(b) A development or a local authority, company or corporation 
+established or controlled by the Federal Government or Provincial 
+Government. 
+16. Islamic Banking Institutions mean Islamic commercial banks, Islamic banking      
+subsidiaries and Islamic banking branches of conventional banks, licensed by State 
+Bank of Pakistan.  
+ 
+3 
+17. Infrastructure Project Financing (IPF) means either limited recourse or non-
+recourse financing for an Infrastructure Project as mentioned in table below, which 
+includes both fund-based and non fund-based facilities. Projects being financed under 
+modes of financing other than project finance shall not be governed under Prudential 
+Regulations for IPF. 
+S. 
+No. 
+Infrastructure Sectors 
+Infrastructure Projects 
+A.  
+Transport 
+i. Roads, Flyovers and Bridges 
+ii. Mass Transit, Urban Bus, Urban Rail 
+iii. Rail-Bed, Stations System, Rail Freight, Passenger 
+Services, Tunnels, Bridges etc 
+iv. Ports, Channel Dredging, Shipping, Container 
+Terminals 
+v. Inland Waterways 
+vi. Airports 
+ 
+B.  
+Power 
+i. Power Generation 
+ii. Power Transmission 
+iii. Power Distribution 
+ 
+C.  
+Energy 
+i. Natural Gas Exploration and Distribution 
+ii. LPG Extraction, Terminal, Distribution and Marketing 
+iii. LNG Terminal, Distribution and Marketing 
+iv. Petroleum Extraction, Refinery and Pipeline 
+v. Oil/Gas/LNG Storage Facility 
+vi. Energy Efficiency and Conservation 
+vii.  Coal Mining 
+ 
+D.  
+Telecommunication 
+A Telecommunication Local Services, Long Distance and 
+Towers 
+E.  
+Water & Sanitation 
+i. Dams, Barrages and Canals 
+ii. Water Supply Pipelines 
+iii. Irrigation System & Network 
+iv. Water Treatment System 
+v. Sewage Collection, Disposal & Treatment System 
+vi. Solid Waste Management 
+ 
+F.  
+Social, Cultural & 
+Commercial 
+Infrastructure  
+i. Educational & Training Institutes 
+ii. Hospitals, Training Institutes, Diagnostic Centers 
+iii. Public Parks, Recreational Facilities 
+iv. Tourism related Facilities like Hotels 
+v. Industrial Parks and Special Economic Zones (SEZ) 
+vi. Warehouses, Cold Storage  
+vii.  Housing Projects 
+G.  
+Any Other 
+Any other infrastructure project in consultation with SBP 
+ 
+4 
+18. Lender means a bank/DFI taking exposure on the Concessionaire/Licensee/Project 
+Company and their successors. The term ‘Lender’ shall also include a consortium of 
+lenders, a trustee, or a security agent appointed by the lenders.  
+19. License means a permission granted by a government or private entity to a company 
+sponsor for undertaking an Infrastructure Project. 
+20. Limited-Recourse Financing means a form of financing in which the lenders base 
+their credit decision primarily on the cash flows of the borrower/project company. In 
+addition, the security package may give lenders legal recourse against the sponsor 
+and/or its assets.  
+21. Liquid Assets as defined in Prudential Regulations for Corporate/Commercial 
+Banking. 
+22. Local Authority means any agency set up or designated by Federal Government or 
+Provincial Government, by notification in the official Gazette, to be a Local Authority.  
+23. Non-recourse Financing means a form of project financing in which the lenders 
+base their credit decisions solely on the cash flows of the project for repayment of the 
+project debt. Such recourse is opted where the project is fully capable of generating 
+sufficient cash flows to repay the project debt, even under adverse conditions.  
+24. Physical Completion means the project’s ability to sustain production/services at a 
+certain capacity for a specified period of time, such as one month or one quarter 
+of an operating year. Before this, the project may also be certified as technically 
+complete, i.e. meeting all technical design specification.  
+25. Project Account(s) mean(s) one or more account(s) for the purpose of depositing 
+contributions towards the equity of the Concessionaire/Licensee/Project Company 
+and the disbursement of loans by the Lenders through a ‘cash waterfall’ mechanism 
+under the Financing Agreement(s). The Project Account(s) can also be utilized for 
+depositing surplus receipts after appropriations for debt servicing, project 
+maintenance and any other appropriations as per the Financing Agreement(s) from 
+the Project Collection Account. Moreover, all receipts and expenditure made with 
+respect 
+to 
+the 
+due 
+performance 
+of 
+its 
+obligation 
+by 
+the 
+Concessionaire/Licensee/Project Company shall be through such Project Account(s).  
+26. Project Capital Cost means the total construction/completion costs of a project on 
+an un-leveraged (all-equity) basis, which includes project development cost, land, 
+owners’ costs of construction, and initial working capital.  
+27. Project Collection Account means an account opened for the exclusive collection 
+of all revenue receipt of an Infrastructure Project that shall be operated by the 
+ 
+5 
+Concessionaire/Licensee/Project 
+Company 
+in 
+accordance 
+with 
+Financing 
+Agreement(s) with the lenders.  
+28. Project Company means the legal entity, registered with SECP under relevant laws, 
+which owns and/or operates a project.  
+29. Project Finance means a form of ‘Non-recourse’ or ‘Limited Recourse’ financing, 
+where the lenders base their credit decision solely or primarily on the cash flows of 
+the project, with respect to repayment of the project debts.  
+30. Project Cost means the total financing (debt and equity) required to complete 
+construction of a project. It includes development cost, advisory fee, insurance fee, 
+capital costs, financing fee, interest that accumulates during the construction period, 
+and any amounts (financing plan contingencies) set aside to pay for cost overruns or  
+debt servicing in case of any delays, lower than anticipated  project revenues including 
+possible force majeure event. 
+31. Project Funds Agreement (PFA) means an agreement, usually by sponsors, to 
+provide additional funds as needed until completion of the project, or at any other 
+agreed date. However, burden of additional funds may be shared amongst 
+sponsors, creditors and suppliers as per their mutual consent under a PFA.  
+32. Project Sponsor(s) mean(s) the primary developer(s) and proponent(s) of a project, or 
+a party providing the major owner’s equity financing.  
+33. Public Utilities mean water supply, electricity supply, telecommunication system, 
+sewerage system, petroleum, gas supply and other utilities and amenities for the 
+benefit of the public.  
+34. Right of Way means the existing corridor already available with a government 
+agency and any additional land which may have to be acquired by a government 
+agency for the purpose of the Infrastructure Project.  
+35. Special Purpose Vehicle means a special purpose vehicle registered with the SECP 
+for the purpose of Securitization. 
+36. Subordinated Loan means an unsecured loan extended to the borrower, generally 
+by its sponsors, subordinate to the claim of the bank/DFI taking exposure on the 
+borrower, and documented by a formal sub-ordination agreement between 
+provider of the loan and the bank/DFI. The loan shall be disclosed in the annual 
+audited financial statements of the borrower as subordinated loan. 
+37. Term Sheet means a document that outlines the terms and conditions of the 
+financing facility. A term sheet is issued by a bank/syndicate prior to formal 
+signing of Financing Agreement(s). 
+ 
+6 
+PART - B 
+REGULATIONS 
+IPF.1 -- CREDIT APPRAISAL  
+A thorough credit appraisal of an IPF shall be carried out in order to identify and 
+mitigate the project risks, and to ascertain that the project will function as per plans. 
+Assessment of the technical, financial and economic viability of the project shall also be 
+carried out to determine adequacy of the project cash flows. Furthermore, banks/DFIs 
+shall thoroughly review and assess the validity of assumptions on which cash flow 
+projections have been made to repay project debt and meet its obligations under the 
+Financing Agreement(s) 
+IPF.1.1 -- Analysis of Financial Model(s)  
+Banks/DFIs shall comprehensively evaluate the financial model(s), prepared in-
+house or provided by financial advisor/Project Company, at the time of due 
+diligence to create project forecasts and conduct scenarios & sensitivity analysis. 
+Banks/DFIs shall use this model(s) after financial close to update for changes in 
+various assumptions so as to look for early warning signals with respect to any 
+overruns that may be expected in the project cost.  
+IPF.1.2 -- Requisite Expertise for Appraisal 
+Banks/DFIs, which are involved in IPF, shall develop the requisite expertise (human 
+resources, IT system etc.) to conduct a thorough appraisal of the proposed project in 
+consultation with the technical, legal, insurance, financial and environment advisors (as 
+the case may be).  
+IPF.1.3 -- Minimum Information Requirements  
+Banks/DFIs, shall obtain and evaluate detailed due diligence of the proposed project which 
+may include reports from financial, technical, legal, insurance and environment advisors. 
+The financial feasibility, if required, may be endorsed by an auditing firm on the approved 
+panel of SBP. The banks/DFIs shall get the technical feasibility report independently 
+reviewed by their technical advisor, which can be an engineering firm of repute registered 
+with concerned authority in Pakistan or internationally. 
+Moreover, banks/DFIs shall also obtain minimum information to their satisfaction regarding 
+the proposed Infrastructure Project in accordance with Annex-A (IPF: Checklist for 
+Minimum Information Requirements). Banks/DFIs should get the project documents, as 
+specified in section 6 of Annexure A, vetted by a legal counsel or syndicate legal counsel. 
+IPF.1.4 -- Assessment of Infrastructure Projects  
+Infrastructure Projects usually go through development, construction, start-up, and 
+operation stages. Banks/DFIs shall, therefore, assess these stages separately for risk 
+mitigation purpose. While some of the Regulations in this regard are given as under; 
+however, banks/DFIs may put in place additional safeguard measures as per their own 
+ 
+7 
+credit and risk framework. 
+IPF.1.4.1 Development Phase: The funding needs during this phase should be met 
+primarily through capital from the sponsor(s). However, at the stage of financial 
+closure, the Financing Agreement(s) should have a clause where Project 
+Company/borrower is covered that lenders will perform as per Financing 
+Agreement(s) as long as all covenants are being met by the Project 
+Company/borrower. 
+IPF.1.4.2 Construction and Start-up Phase: Banks/DFIs shall adequately 
+safeguard their interests from major risks arising from, but not limited to, 
+construction delays, cost overruns, technical design flaws, changes in 
+government regulations etc and stress upon the provision of risk assessment and 
+allocation matrix/report. Banks/DFIs shall also hedge identified and potential 
+risks by opting for fixed-price (where applicable), date certain construction 
+contracts (including turnkey contracts), and built-in provisions for liquidated 
+damages if the contractor fails to perform, along with obtaining insurance cover 
+for certain areas of the project or any other measure necessary to mitigate the 
+following risks: 
+a. Responsibility of Assuming Completion Risk: Banks/DFIs shall properly 
+assess and negotiate risks arising during completion phase of the project with 
+the sponsors. All such risks shall be the responsibility of the project company, 
+its sponsors, contractors, suppliers and insurers (as the case may be).  
+b. Physical and Financial Completion of Infrastructure Projects: To protect 
+against the risk of physical and financial non-completion of the Infrastructure 
+Project, banks/DFIs are advised to closely observe following issues for risk 
+mitigation: 
+i. Project Funds Agreement (PFA): To ensure that unexpected costs do not 
+jeopardize the project’s completion, creditors and sponsors may have a 
+commitment for standby financing as part of the initial financial package. This 
+may be provided by sponsors through a contractual agreement, i.e. Project 
+Funds Agreement (PFA), which is a standby subordinated loan or equity, 
+wherein sponsors may either provide or arrange the requisite funds.  
+ii. Financial Completion Agreement (FCA): It is pertinent to emphasize that a 
+new project may reach physical completion but may not become self-sustaining 
+for a number of reasons, such as supply problems, weak market demand or other 
+adverse changes in micro or macroeconomic conditions. If financial completion is 
+not achieved, profitability will suffer, and the project is likely to encounter debt-
+servicing difficulties. Project documentations, therefore, may include a Financial 
+Completion Agreement (FCA), which specifies, in contract form, the initial 
+financial projections of the project against which creditors and investors are 
+ 
+8 
+willing to invest funds. Under FCA, the sponsors typically commit to provide 
+subordinated loans or additional equity to the project until the agreed 
+financial performance is achieved. By requiring sponsors to ensure project 
+financial completion, lenders greatly reduce the default risk of the project. The  
+lenders may, at their own discretion, require the sponsors to arrange suitable  
+insurance cover, if available, for covering such risk. 
+iii. Exposure without Financial Closure: No bank/DFI should take any exposure 
+until satisfying themselves that financial close has been achieved. 
+iv. Insurance: To ensure fulfillment of obligations by the sponsors, their obligations 
+under PFA/FCA may be backed-up by a letter of credit, bond or guarantee from a 
+creditworthy third party. However, for mitigating force majeure that cannot be 
+contractually allocated, banks/DFIs are advised to call for purchase of insurance 
+cover, wherever possible, by the sponsors, so as to mitigate both direct and 
+indirect types of force majeure.  
+IPF.1.4.3 Operation Phase: Financing for infrastructure project is long term  in 
+nature, therefore, banks/ DFIs shall assess all risk associated with the operation phase 
+of the project like smooth availability of working capital, availability & cost of inputs 
+and market demand for the project’s products/services etc.  
+a. Banks/DFIs may stress upon the sponsors to undertake long-term purchase 
+contracts for important inputs and long term off-take contracts for project 
+outputs (where applicable) so that the impact of price volatility and adverse 
+market demand is minimized.  
+b. Banks/DFIs may require the Project Company to obtain performance 
+guarantees on technical components and other necessary inputs from its 
+contractors/suppliers.  
+c. Banks/DFIs may encourage the Project Company to enter into operation and 
+maintenance agreement (wherever appropriate) for initial years of operation. 
+d. During operation phase, banks/DFIs may also encourage the Project Company 
+to get their infrastructure project rated by a credit rating agency on the approved 
+panel of State Bank of Pakistan.  
+IPF.1.5 -- Monitoring of Infrastructure Projects  
+Banks/DFIs shall establish a mechanism for continuous monitoring of project 
+implementation to ensure proper utilization of the credit disbursed to the company. For 
+this purpose, proper scrutiny/audit shall be undertaken of the Project Account(s), 
+Project Collection Account, Debt Payment Account, and any other accounts deemed 
+necessary for the operation of the project. Moreover, compliance with financial covenants 
+and periodical technical inspection of the project during construction phase shall also be 
+ensured. 
+ 
+ 
+9 
+IPF.1.5.1 Monitoring for Assignment of Project Receivables and Payments for 
+Damages: In infrastructure project financing, the primary source of repayment is 
+project cash flows, therefore, lenders need to secure the loan by obtaining an 
+assignment of project receivables. For this purpose, lenders may also opt for 
+registering a charge on receivables and seeking acknowledged assignment of 
+project receivables from the employers/sponsors, depending on advice from 
+their/syndicate’s legal advisor. To mitigate adverse impact from premature 
+termination of important agreements such as government concession, management, 
+O&M, supply contracts etc, banks/DFIs shall institute necessary monitoring measure 
+so as to ensure that the assignment of project receivables and payments on account 
+of damages are made in their favor.  
+IPF.1.5.2 Monitoring for Ensuring Enforcement of Security: To ensure the 
+protection of bank’s charge on assets of the Project Company, banks/DFIs will 
+register their charge with the Registrar of Companies, so that the security is not 
+mortgaged with any other lending institution for further financing. 
+IPF.1.5.3 Project Account(s) for Monitoring Repayment of Debt: Banks/DFIs 
+shall institute a mechanism for repayment of project debts through Project 
+Account(s), which shall be assigned in favor of the lenders without any conflicting 
+interests.  
+IPF.1.5.4 Financial Covenants for Repayment of Debt: In order to ensure that 
+dividend payments to project investors and/or other discretionary payments, not 
+including payments necessary for operation of the Project Company, do not restrict 
+or curtail the ability of Project Company to meet its debt service obligations, 
+banks/DFIs shall require the Project Company to observe financial covenants 
+including debt service coverage ratio, loan life coverage ratio etc during 
+construction and operation phase of the project. 
+IPF.1.5.5 Technical monitoring during Construction and Operation Phase: 
+During construction phase, banks/ DFIs shall monitor project’s progress through 
+periodical review by technical consultant. The scope of technical consultant should 
+include assessment of actual progress of the project against the scheduled progress 
+and agreed milestones, review of status of engineering, procurement, construction 
+and commissioning activities and identification of bottlenecks arising or likely to 
+arise in the project completion. All draw downs pertaining to EPC/non-EPC 
+contracts may be linked with certification by technical consultant. 
+To safeguard their interests, banks/DFIs may have periodic technical inspection of 
+the project from the technical advisor on need basis to monitor the technical health 
+of project during the loan tenure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+IPF.2 -- COLLATERAL ARRANGEMENTS, SECURITY PACKAGE  
+AND PROJECT INSURANCE  
+IPF.2.1 -- Acceptance of Concession/License as Collateral  
+In order to promote Infrastructure Project Financing, banks/DFIs are encouraged to accept 
+a ‘Concession Agreement/License’ issued by a Government Agency as collateral, as part 
+of the overall collateral arrangements, subject to the following stipulations:  
+a. 
+The Concession Agreement/License is free of all encumbrances, is irrevocable, and 
+does not contain any terms or conditions which may be detrimental to the interest of 
+the lenders;  
+b. 
+The Concession Agreement/License should be assignable to lenders in the event of 
+default (where applicable);  
+c. 
+The Government Agency that has issued the Concession Agreement/License 
+undertakes to facilitate lenders in the transfer of Concession Agreement/License 
+in case of default;  
+d. 
+Public utilities are provided appropriately in the area (where applicable) by 
+the Government or by the concerned authorities;  
+e. 
+Banks/DFIs have satisfied themselves about the secured nature of Concession 
+Agreement/License, the expected source of repayment and the overall collateral 
+arrangements. 
+IPF.2.2 -- Security Package  
+In order to observe prudence, while undertaking Infrastructure Project Financing, 
+banks/DFIs shall secure their interest by Primary Security/Collateral, besides either 
+one or a combination of the Secondary Securities/Collateral (as applicable), the details of 
+which are as under:  
+IPF.2.2.1 Primary Security/Collateral: First charge on all the receivables and 
+Project Account(s), Project Collection Account, Debt Payment Account, Bank 
+Accounts, including offshore accounts maintained by the Project Company. 
+IPF.2.2.2 Secondary Securities/Collateral 
+a. 
+First Charge over all the immovable and movable assets of the project  
+company  and  that  of  the  contractors  if  deemed necessary by the 
+lender; 
+b. 
+First assignment of all insurance policies to cover major and minor 
+risks, including force-majeure (if applicable);  
+c. 
+First pledge of sponsors’ share in the company, besides ensuring that 
+sponsor’s holding does not fall below  51% of equity capital without 
+prior approval of the lender(s);  
+d. 
+First assignment by way of security of all government approvals and 
+agreements, the implementation agreement and the government 
+undertaking;  
+ 
+11 
+e. 
+First  assignment by way of security of the company’s rights under 
+project agreements, such as project funds agreements, retention account 
+agreement, shareholders agreement, supply agreement and off-take 
+agreement, EPC and O&M contracts where applicable. 
+f. 
+First charge/assignment of corporate/bank guarantees furnished  by 
+the 
+contractors to the project company for claiming liquidated damages. 
+g. 
+Any other security as deemed appropriate by the bank/DFI for financing. 
+IPF.2.3 -- Project Insurance/Takaful: 
+Banks/ DFIs, while taking an exposure on infrastructure projects, shall ensure that the 
+Project Company has obtained, or made arrangement to obtain, valid and enforceable 
+insurance coverage/takaful for potential risks associated with infrastructure projects 
+including, where applicable, but not limited to, physical loss or damage to project’s assets 
+during construction- CAR (Contractor’s All Risks), liability to third parties (public liability), 
+loss or damage to assets during transportation (marine), machinery breakdown, loss of profit 
+and terrorism etc. Lenders may also seek advice from their insurance advisors, where 
+applicable, to determine the risks for which insurance/ takaful will be required. 
+ 
+ 
+ 
+12 
+IPF.3 -- REGULATORY COMPLIANCE  
+Banks/DFIs shall adhere to the following regulatory measures for financing to 
+Infrastructure Projects. However, those regulatory issues that are not covered in these 
+Regulations will continue to be governed by the Prudential Regulations for 
+Corporate/Commercial Banking.  
+IPF.3.1 -- Exposure Limits  
+IPF.3.1.1 Per Party Exposure Limits  
+Exposure limits for a single obligor and obligor group shall be calculated in the manner 
+as described in Regulation R-1 and Annexure I of Prudential Regulations for 
+Corporate/Commercial Banking. However, Board of banks/DFIs may allow for an 
+additional 5 percent exposure of the bank/DFI’s equity (for single obligor and obligor 
+group) in case of financing for Infrastructure Projects as defined at para 17 above. 
+Banks/DFIs shall lay down a Board approved policy in this regard. 
+IPF.3.1.2 Sectoral Exposure 
+Banks/DFIs are encouraged to diversify their exposure to different Infrastructure 
+Sectors to ensure risk diversification and equitable development of other sectors. 
+IPF.3.2 -- Debt-Equity  
+Banks/DFIs shall prescribe a maximum ratio between borrower’s equity and its total 
+financing facilities from all financial institutions. This debt-equity ratio shall be part of 
+a bank/DFI’s credit policy approved by their Board of Directors. The credit policy shall 
+emphasize upon higher credit standards and provide full guidance to the management 
+about the above requirements for various categories of clients and corresponding risk 
+mitigates etc. acceptable to the bank/DFI. The policy shall also have explicit provisions 
+for circumstances or conditions under which the bank/DFI may extend financing 
+facilities that are in breach of these limits, should the bank/DFI decide to do so. The 
+policy shall clearly provide approving authorities that would be responsible to allow 
+exemptions in accordance with the policy. All such exceptions allowed shall be 
+reported to the Board of Directors at least on quarterly basis. 
+ 
+IPF.3.3 -- Funding of Infrastructure Projects 
+IPF.3.3.1 Maximum Duration of Loan: Banks/DFIs may extend loans for IPF up to 
+a maximum period of 20 years, excluding grace period, if any.  
+IPF.3.3.2 Asset Liability Management: Banks/DFIs, following Basel III 
+requirements are encouraged to develop an in-house system for prudently managing 
+interest rate risk and liquidity risk arising from locking their assets in long term 
+IPF undertakings. Banks/DFIs may either enter into a refinancing/sell-down 
+financing arrangement with other banks/DFIs or arrange consortium/syndicate to 
+effectively match their assets and liabilities.  
+ 
+13 
+IPF.3.3.3 Long Term Funding:  As a measure of Asset Liability Management 
+(ALM), banks/DFIs are also encouraged to float Infrastructure Bonds/Green 
+Bonds/Sukuk to match the tenure of infrastructure loans, besides securitization/sell 
+down/refinancing. Banks/DFIs are allowed to securitize their assets pertaining to 
+Infrastructure Projects defined at para 17, Part A of these Regulations.  
+IPF.3.4 -- Classification and Provisioning Requirements  
+The banks/DFIs shall classify and make provisioning for IPF as per provision 
+requirements illustrated at Annex B. In addition to the time-based criteria prescribed 
+at Annex B, subjective evaluation of performing and non-performing credit portfolio 
+shall be made for risk assessment. However, if deemed necessary, any account 
+including the performing account will be classified, and the category of 
+classification determined on the basis of time based criteria shall be further 
+downgraded. Such evaluation shall be carried out on the basis of credit worthiness 
+of the borrower, cash flows, operation in the account, adequacy of the security, 
+inclusive of its realizable value and documentation covering the advances. 
+IPF.3.4.1 Banks/DFIs shall refer to the relevant clauses of Prudential Regulations 
+for Corporate/Commercial Banking for the purpose of calculations for forced 
+sale value benefits, restructuring and rescheduling and timing of creating 
+provisions and reversal of provision. 
+IPF.3.5 -- Reporting of Infrastructure Finance Data 
+Banks/DFIs shall continue to report data on infrastructure financing, on quarterly basis, as 
+per existing practice. However, distinction should be made between infrastructure financing 
+provided through project finance mode or other modes (e.g. corporate finance etc). Data 
+format sheets for IPF reporting are placed at Annex D.  
+ 
+ 
+ 
+ 
+14 
+ANNEX A  
+IPF: CHECKLIST FOR MINIMUM INFORMATION REQUIREMENTS 
+ 
+1. 
+PROJECT DESCRIPTION 
+i) 
+Description of Product/ Service 
+ii) 
+Capacity of Project (as applicable) 
+iii) 
+Proposed ownership structure and sponsor(s) information 
+iv) 
+Legal status of project and status of government approvals, exemptions/advantages 
+to be availed by the Project, licenses and permissions required and proposed 
+measures/actions that could affect the Project. 
+v) 
+Consultant due diligence reports (construction arrangements, market survey etc)  
+vi) 
+Project’s anticipated economic contributions (e.g. in the generation of foreign 
+exchange, employment, technology transfer etc.) 
+ 
+2. 
+CAPITAL INVESTMENT 
+i) 
+Project site (related legal agreements for land use rights/ownership etc) 
+ii) 
+Project development costs 
+iii) 
+Civil works and buildings costs 
+iv) 
+Major and auxiliary equipments 
+v) 
+Project management mechanism 
+vi) 
+Pre-operating requirements and costs 
+vii) Contingencies (physical) and escalations (financial) 
+viii) Initial working capital requirements 
+ix) 
+Contracting and purchasing procedures to be used 
+x) 
+Local/foreign manpower and technical expertise required at the planning stage 
+ 
+3. 
+PROJECT SCHEDULES 
+i) 
+Construction, startup, operations 
+ii) 
+Expenditures 
+iii) 
+Funding (including   timing   of   funds   needed   during   project implementation) 
+iv) 
+Regulatory compliance 
+ 
+4. 
+ENVIRONMENT IMPACT 
+i) 
+Description of environment impact 
+ii) 
+Health and safety issues 
+iii) 
+IEE and EIA as required under Environmental Laws 
+iv) 
+NOC from respective Federal/Provincial Environment Protection Agency. 
+ 
+5. 
+FINANCING 
+i) 
+Total cost of project (including details on major items of fixed assets and working 
+capital) 
+ 
+15 
+ii) 
+Brief profile of sponsor(s) and participant(s), showing their nature of current business 
+interests, financial capacity or other interest in the project construction, 
+operations, and marketing  
+iii) 
+Capital structure 
+a. 
+Proposed debt/equity structure  
+b. 
+Equity  
+o Shareholder structure  
+o Long term plans (stay private/go public)  
+o Quasi-equity (subordinated debt)  
+c. 
+Debt  
+o Long-term debt/working capital loan 
+o Domestic/foreign  
+o Desired terms and conditions  
+o Funding sources already identified  
+d. 
+Contingencies: overrun/standby arrangements  
+iv) 
+Financial Projections 
+a. 
+Projected financial statements including cash flows  
+b. 
+Clear statement of all assumptions  
+c. 
+Sensitivity analyses under different scenarios like completion delay, low 
+demand volume, low tariff, interest rate risk etc.  
+d. 
+Debt Service Coverage Ratio (DSCR, annual and loan-life), Net Present 
+Value (NPV), Internal Rate of Return (IRR) and Payback Period of the 
+project, Return on Equity (ROE) etc. 
+ 
+6. 
+LEGAL DOCUMENTATION 
+i) 
+Joint venture agreements (if applicable) 
+ii) 
+Articles of association 
+iii) 
+Government approval documents/concession/business license 
+iv) 
+Land certificate/red line map 
+v) 
+Mortgages, if any 
+vi) 
+Loan agreements 
+vii) Major contracts including (as the case may be) 
+a. 
+EPC/ Non-EPC Contract 
+b. 
+Off-take agreements  
+c. 
+Supply agreements  
+d. 
+Technical assistance agreement on need basis 
+e. 
+Operation and Maintenance agreement  
+f. 
+Insurance Policies 
+ 
+ 
+ 
+16 
+ANNEX B 
+IPF: PROVISIONING REQUIREMENTS 
+Classifica
+tion 
+Determinant 
+Treatment of Income  
+Provisioning to be made 
+OAEM  
+ 
+Where mark-up/ 
+interest or principal 
+is overdue by 90 
+days or more from 
+the due date. 
+ 
+No provisioning Required. 
+Default notices to be issued to 
+borrower/sponsors. 
+Substanda
+rd  
+Where mark-up/ 
+interest or principal 
+is overdue by 180 
+days or more from 
+the due date. 
+Unrealized mark-up/ 
+interest to be kept in 
+Memorandum Account 
+and not to be credited to 
+Income Account except 
+when realized in cash. 
+Unrealized mark-up/ 
+interest already taken to 
+income account to be 
+reversed and kept in 
+Memorandum Account. 
+Provision of 25% of the difference 
+resulting from the outstanding balance of 
+principal less the amount of liquid assets 
+realizable without recourse to a Court of 
+Law and Forced Sale Value (FSV) of 
+pledged stocks, plant & machinery under 
+charge, and mortgaged residential, 
+commercial & industrial properties (land 
+& building only) to the extent allowed in 
+Regulation R-8 of Prudential 
+Regulations for Corporate/Commercial 
+Banking.  
+Doubtful  
+Where mark-up or 
+principal is overdue 
+by one year or more 
+from the due date. 
+As above  
+Provision of 50% of the difference 
+resulting from the outstanding balance of 
+principal less the amount of liquid assets 
+realizable without recourse to a Court of 
+Law and FSV of pledged stocks, plant & 
+machinery under charge, and 
+mortgaged residential, commercial & 
+industrial properties (land & building 
+only) to the extent allowed in the 
+Regulation  R-8 of Prudential 
+Regulations for Corporate/ Commercial 
+Banking 
+Loss  
+Where mark-up or 
+principal is overdue 
+by two years or 
+more from the due 
+date 
+As above 
+Provision of 100% of the difference 
+resulting from the outstanding balance of 
+principal less the amount of liquid assets 
+realizable without 
+recourse to a Court of Law and FSV of 
+pledged stocks, plant & machinery under 
+charge, and 
+mortgaged residential, commercial & 
+industrial properties (land & building 
+only) to the extent allowed in the 
+Regulation  R-8 of Prudential 
+Regulations for Corporate/ Commercial 
+Banking 
+ 
+17 
+ANNEX C 
+List of Abbreviations 
+ 
+ALM          
+Asset Liability Management 
+BPD 
+Banking Policy Department, State Bank of Pakistan now Banking 
+Policy and Regulations Department 
+CAR          
+Contractor’s All Risk 
+COI  
+Certificate of Investment 
+DFI  
+Development Finance Institution 
+EPC           
+Engineering, Procurement and Construction 
+EIA 
+Environment Impact Assessment 
+FCA           
+Financial Completion Agreement 
+IEE 
+Initial Environment Examination 
+IPF 
+Infrastructure Project Finance/ing 
+LPG 
+Liquefied Petroleum Gas 
+LNG 
+Liquefied Natural Gas 
+NBFC        
+Non-Banking Financial Company 
+NIT 
+National Investment Trust 
+NOC 
+No Objection Certificate 
+NPV           
+Net Present Value 
+OAEM 
+Other Assets Especially Mentioned 
+O & M        
+Operation and Maintenance 
+PFA            
+Project Funds Agreement 
+SPV 
+Special Purpose Vehicle 
+SECP 
+Securities & Exchange Commission of Pakistan 
+SBP 
+State Bank of Pakistan 
+TFC           
+Term Finance Certificate 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+13
+14
+15
+Funded
+Non - Funded
+Total
+1
+2
+3
+Total
+* Category of the Project as per para 18 part A of the Prudential Regulations for Infrastructure Project Financing
+**Please specify whether it is Project Finance/Corporate Finanace/Bonds/TFC other etc 
+*** Please indicate exposure as percentage of bank/DFI equity. Refer to Regulation IPF.3.1.1 of Prudential Regulations for Infrastructure Project Financing
+**** If floating please state applicable base rate + margins
+Name of the Bank: 
+Current Status 
+ Initial Service 
+Charges 
+S.No.
+Name of Project (Please 
+Specify)
+* Category
+Amount Sanctioned
+Cumulative Amount 
+Disbursed  
+(Excluding Running 
+Finance)
+Amount 
+Outstanding 
+(Excluding 
+Running Finance
+**Mode of 
+Financing
+8
+ Interest 
+Rate**** 
+Quarterly Report on Infrastructure Project Financing (IPF) for the Quarter Ended :
+(Amount in Million)
+Amount Disbursed 
+During Quarter 
+(Excluding Running 
+Finance)
+Amount 
+Outstanding 
+against Running 
+Finance
+Sanctioned in 
+the Year
+Loan Tenure
+Exposure***
+ANNEX D 
+Infrastructure Project Finance Data Format 
+IPF-I 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+IPF-II 
+ 
+ 
+IPF-III 
+ 
+1
+2
+3
+Total
+* Category of the Project as per para 18 part A of the Prudential Regulations for Infrastructure Project Financing
+** Please specify whether it Project Finance/Corporate Finanace/Bonds/TFC other etc
+*** If floating please state applicable base rate + margins
+Any New Project for the Quarter End
+Name of the Bank/DFI :
+S.No.
+Name of Project 
+* Category
+*** Interest 
+rate
+Description of Project
+Capacity (If 
+applicable)
+Estimated 
+Project Cost
+Detail of 
+Syndicate
+Financing 
+Structure
+Debt/Equity 
+Ratio
+** Mode of 
+Financing
+Security against 
+Loan
+Loan Tenure
+1
+Transport
+2
+Power
+3
+Energy
+4
+Telecommunication
+5
+Water & Sanitation
+6
+Social, Cultural & Commercial 
+Infrastructure 
+7
+Any Other
+Total
+No of new Projects 
+Total Amount 
+Sanctioned 
+Amount Outstanding
+Amount Disbursed
+Name of the Bank/DFI: 
+Cummulative Amount 
+Disbursed
+Infrastructure Financing Profile
+Amount of NPLs
+S.No.
+Sectors/Category
+No of Projects

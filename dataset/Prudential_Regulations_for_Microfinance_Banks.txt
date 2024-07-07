@@ -1,0 +1,3278 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRUDENTIAL REGULATIONS FOR 
+MICROFINANCE BANKS 
+Updated on June 10, 2014 
+AGRICULTURAL CREDIT & MICROFINANCE DEPARTMENT 
+STATE BANK OF PAKISTAN 
+MicrofinanceRegulations@sbp.org.pk 
+ 
+ 
+ 
+ 
+ 
+i 
+CONTENTS 
+PREFACE 
+1 
+DEFINITIONS 
+2 
+Part 1: 
+General 
+2 
+Part-2: 
+Customer Due Diligence and Anti Money Laundering (M) 
+5 
+RISK MANAGEMENT (R) 
+7 
+Regulation R – 1:  
+Minimum Capital Requirements 
+7 
+Regulation R – 2:  
+Exposure against Contingent Liabilities 
+7 
+Regulation R – 3:  
+Maintenance of Cash Reserve and Liquidity 
+7 
+Regulation R – 4: 
+ Statutory Reserve 
+8 
+Regulation R – 5: 
+Maximum Loan Size and Eligibility of Borrowers 
+8 
+Regulation R – 6: 
+Maximum Exposure of a Borrower from MFBs / MFIs / Other Financial Institutions 
+9 
+Regulation R – 7: 
+Credit Report Check 
+9 
+Regulation R – 8: 
+Classification of Assets and Provisioning Requirements 
+9 
+Regulation R – 9: 
+Rescheduling/Restructuring of Loans 
+10 
+Regulation R – 10: Charging-off Non-Performing Loans (NPLs) 
+11 
+Regulation R – 11:  Classification of Investments and Other Assets 
+11 
+Regulation R – 12:  Investments of Funds 
+12 
+Regulation R – 13:  Payment of Dividends 
+13 
+CORPORATE GOVERNANCE (G) 
+14 
+Regulation G – 1: 
+Size and Composition of the Board 
+14 
+Regulation G – 2: 
+Remuneration to Directors 
+14 
+Regulation G – 3: 
+Responsibilities of the Board of Directors 
+14 
+ 
+ 
+ 
+ii 
+Regulation G – 4:  
+Fit and Proper Test 
+16 
+Regulation G – 5: 
+Restriction on Certain Types of Transactions 
+16 
+Regulation G – 6:  
+Internal Audit 
+17 
+Regulation G – 7:  
+Policy Frameworks 
+17 
+Regulation G – 8: 
+Guidelines on Internal Controls and Risk Management 
+17 
+Regulation G – 9: 
+Credit Rating 
+17 
+Regulation G – 10:  Declaration of Fidelity and Secrecy 
+18 
+Regulation G – 11: Contributions and Donations for Charitable, Social,  Educational and Public Welfare Purposes 
+18 
+MONEY LAUNDERING, TERRORIST FINANCING AND OTHER UNLAWFUL 
+ACTIVITIES (M) 
+19 
+Regulation M - 1:  
+Customer Due Diligence (CDD) 
+19 
+Regulation M - 2: 
+Record Retention 
+23 
+Regulation M - 3: 
+Reporting of Currency/Cash Transactions (CTR) 
+23 
+Regulation M - 4:  
+Reporting of Suspicious Transactions (STR) 
+24 
+Regulation M - 5: 
+Implementation of obligations under UNSC Resolutions 
+24 
+OPERATIONS (O) 
+25 
+Regulation O – 1:  
+ Cash Payments Outside the Authorized Place of Business 
+25 
+Regulation O – 2:  
+Reconciliation/Settlement of Account Entries 
+25 
+Regulation O – 3:  
+Deposits 
+26 
+Regulation O – 4:  
+Consumer Protection 
+27 
+Regulation O – 5:  
+Submission of Quarterly Returns 
+28 
+Regulation O – 6:  
+Window Dressing 
+28 
+Regulation O – 7:  
+Permission Regarding Receipt of Grants 
+28 
+Regulation O – 8:  
+Reporting to Credit Information Bureau (CIB) 
+29 
+ 
+ 
+ 
+iii 
+ANNEXURES 
+30 
+Annexure – A 
+ 
+31 
+Annexure – B 
+ 
+34 
+Annexure – B - 1 
+ 
+36 
+Annexure – B - 2 
+ 
+37 
+Annexure – C 
+ 
+38 
+Annexure – D 
+ 
+39 
+Annexure – E 
+ 
+42 
+Annexure – E - 1 
+ 
+44 
+Annexure – E - 2 
+ 
+46 
+Annexure – E - 3 
+ 
+47 
+Annexure – F 
+ 
+48 
+Annexure – G 
+ 
+53 
+Annexure – H 
+ 
+54 
+ 
+ 
+ 
+ 
+1 
+Preface  
+ 
+Cognizant of peculiar dynamics and evolution of microfinance sector, SBP maintains a ‘proportional’ regulatory 
+approach to promote innovation and stability.  The underlying principle has always been to keep balance 
+between inclusion and prudence. Specifically, prudence relates to i) stability (Capital / managing credit / 
+operations / liquidity risks) ii) financial integrity (AML/CFT) and iii) consumer protection. 
+In view of business growth and technological innovations in the sector, SBP has further strengthened 
+the regulations in areas of governance, AML/CFT, consumer protection, and operations to help MFBs to manage 
+the expected higher level of growth in future. 
+To add clarity, the PRs have been segregated in four categories viz. Risk Management (R), Corporate Governance 
+(G), Customer Due Diligence and Anti Money Laundering (M), and Operations (O). In addition, few instructions in 
+the prudential regulations which have already been covered under MFI Ordinance 2001, have been removed 
+from regulations to avoid repetition. Nevertheless, the omitted clauses remain enforceable on MFBs as part of 
+law.   
+These Prudential Regulations for Microfinance Banks do not supersede other directives issued by State Bank of 
+Pakistan in respect of areas not covered here. Any violation or circumvention of MFI Ordinance 2001 and SBP 
+regulations/directives for MFBs may render the concerned MFB or its concerned officer(s) liable for penalties as 
+determined by SBP from time to time. 
+Further, State Bank of Pakistan will continue to oversee the sector-related developments with strategic 
+perspective. For this purpose, SBP will remain open to review any of the existing regulations, while enacting new 
+regulations where prudence is warranted.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         Syed Samar Hasnain 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           Executive Director 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               (Development Finance Group) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+Definitions 
+For the purpose of these regulations, unless there is anything repugnant in the subject or context:  
+Part 1: 
+General 
+a. “Approved securities” shall mean registered Pakistani rupee obligations of the Federal 
+Government including, but not restricted to, Pakistan Investment Bonds (PIBs), Market Treasury 
+Bills (MTBs) and Government of Pakistan Sukuk Bonds. 
+b. “Branchless Banking” or “BB” means conduct of banking activities by authorized financial 
+institutions for customers having a branchless banking account. It does not include the 
+information services already being provided by various FIs to their existing customers using 
+channels like, phone, internet, SMS etc. 
+c. “Contingent liabilities” mean and include inland letters of credit, letters of guarantee, bid 
+bonds/performance bonds, and advance payment guarantees.  
+d.  “Deposit” means the deposit of money, repayable on demand or otherwise, accepted by a MFB 
+from the public for the purpose of providing microfinance services.  
+e.  “Documents” include vouchers, bills, promissory notes, bills of exchange, securities for 
+advances, claims by or against microfinance bank (MFB) and other record supporting entries in 
+the books of the MFB.  
+f.  “Equity” means and includes paid-up capital, share premium, general reserves and un-
+appropriated profits of the MFB.  
+g. “Exposure” means investments and financing facilities provided by the MFB including both fund 
+based and non-fund based.  
+h. “Family member” of a person means his/her spouse, dependent, lineal ascendants and 
+descendants and dependent brothers and sisters. 
+i. 
+“Independent Director” means such a person who is not linked directly or indirectly with the 
+MFB or its sponsor. For the purpose of such determination, an "independent director" is a 
+director who: 
+i. Has not been employed by MFB within the last five years;  
+ii. Has not been an employee or affiliate of any present or former external 
+auditor/consultant/legal advisor of MFB within the last three years;  
+iii. Has not been an executive officer or employee of parent, subsidiary or associate 
+ 
+ 
+ 
+ 
+ 
+3 
+company of the MFB or where Directors of the MFB have substantial beneficial interest 
+(20% or more shareholding of director’s own or combined with family members); 
+iv. Has not been employed by a company of which an executive officer of the MFB has 
+been a director within the last three years;  
+v. Has/had no material business relationship with the MFB either directly, or as a partner, 
+shareholder, director or key executive of a body that has/had such a relationship with 
+the MFB within the last three years; 
+vi. Does not hold cross-directorships or have significant links with other directors such as 
+association as partner or common director/major shareholder in other companies or 
+entities;  
+vii. Has not served on the Board for more than six years from the date of his first election or 
+appointment provided that such person shall be deemed “independent director” if re-
+elected after a lapse of three years. 
+ 
+j. 
+ “Key Executive” includes the officials responsible for overseeing following functional 
+responsibilities: 
+i. Any executive, acting as second to CEO including Chief Operating Officer, Deputy 
+Managing Director or by whatever name called; 
+ii. Chief Financial Officer/Head of Finance/Head of Accounts; 
+iii. Internal Audit; 
+iv. Risk Management; 
+v. Compliance; 
+vi. Credit; 
+vii. Operations; 
+viii. Human Resource; 
+ix. Information Technology; 
+The condition for hiring all key executives will become mandatory whenever deposit base or 
+gross loan portfolio of an MFB exceeds Rs. 3 billion, or the MFB completes three years in 
+operations whichever is earlier. Further, if a person is performing more than one of the above-
+mentioned functions, it shall be ensured that there is no conflict of interest. The same shall also 
+be notified to State Bank of Pakistan. 
+k. “Microfinance Banks - MFBs” shall mean companies incorporated in Pakistan and licensed by 
+the State Bank of Pakistan as microfinance banks for the purpose of providing microfinance 
+services, especially mobilizing deposits from the public and providing credit to poor persons and 
+micro-enterprises.  
+l. 
+“Microenterprises” shall mean projects or businesses in trading, manufacturing, services, or 
+agriculture that lead to livelihood improvement and income generation. Moreover, these 
+projects/businesses are undertaken by micro entrepreneurs who are either self-employed or 
+ 
+ 
+ 
+ 
+ 
+4 
+employ few individuals not exceeding 10 (excluding seasonal labor). 
+Microenterprises may include carpentry, electrical works, food stalls, farms (crops & non-crops), 
+lathe machine workshops etc; which have traditionally lacked access to formal financial services. 
+m. “Poor Person” means an individual who has meager means of subsistence but is involved in a 
+livelihood activity and has an ability to repay debt from an annual income (net of business 
+expenses) up to Rs. 500,000/-. 
+n. “Records” include ledgers, daybooks, cash books, supporting documents and all other manual or 
+magnetic/electronic records used in the business of the MFBs;  
+o.  “Specified area” means the district, region (comprising up to five adjacent districts within the 
+same Province or any other area where Microfinance Institutions Ordinance 2001 is applicable), 
+province or the whole country for which an MFB is licensed to operate;  
+p. “Sponsor Shares” mean 5% or more paid-up shares of a MFB, acquired by a person(s) 
+individually or in concert with his family members, group companies, subsidiaries, and 
+affiliates/associates. 
+q. “Sponsor Shareholders” mean all those shareholders of a MFB holding sponsor shares. 
+r. “Sponsor Director” means the member of the Board of Directors of a MFB holding sponsor 
+shares. 
+s. “State Bank” means State Bank of Pakistan established under The State Bank of Pakistan Act, 
+1956. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Part-2: 
+Customer Due Diligence and Anti Money Laundering (M) 
+a. “Beneficial Owner” refers to the natural person(s) who ultimately owns or controls a customer 
+and /or the natural person on whose behalf a transaction is being conducted. 
+b. “Beneficiary” means the person to whom or for whose benefit the funds are sent or deposited 
+in bank. 
+c. “Correspondent Bank” means the MFB in Pakistan which provides correspondent banking 
+services to bank or financial institution situated abroad and vice versa. 
+d. “Correspondent Banking” means provision of banking services by one bank (correspondent) to 
+another bank (respondent) including but not limited to opening and maintaining accounts, fund 
+transfers, cheque clearing, payable through accounts, permissible foreign exchange services or 
+similar other banking services. 
+e. “Currency Transaction Report” means as defined under AML Act 2010. 
+f. “Customer” means a person having relationship with the MFB which includes but not limited to 
+holding of deposit/deposit certificate/ or any instrument representing deposit/placing of money 
+with a MFB,  availing other financial services, locker facility, safe deposit facility, or custodial 
+services from the MFB. 
+g. “Customer Due Diligence or CDD” in broader terms includes; 
+i. Identifying the customer and verifying the customer’s identity on the basis of 
+documents, data or information obtained from customer or through reliable and 
+independent source. 
+ii. Identifying, where there is a beneficial owner who is not the customer, the beneficial 
+owner and taking adequate measures to verify his identity so that the MFB is satisfied 
+that it knows who the beneficial owner is, including, in the case of a legal person, trust 
+or similar legal arrangement, measures to understand the ownership and control 
+structure of the person, trust or arrangement.  
+iii. Understanding and, as appropriate, obtaining information on the purpose and intended 
+nature of the business relationship; and 
+iv. Monitoring of accounts/transactions on ongoing basis to ensure that the transactions 
+being conducted are consistent with the MFB’s knowledge of the customers, their 
+business and risk profile, including, where necessary, the source of funds and, updating 
+records and data/ information to take prompt action when there is material departure 
+from usual and expected activity through regular matching with information already 
+available with MFB. 
+h. “FATF Recommendations” means the Recommendations of Financial Action Task Force as 
+ 
+ 
+ 
+ 
+ 
+6 
+amended from time to time. 
+i. 
+“FMU” means the Financial Monitoring Unit established under the AML Act 2010. 
+j. 
+“Money Laundering and Financing of Terrorism or ML/TF” has the same meaning as ascribed to 
+them in AML Act 2010. 
+k.  “Online transaction” means deposit or withdrawal of cash using different branches of a MFB 
+through electronic means. 
+l. 
+“Person” has the same meaning as ascribed to it under the AML Act 2010. 
+m. “Politically Exposed Persons or PEPs” are individuals who are entrusted with prominent public 
+functions either domestically or by a foreign country, or in an international organization, for 
+example Heads of State or of government, senior politicians, senior government, judicial or 
+military officials, senior executives of state owned corporations/departments/autonomous 
+bodies. This does not intend to cover middle ranking or more junior individuals in the foregoing 
+categories. 
+n. “Risk” refers to risk associated with money laundering and financing of terrorism. 
+o. “Suspicious Transaction Report or STR’’ as ascribed in AML Act 2010. 
+p. “Walk-in-customer” means the person conducting occasional transactions and is not a customer 
+having relationship with the MFB. 
+ 
+ 
+ 
+ 
+7 
+Risk Management (R) 
+Regulation R – 1:  Minimum Capital Requirements 
+ 
+Microfinance Banks (MFBs) shall maintain a minimum paid up capital (free of losses) of not less than:  
+i. 
+One billion rupees if licensed to operate at national level.  
+ii. 
+Five hundred million rupees if licensed to operate in a specified province;  
+iii. 
+Four hundred million rupees if licensed to operate in a specified region; and 
+iv. 
+Three hundred million rupees if licensed to operate in a specified district;  
+ 
+The MFBs shall also maintain Capital Adequacy Ratio (CAR) equivalent to at least 15% of their risk weighted 
+assets. Instructions on calculation of CAR based on risk weighted assets are provided in Annexure - A. For the 
+purpose of maintaining minimum CAR, MFBs are also allowed to raise sub-ordinate debt in local currency, 
+subject to obtaining prior written approval from the SBP. The terms and conditions for raising sub-ordinate debt 
+are provided in Annexure - A. 
+ 
+Regulation R – 2:  Exposure against Contingent Liabilities 
+ 
+The contingent liabilities of the MFB for the first three years of its operations shall not exceed three times of its 
+equity and thereafter shall not exceed 5 times of the MFB’s equity. 
+ 
+Regulation R – 3:  Maintenance of Cash Reserve and Liquidity 
+ 
+A. Cash Reserve Requirement: 
+i. 
+The MFB shall maintain a cash reserve equivalent to not less than 5% of its deposits (including 
+demand deposits and time deposits with tenor of less than 1 year) in a current account opened with 
+the State Bank or its agent.  
+ii. 
+Time deposits with tenor of 1 year and above will not require any cash reserve. 
+B. Statutory Liquidity Requirement: 
+i. 
+The MFB shall maintain statutory liquidity reserve equivalent to at least 10% of its total demand 
+liabilities and time liabilities with tenor of less than 1 year, in the form of liquid assets i.e. cash, gold, 
+unencumbered Treasury Bills, Pakistan Investment Bonds and Government of Pakistan Sukuk Bonds. 
+The MFB shall, however, not account for the Treasury Bills and Pakistan Investment Bonds held 
+ 
+ 
+ 
+ 
+8 
+under depositor protection fund for the purpose of calculating statutory liquidity reserve.   
+ii. 
+Time liabilities with tenor of 1 year and above will not require any SLR. 
+MFBs shall submit their CRR and SLR statements along with bi-weekly (fortnightly) statement of affairs to ‘Off-
+Site Supervision & Enforcement Department (OSED) – State Bank’ within seven days of the close of the period to 
+which it relates. The format of bi-weekly statement of affairs, statement of CRR, and statement of SLR are 
+prescribed at Annexure - B, B1 and B2 respectively. 
+ 
+Regulation R – 4:  Statutory Reserve 
+ 
+The MFB shall create a reserve fund to which shall be credited: 
+i. 
+An amount equal to at least 20% of its annual profits after taxes till such time the reserve fund equals 
+the paid-up capital of the MFB. 
+ 
+ii. 
+Thereafter, a sum not less than 5% of its annual profit after taxes. 
+ 
+Regulation R – 5: Maximum Loan Size and Eligibility of Borrowers 
+ 
+A. Housing Loans: 
+Maximum Loan size is up to Rs. 500,000/- to a single borrower with annual income (net of business expenses) 
+up to Rs. 600,000/-. However, at least 60% of housing loan portfolio of a MFB should be within the loan limit of 
+Rs. 250,000/- or below. 
+B. General Loans (Other than housing loans): 
+The maximum Loan size for general loans is up to Rs. 150,000/- to a poor person with annual income (net of 
+business expenses) up to Rs. 500,000/- 
+C. Loans to Microenterprises:  
+Loans to microenterprises shall be up to a maximum of Rs. 500,000/-. The MFB shall extend the enterprise loan 
+only in the name of micro entrepreneur to ensure traceability and reduce the incidence of multiple borrowing.  
+The aggregate exposure against the enterprise loans in excess of Rs. 150,000/- shall not exceed 40% of the 
+MFB’s gross loan portfolio. MFBs shall ensure to have in place appropriate mechanism for monitoring the 
+aggregate exposure limits on enterprise lending.    
+Only those MFBs that are fully compliant with Minimum Capital Requirement (MCR) and Capital Adequacy Ratio 
+(CAR) shall be eligible to undertake microenterprise lending. The interested MFBs shall develop related 
+institutional capacity (products, credit risk management and monitoring system, trainings etc.) and submit its 
+ 
+ 
+ 
+ 
+9 
+detailed business plan of microenterprise lending to SBP for seeking necessary approval for a pilot program. The 
+SBP shall evaluate the plan along with operational/financial performance, funding plan, supervisory assessment, 
+and credit rating of the MFB, and accordingly grant permission for launching pilot program to the applicant MFB. 
+The final approval for enterprise lending shall be granted subject to satisfactory evaluation of pilot program. 
+ 
+Regulation R – 6: Maximum Exposure of a Borrower from MFBs / MFIs / Other 
+Financial Institutions  
+ 
+The maximum limits of the borrowers’ aggregate exposure shall not exceed Rs. 150,000/- for general loans, Rs. 
+500,000/- for housing loans, and Rs. 500,000/- for microenterprise loans. The aggregate exposure of the 
+borrowers who are eligible to avail both general and microenterprise loan shall not exceed Rs. 500,000/-. 
+The MFBs shall develop an internal mechanism to monitor the overall exposure of their borrowers so as to 
+manage credit risk and also minimize the borrowers’ over indebtedness risk. At the time of granting facility, 
+MFBs shall obtain a written declaration on the prescribed format attached as Annexure – C from the borrower 
+divulging details of various facilities already obtained from other MFBs / MFIs / Banks / other Financial 
+Institutions. The MFBs shall ensure that total exposure of their clients does not exceed their total repayment 
+capacity as determined under the criteria laid–out in the MFBs’ credit policy.  
+ 
+Regulation R – 7: Credit Report Check 
+ 
+Before allowing any credit facility, the MFBs shall obtain a credit report from the Credit Information Bureau (CIB) 
+of State Bank of Pakistan, or from any other appropriate Credit Information Bureau of which they are a member. 
+However, if credit facility exceeds Rs. 30,000, it will be mandatory for MFBs to obtain credit report from Credit 
+Information Bureau of State Bank of Pakistan.  
+MFBs shall assign due weightage to the CIB reports in addition to their approved criteria while undertaking 
+credit appraisal of the prospective borrower. Credit applications, however, may not be turned down solely on 
+the basis of overdue amount reported in the CIB report.  
+ 
+Regulation R – 8: Classification of Assets and Provisioning Requirements 
+ 
+A. Specific Provisioning 
+The outstanding principal and mark-up of the loans and advances, payments against which are overdue for 30 
+days or more, shall be classified as Non- Performing Loans (NPLs). The unrealized interest / profit / mark-up / 
+service charges on NPLs shall be suspended and credited to interest suspense account. Further the NPLs shall be 
+divided into following categories: 
+ 
+ 
+ 
+ 
+10 
+Category 
+Determinant 
+Provisioning Requirement 
+Other Assets Especially 
+Mentioned  
+(OAEM) 
+Loans (principal/mark-up) is overdue 
+for 30 days or more but less than 60 
+days 
+NIL 
+Substandard 
+Loans (principal/mark-up) is overdue 
+for 60 days or more but less than 90 
+days 
+25% of outstanding principal net of 
+Cash collaterals and Gold (ornaments 
+and bullion) realizable without 
+recourse to a Court of Law 
+Doubtful 
+Loans (principal/mark-up) is overdue 
+for 90 days or more but less than 180 
+days 
+50% of outstanding principal net of 
+Cash collaterals and Gold (ornaments 
+and bullion) realizable without 
+recourse to a Court of Law  
+Loss 
+Loans (principal/mark-up) is overdue 
+for 180 days or more 
+100% of outstanding principal net of 
+Cash collaterals and Gold (ornaments 
+and bullion) realizable without 
+recourse to a Court of Law 
+In addition, MFBs shall maintain a watch list of all accounts overdue for 5 – 29 days. However, such accounts 
+may not be treated as NPL for the purpose of Classification / Provisioning. 
+B. General Provisioning  
+The MFB shall maintain a General Provision equivalent to 1.0% of the net outstanding advances (advances net of 
+specific provisions). However, general provision shall not be required in cases where loans have been secured 
+against gold or other cash collateral with appropriate margin. 
+ 
+Regulation R – 9: Rescheduling/Restructuring of Loans  
+ 
+In order to restructure/ reschedule NPLs, MFBs shall have in place a policy duly approved by their Board of 
+Directors (BOD). The policy shall take following into account:  
+i. 
+Rescheduling/restructuring is not done to break timeframe or allow un-warranted improvement in 
+classified category of loans/advances.  
+ii. 
+A mechanism is in place, to identify and verify the genuineness of circumstances of the concerned 
+borrowers before rescheduling/ restructuring. 
+iii. 
+The rescheduled/restructured loans shall remain classified unless serviced regularly for 6 months 
+excluding grace period (if any) or at least 40% of the outstanding amount principal along with accrued 
+mark-up is recovered in cash.  
+ 
+ 
+ 
+ 
+11 
+iv. 
+In cases where rescheduled / restructured loans are not recovered on revised maturity date, they shall 
+be classified directly as ‘losses’.  
+v. 
+Envisage steps to provide relief to borrowers adversely affected by natural calamities. MFBs may grant 
+appropriate relaxation either on case-to-case basis or en-block to the borrowers in the affected area. 
+Further, MFBs are encouraged to develop risk mitigation strategies such as availing crop loan insurance, 
+for eligible crops, so as to reduce vulnerability in such situations.  
+ 
+Regulation R – 10: Charging-off Non-Performing Loans (NPLs) 
+ 
+All NPLs shall be charged off, one month after the loan is classified as “Loss”. The intent of ‘charge-off’ is to clear 
+the balance sheet of MFBs, and this shall in no way extinguish the MFBs’ right of recovery of such loans. 
+Note: Charge-off means reducing the value of the loans in ‘loss’ category to zero through offsetting the 
+provisions, thus, removing such loans from the balance sheet. 
+ 
+Regulation R – 11: 
+ Classification of Investments and Other Assets 
+ 
+The MFBs shall categorize their investments into three categories viz. ‘Held for Trading’, ‘Available for Sale’ and 
+‘Held to Maturity’. The securities should be categorized at the time of their acquisition and the decision to this 
+effect shall be recorded in the deal ticket. 
+The MFB shall classify a security as Held-To-Maturity (HTM) if it has intent and ability to hold such investments 
+till their maturity. Securities categorized as HTM shall be valued at amortized cost. However, in case of 
+impairment, they will be subject to revaluation and the impaired amount shall be charged to Profit and Loss 
+Account. 
+The investments once categorized will not be shifted to or from ‘HTM’. The investments in ‘Held for Trading’ 
+may be shifted to ‘Available for Sale’ category only under exceptional circumstances and after approval of MFB’s 
+Asset and Liabilities Committee (ALCO) with the reasons recorded in writing. While shifting the securities, the 
+same will have to be valued at lower of cost/book or market value at that date and any diminution shall be fully 
+provided for through profit and loss account.    
+The securities categorized as ‘Held for Trading’ shall be disposed off within 90 days from the date of their 
+acquisition.  
+Investment portfolio in ‘Held for Trading’ and ‘Available for Sale’ shall be evaluated for the purpose of their 
+valuation and classification keeping in view various subjective and objective factors given as under: 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+a) Quoted Securities: 
+Government Securities will be valued at PKRV (Reuter Page). Debt securities such as TFC and mutual funds shall 
+be valued at their market value. The difference between the market value and book value will be treated as 
+surplus/deficit. 
+ 
+b) Un-quoted Securities: 
+ 
+TFCs and mutual funds shall be carried at amortized costs. These securities will be tested for any impairment 
+and classification on the evaluation date on the basis of both objective and subjective criteria (aging of default, 
+future payment capacity, project/company’s financial condition, business conditions etc;).  
+ 
+c) Treatment of Surplus/Deficit: 
+ 
+The measurement of surplus/deficit shall be done on portfolio basis. The surplus/deficit arising as a result of 
+revaluation of ‘Held for Trading’ securities shall be taken into Profit & Loss Account. The surplus/deficit on 
+revaluation of ‘Available for Sale’ category shall be taken to “Surplus/Deficit on Revaluation of Securities” 
+through statement of comprehensive income. Impairment in the value of ‘Available for Sale’ securities will be 
+provided for by charging it to the Profit and Loss Account. 
+Classification of ‘Other Assets’ and provision required there-against shall be determined keeping in view the risk 
+involved and the requirements of the International Financial Reporting Standards (IFS). 
+ 
+MFBs are required to take appropriate measures to comply with the above conditions within six months of the 
+issuance of these regulations. 
+ 
+Regulation R – 12: 
+ Investments of Funds 
+ 
+MFBs may invest their surplus funds in Government Securities, ‘A’ rated debt securities like TFCs and units of 
+those mutual funds which maintain their investment portfolio in fixed income securities or money market 
+instruments.  
+In addition, MFBs may acquire or hold shares of any corporate body, the objective of which is to provide 
+microfinance services, technical, vocational, educational, business development and allied services to the poor 
+and micro enterprises. The maximum investment in such a company or security shall not exceed 10% of paid-up 
+share capital of that company or 5% of MFBs’ own equity free of losses, whichever is less. For making 
+investment in excess of the 5% limit, prior permission from SBP shall be obtained. The aggregate investments in 
+such corporate bodies shall not exceed 10% of MFBs’ equity, free of losses. 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+Regulation R – 13: 
+ Payment of Dividends 
+ 
+MFBs shall not pay any dividends on their shares until: 
+i. 
+They meet the MCR and CAR as laid down by the State Bank from time to time; 
+ii. 
+All the provisions/appropriations laid down in MFI Ordinance 2001 and the Prudential Regulations for 
+Microfinance Banks have been made. 
+ 
+ 
+ 
+ 
+14 
+CORPORATE GOVERNANCE (G) 
+Regulation G – 1: Size and Composition of the Board 
+ 
+MFBs shall ensure that the skill mix of the Board is compatible with the objectives, plans and functions of the 
+MFB and that the board is in a position to give direction to the executive management and steer the MFB in the 
+desired direction. The board shall have: 
+i. 
+Minimum of seven members. 
+ii. 
+Not more than 25% of the members from the same family. 
+iii. 
+At least 2 independent members. 
+iv. 
+No more than 25% of the members as paid executives of the MFB. 
+v. 
+Chairman who is not the CEO of the MFB.  
+ 
+Further, MFBs are encouraged to have adequate female representation on their Board of Directors. MFBs are 
+required to comply with the above conditions within six months of the issuance of these regulations.  
+MFBs shall also ensure that no member of the Board of Directors of a MFB holding 5% or more of the paid-up 
+capital of the MFB either individually or in concert with his/her family members or concerns / companies in 
+which he / she has the controlling interest, shall be appointed in the MFB in any capacity save as the Chief 
+Executive of the MFB. 
+ 
+Regulation G – 2: Remuneration to Directors 
+ 
+No payment shall be made or perquisites provided to the non-executive directors and chairman other than 
+reasonable fees, in addition to traveling and lodging expenses (on actual basis), for attending meetings of the 
+Board of Directors or its Committees. MFBs may determine a ‘reasonable fee’ but not exceeding Rs. 25,000 per 
+meeting. If meetings of the Board of Directors and its Committees are scheduled on the same day, the MFB shall 
+not pay a separate fee for each meeting. Further, the scale of fee shall be approved by the shareholders on pre 
+or post facto basis in the Annual General Meeting (AGM). However, if a MFB intends to pay above the 
+prescribed ceiling of Rs. 25,000, it would require prior permission from SBP. The executive directors will only be 
+paid usual TA/DA as per MFB’s standard rules and regulations. 
+ 
+Regulation G – 3: Responsibilities of the Board of Directors 
+ 
+The Board of Directors of MFBs shall: 
+i. 
+Define vision & mission and set strategic goals & objectives. 
+ii. 
+Approve annual business plan, and monitor its progress on regular basis.  
+ 
+ 
+ 
+ 
+15 
+iii. 
+Undertake and fulfill their duties & responsibilities keeping in view their obligations under the applicable 
+laws and regulations. 
+iv. 
+Ensure that the MFB maintains high standards of disclosure, transparency, fair treatment with 
+consumers, and compliance with rules and regulations.  
+v. 
+Attend training program(s) on corporate governance preferably at least 1 week within first year of their 
+directorship to be able to play effective role as a director on the board of MFB. However, those Directors 
+who have already attended such programs or have served on the board of any foreign corporate body 
+shall be exempted from such training programs. 
+vi. 
+Induct appropriately qualified and experienced CEO and management, and assess their performance. 
+Recommend re-appointment of Chief Executive Officer/President and members of the board on the 
+basis of their performance, and ensure appropriate skill-mix in the board composition.  
+vii. 
+Ensure that succession policy is in place for key management positions. 
+viii. 
+Clearly define the authorities and key responsibilities of both the Directors and the Senior Management 
+without delegating its policy-making powers to the Management and shall ensure that the Management 
+is in the hands of qualified personnel. 
+ix. 
+Approve and ensure implementation & compliance of internal policies relating to business and 
+operations. Moreover, existing policies shall be reviewed and updated periodically or whenever 
+circumstances justify.  
+x. 
+Hold frequent/regular meetings (not less than once every quarter). The individual directors of an MFB 
+shall attend at least half of the meetings held in a financial year. The board should ensure appropriate 
+MIS for receiving sufficient information from management on the agenda items well in advance of each 
+meeting to be able to effectively participate in and contribute to each meeting.  
+xi. 
+Form specialized committees with well-defined objectives, authorities and tenure. These committees, 
+preferably comprising of ‘Non-Executive’ Board members, shall oversee areas like audit, risk 
+management, compensation etc. The Audit Committee of the board shall be chaired by the Independent 
+Director. These committees of the board shall not indulge in day-to-day affairs/operations of the MFB 
+and shall apprise the board of their activities, findings, and recommendations on regular basis. 
+xii. 
+ Ensure that permanent committees of the board have charters approved by the board as a whole. 
+xiii. 
+Ensure that the audit committee of the board shall not include membership from the management. The 
+audit committee must include an expert on accounting and financial analysis. It must meet with the 
+external auditors in the absence of management.  
+xiv. 
+Inform State Bank of Pakistan (SBP) at least two months ahead of implementing its decision to remove 
+its President/Chief Executive Officer (CEO) before the expiration of his/her term of office, through the 
+defined statutory process along with reasons recorded in writing for the same. The Chairman of the 
+Board of Directors of the MFB shall be responsible for submission of the requisite information to SBP.  
+xv. 
+The President/CEO, whenever, decides to tender resignation before completion of his/her term in office, 
+he/she must inform SBP at least two months before tendering resignation. 
+ 
+ 
+ 
+ 
+16 
+Board of Directors is required to undertake measures, within six months of the issuance of these regulations, to 
+meet its newly prescribed responsibilities. 
+ 
+Regulation G – 4:  Fit and Proper Test  
+ 
+The Board Members and President/Chief Executive are custodians of public savings deposited with the MFBs. 
+Thus, they should not only be persons of established integrity and track record, but should also have necessary 
+capacity, qualification and experience to effectively undertake their respective responsibilities and functions in 
+order to lead and steer the MFB as a commercially viable and socially responsible financial institution. 
+State Bank of Pakistan has, formulated “Fit & Proper Test” for selection/appointment, re-appointment/renewal, 
+and interim appointment of the Board Members and President/Chief Executive of Microfinance banks, which 
+prescribes the minimum qualifications, experience and integrity standards, etc. for the MFBs’ Board Members 
+and President/Chief Executive. The criterion is given at Annexure - D.  
+For appointment of key executives, SBP’s prior approval is not required; however, MFBs shall furnish information 
+of their key executives to SBP. MFBs shall provide FPT particulars of all key executives within six months of 
+issuance of these regulations. The MFBs shall submit information about the Board Members and/or 
+President/Chief Executive Officer and key executives to State Bank as per Annexure - E, E – 1, E – 2 and E – 3, 
+respectively.  
+Fit & Proper Test prescribed in these regulations is continuous in nature. Therefore, all persons subject to FPT 
+shall immediately submit any change in the information already submitted (at the time of clearance) either 
+through their Company Secretary or Human Resources Department to Banking Policy and Regulations 
+Department and copy to Agricultural Credit and Microfinance Department of State Bank. Violation of the 
+instructions, circumvention, concealment, misreporting and delay in submission of information to SBP may 
+result in withdrawal of SBP approval. 
+ 
+Regulation G – 5: Restriction on Certain Types of Transactions 
+ 
+The MFBs shall not: 
+i. 
+Allow any facility for speculative purposes. 
+ii. 
+Take any exposure on its sponsors, directors or employees including their spouses, parents, and 
+children. The rule shall not apply on deposit services offered by the MFB and loans given to employees 
+under staff loan policy of the MFB. 
+iii. 
+Offer preferable treatment to the deposit accounts of its sponsors, directors or employees including 
+their spouses, parents, and children.  
+iv. 
+Enter into leasing, renting and sale/purchase of any kind with their directors, officers, employees or 
+such persons who either individually or in concert with family members beneficially owns 5% or more 
+ 
+ 
+ 
+ 
+17 
+of the equity of the MFB.  This restriction does not apply in case of purchase of vehicles, laptops, 
+mobile phone devices and iPads by the paid directors, officers or employees of the MFBs which 
+remained in their own use, provided such sale is covered under the employees service rules duly 
+approved by the Board of Directors of the MFB and is effected by the MFB at least at book value at the 
+date of such transaction. 
+v. 
+Hold, deal or trade in real estate except for use of MFB itself. 
+ 
+Regulation G – 6:  Internal Audit 
+ 
+The MFBs shall have an Internal Audit Department manned preferably by professionals/persons having prior 
+audit experience in MFBs/Banks/Financial Institutions. The Head of the Department shall report directly to the 
+Board of Directors or to an Audit Committee of the Board which shall inter alia evaluate his/her performance 
+annually. However, Head of Internal Audit may report administratively to the President/CEO. 
+ 
+Regulation G – 7:  Policy Frameworks  
+ 
+The MFBs shall formulate policies for all functional areas of operations including but not restricted to risk 
+management, micro-credit, deposit operations, investments, internal audit, human resources, and rescheduling 
+/ restructuring / write-off of loans / advances etc.  These policies shall be duly approved by the Board of 
+Directors. The Board shall also be responsible to review and update existing policies periodically and whenever 
+circumstances justify it. The Board shall develop and implement newly prescribed policies within six months of 
+issuance of these regulations. 
+ 
+Regulation G – 8: Guidelines on Internal Controls and Risk Management  
+ 
+The MFBs shall follow at minimum the instructions and standards given in the guidelines on i) Risk Management 
+ii) Internal Controls iii) IT Security and iv) Business Continuity Management. The guidelines are given at Annexure 
+- F. MFBs shall ensure implementation of these guidelines within six months from the date of issuance of these 
+regulations. 
+ 
+Regulation G – 9: Credit Rating 
+ 
+The MFBs shall get themselves rated by any of the rating agencies on the approved panel of State Bank of 
+Pakistan or any international microfinance rating agency, with prior approval of SBP, within three years of grant 
+of license by State Bank of Pakistan to operate as MFB or within one year of commencement of deposit 
+ 
+ 
+ 
+ 
+18 
+mobilization services whichever is earlier. 
+The credit rating shall be an ongoing process and updated on a regular basis from year to year within four 
+months of the close of financial year after the first rating as stated in the first paragraph. The rating report shall 
+be submitted to Agricultural Credit & Microfinance Department, and Offsite Surveillance and Enforcement 
+Departments of State Bank of Pakistan within 7 days of notification of the latest rating. The rating shall also be 
+disclosed to the public within 15 days of the notification of the latest rating by the rating agency. 
+ 
+Regulation G – 10: 
+ 
+Declaration of Fidelity and Secrecy 
+ 
+Every member, director, auditor and staff member of the microfinance bank shall, before entering upon his 
+office and performance of duties, make a declaration of fidelity and secrecy in the form as prescribed in 
+Annexure - G. 
+ 
+Regulation G – 11: 
+Contributions and Donations for Charitable, Social, 
+ 
+Educational and Public Welfare Purposes 
+ 
+MFBs shall strictly observe the following rules in the matter of making any donation/contribution for charitable, 
+social, educational or public welfare purposes:  
+i. 
+The MFBs shall develop policy/guidelines duly approved by their Board of Directors for making 
+donations/contributions.  
+ii. 
+The total donations/contributions made by the MFBs during the year shall not exceed such amount as 
+approved by their Board of Directors. MFBs making these donations/contributions shall already have 
+met provisioning and capital adequacy requirements. 
+iii. 
+All donations or contributions to be made during the year must be specifically approved by the Board of 
+Directors on pre or post facto basis. 
+iv. 
+MFBs 
+shall 
+expressly 
+disclose 
+in 
+their 
+annual 
+audited 
+financial 
+statements 
+the 
+total 
+donation/contribution made during the year along with names of donees, to whom total donations/ 
+contributions during the year were made in excess of Rs 100,000/. In case of donations where any 
+director or his family members have interest in the donee, the names of such directors, their interest in 
+the donee and the names and addresses of all donees, shall also be given.  
+ 
+ 
+ 
+ 
+19 
+MONEY LAUNDERING, TERRORIST FINANCING AND OTHER UNLAWFUL ACTIVITIES (M) 
+To safeguard Microfinance Banks (MFBs) from the threat of Money Laundering, Terrorist Financing and other 
+related unlawful activities, the following minimum standards are required to be followed by all the MFBs. 
+Microfinance banks are free to take additional measures as per risk involved in line with Financial Action Task 
+Force (FATF) recommendations. MFBs shall ensure to develop and implement following policies within six 
+months of issuance of these regulations. 
+ 
+Regulation M - 1:  Customer Due Diligence (CDD) 
+ 
+1) Know Your Customer/ Customer Due Diligence Policy: All MFBs shall formulate a comprehensive 
+KYC/CDD policy duly approved by their Board of Directors. The policy shall be communicated down the 
+line to relevant officers / staff. Copies of the KYC/CDD policy shall be submitted to the Agricultural Credit 
+and Microfinance Department (AC&MFD) of the State Bank of Pakistan. Any change in policy shall also 
+be conveyed to SBP within seven (07) days of its approval from the Board of Directors.  
+ 
+MFBs shall apply customer due diligence measures including identification and verification of customers 
+before opening a new account or extending any credit facility or establishing new business relationships. 
+MFBs shall take all reasonable measures to perform due diligence of their existing and prospective 
+customers to establish their identity and to confirm that the customer is not exploiting microfinance 
+banking channel for any criminal activity, money laundering or terrorist financing.  
+ 
+2) Systems, Controls and Procedures: MFBs shall put in place systems, controls and procedures for 
+combating money laundering and terrorist financing which may include but not limited to; 
+ 
+i. 
+Compliance setup under the supervision of a well qualified, senior and independent official 
+who shall be responsible to ensure compliance with AML/CFT policies and procedures. 
+ii. 
+Adequate screening procedures to ensure high standards when hiring employees. 
+iii. 
+An ongoing employee training program for relevant staff/officers. 
+iv. 
+Audit function to assess the adequacy of the policies & procedures and to evaluate the 
+effectiveness of risk management process. 
+v. 
+Appropriate policies and procedures on internal controls. 
+ 
+3) Identity of Individual Customers:  Identity of all the prospective customers shall be established with all 
+reasonable efforts. Before establishing any banking relationship with the client, MFBs shall inter alia 
+obtain copy of Computerized National Identity Card (CNIC), Passport, National Identity Card for Overseas 
+Pakistanis (NICOP), Pakistan Origin Card (POC) or National Alien Registration Authority (NARA) Card of 
+the prospective customer.  The copy of identity document so obtained shall be stamped as “original 
+seen” after comparing it with the original document.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+In case of a salaried person, MFBs shall obtain copy of his/her service card, or any other acceptable 
+evidence of service in addition to the attested copy of CNIC. 
+ 
+In case of an illiterate person, MFBs shall take additional measures such as recent photograph of the 
+new account holder besides taking his/her right and left thumb impression on the specimen signature 
+card. 
+ 
+In case of joint account, CDD measures on all the joint account holders shall be performed as if each of 
+them were individual customers of the MFB. 
+ 
+MFBs may open account on the basis of attested copy of NADRA receipt/token for new CNIC, provided 
+all other requirements of account opening under Prudential Regulations for Customer Due Diligence are 
+complied with. MFBs shall, however, obtain copies of CNICs of such customers within three months of 
+the opening of account. 
+ 
+4) Documents Required for Other than Individual Accounts: For all accounts other than individuals’ 
+accounts, list of the required documents is given in Annexure – H. 
+ 
+5) Verification of the Identity:  Before opening of accounts or starting operation in the accounts, MFBs 
+shall verify CNIC /NICOP/ POC from the Verisys of NADRA. Where the identity documents are other than 
+CNIC/NICOP/ POC, MFBs shall make all efforts to verify the identity document from the concerned 
+issuing authority /from reliable, independent source documents, database or information.  
+ 
+MFBs are allowed to provisionally open accounts (restricting debits) during the verification process of 
+CNIC subject to; 
+ 
+i. 
+Completion of verification within five (05) working days from the date of application of 
+account opening, and  
+ii. 
+Management of related risks effectively during the period. 
+ 
+Where it is difficult to establish identity of the prospective customer or verification of their identity, 
+MFBs should not operate the account.  
+ 
+6) Micro-Saving Accounts: These are privileged savings accounts offered only to low income and poor 
+persons who are traditionally excluded from formal financial system. These accounts can be opened 
+after establishing identity of customer only, and upon approval of the branch manager. Balance limits 
+for such accounts shall, however, not exceed Rs. 100,000.  
+ 
+MFBs shall ensure proper systems and controls to avoid misuse of this relaxation. MFBs shall also 
+conduct regular internal audit to review and assess effectiveness of the relevant controls. If there arise 
+any doubt on the identity of the micro-saving account holder or a suspicion of money laundering and/or 
+terrorist financing, MFB shall verify identity document of such account holders from NADRA.  
+ 
+MFBs shall also encourage women in remote areas to open accounts for saving and other purposes. If 
+women in remote areas do not possess identity cards, MFB shall guide them for obtaining their own 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+Computerized National identity Cards (CNIC). Meanwhile, MFBs may open their micro-saving accounts, 
+on the basis of attested copy of CNIC of her father/husband, for six months only. MFBs shall also obtain 
+any document related to account holder e.g., Nikah Nama, Birth Certificate, Driving License, Educational 
+Degree/ Certificate, Pension Book or Insurance Certificate.  
+ 
+7) Identification and Verification of Beneficial Owner: MFBs are required to identify the beneficial owner 
+and take all reasonable measures to verify the identity of the beneficial owner during the course of 
+establishing a business relationship or conducting transaction. 
+ 
+8) Anonymous Accounts: MFBs shall not allow opening of anonymous or numbered accounts or accounts 
+in the names of fictitious persons.  
+ 
+9) Purpose of Account / Relationship: MFBs shall obtain from the customer intended purpose of account 
+and likely sources of fund before starting any business relationship or opening of an account. Personal / 
+individual accounts shall not be allowed to be used for charity purpose / collection of donation. 
+ 
+10) On-Going Customer Due Diligence: Ongoing Customer Due Diligence is an essential aspect of effective 
+KYC/CDD procedures and applies to all customers to whom the MFB is offering any type of service(s). 
+Ongoing due diligence includes monitoring and scrutiny of transactions undertaken throughout the 
+course of business relationship to ensure that the transactions being conducted are consistent with the 
+institution’s knowledge of the customer, purpose of account, their business and risk profile, and where 
+necessary, the source of funds. MFBs shall keep on conducting customer due diligence at reasonable 
+periodic intervals or on significant occasions throughout the business relationship, e.g.; 
+ 
+i. 
+Nature of product and services requested by the customer changes. 
+ii. 
+Significant transaction or series of transactions take places. 
+iii. 
+Significant change occurs in the way customer operates his account. 
+ 
+MFBs shall ensure that the documents, data or information collected under CDD process is kept up-to-
+date and relevant by undertaking reviews of existing records. 
+11) Enhanced Due Diligence: It is possible that certain customers/transactions may pose high risk to MFBs. 
+The high risk factors must be defined in the KYC/CDD policy which may include the description of such 
+customers, products, transaction channels and geographic elements. In particular, following shall also be 
+considered for enhanced due diligence; 
+ 
+i. 
+Having suspicion of money laundering or terrorist financing. 
+ii. 
+Customers belong to countries where KYC and money laundering regulations are lax,or 
+those with links to offshore tax haven.  
+iii. 
+Customers are in cash based businesses and deal in high-value items and where customers 
+have high net worth with no clearly identifiable source of income, etc.  
+iv. 
+MFBs have reason to believe that the customer has been refused banking facilities by 
+another bank / DFI / MFB.  
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+v. 
+While establishing business relationship with politically exposed persons (PEPs), their family 
+members and close associates. 
+vi. 
+While establishing business with Non-Governmental Organizations (NGOs) / Not-for-Profit 
+Organizations (NPOs) and Charities. 
+vii. 
+Opening of correspondent banks’ accounts, and taking appropriate measures to obtain all 
+relevant information about the correspondent bank.  
+viii. 
+The customer resides in a country which does not comply with  FATF Recommendations. 
+ 
+In case of PEPs and correspondent banking, MFBs are required to obtain senior management approval 
+for establishing or continuing business relationship. 
+12) Walk in Customer:  
+ 
+i. 
+MFBs shall obtain copy of CNIC (regardless of threshold) for online deposits/fund transfers 
+conducted by walk-in-customer. 
+ii. 
+MFBs shall obtain CNIC from walk-in customers conducting cash transactions above Rupees one 
+million whether carried out in a single operation or in multiple operations that appears to be 
+linked. 
+iii. 
+For rest of transactions, identification requirements may be defined above an appropriate limit 
+by MFBs themselves in their KYC/CDD policies. 
+ 
+13) Government Accounts: MFBs shall not allow opening of Government accounts in personal names of 
+individuals. The Government account shall be opened on production of special resolution/authority 
+from the concerned department duly endorsed by the Ministry of Finance (MoF) or Finance Department 
+of the concerned (Provincial, Federal etc.) Government. This requirement is not applicable on 
+institutions which do not fall under the purview of MoF. Further, Government accounts shall be 
+operated by the designated officer(s) only. 
+ 
+14) Public Awareness Campaign on Requirement of CNIC: MFBs shall encourage customer services 
+officers/tellers and other MFB staff, directly in touch with the customer, to create awareness on 
+requirement of CNIC and shall facilitate/guide them to obtain CNIC.  
+ 
+15) New Technology: MFBs shall pay special attention to any money laundering threat that may arise from 
+new technologies that might favor anonymity and take measures, if required, to prevent their use in 
+money laundering schemes. Measures for managing risks should include specific and effective CDD 
+procedures that apply to non-face-to-face customers. In particular, MFBs should have policies and 
+procedures in place to address anonymity risk associated with non-face-to-face customers/business 
+relations/transactions. These policies and procedures should apply when establishing customer 
+relationship and when conducting ongoing due diligence. 
+ 
+16) Non-Satisfactory KYC / CDD: In case, MFB is not able to satisfactorily complete the required CDD 
+measures, account shall not be opened or any service provided and consideration should be given if the 
+circumstances are suspicious so as to file an STR. If CDD of an existing customer is found unsatisfactory, 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+the relationship should be treated as high risk and reporting of suspicious transaction be considered as 
+per law, and circumstances of the case. 
+ 
+Regulation M - 2: Record Retention  
+ 
+The records of transactions and identification data should be maintained by MFBs in systematic manner with 
+exactness of period of preservation. For the purpose, following minimum requirements shall apply; 
+i. 
+Identification Record: MFBs shall keep record on the identification data obtained through the 
+Customer Due Diligence (CDD) process, account files and business correspondence for at least 
+Ten (10) years following the termination of the business relationship. 
+ 
+ii. 
+Transactions Record: MFBs shall maintain all necessary records on transactions, both domestic 
+and International, for at least Ten years following completion of the transaction. Such record 
+must be sufficient for reconstruction of individual transactions so as to provide, if necessary, 
+evidence for investigation or prosecution of criminal activity.  
+ 
+The examples of the necessary components of transaction record may include: customer’s name 
+(beneficiary’s name), address, nature and date of transaction, type and amount of transaction, currency 
+involved, type and identification of any account involved in the transaction. 
+ 
+The identification and transactions record shall be made available to SBP or other domestic authorities that are 
+competent, under law, to obtain this information and record. 
+MFBs shall, however, retain records for longer period where transactions and / or relationship relate to any 
+investigation, litigation or required by the court of law or by any other competent authority. 
+Moreover, the transactions record may be maintained in paper or electronic form or on micro film, being 
+admissible as evidence in a court of law. 
+ 
+ 
+Regulation M - 3: Reporting of Currency/Cash Transactions (CTR) 
+ 
+ 
+All MFBs shall adhere to the provision of Currency/Cash Transactions Report under the Anti-Money Laundering 
+Act, 2010 and report currency/cash transactions to the Director General of the Financial Monitoring Unit (FMU). 
+The Currency/Cash Transactions Guidance Notes and Reporting Form are available on the official website of 
+FMU. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+Regulation M - 4:  Reporting of Suspicious Transactions (STR) 
+ 
+If an MFB suspects or have reasonable grounds to suspect that funds are the proceeds of a criminal activity, or 
+are related to terrorist financing, it shall report within seven days its suspicions to the Director General, Financial 
+Monitoring Unit (FMU). The report should be on the format prescribed by FMU.  
+MFBs, their Directors, Officers and Employees are strictly prohibited from disclosing (tipping-off) the fact that an 
+STR or related information is being filled with the FMU.  
+The 
+red 
+flag 
+indicators 
+are 
+available 
+in 
+AML/CFT 
+Regulations 
+for 
+Banks 
+/ 
+DFIs 
+at 
+http://www.sbp.org.pk/l_frame/aml.htm 
+ 
+Regulation M - 5: Implementation of obligations under UNSC Resolutions 
+ 
+MFBs shall ensure strict compliance of legal and regulatory requirements including freezing actions and 
+prohibition of dealing with designated persons and entities as per the Statutory Notifications issued by Federal 
+Government from time to time under United Nations (Security Council) Act, 1948 to apply certain measures for 
+giving effect to the decisions of the relevant United Nations Security Council resolutions, and, notifications 
+issued under Anti Terrorism Act, 1997. 
+ 
+ 
+ 
+ 
+ 
+25 
+OPERATIONS (O) 
+ 
+Regulation O – 1:   Cash Payments Outside the Authorized Place of Business 
+ 
+The MFBs shall not undertake any business of cash payments at any place other than the authorized place of 
+business. However, this rule shall not apply in case of mobile banking and branchless banking where 
+permission has been obtained from the State Bank. 
+ 
+Regulation O – 2:  Reconciliation/Settlement of Account Entries 
+ 
+The entries booked in the Inter-Branch Accounts and/or Suspense Account must be reconciled/cleared and 
+taken to the proper heads of accounts within a period of 30 days from the date entry is made in the 
+aforementioned accounts.  
+The above instruction shall not apply on the entries related to outstanding amount of the following, which 
+may either be recorded in their respective head of accounts (1-7) or classified in other assets (8-9); 
+i. 
+Entries made on account of tax at source. 
+ii. 
+Advance tax paid.  
+iii. 
+Tax recoverable.  
+iv. 
+Advance expense on new branches.  
+v. 
+Advance rent paid.  
+vi. 
+Legal expenses.  
+vii. 
+Mark-up/service charge recoverable.  
+viii. 
+Premium on Crop Loan Insurance Scheme (CLIS) receivable from Government of Pakistan (GoP). The 
+outstanding amount shall, however, be reconciled/cleared immediately on reimbursement of 
+premium amount from the GoP.  
+ix. 
+Frauds and forgeries, cash theft and looted, payments against equity, and contributory payments of 
+capital nature to be capitalized at a later stage. The exclusion of entries relating to frauds and 
+forgeries, cash theft and looted will, however, be subject to the condition that the same are cleared 
+immediately on receipt of insurance claims.  
+ 
+MFBs shall institute an effective internal control system for the operations of Inter-Branch and Suspense 
+Accounts, which ensures reconciliation/clearing of the entries in shortest possible time and also clearly fixes 
+the responsibilities on the official(s) for neglecting the timely reconciliation and clearance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+Regulation O – 3:  Deposits 
+ 
+MFBs shall develop appropriate products for attracting deposits and encouraging savings, especially small 
+savings from low-income groups. They shall facilitate both existing depositors for convenient/smooth 
+operations of their accounts and potential depositors at the time of account opening. MFBs shall also ensure 
+adequate training of their concerned staff to improve the quality of their deposit services. MFBs shall ensure 
+to meet requirements stipulated for deposit operations within six months of issuance of these regulations. 
+A. Basic /Micro Savings Account 
+In order to mobilize savings especially from low income individuals, all MFBs shall offer a basic or micro 
+savings account. 
+B. Opening of Deposit Accounts 
+i. 
+MFBs shall entertain all requests to open deposit accounts by persons who meet the 
+requirements laid out in these Prudential Regulations, other instructions issued by the State 
+Bank, and MFBs' own policies. 
+ii. 
+MFBs must apprise potential depositors with the different types of accounts and options 
+available to them.  
+C. Service Charges and Minimum Balance Requirements 
+For all types of profit and loss deposit accounts (except those with added services): 
+i. 
+MFBs shall not levy service charges for their deposit services.  
+ii. 
+There shall be no minimum balance requirements. However, MFBs may require an initial balance not 
+exceeding Rs. 100/- to open an account. 
+D. Statement of Account 
+MFBs shall provide at least half yearly statements of account for all accounts having an average daily balance 
+of Rs. 10,000/- and above. MFBs may issue statements of account either through surface mail (registered or 
+courier) or other appropriate means. For accounts below average daily balance of Rs. 10,000/-, MFBs shall 
+develop an appropriate policy for issuing statements of account to the concerned depositors. 
+MFBs shall make all reasonable efforts to update the customers’ records including CNIC of their account 
+holders if statements of account are returned / undelivered. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+Regulation O – 4:  Consumer Protection 
+ 
+MFBs are required to implement following provisions within six months of issuance of these regulations. 
+A. 
+Financial Literacy  
+Since the customers of MFBs often lack awareness about their rights and obligations, each MFB shall 
+therefore develop a mandatory basic financial literacy program for them. The program at minimum shall 
+cover charges/fees, interest rate calculation, repayment schedules, customers’ obligations and other terms 
+and conditions of all financial services (loan, deposit, insurance, payments etc.) that MFB offers. In addition, 
+the program will also educate customers about how to lodge a complaint and track the resolution of 
+complaints.    
+B. 
+Transparency and Disclosure 
+While extending any service to a customer, the MFBs shall lay out detailed terms and conditions which must:  
+i. 
+Encompass the repayment schedule, if establishing a lending relationship, which discloses 
+the period and amounts to be paid as principal, mark-up, and fees. The schedule must clearly 
+disclose the Annualized Percentage Rate (APR). 
+ii. 
+Be drawn up in English and Urdu or any other regional language considered to be 
+appropriate in view of clients’ ability to understand.  
+iii. 
+Be displayed at a prominent place such as the entrances or windows of branches. 
+iv. 
+Include details of potential factors that may induce changes in fees and service charges.  
+v. 
+Be read-out, copied and provided to customers after they are signed. 
+vi. 
+Not be discriminatory on the basis of gender. 
+In addition, MFBs shall regularly disclose the expected APR on deposits to their customers.   
+C. 
+Complaint Redressal Cell 
+Each MFB shall establish a customer complaint cell with effective internal processes for logging, 
+acknowledging, assessing, and taking timely action in response to complaints received from customers. While 
+defining the scope and activities of the cell, the MFB shall give due consideration to factors such as the 
+complexity of its business, its range of products, the nature and size of its operations, the profile of its 
+customers, and so forth. 
+MFBs shall define timelines for the resolution of complaints. Moreover, management shall make a quarterly 
+review of the complaints processed (outstanding and settled) by the cell. If a complaint remains unresolved 
+beyond the standard time, the MFB shall periodically report to its CEO about the nature of the unresolved 
+complaint along with reasons for the delay. Furthermore, MFBs shall identify complaints of a recurring nature 
+for immediate corrective action. 
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+To facilitate the customers in lodging complaints, MFBs shall place a complaint box in each branch that is 
+located at place which is easily identifiable and accessible to all customers, e.g. on a main customer service 
+counter. 
+D. 
+Collection Practices 
+Each MFB shall develop a code for debt collection practices duly approved by its BoD. The code shall be 
+inclusive of at least the following: 
+i. 
+Customers must be pre-informed in writing about the consequences of non-repayment including 
+legal remedies available to the MFB.  
+ 
+ii. 
+Only lawful and acceptable business language and professional attitude should be adopted in 
+establishing contact with clients. 
+iii. 
+MFBs should not harass customers’ family members. However, necessary information could be 
+obtained from family, friends, or third parties if the customer is not in contact. 
+ 
+Regulation O – 5:  Submission of Quarterly Returns 
+ 
+The MFBs shall submit their quarterly data online on prescribed Quarterly Data File Structure (DFS) under 
+Reporting Chart of Accounts (RCOA) through Data Acquisition (DAP) Portal maintained at State Bank of 
+Pakistan as per laid down instructions. 
+ 
+Regulation O – 6:  Window Dressing 
+ 
+MFBs shall refrain from adopting any measures or practices whereby they would either artificially or 
+temporarily show an ostensibly different position of MFBs’ accounts as given in their financial statements. 
+Particular care shall be taken in disclosing their deposits, minimum capital requirement, non-performing 
+loans/assets, provisioning, profit, inter-branch and inter-bank accounts, etc.  
+ 
+Regulation O – 7:  Permission Regarding Receipt of Grants 
+ 
+MFBs shall ensure obtaining prior permission from SBP before receiving any type of grants.  Any such 
+requests and /or clarifications shall be addressed to Director, Agricultural Credit and Microfinance 
+Department, State Bank of Pakistan, Karachi. 
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+Regulation O – 8:  Reporting to Credit Information Bureau (CIB) 
+ 
+MFBs shall: 
+i. 
+Provide factual and accurate data to SBP on the format prescribed from time to time. The said data 
+/information shall be submitted to SBP on a monthly basis but not later than 10th of every month 
+following the month to which the CIB data relates. 
+ 
+ii. 
+Sign an agreement with SBP on the prescribed format, in order to avail online facility to obtain credit 
+worthiness reports, the specimen of which can be obtained from concerned SBP department, MFBs 
+shall be required to. The applicant MFB will be connected online after signing of the agreement and 
+payment of prescribed joining fee to SBP. After completion of above formalities, SBP shall inter alia 
+provide necessary guidelines, software, user IDs for authorized persons to the MFBs. The State Bank 
+does not entertain manual requests for issuance of credit reports. 
+ 
+iii. 
+Submit CIB data of their borrowers on the prescribed formats online through their authorized 
+persons. 
+ 
+iv. 
+Invariably report in writing to CIB the subsequent clearance of overdues/defaults within three 
+working days from the date of such repayment/settlement.   
+ 
+v. 
+Reflect the detail of re-payment/settlement of overdues/defaults made subsequent to the reporting 
+date in the CIB report by way of following notes in the remarks column of the CIB report on the basis 
+of a written letter from the concerned MFB confirming that the overdues/defaults amount has been 
+cleared by the borrower on a specific date: “The “MFB’s Name” has subsequently reported clearance 
+of overdues/defaults of Rs. …… on …… (date).”  
+ 
+vi. 
+Share their customers’ data with private CIB(s) subject to development of comprehensive customer 
+protection and confidentiality guidelines duly approved by their Board of Directors. Further, express 
+customer consent is mandatory for sharing customer data with other institutions/ CIB and the duty 
+of maintaining confidentiality will remain with the Microfinance Bank. 
+ 
+ 
+ 
+ 
+30 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURES
+ 
+ 
+ 
+ 
+32 
+Annexure – A 
+Instructions on Calculation of Capital Adequacy Ratio (CAR) 
+1. Requirements as to calculation of CAR: 
+1.1. MFBs shall categorize their capital as Core Capital and Supplementary Capital. The components of 
+core & supplementary capital and the risk weights are provided in the annexed Table A and B 
+respectively. 
+1.2. The inclusion of supplementary capital for calculating Capital Adequacy Ratio shall be limited to 50% 
+of the Core Capital. 
+2. 
+Computation of Supplementary Capital 
+2.1. General Provisions or General Reserves for loan losses shall include only such provisions which are 
+not created against identified losses and are as such freely available to meet unidentified losses. 
+These provisions or reserves will be limited to maximum of 1.25% of total Risk Weighted Assets. 
+2.2. Revaluation Reserves shall be the Reserves created by revaluation of fixed assets and equity 
+instruments held by the MFB. The assets and investments must be prudently valued fully taking into 
+account the possibility of price fluctuations and forced sale. Revaluation reserves reflecting the 
+difference between the book value and the market value will be eligible up to 50% for treatment 
+under Supplementary Capital subject to the condition that the reasonableness of the revalued 
+amount is duly certified by the external auditors of the MFB. 
+2.3. Sub-ordinate debt shall qualify for inclusion in the Supplementary Capital after obtaining prior 
+written approval from the SBP. Such approval will be granted by SBP on case to case basis subject to 
+fulfillment of the following conditions: 
+a) Sub-ordinate debt can be raised from any person or entity, preferably from the sponsors, in 
+local currency only. 
+b) Rate of profit will be decided by the MFBs, subject to SBP’s clearance. 
+c) The loan should be un-secured, plain vanilla and sub-ordinate as to payment of principal and 
+profit to all other indebtedness of the MFB including deposits. 
+d) The loan should have original fixed term to maturity of minimum 5 years. The loan should 
+not be repayable before the agreed repayment date without approval of the SBP. Neither the 
+interest nor the principal may be paid even at maturity if such payments mean that the MFB 
+falls below or remain below the capital adequacy ratio. 
+e) Any other restrictions imposed by the State Bank of Pakistan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+MICROFINANCE BANK 
+CAPITAL ADEQUACY RATIO AS ON  XX.XX.XXXX 
+Table-A 
+Sr. No. 
+ITEMS 
+AMOUNT 
+1 
+Core Capital 
+ 
+ 
+1.1 
+Fully Paid-up Capital 
+ xxx  
+ 
+1.2 
+Balance in Share Premium Account 
+ xxx  
+ 
+1.3 
+Reserve for Bonus Shares 
+ xxx  
+ 
+1.4 
+General Reserves 
+ xxx  
+ 
+1.5 
+Un-appropriated Profit/(Loss) 
+ xxx  
+ 
+1.6 
+Sub-Total (1.1 to 1.5) 
+  xxxxxx 
+ 
+Less: 
+  
+ 
+1.7 
+Intangible Assets 
+         xxx 
+ 
+1.8 
+Shortfall in Provision required against Classified Assets. 
+xxx       
+ 
+1.9 
+Sub-Total (1.7 to 1.8) 
+(xxxx) 
+ 
+1.10 
+Eligible Core Capital (1.6-1.9) 
+ 
+2 
+Supplementary Capital 
+ 
+ 
+2.1 
+Freely available General Provisions or reserves for loan losses – 
+up-to maximum of 1.25% of Risk Weighted Assets 
+ 
+ 
+2.2 
+Revaluation reserves – eligible up-to 50%  
+ 
+ 
+2.3 
+Sub-ordinated debt (up-to 50% of core capital)  
+ 
+ 
+2.4 
+Sub-Total (2.1 to 2.3) 
+ 
+3 
+Total Capital (1.10 + 2.4) 
+ 
+4 
+Capital Adequacy Ratio 
+ 
+ 
+4.1 
+Risk Weighted Assets (as per Table B) 
+xxxx 
+ 
+4.2 
+Minimum Capital Requirement (15% of Total Risk Weighted 
+Assets as per item 4.1) 
+xxx 
+ 
+4.3 
+Total Capital Held  (As At Item 3 Above) 
+xxx 
+ 
+4.4 
+Capital Surplus/(Shortfall) – (4.3 - 4.2) 
+xxx 
+ 
+4.5 
+Capital Adequacy Ratio (4.3 / 4.1x 100) 
+xxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33 
+RISK-WEIGHTED ASSETS ON-BALANCE SHEET ITEMS 
+ 
+Table-B 
+S.No. 
+ITEMS 
+BOOK 
+VALUE 
+RISK 
+WEIGHT% 
+ADJUSTED 
+VALUE 
+1 
+Cash 
+ 
+0% 
+ 
+ 
+  
+  
+2 
+Balances with Central Banks: 
+  
+ 
+2.1   With State Bank of Pakistan 
+0% 
+ 
+  
+  
+3 
+Balances with Banks 
+  
+ 
+3.1    With Scheduled Banks in Pakistan 
+20% 
+ 
+  
+  
+4 
+Investments in: 
+  
+ 
+4.1   Treasury Bills 
+0% 
+ 
+4.2   Federal / Pakistan Investment Bonds 
+0% 
+ 
+4.3   Other securities of Federal Government 
+0% 
+ 
+4.4   Marketable Securities (TFCs / Mutual Funds) 
+100% 
+ 
+4.5  Other Investments (TDRs of Banks/MFBs) 
+20% 
+ 
+  
+  
+5 
+Loans & Advances  
+  
+ 
+(Less Cash margin and Govt. Securities held) 
+  
+ 
+  
+ 
+ 
+5.1  Loans guaranteed by Federal Govt./ SBP 
+0% 
+ 
+5.2  Microcredit 
+100% 
+ 
+5.3  Loans fully secured by mortgage of 
+residential or commercial property 
+ 
+50% 
+ 
+5.4  Staff loans 
+0% 
+ 
+  
+  
+6 
+Fixed Assets (net of accumulated depreciation) 
+100% 
+ 
+  
+  
+7 
+Assets deducted from capital: 
+  
+ 
+  
+ 
+ 
+7.1  Intangible assets 
+0% 
+ 
+7.2  Unconsolidated investment in subsidiary 
+companies engaged in micro financing activities 
+0% 
+ 
+  
+  
+8 
+Other Assets 
+  
+ 
+8.1   Advance tax 
+0% 
+ 
+8.2    Deposits & prepayments 
+100% 
+ 
+8.3   Accrued income on Advances 
+100% 
+ 
+8.4   Accrued income on deposits accounts 
+100% 
+ 
+8.5   Accrued income on investments - PIBs/T-Bills 
+0% 
+ 
+8.6   Accrued income on investments – Others 
+100% 
+ 
+8.7   Other receivable 
+100% 
+ 
+TOTAL 
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+Annexure – B 
+MICROFINANCE BANK 
+*Bi-Weekly Statement of Affairs as at Close of Business on ----- 
+ 
+Rupees in ‘000 
+LIABILITIES: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AMOUNT 
+1)  Demand Liabilities 
+a) Deposits (General) 
+xxxx 
+ 
+b) Deposits From Banks & Financial Institutions 
+xxxx 
+ 
+c) Borrowings From Banks And Financial Institutions 
+xxxx 
+ 
+ 
+(Other Than Call Money) 
+ 
+ 
+d) Other Demand Liabilities 
+xxxx 
+xxxx 
+ 
+2)  Time Liabilities 
+a) Deposits (General) 
+xxxx 
+ 
+b) Deposits From Banks And Financial Institutions 
+xxxx 
+ 
+c) Borrowings From Banks And Financial Institutions 
+xxxx 
+ 
+d) Other Time Liabilities 
+xxxx 
+xxxx 
+ 
+3)  Borrowings From The State Bank Of Pakistan 
+a) Against Promissory Notes 
+xxxx 
+ 
+b) Against Approved Securities 
+xxxx 
+ 
+c) Other Borrowings 
+xxxx 
+xxxx 
+ 
+4)  Money At Call And Short Notice 
+ 
+ 
+ 
+xxxx 
+5)  Borrowing from Banks Abroad 
+ 
+ 
+ 
+xxxx 
+6)  Borrowings From Government of Pakistan 
+ 
+ 
+xxxx 
+7)  Capital (Paid Up)/Capital Fund And Reserves               
+ xxxx 
+8)  Other Liabilities (Excluding Contra Items) 
+xxxx  
+Xxxx 
+9)   Total Liabilities 
+ 
+Xxxx 
+ 
+Assets: 
+1)  Cash 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xxxx 
+2)  Balance With 
+a) State Bank of Pakistan 
+xxxx 
+ 
+b) National Bank Of Pakistan 
+xxxx 
+ 
+c) Other Financial Institutions 
+xxxx 
+xxxx 
+ 
+3)  Money At Call And Short Notice 
+ 
+ 
+ 
+ 
+ 
+xxxx 
+4)  Advances 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+xxxx 
+ 
+ 
+ 
+ 
+ 
+35 
+5)  Bills Purchased And Discounted 
+ 
+ 
+ 
+ 
+ 
+xxxx 
+6)  Investment In Securities And Shares  
+ 
+ 
+ 
+ 
+xxxx 
+a. 
+PIBs 
+ 
+ 
+ 
+ 
+ 
+ 
+xxxx 
+b. 
+T-Bills  
+ 
+ 
+ 
+ 
+ 
+xxxx  
+ 
+c. 
+Other Approved Securities 
+ 
+ 
+ 
+xxxx 
+d. 
+Shares  
+ 
+ 
+ 
+ 
+ 
+xxxx 
+e. 
+Others (Specify) 
+                
+ 
+ 
+ xxxx 
+ 
+ 
+7)  Other Assets (Excluding Contra Items) 
+ 
+ 
+ 
+ 
+xxxx 
+8)  Total Assets               
+ 
+ 
+ 
+ 
+ 
+ 
+   xxxx 
+ 
+Note: The Unencumbered approved securities held for liquidity purposes were: 
+ 
+ 
+ 
+ 
+ 
+Authorized Signature 
+Name and Designation 
+ 
+ 
+ 
+* To be prepared once in every two weeks as at close of business on alternate Friday/Saturdays (close of 
+week) 
+ 
+ 
+a. PIBs 
+xxxx 
+b. TBs 
+xxxx 
+c. Others (specify) 
+xxxx 
+d. Total 
+xxxx 
+ 
+ 
+ 
+ 
+ 
+36 
+Annexure – B - 1 
+Bi-weekly (Fortnightly) Statement of Cash Reserve Requirement(CRR)  
+as at Close of Business on ------ 
+ 
+ 
+Rs. In '000' 
+ 
+1. Demand Deposits, and Time Deposits of Less than One Year 
+Amount 
+ 
+ 
+   1.1 All current deposits including customers, banks  and other financial 
+institutions  
+xxx 
+ 
+ 
+ 
+   1.2 All savings deposits including customers, banks and other financial 
+institutions 
+xxx 
+ 
+ 
+ 
+1.3 Special notice/call deposits including customers, banks  and other financial 
+institutions 
+xxx 
+ 
+ 
+ 
+1.4 Fixed deposits including customers, banks  and other financial institutions 
+with tenor of less than one year 
+xxx 
+ 
+ 
+ 
+1.5 Overdue fixed deposits including those of customers, banks, other financial 
+institutions 
+xxx 
+ 
+ 
+ 
+1.6 All other deposits payable to public on demand 
+xxx 
+ 
+ 
+ 
+1.7 Mark- up/ Interest accrued on all above accounts 
+xxx 
+ 
+ 
+2. Total Deposits (1.1 to 1.7) 
+ 
+xxxx 
+ 
+3. Required CRR (5% of Total Deposits as per item # 2) 
+ 
+xxx 
+ 
+4. Actual Cash Reserve as of ----- 
+ 
+xxx 
+ 
+5. Surplus / (Deficit)  
+  
+xxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+Annexure – B - 2 
+ 
+Bi-weekly (Fortnightly) Statement of Statutory Liquidity Requirement (SLR) 
+ 
+as at Close of Business on ----- 
+ 
+ 
+Rs. In '000' 
+1. 
+Demand Liabilities, and Time Liabilities of Less than One Year 
+Amount 
+ 
+1.1 
+All current deposits including customers, banks  and other financial 
+institutions  
+ 
+xxx 
+ 
+ 
+1.2 
+All savings deposits including customers, banks and other financial 
+institutions 
+ 
+xxx 
+ 
+ 
+1.3 
+Special notice/call deposits including customers, banks  and other financial 
+institutions 
+ 
+xxx 
+ 
+ 
+1.4 
+Fixed  deposits including customers, banks  and other financial institutions 
+with tenor of less than one year 
+ 
+xxx 
+ 
+ 
+1.5 
+Overdue fixed deposits including those of customers, banks, other financial 
+institutions 
+ 
+xxx 
+ 
+ 
+1.7 
+All other deposits payable to public on demand 
+ 
+xxx 
+ 
+ 
+1.8 
+All loans and borrowings with tenor of less than one year (except money at 
+call & short notice, other interbank borrowings, and the loans exempted 
+under section 18 of the Microfinance Institutions Ordinance, 2001) 
+ 
+xxx 
+ 
+ 
+1.9 
+Mark- up/ Interest accrued on all above accounts 
+ 
+xxx 
+ 
+ 
+1.10' 
+Other Liabilities: 
+ 
+ 
+ 
+ 
+ 
+i 
+Unclaimed dividend/dividend payable 
+xxx 
+ 
+ 
+ 
+ 
+ii 
+Sundry deposit accounts 
+xxx 
+ 
+ 
+ 
+ 
+iii 
+Bills payable  
+xxx 
+ 
+ 
+ 
+ 
+iv 
+Any  other miscellaneous liabilities payable on demand 
+xxx 
+ 
+ 
+ 
+Sub Total (i to iv) 
+ 
+xxx  
+2. 
+Total Liabilities (1.1 to 1.10) 
+ 
+ 
+xxxx 
+3. 
+Required SLR (10% of total liabilities as per item # 2) 
+ 
+ 
+xxx 
+4. 
+Actual Liquidity Reserve as of ---- 
+ 
+ 
+xxx 
+5. 
+Surplus / (Deficit) 
+  
+  
+xxx 
+ 
+ 
+ 
+ 
+ 
+38 
+Annexure – C 
+ 
+UNDERTAKING 
+ 
+I ----------------------------- S/O, D/O, W/O ------------------------------- holder of CNIC ------------------------, undertake that 
+the detail of my existing exposure from the “Entire Banking & Microfinance Sector” as on--------------- is as 
+under: 
+ 
+Details of Loans: 
+Sr. # 
+Name of the MFB/MFI/Bank /other 
+financial Institutions 
+Type of Loan 
+Outstanding Amount 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Exposure 
+ 
+ 
+Signature:____________________________ 
+Name of Applicant: ____________________ 
+CNIC # _____________________________ 
+Date: _______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39 
+Annexure – D 
+ 
+Fit & Proper Criteria for Members of Board of Directors, President / Chief Executive 
+Officer and other Key Executives of Microfinance Banks (MFBs) 
+The competence of the Board Members and President/CEO is critically important for success of any 
+corporate entity generally and financial institutions, being highly leveraged outfits, particularly. The Board 
+Members and the President/CEO of banks and financial institutions are custodians of not only the 
+shareholders’ money but also the public funds placed with them as deposits. The Microfinance Banks are 
+formal financial institutions eligible to extend a variety of financial services to the poor including savings and 
+deposits. The MFBs’ Board Members and the President/CEO should therefore, be persons of established 
+integrity and track record and have the necessary capacity, experience and exposure to manage the bank and 
+public funds. The following criteria has therefore, been developed for MFBs’ Board Members and the 
+President/CEO to ensure that the skill mix of the Board is compatible with the mission, vision and objectives 
+of the MFBs and that the President/CEO has requisite background/expertise and relevant experience to run 
+and manage the MFBs:   
+1. Integrity, Honesty and Reputation 
+The MFBs while selecting/recommending a person as Board Member shall ensure that he/she: 
+i) 
+Has not been convicted of any criminal offence, involved in any fraud/forgery, financial crime etc. 
+ii) 
+Has not been associated with any illegal activity especially relating to banking business. 
+iii) 
+Has not been in default of payment of dues owed to any financial institution and / or default in 
+payment of any taxes in an individual capacity or as Proprietor of a firm, Partner in a partnership 
+firm, Director, President or Chief Executive in any private or public limited company which has 
+defaulted in payment of its dues to financial institutions/tax authorities. 
+iv) 
+Has not been subject to any adverse findings or any settlement in civil/criminal proceedings 
+particularly with regard to investments, financial/business misconduct, fraud, formation or 
+management of a corporate body etc. 
+v) 
+Has not contravened any of the requirements and standards of regulatory system or the equivalent 
+standards or requirements of other regulatory authorities. 
+vi) 
+Has not been involved with a company/firm whose registration/license has been revoked or 
+cancelled or that has gone into liquidation. 
+vii) Has not been debarred from being the Chief Executive, Chairman or Director of a company. 
+2. Experience & Qualification 
+ This section shall apply separately for President/Chief Executive and Directors: 
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+2.1. For President / Chief Executive of MFBs: 
+The President/Chief Executive shall be a person having at least 10 years experience as a senior micro- 
+finance practitioner or as a senior banker, preferably below 55 years of age at the time of his 
+appointment. The minimum qualification for President/Chief Executive shall be graduation.  MFBs, 
+however, are encouraged to engage persons having professional and advanced qualifications in banking, 
+finance, economics, information technology etc. 
+2.2. For members of Board of Directors of MFBs: 
+While selecting/recommending the Board Members, the MFBs shall ensure that their Board Members 
+have necessary competence, qualification and experience to effectively undertake their responsibilities 
+as Board Members. The Boards shall comprise of persons having extensive experience in Microfinance, 
+Banking & Finance, Micro and Small Enterprises, Social Intermediation, Poverty Alleviation, Information 
+Technology etc. The appropriate skill mix may include:  
+a. Microfinance Practitioner(s) having at least 5 years experience in managing and administering 
+microfinance/ micro credit programs, social intermediation, women empowerment programs 
+etc. and; or 
+b. Senior banker(s) having at least 5 years experience at senior level in credit, operations, audit, 
+treasury etc and; or 
+c. Finance professional(s)/Business/Management Consultant(s) having at least 5 years post 
+qualification experience with reputed audit/business consulting firms etc. or 
+d. Development economist(s) having at least 5 years experience as an economist / program / 
+project officer in reputed national or international firms etc. and has managed/coordinated 
+different poverty alleviation programs/projects/research assignments and; or   
+e. Lawyer(s) with at least 10 years experience as an advocate in High Court or Supreme Court. 
+He/She shall not be associated with any microfinance bank as legal counsel/adviser or on the 
+payroll of a microfinance bank and; or 
+f. IT Professional(s) having at least 5 years experience with a reputed IT firm and /or experience of 
+developing/administering/managing IT systems in banks/microfinance banks/other financial 
+institutions and; or 
+g. Micro/small entrepreneur(s) having at least 10 years experience of successfully managing an 
+enterprise.  
+The above list, however, is not exhaustive and persons from other professions and fields, business and 
+industrial concerns, academia etc. may also be on MFB Board provided the overall skill mix of the Board 
+remains compatible with the objectives and functions of the MFB.  
+The minimum qualification for Board Members shall preferably be graduation or equivalent. However, 
+for persons having extensive and successful experience in microfinance, poverty alleviation, social 
+ 
+ 
+ 
+ 
+ 
+41 
+mobilization and development, women development, micro entrepreneur, business and industrial 
+concerns etc. the minimum qualification limit may be relaxed. 
+3. Track Record 
+i) 
+The person selected must have an impeccable track record in the companies he/she has served 
+either in the capacity of an employee or Director/Chief Executive or as Chairman 
+ii) 
+Has not been terminated or dismissed in the capacity of employee or Director/Chairman of a 
+company. 
+4. Conflict of Interest 
+i) 
+The Directors on the MFBs’ Board shall not be Director of any other Microfinance Bank. He/She shall 
+also not act as consultant, adviser or an employee of any other MFB. 
+ii) 
+He/She shall avoid conflict of interest in his/her activities with, and commitments to, other 
+organizations. 
+5. Others 
+No member/office bearer of any political party or member of Senate, National/Provincial 
+assembly/assemblies, and local bodies shall be appointed / recommended for appointment as Member of 
+Board of Director and/or President/Chief Executive Officer of MFBs.  
+6. Prior Clearance  
+The MFBs shall submit information about the Board Members and/or President/Chief Executive Officer to 
+State Bank, as per the proforma enclosed as Annexure - C, C-1 and C-2, for clearance before 
+selection/appointment or re-appointment/renewal of term of Directors and President/Chief Executive 
+Officer. 
+The appointment of other key executives will not require prior clearance of SBP. However, the MFBs while 
+appointing key executives must themselves ensure that the incumbent(s) qualify on the basis of (i) Integrity, 
+Honesty & Reputation, and (ii) Track record as laid down in Fit & Proper Test criteria of these regulations for 
+President/CEO and Board Members in letter and spirit. The information on appointment of key executive is 
+required to be forwarded to SBP on prescribed format at Annexure – C-3 within seven days of assumption of 
+the charge of the post by the incumbent. The information submitted may be checked during inspection by 
+Onsite Inspection Department of SBP.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+Annexure – E 
+PROFORMA - FITNESS & PROPRIETARY OF CEO & BOARD MEMBERS 
+ 
+ 
+Photo 
+1 x 1½ 
+ 
+ 
+1. Full Name ___________________________________________________________________________________ 
+ 
+2. If you have changed your name, state previous name and reasons for change ___________________________  
+_____________________________________________________________________________________________ 
+3. Parents and Spouse’s Names  
+ 
+Father’s Name:________________________________________________________________ 
+Mother’s Name: _________________________________________________________________ 
+Spouse’s Name: 
+___________________________________________________________________ 
+4. Date & Place of Birth:  ________________________________________________________________________ 
+ 
+5. Religion:   
+ 
+_________________________     
+ 
+6. N.I.C. Number-Old:  
+_________________________ 
+ 
+    C.N.I.C Number-New:      _____________________ 
+ 
+    Passport Number:    
+ 
+7. N.T.N.: 
+ 
+____________________             
+ 
+8. Education: 
+ 
+________________________________ 
+ 
+9. Relationship with other Sponsor Directors: 
+ ___________________________________________________ 
+ 
+10. Status of Directorship (shareholder or nominee):  ___________________________________________________ 
+ 
+11. Subscribed Amount: 
+________________________________ 
+ 
+12. Personal Net Worth (Certified copy of Wealth Statement may be enclosed):  ______________________________ 
+ 
+13. Occupation / Profession / Trade: _________________________________________________________________ 
+ 
+14. Present Designation, Department and official Address  
+ ______________________________________________________________________________________________ 
+ 
+15. Telephone Numbers: Res.___ __________________ Off: __________________ Mobile: ____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+43 
+16. Appointments held during the last five years (with dates):___________________________________________ 
+ 
+17. List of Companies / firms and their bankers in which sponsor directors and their family members viz. spouses, 
+children and parents serve(d) as directors, chief executive, partner, proprietor or major shareholders holding 5% or 
+more shares as per following format: 
+ 
+Name of the 
+Sponsors 
+Director and 
+his 
+/ 
+her 
+family 
+Members 
+Occupation/ 
+Profession/ 
+Trade 
+National Tax 
+Number 
+NIC 
+& 
+Passport 
+Number 
+Name 
+of 
+Associated 
+Company 
+/ 
+Firm position 
+held & % of 
+Shareholding 
+Name of the Financial Institution 
+along with the name of the 
+branch (account number) with 
+which firms / companies (as per 
+column 5) have dealings with: 
+1 
+2 
+3 
+4 
+5 
+6 
+ 
+National Tax 
+Number of 
+the 
+Corporate 
+Bodies 
+Nature 
+of 
+Business 
+Asset Base 
+as reflected 
+in the latest 
+Audited 
+Accounts of 
+the 
+Corporate 
+Bodies 
+Dividend 
+declared 
+in 
+the 
+immediately 
+preceding 
+three years 
+7 
+8 
+9 
+10 
+ 
+18. Declaration certificate pronouncing integrity, honesty, reputation and track record of the director as per guidelines 
+given in Annexure –B 
+ 
+19. Present Residential Address: 
+_________________________________________________________________________________________
+_________________________________________________________________________________ 
+20. Permanent Residential Address: 
+_________________________________________________________________________________________
+_________________________________________________________________________________________ 
+21. Names & Addresses of three respectable persons (not relatives) who have been closely acquainted with you during 
+last five years:________________________________________________________________ 
+________________________________________________________________________________ 
+ 
+ 
+Signature 
+ 
+ 
+ 
+ 
+ 
+44 
+Annexure – E - 1 
+QUESTIONNAIRE FOR ASSESSING “FIT & PROPER TEST” 
+Please answer the following questions by entering a tick () in the appropriate box. If answer of any 
+of these questions is in YES and need explanation, use a separate sheet with proper reference to the 
+question. 
+ 
+ 
+Yes 
+No 
+1. 
+ 
+ 
+Have you ever been convicted/ involved in any fraud/forgery, financial crime etc, 
+in Pakistan or elsewhere, or arebeing subject to any pending proceedings leading 
+to any conviction? 
+ 
+ 
+2. 
+ 
+Have you ever been associated with any illegal activity concerning banking 
+business, deposit taking, financial dealing and other business? 
+ 
+ 
+3. 
+ 
+Have you ever been subject to any adverse findings or any settlement in 
+civil/criminal 
+proceedings 
+particularly 
+with 
+regard 
+to 
+investments, 
+financial/business, misconduct, fraud, formation or management of a corporate 
+body etc by SBP, other regulators, professional bodies or government 
+bodies/agencies? 
+ 
+ 
+4. 
+4 
+Have you ever contravened any of the requirements and standards of regulatory 
+system or the equivalent standards or requirements of other regulatory 
+authorities? 
+ 
+ 
+5. 
+4 
+Have you ever been involved with a company or firm or other organization that 
+has been refused registration/license to carry out trade, business etc? 
+ 
+ 
+6. 
+ 
+Have you ever been involved with a company/firm whose registration/license has 
+been revoked or cancelled or gone into liquidation or other similar proceedings? 
+ 
+ 
+7. 
+ 
+Have you ever been debarred for being Chief Executive, Chairman, Director or 
+Sponsor shareholder of a company, especially financial institutions? 
+ 
+ 
+8. 
+ 
+Have you ever been dismissed/ asked to resign/resigned in Pakistan or elsewhere 
+in order to avoid legal or disciplinary action? 
+ 
+ 
+9. 
+ 
+Have you ever resigned from a professional or regulatory body in Pakistan or 
+elsewhere in order to avoid legal or disciplinary action? 
+ 
+ 
+10. 
+ 
+Have you ever been disqualified/ removed by regulators/Government bodies/ 
+agencies? 
+ 
+ 
+11. 
+ 
+Have you ever been in default of payment of dues owed to any financial 
+institution in individual capacity or as proprietary concern or any partnership firm 
+or in any private unlisted/listed company? 
+ 
+ 
+12. 
+ 
+Have you ever been in default of taxes in individual capacity or as proprietary 
+concern or any partnership firm or in any private listed/unlisted company? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+13. 
+ 
+Have you ever been associated as director and/or chief executive with the 
+corporate bodies whose corporate and tax record, including custom duties, 
+central excise and sales tax has been unsatisfactory? 
+ 
+ 
+14. 
+ 
+Have you entered into any agreement with any other person (natural or legal) 
+which will influence the way in which you exercise your voting rights or the way in 
+which you otherwise behave in your relationship with the authorized entity? 
+ 
+ 
+15. 
+ 
+Are you a director on the Board of Directors of any other Financial 
+Institution(s)/MFB (or its parent MFI, if any)? 
+ 
+ 
+16. 
+ 
+Are you a Chairman, Chief Executive, Chief Financial Officer, Chief Internal 
+Auditor, Research Analyst or Trader (by whatever name/designation called) of an 
+Exchange Company (firm or sole proprietorship), member of a Stock Exchange, 
+Corporate Brokerage House?  
+ 
+ 
+17. 
+ 
+Are you owning/controlling any Exchange Company or Corporate Entity?  
+ 
+ 
+18. 
+ 
+Have you been or are you working as consultant or adviser of the MFB (or its 
+parent MFI, if any) in which you intend to become a director? 
+ 
+ 
+19. 
+ 
+Are you employee of the MFB (or its parent MFI, if any)? 
+ 
+ 
+20. 
+ 
+Are you employee of a company/entity/organization where sponsor shareholders 
+of the MFB have substantial interest? 
+ 
+ 
+21. 
+ 
+Are you a member/office bearer of any political party or member of 
+Senate/National/Provincial Assembly/Local Body? 
+ 
+ 
+22. 
+ 
+If independent director, have you enclosed declaration in this behalf? 
+ 
+ 
+23. 
+ 
+Any other information that is relevant for the purpose of SBP and needs to be 
+mentioned? 
+ 
+ 
+       
+ 
+Signature 
+Name 
+Position 
+Date 
+ 
+_____________________ 
+_____________________ 
+_____________________ 
+ 
+_____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+46 
+Annexure – E - 2 
+AFFIDAVIT 
+(On Non-Judicial Stamp Paper) 
+ 
+I, 
+________________ 
+son/daughter/wife 
+of 
+_______________________ 
+adult, 
+resident 
+of 
+_______________________________________________________________________ 
+and 
+holding 
+CNIC/Passport No. ______________________________ do hereby state on solemn affirmation as under:-  
+a. that the deponent hereby confirm that the statement made and the information supplied in the 
+attached questionnaire and the Annexure-C1 and the answers thereof are correct and that there are 
+no other facts that are relevant for “Fit and Proper Test” 
+ 
+b. that the deponent undertake that the State Bank of Pakistan may seek additional information from 
+any third party it deems necessary in view of assessing “Fit and Proper Test”  
+ 
+c. that the deponent undertake to bring to the attention of the State Bank of Pakistan any matter which 
+may potentially affect my status as being someone fit and proper as and when it arise; and 
+ 
+d. that whatever is stated above is correct to the best of my knowledge and belief and nothing has been 
+concealed therefrom. 
+ 
+DEPONENT 
+The Deponent is identified by me 
+   Signature _______________________ 
+ADVOCATE 
+(Name and Seal) 
+  
+      Solemnly affirmed before me on this ______ day of _____________ at ______________ by the 
+Deponent above named who is identified to me by ________________, Advocate, who is known to me 
+personally. 
+Signature__________________________________________ 
+OATH COMMISSIONER FOR TAKING AFFIDAVIT 
+(Name and Seal) 
+ 
+ 
+ 
+ 
+ 
+47 
+                                                                                                       
+ 
+Annexure – E - 3 
+PROFORMA – FITNESS & PROPRIETARY OF KEY EXECUTIVES 
+Position and Grade held by the Executive  
+ 
+Date of assumption of current position (dd/mm/yyyy)  
+  
+Full Name  
+ 
+Father’s Name  
+ 
+Date of Birth  
+Place of Birth (City and Country)  
+Nationality (ies) 
+NTN Number  
+C.N.I.C. No  
+Passport No. 
+N.I.C. No (Old) 
+Telephone Number(s) 
+Mobile Number 
+Academic Qualification  
+Qualification 
+Name & Address of Degree 
+Awarding Institution 
+Date of Completion 
+Professional Qualification  
+Qualification 
+Name & Address of Degree 
+Awarding Institution 
+Date of Completion 
+ 
+ 
+ 
+Training(s); if any 
+Previous Employment(s) (date-wise) 
+Designation 
+  Department 
+Official Address 
+Telephone Number (s) 
+Has ever been convicted of any offence? 
+ Yes No 
+If yes, nature of offence and penalty imposed 
+Has ever been censured or penalized by any financial regulator (local or 
+foreign)? 
+Yes 
+No 
+If yes, reasons for adverse findings and amount of penalty imposed (if any) 
+Has ever been dismissed from employment? 
+Yes 
+No 
+If yes, name of the employer and reason for dismissal 
+ 
+(Signature of the concerned official) 
+ 
+ 
+ 
+(Signature and Stamp of Employer) 
+ 
+ 
+Photo 
+1 x 1½  
+ 
+ 
+ 
+ 
+ 
+ 
+48 
+                  Annexure – F  
+Guidelines on Internal Control and Risk Management 
+MFBs are exposed to several types and degree of risks depending on factors such as their size, complexity of 
+business activities, scale etc. Like other financial institutions, MFBs face credit, market, liquidity, operational, 
+compliance / legal /regulatory and reputational risks. To strengthen MFBs and increase their resilience to 
+resist financial and economic shocks, they shall ensure to have in place appropriate mechanisms/frameworks 
+for Business Continuity Management, Internal control, Risk Management and IT Security which 
+commensurate with their needs. 
+A – INTERNAL CONTROLS 
+These Guidelines on Internal Controls provide a minimum set of best practices for establishing and 
+implementing effective internal controls in Microfinance Banks (MFBs).  
+Internal Control refers to policies, plans and processes which are approved by the board and performed on 
+continuous basis by the senior management and all levels of employees within the MFB. Internal controls are 
+used to provide reasonable assurance regarding the achievement of organizational objectives. Effective and 
+well-designed operations are prone to risk and even well trained personnel with the best of intentions can 
+become distracted and negligent. MFBs shall therefore design and review their internal control policies and 
+procedures taking into account the following; 
+ 
+MFBs shall have in place an effective internal control system, duly approved by their board, clearly 
+laying out the control environment and structure, recognizing risks and assessment, control activities, 
+accounting, information & communication, and self-assessment or monitoring and correcting 
+deficiencies. 
+ 
+ 
+MFBs shall ensure implementation of internal controls mechanism and its integration into daily 
+operations. 
+ 
+ 
+MFBs shall ensure effective communication of their internal control processes and system among 
+their employees. 
+ 
+ 
+Monitoring of key risks should be part of the daily activities of the MFBs as well as periodic 
+evaluations by the business lines and internal audit. 
+ 
+ 
+MFBs shall conduct an effective and comprehensive internal audit of the internal control system. 
+ 
+The following ‘Controls Principles’ need to be applied by all MFBs, irrespective of size, nature and complexity 
+of their business, while developing framework of internal controls; 
+ 
+Regular feature: Control activities should be an integral part of the daily activities of a MFB in such a 
+manner that it becomes ingrained in their ongoing processes rather than a year-end “fire drill” to 
+satisfy documentation requests from auditors and supervisors. 
+ 
+ 
+ 
+ 
+ 
+ 
+49 
+ 
+Separation of Duties: Duties should be divided so that no one person has complete control over a 
+key function or activity. 
+ 
+ 
+Authorization and Approval: All transactions should be authorized before recording and execution. 
+ 
+ 
+Custodial and Security Arrangements: Responsibility for custody of assets needs to be separated 
+from the related record keeping. 
+ 
+ 
+Review and Reconciliation: Records should be examined and reconciled to regularly determine that 
+transactions are properly processed, approved and booked. 
+ 
+ 
+Physical Controls: Equipment, inventories, cash and other assets should be secured physically, 
+counted periodically and compared with amounts shown on control records. 
+ 
+ 
+Training and Supervision: Qualified, well-trained and supervised employees always help ensure that 
+control processes function properly. 
+ 
+ 
+Documentation: Documented policies and procedures promote employee understanding of duties 
+and help ensure continuity during employee absences or turnover. Therefore, policies and 
+procedures (in the form of operations manuals and desk instructions) should exist in all MFBs. 
+ 
+ 
+Communication of importance of Internal Controls: Setting standards of professional integrity and 
+work ethics and ensuring that all levels of personnel in their organization know the importance of 
+internal controls and understand their role in the internal controls process and be fully engaged in 
+the process. 
+ 
+ 
+Cost/Benefit: It is for the MFBs to assess that the costs associated with control processes 
+commensurate with the expected benefits. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+B –  RISK MANAGEMENT 
+These Guidelines on Risk Management provide a minimum set of best practices for establishing and 
+implementing effective risk management in Microfinance Banks (MFBs). MFBs, like other financial 
+institutions, are exposed to a spectrum of risks, which include credit risk, interest rate risk, liquidity risk, 
+operational risk, and legal and reputation risk. Managing these risks is essential for their survival and 
+sustainability. In this regard, MFBs shall design and review their risk management policies and procedures in 
+light of the following: 
+ 
+The MFBs shall prepare a comprehensive Risk Management and Reporting Framework (RMRF) 
+covering all of their business activities and circumstances under which they operate and have 
+flexibility to accommodate any changes thereof. The RMRF shall be duly approved by the Board. 
+ 
+ 
+The RMRF shall outline role and responsibilities of board and senior management to identify, 
+measure, monitor report and control relevant categories of risks especially credit, market, liquidity, 
+operational and reputational risks.  
+ 
+ 
+The MFBs shall ensure establishing clear lines of authority and responsibility for managing 
+responsibilities for dissemination, implementation and compliance of the approved policies and 
+procedures.  
+ 
+ 
+The MFBs shall develop a system for testing and analyzing their aggregate loan portfolio on 
+continuous basis. The MFBs in particular shall have in place mechanism to identify and correct 
+portfolio concentration in geographies, products, economic segments, branches, and loan officers. 
+The MFBs shall also record the risks identified through the portfolio testing and related corrective 
+actions, and report these to their senior management.   
+ 
+ 
+The BOD shall review the effectiveness of the risk management activities periodically and make 
+appropriate changes as and when necessary. The risk review function shall be independent of those 
+who approve and take risk. The review may use stress tests exposing the portfolio to unanticipated 
+movements in key variables or major systemic shocks. 
+ 
+ 
+The MFBs shall have in place an Asset-Liability Management Committee (ALCO) to undertake 
+following responsibilities;  
+ 
+ 
+Oversee the structure /composition of MFB’s assets and liabilities and decide about product 
+pricing for deposits and advances. 
+ 
+Decide on required maturity profile and mix of incremental assets and liabilities. 
+ 
+Articulate interest rate view of the bank and deciding on the future business strategy. 
+ 
+Review and articulate funding policy. 
+ 
+Discuss strategies and risks in obtaining debt/loans from local and foreign lenders.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+51 
+C – BUSINESS CONTINUITY MANAGEMENT (BCM) 
+These Guidelines on Business Continuity Management (BCM) provide a minimum set of best practices for 
+establishing a holistic management process to identify and respond to potential events regarding operating 
+disruptions that threatens MFBs. The quick recovery of business, after major operational disruption, is crucial 
+in maintaining confidence in MFBs and protecting the interest of key stakeholders.  
+MFBs shall therefore take following actions:  
+ 
+MFBs shall have in place a comprehensive plan, for BCM, duly approved by their board to ensure its 
+ability to operate as going concerns and minimize losses in the event of severe business disruptions. 
+ 
+The BCM plan shall clearly define/segregate responsibilities of board and senior management, 
+identify critical staff and senior management, critical and time sensitive functions, location & 
+suitability of operations back-up site and availability of necessary facilities, accessibility/movement 
+plan, and critical documents / data. 
+ 
+The MFBs shall allocate sufficient resources and knowledgeable personnel to accomplish the tasks 
+contained in its BCM plan. MFBs shall provide training sessions and awareness programs for their 
+staff to familiarize them with their roles, accountabilities, responsibilities and authority in response 
+to a disruptive event. 
+ 
+The MFBs shall carry out a thorough business impact analysis identifying the potential impact of 
+uncontrolled, non-specific events on MFBs’ business processes and their customers; consideration of 
+all departments and business functions, not just data processing; and estimation of maximum 
+allowable downtime and acceptable levels of data, operations, and financial losses. 
+ 
+The MFBs shall carry out an assessment of potential business disruptions and critical business lines 
+based upon severity and likelihood of occurrence in order of priority; a gap analysis comparing the 
+MFBs’ existing BCM, if any, to what is necessary to achieve recovery time and point objectives; an 
+analysis of threats based upon their impact on MFBs and their customers and recovery time targets. 
+ 
+The MFBs shall conduct an independent audit of their BCM plan.  
+ 
+The MFBs shall make arrangements for review of their BCM plan, and are encouraged to conduct 
+mock exercises on periodic basis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+ D – INFORMATION TECHNOLOGY (IT) EFFECTIVENESS/SECURITY 
+These Guidelines on IT security provide a minimum set of best practices for establishing and implementing 
+effective IT security in Microfinance Banks (MFBs). MFBs shall design and review their IT security policies and 
+procedures in light of the following: 
+ 
+The MFBs shall prepare a comprehensive IT policy, duly approved by the Board. It shall entail the 
+process for reviewing current and future IT needs in terms of resources (hardware, software and 
+technical expertise), ensuring effective use of existing IT resources, identifying IT related risks and 
+adopting strategies to cope with these risks.   
+ 
+The MFBs shall put in place a Disaster Recovery Plan and maintain a disaster recovery site.  Disaster 
+recovery planning shall ensure availability of resources and required technological support to 
+businesses in an event of disaster. The plan must then be maintained, tested and audited by auditors 
+to ensure that it remains appropriate to the needs of the MFB.  
+ 
+The MFBs shall maintain a team of experienced technical and business human resources with a 
+thorough understanding of IT Security issues. The team would streamline the IT security related 
+process and procedures, including incident response and management and should report to the 
+senior management / BoDs. 
+ 
+The MFBs shall perform IT risk assessment on periodic basis to determine physical, environmental, 
+administrative, and technical vulnerability as well as the potential threats (and their consequences). 
+Risk re-assessment should be a continuing process.  
+ 
+The MFBs shall conduct regular workshops/ training programs to create users’ awareness. 
+ 
+The MFBs shall have in place a dashboard utility for accessing information frequently required by 
+auditors / SBP inspectors during their engagement. The requisite information includes statements of 
+account of (GL, deposit or loan accounts), branch / bank wise affair & profit & loss, review of 
+transactions etc. 
+ 
+Those MFBs which are using alternative delivery channels (including ATMs, PoS machines, and 
+branchless banking agents) shall opt for a third party IT security audit to ensure the adequacy of the 
+adopted security plan and procedures and the effectiveness of the implemented controls. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+53 
+Annexure – G 
+DECLARATION OF FIDELITY AND SECRECY 
+I, (insert name) on becoming (President/ Chairman of the Board/ Director on the Board/auditor/staff) of 
+the (insert name of Microfinance Bank) in terms of Section 26-A of the Microfinance Institutions Ordinance, 
+2001 do hereby solemnly & sincerely confirm/declare that I shall observe strict fidelity, secrecy and usage 
+customary among bankers and all matters relating thereto and in particular shall not divulge or communicate 
+any information relating to the affairs of its customers, which may come to my knowledge in discharging my 
+duties directly or indirectly, except in circumstances in which it is in accordance with law, practice and usage 
+customary among bankers. 
+ 
+ 
+ 
+Dated: Signature: _____________________ Designation:_____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+54 
+    Annexure – H  
+ 
+DOCUMENTS TO BE OBTAINED FROM VARIOUS TYPES OF CUSTOMERS/ACCOUNT HOLDERS  
+ 
+1 Sole-proprietor 
+i). 
+Attested copy of CNIC of the sole-proprietor 
+ii). 
+Declaration of Sole Proprietorship (if available, on business letter 
+head) 
+iii). 
+Account opening requisition letter (if available, on business letter 
+head) 
+2 Partnership 
+ 
+i). 
+Attested copies of CNICs of all partners. 
+ii). 
+Attested copy of ‘Partnership Deed’ duly signed by all partners of 
+the firm. 
+iii). 
+Attested copy of Registration Certificate with Registrar of Firms. In 
+case the partnership is unregistered, this fact should be clearly 
+mentioned on the Account Opening Form. 
+iv). 
+Authority letter, in original, in favor of the person authorized to 
+operate on the account of the firm. 
+3 Joint  
+Stock 
+companies 
+ 
+Certified copies of: 
+i). 
+Resolution of Board of Directors for opening of account specifying 
+the person(s) authorized to operate the company account.  
+ii). 
+Memorandum and Articles of Association. 
+iii). 
+Certificate of Incorporation. 
+iv). 
+Certificate of Commencement of Business. 
+v). 
+Attested copies of identity cards / passports of all the directors.  
+vi). 
+List of Directors on Form A/Form B as issued under Companies 
+Ordinance, 1984 
+4 Clubs, Societies 
+and 
+Associations 
+ 
+Certified copies of: 
+i) 
+Certificate of Registration. 
+ii) By-laws/Rules & Regulations. 
+iii) Resolution  of  the  Governing  Body/Executive  Committee  for 
+opening  of  account  authorizing  the  person(s)  to  operate  the  
+account and attested copy of the identity card of the authorized 
+person(s).  
+iv) An undertaking signed by all the authorized persons on behalf of 
+the institution mentioning that when any change takes place in the 
+persons authorized to operate on the account, the banker will be 
+informed immediately.  
+v) MFBs should obtain copies of CNICs of all the members of  
+Governing and Executive Bodies of DHA or ask for delegation of 
+power to Administrator under section (7) & (8) of the Pakistan 
+Defence Housing Authority Order, 1980 and accept copy of CNIC of 
+ 
+ 
+ 
+ 
+ 
+55 
+Administrator as well as authorized signatories for the purpose of 
+opening accounts of DHA or similar other authorities subject to the 
+condition that all other requirements laid down under relevant 
+regulations shall be complied with in letter and spirit.  
+5 Agents 
+Accounts 
+i). 
+Certified copy of ‘Power of Attorney’. 
+ii). 
+Attested copy of identity card of the agent. 
+6 Trust Account 
+i). 
+Attested copies of identity cards of the persons authorized to 
+operate the account along with their mandate as given by 
+Resolution of the Governing Body / Executive Committee for 
+opening of account and authorizing the said person(s) to operate 
+the account.  
+ii). 
+Certified copy of ‘Instrument of Trust’ or Trust Deed. 
+7 Executors and 
+Administrators 
+i). 
+Attested copies of identity cards of the Executor / Administrator. 
+ii). 
+Certified copy of Letter of Administration or Probate. 
+8 NGOs/NPOs/Charities 
+i). 
+Certified copies of: 
+a. Registration documents / certificates 
+b. By-laws / Rules & Regulations 
+ii). 
+Resolution of the Governing Body/Executive Committee, if it is the 
+ultimate governing body, for opening of account and authorizing 
+the person(s) to operate the account. 
+iii). 
+Attested photocopies of valid CNICs of the authorized person(s) 
+and members of Governing Body/Executive Committee, if it is the 
+ultimate governing body. 
+iv). 
+Any other documents as deemed necessary including its annual 
+accounts/ financial statements or disclosures in any form which 
+may help to ascertain the detail of its activities, sources and usage 
+of funds in order to assess the risk profile of the prospective 
+customer. 
+9 Minor Account 
+i). 
+Form B, Birth Certificate or Student ID Card (as Appropriate) of the 
+minor 
+ii). 
+Photocopy of identity document of the guardian of the minor. 
+ 
+ 
+ 

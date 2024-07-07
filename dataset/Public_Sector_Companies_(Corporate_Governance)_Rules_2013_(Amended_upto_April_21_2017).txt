@@ -1,0 +1,1663 @@
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+PUBLIC SECTOR COMPANIES (CORPORATE GOVERNANCE) RULES, 2013 
+Amended vide S.R.O. No. 275(I)/2017 dated April 21, 2017 
+ 
+1. 
+Short title, commencement and applicability. — (1) These Rules may be 
+called the Public Sector Companies (Corporate Governance) Rules, 2013. 
+ 
+(2) 
+They shall come into force on 8th August, 2013. 
+ 
+(3) 
+These rules shall apply to all Public Sector Companies, as defined in clause 
+(g) of rule 2.  
+ 
+(4) 
+In the case of listed Public Sector Companies, where there is any 
+inconsistency with the Code of Corporate Governance, the provisions of these rules shall 
+prevail. 
+ 
+2. 
+Definitions.__ (1) In these rules, unless there is anything repugnant in the 
+subject or context: 
+(a) 
+“Board” means board of directors of a Public Sector Company; 
+(b) 
+“Commission” means the Securities and Exchange Commission of 
+Pakistan established under the Securities and Exchange Commission 
+of Pakistan Act, 1997 (XLII of 1997); 
+(c) 
+“Executive” means an employee of a Public Sector Company, who 
+is entrusted with responsibilities of an administrative or managerial 
+nature, including the Chief Executive and Executive Director; 
+ (d) 
+“Independent Director” means a Non-Executive Director who is not 
+in the service of Pakistan or of any statutory body or any body or 
+institution owned or controlled by the Government and who is not 
+connected or does not have any other relationship, whether 
+pecuniary or otherwise, with the Public Sector Company, its 
+associated companies, subsidiaries, holding company or directors. 
+ 
+ 
+2
+ 
+ 
+The test of independence principally emanates from the fact whether 
+such person can be reasonably perceived as being able to exercise 
+independent judgment without being subservient to any form of 
+conflict of interest.  
+ 
+A director shall not be considered independent if one or more of the 
+following circumstances exist,-  
+(i) 
+he has been an employee of the Public Sector Company, any 
+of its subsidiaries, or holding company during the last two 
+years;  
+(ii) 
+he has, or has had within the last two years, a material 
+business relationship with the Public Sector Company either 
+directly or indirectly, or  director of a body that has such a 
+relationship with the Public Sector Company;  
+(iii) 
+he has received remuneration in the two years preceding his 
+appointment as a director or has received additional 
+remuneration excluding retirement benefits from the Public 
+Sector Company apart from director’s fee or has participated 
+in the Public Sector Company’s share option or a 
+performance-related pay scheme;  
+(iv) 
+he is a close relative (spouse, lineal ascendants and 
+descendants and brothers and sisters) of the company’s 
+promoters, directors or major shareholders;  
+(v) 
+he holds cross-directorships or has significant links with 
+other directors through involvement in other companies or 
+bodies; or 
+(vi) 
+he has served on the Board for more than two consecutive 
+terms from the date of his first appointment provided that 
+such person shall be deemed independent director after a 
+lapse of one term;  
+(e) 
+“Non-Executive Director” means a director of a Public Sector 
+Company who is not entrusted with responsibilities of an 
+administrative or managerial nature;  
+(f) 
+"Ordinance" means the Companies Ordinance, 1984 (XLVII of 
+1984); 
+ 
+ 
+3
+ 
+ 
+(g) 
+“Public Sector Company” means a company, whether public or 
+private, which is directly or indirectly controlled, beneficially 
+owned or not less than fifty one percent of the voting securities or 
+voting power of which are held by the Government or any 
+instrumentality or agency of the Government or a statutory body, or 
+in respect of which the Government or any instrumentality or 
+agency of the Government or a statutory body, has otherwise power 
+to elect, nominate or appoint majority of its directors, and includes a 
+public sector association not for profit, licensed under section 42 of 
+the Ordinance. 
+ 
+(2) 
+All other terms and expressions used but not defined in these rules shall 
+have the same meaning as are assigned to them in the Ordinance. 
+ 
+2A.  
+Criteria for sound and prudent management. - (1) For the purposes of 
+these rules, the following shall be the criteria for sound and prudent management of a 
+Public Sector Company, which shall be bound to comply with it at all times namely: - 
+ 
+(a) the business of the Public Sector Company is carried on with 
+integrity, objectivity, due care and the professional skills 
+appropriate to the nature and scale of its activities; 
+ 
+(b) each director and chief executive officer, by whatever name 
+called, of the Public Sector Company complies with the fit and 
+proper criteria specified under these rules; 
+ 
+(c)  the Public Sector Company is directed and managed by a 
+sufficient number of persons who are fit and proper persons to 
+hold the positions which they hold; and 
+ 
+ 
+ 
+4
+ 
+ 
+(d)  the Public Sector Company maintains adequate accounting and 
+other records of its business.  
+ 
+(2)  
+Accounting and other records shall not be regarded as adequate for 
+the purposes of these rules unless they are such as_  
+ 
+(a)  
+to enable the business of the Public Sector Company 
+to be prudently managed; 
+ 
+(b)  
+to enable the Public Sector Company to comply with 
+the obligations imposed on it by or under the 
+Ordinance and these rules; and 
+ 
+(c) 
+comply 
+with 
+all 
+professional 
+standards 
+and 
+pronouncements of relevant professional bodies as 
+applicable in Pakistan. 
+ 
+(3)  
+The Public Sector Company shall not be regarded as conducting its 
+business in a sound and prudent manner if it fails to conduct its business 
+with due regard to the legitimate policy objectives and development targets 
+of the Government.  
+ 
+ 
+3. 
+Composition of the Board. (1)  The Board shall consists of executive and 
+non-executive directors, including independent directors and those representing minority 
+interests with the requisite range of skills, competence, knowledge, experience and 
+ 
+ 
+5
+ 
+ 
+approach so that the Board as a group includes core competencies and diversity considered 
+relevant in the context of the Public Sector Company’s operations. 
+ 
+(2)  
+The Board shall have at least one-third of its total members as independent 
+directors. The Public Sector Company shall disclose in the annual report non-executive, 
+executive and independent directors.   
+  
+(3) 
+ No Independent Director shall participate in share options or any similar 
+schemes of the Public Sector Company which entitle him to acquire any interest in the 
+Public Sector Company.  
+ 
+(4) 
+No person shall be elected or nominated as a director of more than five 
+Public Sector Companies and listed companies simultaneously, except their subsidiaries. 
+ 
+(5) 
+The Public Sector Company shall, where necessary, take necessary steps to 
+ensure that the minority shareholders, as a class, are facilitated by proxy solicitation, for 
+which purpose the Public Sector Company shall,-  
+ 
+(a) 
+annex with the notice issued under sub-section (4) of section 178 of 
+the Ordinance, a statement by a candidate from amongst the 
+minority shareholders who seek to contest election to the Board, and 
+it may include a profile of the candidate; 
+ 
+(b) 
+provide information regarding shareholding structure and copies of 
+the register of members to the candidates representing minority 
+shareholders; and  
+ 
+(c) 
+on a request by the candidates representing minority shareholders 
+and at the cost of the company, annex to the notice issued under 
+sub-section (4) of section 178 of the Ordinance an additional copy 
+of proxy form duly filled in by such candidates. 
+ 
+  
+(6) 
+The appointing authorities, including the Government and other 
+shareholders, shall apply the fit and proper criteria given in the Annexure in making 
+ 
+ 
+6
+ 
+ 
+nominations of the persons for election as Board members under the provisions of the 
+Ordinance: 
+ 
+Provided that the requirement to comply with the fit and proper criteria is without 
+prejudice to compliance with any other requirement for the fitness and propriety of 
+directors issued under any special law, rules or regulations by a sector regulator or 
+authority governing a specified sector. 
+3A. 
+Term of office and removal of directors. - (1) A director, once appointed or 
+elected under section 180 or section 178 of the Ordinance, shall hold office for a period of 
+three years, unless he resigns or is removed in accordance with the provisions of the 
+Ordinance.  
+ 
+(2) 
+Any casual vacancy arising in the Board in the manner specified in sub-section (1) 
+of section 180 of the Ordinance shall be filled in by the directors in accordance with sub-
+section (2) of section 180 of the Ordinance. 
+ 
+(3) 
+A director nominated by the Government shall hold office in accordance with 
+section 183 of the Ordinance. 
+ 
+(4)  
+The removal of an elected director shall take place in accordance with section 181 
+of the Ordinance and the removal of a nominated director shall only take place_ 
+ 
+(a)  if the director has not performed up to a standard, determined through 
+a performance evaluation; 
+ 
+ 
+7
+ 
+ 
+(b) 
+if the director is found to be in non-compliance with the provisions of 
+the Ordinance or these rules; 
+(c) 
+if the director fails to fulfil his duties and responsibilities under these 
+rules; 
+(d) 
+if the director fails to comply with or deliberately ignores policy 
+directives of the Government; 
+(e) 
+for any administrative reasons such as posting, transfer, retirement, 
+etc., the Government decides to withdraw the nomination; or 
+(f) 
+in the event of his misconduct. 
+ 
+Explanation. - For the purpose of this clause, misconduct includes - 
+ 
+(i) 
+indulging in a competing professional or personal conflict of 
+interests’ situation; 
+(ii) 
+using the funds, assets and resources of the Public Sector 
+Company without due diligence and care; 
+(iii) 
+failing to treat the colleagues and the staff of the Public Sector 
+Company with respect, or using harassment in any form of 
+physical or verbal abuse; 
+(iv) 
+making public statements without authorization by the Board; 
+(v) 
+receiving gifts or other benefits from any sources external to 
+the Public Sector Company offered to him in connection with 
+his duties on the Board; or  
+ 
+ 
+8
+ 
+ 
+(vi) 
+abusing or misusing his official position to gain undue 
+advantage or assuming financial or other obligations in private 
+institutions or for persons which may cause embarrassment in 
+the performance of official duties or functions: 
+ 
+Provided that the notice of removal to a nominated 
+director shall give reasons for removal of the director. 
+ 
+ 
+4. 
+Role of the chairman and chief executive and separation of the two 
+positions.- (1) The office of the chairman shall be separate, and his responsibilities 
+distinct, from those of the chief executive. 
+ 
+ 
+(2) 
+The chairman of the Board shall,- 
+ 
+(a) 
+ensure that the Board is properly working and all matters relevant to 
+the governance of the Public Sector Company are placed on the 
+agenda of Board meetings; 
+ 
+(b)  
+conduct the Board meeting including fixing the agenda; and 
+ 
+(c) 
+ensure that all the directors are enabled and encouraged to fully 
+participate in the deliberations and decisions of the Board. The 
+chairman has a responsibility to lead the Board and ensure its 
+effective functioning and continuous development, he shall not be 
+involved in day to day operations of the Public Sector Company. 
+ 
+ 
+(3) 
+The chief executive is responsible for the management of the Public Sector 
+Company and for its procedures in financial and other matters, subject to the oversight 
+and directions of the Board, in accordance with the Ordinance and these rules. His 
+responsibilities include implementation of strategies and policies approved by the Board, 
+making appropriate arrangements to ensure that funds and resources are properly 
+safeguarded and are used economically, efficiently and effectively and in accordance 
+with all statutory obligations.  
+ 
+ 
+9
+ 
+ 
+ 
+      (4)    The chairman of the Board shall be elected by the Board of Directors of the 
+Public Sector Company. However, this provision shall not apply where chairman of the 
+Board is appointed by the Government. 
+ 5. 
+Responsibilities, powers and functions of the Board. - (1)The directors of a 
+Board shall be persons who, in opinion of the Government, shall assist the Public Sector 
+Company to achieve its principal objective and the Board shall accordingly exercise its 
+powers and carry out its fiduciary duties with a sense of objective judgment and in the 
+best interest of the company. This provision shall apply to all directors, including ex 
+officio directors. 
+(2) 
+The Board shall evaluate the candidates based on the fit and proper criteria and the 
+guidelines specified by the Commission for appointment to the position of the chief 
+executive and recommend at least three candidates to the Government for its concurrence 
+for appointment of one of them as chief executive of the Public Sector Company, except 
+where the chief executive is nominated by the Government. On receiving concurrence or 
+nomination of the Government, as the case may be, the Board shall appoint the chief 
+executive in accordance with the provisions of the Ordinance. The Board shall also be 
+responsible for development and succession planning of the chief executive. 
+  
+(3) 
+The Board shall ensure that obligations to all shareholders are fulfilled and they are 
+duly informed in a timely manner of all material events through shareholder meetings and 
+other communications as are considered necessary. 
+(4) 
+The Board shall ensure that professional standards and corporate values are in 
+place that promotes integrity for the Board, senior management and other employees in the 
+form of a “Code of Conduct”. The code of conduct shall articulate acceptable and 
+unacceptable behaviors. The Board shall ensure that appropriate steps are taken to 
+communicate throughout the company the code of conduct it sets together with supporting 
+policies and procedures, including posting the same on the company’s website. The Board 
+shall also ensure that adequate systems and controls are in place for the identification and 
+redressal of grievances arising from unethical practices. 
+ 
+ 
+10
+ 
+ 
+(5) 
+The Board shall establish a system of sound internal control, which shall be 
+effectively implemented at all levels within the Public Sector Company, to ensure 
+compliance with the fundamental principles of probity and propriety; objectivity, integrity 
+and honesty and relationship with the stakeholders, in the following manner, namely:- 
+ 
+(a) 
+the principle of probity and propriety entails that company’s assets 
+and resources are not used for private advantage and due economy 
+is exercised so as to reduce wastage. The principle shall be adhered 
+to, especially with respect to the following, namely:- 
+ 
+(i) 
+handling of public funds, assets, resources and confidential 
+information by directors, executives and employees; and  
+ 
+(ii) 
+claiming of expenses; 
+ 
+ 
+(b) 
+the principle of objectivity, integrity and honesty requires the 
+following, namely:- 
+ 
+(i) 
+the directors and executives of a Public Sector Company do 
+not allow a conflict of interest to undermine their objectivity 
+in any of their activities, both professional and private and 
+that they do not use their position in the Public Sector 
+Company to further their private gains in a social or business 
+relationship outside the Public Sector Company. If a 
+situation arise where an actual or potential conflict of 
+interest exists, there shall be appropriate identification, 
+disclosure and management of such conflict of interest; 
+ 
+(ii) 
+An appropriate conflict of interest policy is developed and 
+duly enforced. Such a policy shall clearly lay down 
+circumstances or considerations when a person may be 
+deemed to have actual or potential conflict of interest, and 
+the procedure for disclosing such interest: 
+ 
+ 
+Explanation: For the purposes of this clause a person shall 
+be deemed to have an interest in a matter if he has any stake, 
+pecuniary or otherwise, in such matter which could 
+reasonably be regarded as giving rise to a conflict between 
+his duty to objectively perform his functions under these 
+ 
+ 
+11
+ 
+ 
+rules so that his ability to consider and decide any matter 
+impartially or to give any advice without bias, may 
+reasonably be regarded as impaired; 
+ 
+(iii) 
+where a director, executive or other employee has a conflict 
+of interest in a particular matter, such person shall play no 
+part in the relevant discussion, decision or action; 
+ 
+(iv) 
+a “register of interests” is maintained to record all relevant 
+personal, financial and business interests, of directors and 
+executives who have any decision making role in the 
+company, and the same shall be made publicly available. 
+Such interests may include, for instance, any significant 
+political activity, including office holding, elected positions, 
+public appearances and candidature for election, undertaken 
+in the last five years;   
+ 
+(v) 
+a declaration by the directors and executives that they shall 
+not offer or accept any payment, bribe, favor or inducement 
+which might influence, or appear to influence, their 
+decisions and actions; and 
+ 
+(vi) 
+the Board shall also develop and implement a policy on 
+“anti-corruption” to minimize actual or perceived corruption 
+in the company; and 
+ 
+(c) 
+the principle of relationship with stakeholders requires the 
+following, namely:- 
+ 
+(i) 
+ensuring that the directors and executives uphold the 
+reputation of the company by treating the general public, 
+institutional investors and other stakeholders with courtesy, 
+integrity and efficiency, and ensuring service quality; 
+ 
+(ii) 
+ensuring equality of opportunity by establishing open and 
+fair 
+procedures 
+for 
+making 
+appointments 
+and 
+for 
+determining terms and conditions of service. The Board may 
+nominate a committee consisting of one of its members or 
+senior Executives for investigating, where necessary on a 
+confidential basis, any deviation from the company’s code of 
+conduct; and 
+  
+ 
+ 
+12
+ 
+ 
+(iii) 
+ensuring compliance with the law and the Public Sector 
+Company’s internal rules and procedures relating to public 
+procurement, tender regulations, purchasing and technical 
+standards, when dealing with suppliers of goods and 
+services. The Board shall ensure that quality standards are 
+followed with due diligence and that suppliers comply with 
+the standards specified and are paid for supplies or services 
+within the time agreed. 
+ 
+(6) 
+The Board shall adopt a vision or mission statement and corporate strategy 
+for the Public Sector Company. 
+ 
+(7) 
+The Board shall also formulate significant policies of the Public Sector 
+Company, which may include the following, namely:- 
+(a) 
+the formal approval and adoption of the annual report of the Public 
+Sector Company, including the financial statements; 
+(b) 
+the implementation of an effective communication policy with all 
+the stakeholders of the Public Sector Company; 
+(c) 
+the identification and monitoring of the principal risks and 
+opportunities of the Public Sector Company and ensuring that 
+appropriate systems are in place to manage these risks and 
+opportunities, including, safeguarding the public reputation of the 
+Public Sector Company; 
+(d) 
+procurement of goods and services so as to enhance transparency in 
+procurement transactions; 
+(e) 
+marketing of goods to be sold or services to be rendered by the 
+Public Sector Company;  
+(f) 
+determination of terms of credit and discount to customers; 
+(g) 
+write-off of bad or doubtful debts, advances and receivables; 
+(h) 
+acquisition or disposal of fixed assets and investments; 
+(i) 
+borrowing of moneys up to a specified limit, exceeding which the 
+amounts shall be sanctioned or ratified by a general meeting of 
+shareholders; 
+ 
+ 
+13
+ 
+ 
+(j) 
+Corporate social responsibility initiatives including, donations, 
+charities, contributions and other payments of a similar nature;  
+(k) 
+determination and delegation of financial powers to Executives and 
+employees; 
+(l) 
+transactions or contracts with associated companies and related 
+parties;  
+(m) 
+health, safety and environment;  
+(n) 
+development of whistle-blowing policy and protection mechanism;  
+(o) 
+capital expenditure planning and control;  
+(p) 
+protection of public interests; and 
+(q) 
+human resource policy including succession planning. 
+ 
+(8) 
+Any service delivered or goods sold by a Public Sector Company as a 
+public service obligation where decisions are taken in fulfilling social objectives of the 
+Government but are not in its commercial interests, outlay of such action shall be 
+quantified and request for appropriate compensation there-for shall be submitted to the 
+Government for consideration.    
+ 
+ 
+(9) 
+A complete record of particulars of the above-mentioned policies along 
+with the dates on which they were approved or amended by the Board shall be maintained. 
+ 
+(10) 
+The Board shall define the level of materiality, keeping in view the specific 
+context of the Public Sector Company and the recommendations of any committee of the 
+Board that may be set up for the purpose. 
+ 
+        (11) 
+The Board shall ensure compliance with policy directions received from 
+Government from time to time. 
+ 
+ 
+14
+ 
+ 
+     (12) 
+       The Board shall ensure compliance with the reporting requirements received 
+from the Government within the specified time-frame, related to, including but not limited 
+to, audit, finance, parliamentary business, performance and ancillary matters: 
+  
+Provided that the Board shall nominate the company secretary or any other official 
+at appropriate level as focal person for maintaining liaison with the Government regarding 
+the aforesaid matters. 
+ 
+6. 
+Meetings of the Board.- (1) The Board shall meet at least once, each 
+quarter of a year, to ensure that it discharges its duties and obligations to shareholders and 
+other stakeholders efficiently and effectively. In case of non-compliance, the same shall be 
+reported to the Commission with reasons of non-compliance, within fourteen days of the 
+end of the quarter in which the meeting should have been held.  
+ 
+(2) 
+Written notices of meetings, including the agenda, duly approved by the 
+Chairman, shall be circulated not less than seven days before the meetings, except in the 
+case of emergency meetings, where the notice period may be reduced or waived by the 
+Board.  
+ 
+(3) 
+The chairman of the Board shall ensure that minutes of meetings of the 
+Board are appropriately recorded by approving them under his signature. The minutes of 
+meetings shall be circulated after approval of the chairman, to directors and officers 
+entitled to attend Board meetings, not later than fourteen days thereof, unless a shorter 
+period is provided in the articles of association of the Public Sector Company.  
+ 
+(4) 
+In the event that a director of a Public Sector Company is of the view that 
+his dissenting note has not been satisfactorily recorded in the minutes of a meeting of the 
+Board, he may refer the matter to the company secretary, or the chairman of the Board. 
+The director may require the note to be appended to the minutes, failing which he may file 
+an objection with the Commission. 
+ 
+ 
+15
+ 
+ 
+ 
+  
+(5) 
+A Board meeting held and attended through video-conferencing shall be a 
+valid meeting, as long as its proceedings are properly recorded and the requirements 
+specified by the Commission for public companies for holding Board meetings through 
+video-conferencing are met.  
+ 
+7. 
+Key information to be placed for decision by the Board .- (1) The Board 
+shall establish appropriate arrangements to ensure it has access to all relevant information, 
+advice and resources necessary to enable it to carry out its role effectively. Significant 
+issues shall be placed before the Board for its information and consideration, in order to 
+formalize and strengthen the corporate decision making process. 
+ 
+ 
+(2) 
+For the purpose of sub-rule (1), significant issues shall, inter-alia, include 
+the following, namely:- 
+(a) 
+annual business plans, cash flow projections, forecasts and long 
+term plans; budgets including capital, manpower and expenditure 
+budgets, along with variance analyses;  
+(b) 
+internal audit reports, including cases of fraud or major 
+irregularities;  
+(c) 
+management letters issued by the external auditors;  
+(d) 
+details of joint ventures or collaboration agreements or agreements 
+with distributors, agents, etc;  
+(e) 
+promulgation or amendment of a law, rule or regulation or, 
+enforcement of an accounting standard or such other matters as may 
+affect the Public Sector Company;  
+(f) 
+status and implications of any lawsuit or judicial proceedings of 
+material nature, filed by or against the Public Sector Company;  
+(g) 
+any show cause, demand or prosecution notice received from any 
+revenue or regulatory authority, which may be material;  
+(h) 
+material payments of government dues, including income tax, excise 
+and customs duties, and other statutory dues including penal charges 
+thereon;  
+ 
+ 
+16
+ 
+ 
+(i) 
+inter-corporate investments in and loans to or from associated 
+concerns in which the business group, of which the Public Sector 
+Company is a part, has significant interest;  
+(j) 
+policies related to the award of contracts and purchase and sale of 
+raw materials, finished goods, machinery etc; 
+(k) 
+default in payment of principal or interest, including penalties on 
+late payments and other dues, to a creditor, bank or financial 
+institution or default in payment of public deposit;  
+(l) 
+failure to recover material amounts of loans, advances, and deposits 
+made by the Public Sector Company, including trade debts and 
+inter-corporate finances;  
+(m) 
+any significant accidents, dangerous occurrences and instances of 
+pollution and environmental problems involving the Public Sector 
+Company;  
+(n) 
+significant public or product liability claims made or likely to be 
+made against the Public Sector Company, including any adverse 
+judgment or order made on the conduct of the Public Sector 
+Company or of any other company that may bear negatively on the 
+Public Sector Company;  
+(o) 
+disputes with labor and their proposed solutions, any agreement 
+with the labor union or collective bargaining agent and any charter 
+of demands on the Public Sector Company;   
+(p) 
+payment for goodwill, brand equity or intellectual property;  
+(q) 
+annual, quarterly, monthly or other periodical accounts as are 
+required to be approved by the Board for circulation amongst its 
+members; 
+(r) 
+reports on governance, risk and compliance issues; 
+(s) 
+whistle-blower protection mechanism; 
+(t) 
+report on Corporate Social Responsibility (CSR) activities; and 
+(u) 
+related party transactions. 
+ 
+ 
+ 
+17
+ 
+ 
+8.  
+Performance evaluation. - (1)  
+The 
+performance 
+evaluation 
+of 
+members of the Board including the chairman and the chief executive shall be undertaken 
+annually by the Government for which the Government shall enter into performance 
+contract with each member of the Board at the time of his appointment. 
+  
+ 
+(2) 
+The Board shall monitor and assess the performance of senior management 
+on a periodic basis, at least once a year, and hold them accountable for accomplishing 
+objectives, goals and key performance indicators set for this purpose. 
+ 
+  
+9.  
+Related party transactions. - (1) The details of all related party 
+transactions shall be placed before the audit committee of the Public Sector Company and 
+upon recommendations of the audit committee, the same shall be placed before the Board 
+for review and approval. 
+  
+(2) 
+The related party transactions which are not executed at arm's length price 
+shall also be placed separately at each Board meeting along with necessary justification 
+for consideration and approval of the Board on recommendation of the audit committee of 
+the Public Sector Company.  
+  
+(3) 
+The Board shall approve the pricing methods for related party transactions 
+that were made on the terms equivalent to those that prevail in arm’s length transaction 
+only if such terms can be substantiated.  
+ 
+  
+(4) 
+ Every Public Sector Company shall maintain a party wise record of 
+transactions, in each financial year, entered into with related parties in that year along 
+with all such documents and explanations. The record of related party transaction shall 
+include the following particulars in respect of each transaction, namely:- 
+ 
+(a)  
+name of related party;  
+(b)  
+nature of relationship with related party;  
+(c)  
+nature of transaction;  
+ 
+ 
+18
+ 
+ 
+(d)  
+amount of transaction; and 
+(e)  
+terms and conditions of transaction, including the amount of 
+consideration received or given. 
+ 
+  
+(5) 
+The Public Sector Company may seek a general mandate from its members 
+for recurrent related party transactions of revenue or trading nature or those necessary for 
+its day-to-day operations such as the purchase and sale of supplies and materials, but not 
+in respect of the purchase or sale of assets, undertakings or businesses. A general mandate 
+is subject to annual renewal. 
+ 
+10. 
+Quarterly and Monthly Financial Statements and Annual Report. –  
+(1) 
+Every Public Sector Company shall, within one month of the close of first, 
+second and third quarter of its year of account, prepare a profit and loss account for, and 
+balance-sheet as at the end of, that quarter, whether audited or otherwise, for the Board’s 
+approval. Annual report including annual financial statements shall be placed on the 
+Public Sector Company’s website: 
+Provided that Public Sector Companies which are listed on the exchange shall 
+prepare half-yearly accounts within such time period and undertake limited scope review 
+by the auditors as specified by the Commission from time to time.  
+ 
+  
+11.  
+Board orientation and learning.- (1) Orientation courses shall be held by 
+a Public Sector Company, to enable directors to better comprehend the specific context in 
+which it operates, including its operations and environment, awareness of Public Sector 
+Company’s values and standards of probity and accountability as well as their duties as 
+directors.   
+ 
+ 
+(2)  
+In order to ensure that the directors are well conversant with the corporate 
+laws and practices, they are encouraged to have certification under an appropriate 
+training or education program offered by any institution, local or foreign.   
+ 
+ 
+ 
+19
+ 
+ 
+ 
+(3) 
+In order to acquaint the Board members with the wider scope of 
+responsibilities concerning the use of public resources, to act in good faith and in the best 
+interests of the Public Sector Company, at least one orientation course shall be arranged 
+annually for the directors and the following information in writing, inter-alia, shall be 
+provided, namely:-  
+(a) 
+Public Sector Company’s aims and objectives;  
+(b) 
+control environment and control activities;  
+(c) 
+key policies and procedures;  
+(d) 
+risk management and internal control framework;  
+(e) 
+background of key personnel, including their job descriptions;  
+(f) 
+delegation of financial and administrative powers;  
+(g) 
+board and staff structure; and  
+(h) 
+budgeting, planning and performance evaluation systems. 
+ 
+ 
+12.  
+Formation of Board committees.- (1) The Board shall set up the following 
+committees to support it in performing its functions efficiently, and for seeking assistance 
+in the decision making process, namely:-  
+ 
+(a) 
+audit committee, for an efficient and effective internal and external 
+financial reporting mechanism; 
+ 
+(b) 
+risk management committee, in case of Public Sector Companies 
+either in the financial sector or those having assets of five billion 
+rupees or more, to effectively review the risk function; 
+ 
+(c) 
+human resources committee, to deal with all employee related 
+matters including recruitment, training, remuneration, performance 
+evaluation, succession planning, and measures for effective 
+utilization of the employees of the Public Sector Company;  
+ 
+ 
+ 
+ 
+20
+ 
+ 
+(d) 
+procurement committee, to ensure transparency in procurement 
+transactions and in dealing with the suppliers; and 
+ 
+(e) 
+nomination committee, to identify, evaluate and recommend 
+candidates for vacant positions, including casual vacancies, on the 
+Board, including the candidates recommended by the Government 
+for consideration of shareholders or in case of casual vacancy to the 
+board of directors after examining their skills and characteristics 
+that are needed in such candidates: 
+ 
+Provided that the nomination committee shall submit its 
+proposal within thirty days of a vacancy arising or on a 
+recommendation made by the Government as the case may be.  
+ 
+ 
+(2) 
+The Board committees shall be chaired by non-executive directors. However, the 
+independent directors in the committees shall not be less than their proportionate 
+strength. The existence of such committees shall not absolve the Board from its collective 
+responsibility for all matters. Such committees shall have written terms of reference that 
+define their duties, authority and composition, and shall report to the full Board. The 
+minutes of their meetings shall be circulated to all Board members.  
+ 
+(3) 
+The Board shall concern itself with policy formulation and oversight and not the 
+approval of individual transactions except which are of an extraordinary nature or involve 
+materially large amount. 
+ 
+  
+13. 
+Chief Financial Officer, Company Secretary and Chief Internal 
+Auditor – appointment and removal.- (1) The Board shall appoint a chief financial 
+officer, a company secretary and a chief internal auditor by whatever name called. 
+ 
+  
+(2) 
+The appointment, remuneration and terms and conditions of employment of 
+the chief financial officer, the company secretary and the chief internal auditor of Public 
+Sector Company shall be determined with the approval of the Board. 
+ 
+  
+(3)  
+The chief financial officer, the company secretary, or the chief internal 
+auditor of Public Sector Company shall not be removed except with the approval of the 
+Board. 
+ 
+ 
+21
+ 
+ 
+ 
+  
+14. 
+Role and qualification of Chief Financial Officer and Company 
+Secretary.- (1) The chief financial officer shall be responsible for ensuring that 
+appropriate advice is given to the Board on all financial matters, for keeping proper 
+financial records and accounts, and for maintaining an effective system of internal 
+financial control. 
+ 
+ 
+(2) 
+No person shall be appointed as the chief financial officer of a Public 
+Sector Company unless he is,-  
+ 
+(a) 
+a member of a recognized body of professional accountants with at 
+least five years relevant experience, in case of Public Sector 
+Companies having total assets of five billion rupees or more; or 
+ 
+(b) 
+a person holding a master degree in finance from a university 
+recognized by the Higher Education Commission with at least ten 
+years relevant experience, in case of other Public Sector Companies.  
+ 
+ 
+(3) 
+The company secretary shall be responsible for ensuring that Board 
+procedures are followed, and that all applicable laws, rules and regulations and other 
+relevant statements of best practice are complied with.  Where the company secretary is 
+not separately appointed, the role of company secretary may be combined with chief 
+financial officer or any other member of senior management. 
+ 
+  
+(4) 
+No person shall be appointed as the company secretary of a Public Sector 
+Company unless he is a,-  
+ 
+(a) 
+member of a recognized body of professional accountants; or  
+ 
+(b) 
+member of a recognized body of corporate or chartered secretaries; 
+or  
+ 
+(c) 
+person holding a master degree in business administration or 
+commerce or being a law graduate from a university recognized by 
+the Higher Education Commission with at least five years relevant 
+experience. 
+ 
+ 
+22
+ 
+ 
+ 
+  
+(5) 
+No person shall be appointed to the positions of the chief financial officer 
+and company secretary unless he is fit and proper for the position.  
+ 
+  
+15. 
+Requirement to attend Board Meetings.- (1)  The chief financial officer 
+and the company secretary of a Public Sector Company shall attend all meetings of the 
+Board:  
+ 
+Provided that unless elected as a director, the chief financial officer and the 
+company secretary shall not be deemed to be a director or entitled to cast a vote at 
+meetings of the Board for the purposes of these rules: 
+ 
+Provided further that the chief financial officer and the company secretary shall not 
+attend such part of a meeting of the Board, which involves consideration of an agenda 
+item relating to them or that relating to the chief executive or any director. 
+ 
+  
+(2) 
+In pursuance of sub-rule (1), the Board shall ensure that the chief financial 
+officer and the company secretary attend Board meetings, wherever required. 
+ 
+  
+16. 
+Financial Reporting Framework.- Every Public Sector Company shall 
+adopt International Financial Reporting Standards, as are notified by the Commission 
+under clause (i) of sub-section (3) of section 234 of the Ordinance.  
+ 
+  
+17. 
+Directors’ report to the Shareholders.- (1) The Board shall submit an 
+annual report to the shareholders.  
+ 
+  
+(2)  
+The Board shall make the following statements and provide the following 
+information in their report to the shareholders, prepared under section 236 of the 
+Ordinance, namely:- 
+ 
+(a) 
+the Board has complied with the relevant principles of corporate 
+governance, and has identified the rules that have not been complied 
+ 
+ 
+23
+ 
+ 
+with, the period in which such non-compliance continued, and 
+reasons for such non-compliance; 
+ 
+(b) 
+the financial statements, prepared by the management of the Public 
+Sector Company, present fairly its state of affairs, the result of its 
+operations, cash flows and changes in equity;  
+ 
+(c) 
+proper books of account of the Public Sector Company have been 
+maintained;  
+ 
+(d) 
+appropriate accounting policies have been consistently applied in 
+preparation of financial statements and accounting estimates are 
+based on reasonable and prudent judgment; 
+  
+(e) 
+they recognize their responsibility to establish and maintain sound 
+system of internal control, which is regularly reviewed and 
+monitored; and   
+ 
+(f) 
+the appointment of chairman and other members of Board and the 
+terms of their appointment along with the remuneration policy 
+adopted are in the best interests of the Public Sector Company as 
+well as in line with the best practices. 
+ 
+ 
+(3) 
+The disclosure of an Executive’s remuneration is an important aspect for a 
+Public Sector Company. The annual report of a Public Sector Company shall contain a 
+statement on the remuneration policy and details of the remuneration of members of the 
+Board. Separate figures need to be shown for salary, fees, other benefits and other 
+performance-related elements. 
+ 
+  
+(4) 
+The directors’ report of a Public Sector Company shall also include the 
+following, where applicable, namely:- 
+ 
+(a) 
+where the Public Sector Company is reliant on a subsidy or other 
+financial support from the Government, a detailed disclosure of the 
+fact; 
+ 
+(b) 
+significant deviations from last year in operating results of the 
+Public Sector Company shall be highlighted and reasons thereof 
+shall be explained;  
+ 
+ 
+24
+ 
+ 
+ 
+(c) 
+key operating and financial data of last six years shall be 
+summarized;  
+ 
+(d) 
+key performance indicators of the Public Sector Company relating 
+to its social objectives and outcomes which significantly reflect the 
+work and impact of Public Sector Company and a comparison of 
+actual results with the budgeted figures. Such indicators shall focus 
+on as to how well the Public Sector Company has responded to 
+accountability requirements, improved service delivery, reduced 
+costs and adherence to the principles of environmental and 
+corporate social responsibilities; 
+ 
+(e) 
+where any statutory payment on account of taxes, duties, levies and 
+charges is overdue or outstanding, the amount together with a brief 
+description and reasons for the same shall be disclosed;  
+ 
+(f) 
+significant plans and decisions, such as corporate restructuring, 
+business expansion and discontinuance of operations, shall be 
+outlined along with future prospects, risks and uncertainties 
+surrounding the Public Sector Company;  
+ 
+(g) 
+a statement as to the value of investments of provident, gratuity and 
+pension funds, based on their respective audited accounts, shall be 
+included;  
+ 
+(h) 
+the number of Board meetings held during the year and attendance 
+by each director shall be disclosed; and  
+ 
+(i) 
+the pattern of shareholding shall be reported to disclose the 
+aggregate number of shares (alongwith details, stated below) held 
+by,-  
+ 
+(i) 
+Government; 
+ 
+(ii) 
+associated companies, undertakings and related parties 
+(name wise details);  
+ 
+(iii) 
+mutual funds;  
+ 
+(iv) 
+directors, Chief Executive, and their spouse and minor 
+children (name wise details);  
+ 
+ 
+25
+ 
+ 
+ 
+(v) 
+Executives;  
+ 
+(vi) 
+Public Sector Companies and corporations;  
+ 
+(vii) 
+banks, development finance institutions, non-banking 
+finance companies, insurance companies, takaful companies,  
+and modarabas; and  
+ 
+(viii) shareholders holding five percent or more voting rights in 
+the Public Sector Company (name wise details).  
+ 
+ 
+18. 
+Disclosure of Interests by Directors and Officers. – (1) Every director of 
+a Public Sector Company, if he or his relative, is in any way, directly or indirectly, 
+concerned or interested in any contract or arrangement entered into, or to be entered into, 
+by or on behalf of the Public Sector Company shall disclose the nature of his concern or 
+interest at a meeting of the directors. 
+ 
+ 
+(2) 
+Any other officer (including the Chief Executive and other Executives) of a 
+Public Sector Company, if he or his relative, is in any way, directly or indirectly, 
+concerned or interested in any proposed contract or arrangement by the company shall 
+disclose to the Company through a communication to the company secretary, the nature 
+and extent of his interest in the transaction. Such officer and the company shall ensure 
+that such information is properly placed and considered by any forum where the matter 
+relating to such proposed contract or arrangement is to be discussed and approved.   
+ 
+ 
+(3) 
+If a director or officer has an existing interest, before joining the Board, he 
+shall disclose such interest to the Board, which shall take such facts into consideration for 
+any current and future decision making.  
+ 
+ 
+19.  
+Directors’ Remuneration. – (1) There shall be a formal and transparent 
+procedure for fixing the remuneration packages of individual directors. No director shall 
+be involved in deciding his own remuneration.  
+ 
+ 
+ 
+26
+ 
+ 
+ 
+(2)  
+Directors’ remuneration packages shall encourage value creation within the 
+company, and shall align their interests with those of the company. These shall be subject 
+to prior approval of shareholders or Board as required by company’s Articles of 
+Association. Levels of remuneration shall be sufficient to attract and retain the directors 
+needed to run the company successfully.  
+ 
+ 
+(3) 
+Subject to the provisions of the company’s Articles of Association, the 
+shareholders or Board shall determine the scale of remuneration for non-executive 
+directors. However, it shall not be at a level that could be perceived to compromise their 
+independence. 
+ 
+ 
+(4)  
+The Public Sector Company’s annual report shall contain criteria and 
+details of the remuneration of each director, including salary, benefits and performance 
+linked incentives. 
+ 
+ 
+ 
+20. 
+Responsibility for financial reporting and corporate compliance.- No 
+Public Sector Company shall circulate its financial statements unless the chief executive 
+and the chief financial officer, present the financial statements, duly certified under their 
+respective signatures, for consideration and approval of the audit committee and the 
+Board. The Board shall, after consideration and approval, authorize the signing of 
+financial statements for issuance and circulation.  
+ 
+ 
+21. 
+Audit Committee.- (1) The Board shall establish an audit committee, 
+whose members shall be financially literate and majority of them, including its chairman, 
+shall be Independent Non-Executive Directors, subject to the provisions of sub-rule (2) of 
+rule 12. The names of members of the audit committee shall be disclosed in each annual 
+report of the Public Sector Company.  
+ 
+ 
+(2) 
+The chairman of the Board as well as the chief executive of the Public 
+Sector Company shall not be a member of the audit committee. 
+ 
+ 
+ 
+27
+ 
+ 
+ 
+(3) 
+The chief financial officer, the chief internal auditor, and a representative of 
+the external auditors shall attend all meetings of the audit committee at which issues 
+relating to accounts and audit are discussed:  
+  
+  
+Provided that at least once a year, the audit committee shall meet the external 
+auditors without the presence of the chief financial officer, the chief internal auditor and 
+other executives being present, to ensure independent communication between the 
+external auditors and the audit committee:  
+ 
+Provided further that at least once a year, the audit committee shall meet chief 
+internal auditor and other members of the internal audit function without the chief 
+financial officer and the external auditors being present. 
+ 
+ 
+(4) 
+The Board shall determine the terms of reference of the audit committee. 
+The terms of reference shall be in writing, specifying the mandate of the audit committee. 
+The audit committee shall have full and explicit authority to investigate any matter within 
+its terms of reference and shall be provided with adequate resources and access to all 
+relevant information. 
+ 
+ 
+(5) 
+The audit committee shall, inter-alia, be responsible for recommending to 
+the Board the appointment of external auditors by the Public Sector Company’s 
+shareholders and shall consider any questions of resignation or removal of external 
+auditors, audit fees and provision by external auditors of any service to the Public Sector 
+Company in addition to audit of its financial statements. In the absence of strong grounds 
+to proceed otherwise, the Board shall act in accordance with the recommendations of the 
+audit committee in all these matters. However, the Board shall not be deemed to absolve 
+itself of its overall responsibility for the functions delegated to the audit committee. 
+ 
+  
+(6) 
+The terms of reference of the audit committee may also include the 
+following, namely:- 
+(a) 
+determination of appropriate measures to safeguard the Public 
+Sector Company’s assets;  
+ 
+ 
+28
+ 
+ 
+(b) 
+review of financial results;  
+(c) 
+review of quarterly, half-yearly and annual financial statements of 
+the Public Sector Company, prior to their approval by the Board, 
+focusing on,-  
+(i) 
+major judgment areas; 
+(ii) 
+significant adjustments resulting from the audit;  
+(iii) 
+the going-concern assumption;  
+(iv) 
+any changes in accounting policies and practices; and 
+(v) 
+compliance with applicable accounting standards.  
+   
+Explanation.- The appropriateness of the use of the going concern 
+assumption in the preparation of the financial statements is 
+generally not in question when auditing Public Sector Company 
+having funding arrangements backed by the Government. However, 
+where such arrangements do not exist, or where Government 
+funding of the Public Sector Company may be withdrawn and the 
+existence of the Public Sector Company may be at risk, 
+International Standards on Auditing provide useful guidance. This 
+issue is increasingly important for Public Sector Companies which 
+have been privatized; 
+(d) 
+facilitating the external audit and discussion with external auditors 
+of major observations arising from interim and final audits and any 
+matter that the auditors may wish to highlight (in the absence of 
+management, where necessary);  
+(e) 
+review of management letter issued by external auditors and 
+management’s response thereto;  
+(f) 
+ensuring coordination between the internal and external auditors of 
+the Public Sector Company;  
+(g) 
+review of the scope and extent of internal audit and ensuring that the 
+internal audit function has adequate resources and is appropriately 
+placed within the Public Sector Company;  
+(h) 
+consideration of major findings of internal investigations and 
+management's response thereto;  
+ 
+ 
+29
+ 
+ 
+(i) 
+ascertaining that the internal control system including financial and 
+operational controls, accounting system and reporting structure are 
+adequate and effective;  
+(j) 
+review of the Public Sector Company’s statement on internal control 
+systems prior to endorsement by the Board;  
+(k) 
+recommending or approving the hiring or removal of the chief 
+internal auditor; 
+(l) 
+instituting special projects, value for money studies or other 
+investigations on any matter specified by the Board, in consultation 
+with the chief executive and to consider remittance of any matter to 
+the external auditors or to any other external body;  
+(m) 
+determination of compliance with relevant statutory requirements;  
+(n) 
+monitoring compliance with the best practices of corporate 
+governance and identification of significant violations thereof;  
+(o) 
+overseeing whistle-blowing policy and protection mechanism; and  
+(p) 
+consideration of any other issue or matter as may be assigned by the 
+Board.  
+  
+(7) 
+The audit committee shall be responsible for managing the relationship of 
+Public Sector Company with the external auditors. In managing the Public Sector 
+Company’s relationship with the external auditors on behalf of the Board, the audit 
+committee’s responsibilities include,- 
+ 
+(a) 
+suggesting the appointment of the external auditor to the Board, the 
+audit fee, and any questions of resignation or dismissal; 
+ 
+(b) 
+considering the objectives and scope of any non-financial audit or 
+consultancy work proposed to be undertaken by the external 
+auditors, and reviewing the remuneration for this work;  
+ 
+(c) 
+discussing with the external auditors before the audit commences 
+the scope of the audit and the extent of reliance on internal audit and 
+other review agencies; 
+ 
+ 
+ 
+30
+ 
+ 
+(d) 
+discussing with the external auditors any significant issues from the 
+review of the financial statements by the management, and any 
+other work undertaken or overseen by the audit committee; 
+ 
+(e) 
+reviewing and considering the external auditors’ communication 
+with management and management’s response thereto; and  
+ 
+(f) 
+reviewing progress on accepted recommendations from the external 
+auditors. 
+ 
+  
+(8) 
+The recommendations of the audit committee for appointment of retiring 
+auditors or otherwise, as mentioned in sub-rule (7) above, shall be included in the 
+directors’ report. In case of a recommendation for change of external auditors before the 
+lapse of three consecutive financial years, the reasons for the same shall be included in 
+the directors’ report. 
+ 
+ 
+(9) 
+The audit committee shall appoint a secretary of the Committee, who shall 
+circulate minutes of its meetings to the all members, directors and the chief financial 
+officer, within fourteen days of the meeting. 
+ 
+  
+22. 
+Internal Audit.- (1) There shall be an internal audit function in every 
+Public Sector Company. The chief internal auditor, who is the head of the internal audit 
+function in the Public Sector Company, shall be accountable to the audit committee and 
+have unrestricted access to the audit committee.   
+ 
+ 
+(2) 
+No person shall be appointed to the position of the chief internal auditor 
+unless he is considered and approved as “fit and proper” for the position by the Audit 
+Committee. No person shall be appointed as the Chief Internal Auditor of a Public Sector 
+Company unless he has five years of relevant audit experience and is a,-  
+ 
+(a)  
+member of a recognized body of professional accountants; or  
+(b)  
+certified internal auditor; or 
+(c)  
+certified fraud examiner; or 
+ 
+ 
+31
+ 
+ 
+(d) 
+certified internal control auditor; or 
+(e) 
+person holding a master degree in finance from a university 
+recognized by the Higher Education Commission. 
+ 
+Provided that individuals serving as chief internal auditor of the Public 
+Sector Company for the last five years at the time of coming into force of these rules shall 
+be exempted from the above qualification requirement.  
+ 
+ 
+(3)  
+Every Public Sector Company shall ensure that internal audit reports are 
+provided for the review of external auditors. The external auditors shall discuss any major 
+findings in relation to the reports with the audit committee, which shall report matters of 
+significance to the Board. 
+ 
+ 
+(4)  
+The internal audit function shall have an audit charter, duly approved by the 
+audit committee and shall work, as far as practicable, in accordance with the standards for 
+the professional practice of internal auditors issued by the Institute of Internal Auditors 
+Inc., (the global professional organization of internal audit profession).   
+ 
+ 
+23. 
+External Auditors.- (1) Every Public Sector Company shall ensure that its 
+annual accounts are audited by external auditors, as envisaged under section 252 of the 
+Ordinance. When carrying out audit of a Public Sector Company, the external auditors 
+shall take into account the specific requirements of any other relevant regulations, 
+ordinances or ministerial directives which affect the audit mandate and any special 
+auditing requirements.   
+ 
+ 
+(2) 
+In assessing materiality, the external auditor must, in addition to exercising 
+professional judgment, consider any legislation or regulation which may impact that 
+assessment. 
+ 
+ 
+(3) 
+The external auditors shall independently report to the shareholders in 
+accordance with statutory and professional requirements. They shall also report to the 
+ 
+ 
+32
+ 
+ 
+Board and audit committee the matters of audit interest, as laid down in the International 
+Standards on Auditing.   
+ 
+  
+(4) 
+No Public Sector Company shall appoint as external auditors a firm of 
+auditors which firm or a partner of which firm is non-compliant with the International 
+Federation of Accountants' (IFAC) Guidelines on Code of Ethics, as applicable in 
+Pakistan. 
+ 
+  
+(5) 
+The external auditors shall observe applicable guidelines issued by the 
+International Federation of Accountants with regard to restriction of non-audit services. 
+The audit committee shall also ensure that the external auditors do not perform 
+management functions or make management decisions, responsibility for which remains 
+with the Board and management of the Public Sector Company. 
+ 
+  
+(6) 
+Every Public Sector Company in the financial sector shall change its 
+external auditors every five years. Financial sector, for this purpose, means banks, non-
+banking finance companies, mutual funds, modarabas, takaful companies and insurance 
+companies. Every Public Sector Company other than those in the financial sector shall, at 
+a minimum, rotate the engagement partner after every five years. 
+ 
+  
+(7) 
+No Public Sector Company shall appoint a person as its chief executive, 
+chief financial officer, chief internal auditor or director who was a partner of the firm of 
+its external auditors (or an employee involved in the audit of the Public Sector Company) 
+at any time during the two years preceding such appointment.   
+ 
+  
+(8) 
+Every Public Sector Company shall require external auditors to furnish a 
+management letter to its Board not later than thirty days from the date of audit report. 
+ 
+ 
+24. 
+Compliance with the rules.- (1) Every Public Sector Company shall 
+publish and circulate a statement along with its annual report to set out the status of its 
+compliance with these rules, and shall also file with the Commission and the registrar 
+concerned such statement alongwith its annual report. 
+ 
+ 
+ 
+33
+ 
+ 
+ 
+(2) 
+Every Public Sector Company shall ensure that the statement of compliance 
+with the rules is reviewed and certified by external auditors, where such compliance can 
+be objectively verified, before publication by the Public Sector Company. 
+ 
+ 
+(3) 
+Where the Commission is satisfied that it is not practicable to comply with 
+any of these rules, the Commission may, for reasons to be recorded, relax the same 
+subject to such conditions as it may deem fit to impose. 
+ 
+ 
+25.  
+Penalty for contravention of the rules.- Whoever fails or refuses to 
+comply with, or contravenes any provision of these rules, or knowingly and willfully 
+authorises or permits such failure, refusal or contravention shall, in addition to any other 
+liability under the Ordinance, be punishable with fine and, in the case of continuing 
+failure, to a further fine, as provided in sub-section (2) of section 506 of the Ordinance. 
+ 
+-.-.-.-.- 
+ 
+ 
+ 
+ 
+ 
+ 
+ ANNEXURE 
+[See Rule 3(7)] 
+ 
+CRITERIA FOR DETERMINING A ‘FIT AND PROPER PERSON’ 
+ 
+ (1) 
+For the purpose of determining as to whether a person proposed to be appointed as 
+director is a ‘fit and proper person’, the appointing authorities  shall take into account any 
+consideration as it deems fit, including but not limited to the following criteria, namely:-  
+The person proposed for the said position –  
+ 
+(a) 
+is at least graduate; 
+ 
+ 
+34
+ 
+ 
+ 
+(b) 
+is a reputed businessman or a recognised professional with relevant  sectoral 
+experience; 
+ 
+(c) 
+has financial integrity; 
+ 
+(d) 
+has no  convictions or civil liabilities; 
+ 
+(e) 
+is known to have competence; 
+ 
+(f) 
+has good reputation and character; 
+ 
+(g) 
+has the traits of efficiency and honesty;  
+ 
+(h) 
+does not suffer from any disqualification to act as a director stipulated in the 
+Ordinance; 
+ 
+(i) 
+has not been subject to an order passed by the Commission cancelling the 
+certificate of registration granted to the person individually or collectively 
+with others on the ground of its indulging in insider trading, fraudulent and 
+unfair trade practices or market manipulation, illegal banking, forex or 
+deposit taking business; 
+ 
+(j) 
+has not been subject to an order passed by the Commission or any other 
+regulatory authority, withdrawing or refusing to grant any license or approval 
+to him which has a bearing on the capital market; 
+ 
+(k) 
+is not a stock broker or agent of a broker; and 
+ 
+(l) 
+does not suffer from a conflict of interest; this includes political office 
+holders whether or not in a legislative role. 
+ 
+(2) 
+A director shall cease to be considered as a “fit and proper person” for the purpose, 
+if he incurs any of the following disqualifications, namely:- 
+ 
+(a) 
+he is convicted by a court for any offence involving moral turpitude, 
+economic offence, disregard of securities and company laws or fraud; 
+ 
+(b) 
+an order for winding up has been passed against a company of which he was 
+the officer as defined under section 305 of the Ordinance;  
+ 
+ 
+ 
+35
+ 
+ 
+(c) 
+he or his close relatives have been engaged in a business which is of the 
+same nature as and directly competes with the business carried on by the 
+Public Sector Company of which he is the director; 
+ 
+(d) 
+he does not conduct his duties with due diligence and skill; or 
+(e) 
+his association with the Public Sector Company is likely, for 
+whatever reason, to be detrimental to the interest of the Public 
+Sector Company, or be otherwise undesirable. 

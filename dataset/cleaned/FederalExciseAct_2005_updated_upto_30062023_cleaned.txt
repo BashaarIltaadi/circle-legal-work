@@ -1,0 +1,5216 @@
+Section 1:
+1. 
+Short title, extent and commencement.—(1) This Act may 
+be called the Federal Excise Act, 2005, 
+(2) 
+It extends to the whole of Pakistan 
+(3) 
+It shall come into force on 1st day of July, 2005.
+---
+
+Section 2:
+2. 
+Definitions.—In this Act, unless there is anything repugnant 
+in the subject or context,— 
+ 
+(1) “adjudicating authority” means any authority competent to 
+ 
+ pass any order or decision under this Act or the rules made 
+ 
+ there under, but does not include the Board or Appellate 
+ 
+ Tribunal; 
+ 
+(2) “adjustment” means deduction of amount of duty paid on 
+ 
+ goods used in the manufacture or production of other goods 
+ 
+ from the amount of duty payable on such other  goods in the 
+ 
+ prescribed manner; 
+ 
+1[(3) “Appellate Tribunal” means the Appellate Tribunal Inland 
+ 
+ Revenue established under section 130 of the Income Tax 
+ 
+ Ordinance, 2001 (XLIX of 2001);] 
+ 
+2[(4) “Board” means the Federal Board of Revenue established
+ 
+ under the Central Board of Revenue Act, 1924  (IV of 1924) 
+ 
+ and on the commencement of the Federal Board of Revenue 
+ 
+ Act, 2007, the Federal Board of Revenue established under 
+ 
+ section 3 thereof;] 
+ 
+                         
+1  Clause (3) Substituted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 june 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+2  Substituted vide Finance Act, 2007 
+The Federal Excise Act, 2005 
+ 
+6 
+ 
+1[(4A) “Chief Commissioner” means a person appointed as the Chief 
+ 
+ Commissioner Inland Revenue under section 29;] 
+ 
+2[(5) “Commissioner” 
+means 
+a 
+person 
+appointed 
+as 
+a  
+ 
+ Commissioner Inland Revenue under section 29;] 
+ 
+(6) “conveyance” means any means of transport used for carrying 
+ 
+ goods or passengers such as vessel, aircraft, vehicle or animal 
+ 
+ etc.; 
+ 
+(7) “default surcharge” means surcharge levied under section 8; 
+ 
+(8) “distributor” means a person appointed by a manufacturer in or 
+ 
+ for a specified area to purchase goods from him for sale to a 
+ 
+ wholesale dealer in that area; 
+ 
+3[(8a) “due date”, in relation to furnishing a return under section 4, 
+ 
+ means the 15th day of the month following the end of the 
+ 
+ month, or such other date as the 4[Board] may, by notification 
+ 
+ in the official Gazette, specify 5[and different dates may be 
+ 
+ specified for furnishing of different parts or annexures of the 
+ 
+ return]. 
+ 
+6[(8b) “dutiable goods” means all excisable goods specified in the 
+ 
+ First Schedule except those which are exempt under section 
+ 
+ 16 of the Act; 
+ 
+(8c) “dutiable supply” means a supply of dutiable goods made by a 
+ 
+ manufacturer other than a supply of goods which is exempt 
+ 
+ under section 16 of the Act; 
+                         
+1  Clause (4A) Substituted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 june 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+2  Clause (5) Substituted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, Promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+3  Inserted vide Finance Act, 2006. 
+4 
+Substituted for the words “Federal Government” by Finance Act, 2017 
+5 
+Expression for full stop at end substituted through Finance Act, 2016. 
+6  Inserted vide Finance Act, 2007. 
+The Federal Excise Act, 2005 
+ 
+7 
+ 
+(8d) “dutiable services” means all excisable services specified in 
+ 
+ the First Schedule except those which are exempt under 
+ 
+ section 16 of the Act; 
+ 
+(9) “duty” means any sum payable under the provisions of this 
+Act or the rules made there under and includes the default 
+surcharge and the duty chargeable at the rate of zero percent 
+1[excluding fee and service charges imposed and collected 
+under section 49;] 
+ 
+2(9a) “duty 
+due” 
+means 
+duty 
+in 
+respect 
+of 
+supplies                                           
+ 
+ made or services provided or rendered during a month and 
+ 
+ shall be paid at the time of filing of return; 
+ 
+(10) “establishment” includes an undertaking, firm or company, 
+ 
+ whether incorporated or not, an association of persons and an 
+ 
+ individual; 
+ 
+(11) “factory” means any premises, including the precincts thereof, 
+ 
+ wherein or in any part of which goods are manufactured, or 
+ 
+ wherein or in any part of which any manufacturing process 
+ 
+ connected with the production of the goods is being carried on 
+ 
+ or is ordinarily carried on; 
+ 3[4[(12)] “Officer of Inland Revenue” means any person appointed by 
+ 
+ the Board as officer of Inland Revenue under section 29 or any 
+ 
+ person (including an officer of the Provincial Government) 
+ 
+ entrusted by the Board with any of the powers of an officer of 
+ 
+ Inland Revenue under this Act or rules made there under;] 
+                         
+1 Words inserted by Finance Act, 2022. 
+2  Inserted vide Finance Act, 2008. 
+ 
+3 
+Clause (12) Substituted by Finance Act, 2010 w.e.f. June 5, 2010. The Finance Ordinance states clause 12 to 
+be substituted by “(12A)”, however (12a) is already present in the Finance Ordinance. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+4 
+Clause (12A) re-numbered as (12) by Finance Act, 2012. 
+The Federal Excise Act, 2005 
+ 
+8 
+ 
+1(12a) “franchise” means an authority given by a franchiser under 
+ 
+ which the franchisee is contractually or otherwise granted any 
+ 
+ right to produce, manufacture, sell or trade in or do any other 
+ 
+ business activity in respect of goods or to provide service or 
+ 
+ to undertake any process identified with franchiser against a 
+ 
+ fee or consideration including royalty or technical fee, 
+ 
+ whether or not a trade mark, service mark ,trade name, logo, 
+ 
+ brand name or any such representation or symbol, as the case 
+ 
+ may be, is involved;” 
+ 
+(13) “goods” means goods leviable to excise duty under this Act or 
+ 
+ as specified in the First Schedule and includes goods  
+ 
+ manufactured or produced in non-tariff area and brought for use  
+ 
+ or consumption to tariff area; 
+ 
+(14) “goods insurance” includes fire, marine, theft, accident and 
+ 
+ other such miscellaneous insurance; 
+ 
+(15) “import” and “export” mean respectively bringing into, and 
+ 
+ taking out of Pakistan by sea, land or air and shall be 
+ 
+ deemed to have always been so  defined; 
+ 
+2(15a) “KIBOR” means Karachi Inter Bank Offered Rate prevalent 
+ 
+ on first day of each quarter of the financial year;” 
+ 
+(16) “manufacture” includes,— 
+ 
+ 
+(a) any process incidental or ancillary to the completion of a 
+ 
+ manufactured product; 
+ 
+(b) any process of re-manufacture, remaking, reconditioning 
+ 
+ or repair and the processes of packing or repacking such 
+ 
+ product, and, in relation to tobacco, includes the  
+ 
+ preparation of cigarettes, cigars, cheroots, biris, cigarette 
+ 
+ and pipe or hookah tobacco, chewing tobacco or 3[snuff, 
+ 
+ or preparation of unmanufactured tobacco by drying, 
+ 
+ cutting and thrashing of raw tobacco,] and the word 
+                         
+1 
+Clause (12a) inserted by Finance Act, 2008. 
+2 
+Inserted vide Finance Act, 2009. 
+3 
+Substituted for “snuff,” by Finance Act, 2011. 
+The Federal Excise Act, 2005 
+ 
+9 
+ 
+ "manufacturer" shall be construed accordingly and shall 
+ 
+ include,– 
+ 
+(i) any person who employs hired labour in the  
+ 
+ production or manufacture of goods; or 
+ 
+(ii) any person who engages in the production or  
+ 
+ manufacture of goods on his own account if such 
+ 
+ goods are intended for sale; and 
+ 
+(c) any person who, whether or not he carries out any 
+ 
+ process of manufacture himself or through his employees 
+ 
+ or any other person, gets any process of manufacture 
+ 
+ carried out on his behalf by any person who is not in his 
+ 
+ employment: 
+Provided that any person so dealing in goods shall be 
+deemed to have manufactured for all purposes of this Act, 
+such goods in which he deals in any capacity whatever; 
+ 
+[(16a) “non-fund banking services” includes all non-interest based 
+services provided or rendered by the banking companies or 
+non-banking financial institutions against a consideration in 
+the form of a fee or commission or charges;”;] 
+ 
+(17) “non-tariff area” means Azad Jammu and Kashmir,  Northern 
+Areas and such other territories or areas to which this Act 
+does not apply; 
+ 
+(18) “person” includes a company, an association, a body of 
+individuals, whether incorporated or not, a public or local 
+authority, 
+a 
+Provincial 
+Government 
+or 
+the 
+Federal 
+Government; 
+ 
+(19) “prescribed” means prescribed under this Act or by rules 
+made there under; 
+ 
+1[(19a) “property developers or promoters” means persons engaged in 
+                         
+1 
+Inserted vide Finance Act, 2008. 
+The Federal Excise Act, 2005 
+ 
+10 
+development of purchased or leased land for conversion into 
+residential or commercial plots or construction of residential 
+or commercial units for sale;] 
+ 
+(20) “registered person” means a person who is registered or is 
+required to be registered under this Act provided that a person 
+who is not registered but  
+is required to be registered shall not 
+be entitled to any benefit or privilege under this Act or rules 
+made there under, unless he is registered and such benefit and 
+privilege, unless allowed by Board, shall be confined to 
+period of registration; 
+ 
+(21) “sale” and “purchase” with their grammatical  variations and 
+cognate expressions, mean any  transfer of the possession of 
+goods or rendering and  providing of services by one person 
+to another in the ordinary course of trade or business for cash 
+or deferred payment or other consideration;                                              
+ 
+1[(21a) “sales tax mode” means the manner of collection and payment 
+under the Sales Tax Act, 1990, and rules made there under, of 
+the duties of excise chargeable under this Act specified to be 
+collected  and paid as if such duties were tax chargeable under 
+section 3 of the said Act and all the provisions of that Act and 
+rules, notifications, orders and instructions made or issued 
+there under shall, mutatis mutandis, apply to the excise duty 
+so chargeable;] 
+ 
+(22) “Schedule” means the schedule appended to this  Act; 
+ 
+(23) “services” means services, facilities and utilities leviable to 
+excise duty under this Act or as  specified 
+in 
+the 
+First 
+Schedule read with Chapter 98 of the Pakistan Customs 
+Tariff, including the services, facilities and utilities originating 
+from Pakistan or its tariff area or terminating in Pakistan or its 
+tariff area; 
+ 
+2[(23a) “supply” includes sale, lease or other disposition of goods and 
+                         
+1 
+Inserted vide Finance Act, 2007. 
+2  Inserted vide Finance Act, 2007. 
+The Federal Excise Act, 2005 
+ 
+11 
+shall include such transaction as the 1[Board, with the 
+approval of the Federal Minister-in-charge,] may notify in the 
+official  Gazette from time to time;] 
+ 
+(24) “tariff area” means area other than the non-tariff  area; 
+ 
+2[(24A) “un-manufactured tobacco” means tobacco useable for 
+manufacture of cigarettes as manufactured by Green Leaf 
+Threshing Units after processing and conversion of tobacco 
+green leaf;] 
+ 
+3[(24B) “whistleblower” means whistleblower as defined in  
+section 
+42D of the Federal Excise Act, 1990;] 
+ 
+(25) “wholesale dealer” means a person who buys or  sells 
+goods 
+wholesale for the purpose of trade or manufacture, and 
+includes a broker or commission agent who, in addition to 
+making contracts for the  sale or purchase of goods for others, 
+stocks such goods belonging to others as an agent for the 
+purpose of sale; and 
+ 
+(26) “zero-rated” means duty of Federal excise levied and charged 
+at the rate of zero per cent under section 5 of  this act.  
+ 
+ 
+ 
+ 
+ 
+       
+ 
+                         
+1  The words “Federal Government” substituted by Finance Act, 2019. 
+2  New clause 24A inserted by by Finance Supplementary (Amendment) Act, 2018 
+3  Earlier clause 24A re-numbered as clause 24B by Finance Supplementary (Amendment) Act, 2018 
+The Federal Excise Act, 2005 
+ 
+12 
+CHAPTER II 
+LEVY, COLLECTION AND PAYMENT OF DUTY
+---
+
+Section 3:
+3.  Duties specified in the First Schedule to be levied.—(1) 
+Subject to the provisions of this Act and rules made there under, there shall 
+be levied and collected in such manner as may be prescribed duties of excise 
+on,— 
+ 
+(a) goods produced or manufactured in Pakistan; 
+ 
+(b) goods imported into Pakistan 1[, irrespective of their final 
+destination in territories of Pakistan];  
+ 
+(c) such goods as the 2[Federal Government] may, by notification 
+in the official Gazette, specify, as are produced or 
+manufactured in the non-tariff areas and are brought to the 
+tariff areas for sale or consumption therein; 3[***] 
+ 
+ 4[(d) services provided in Pakistan including the services originated 
+outside but rendered in Pakistan; 5[and] 
+     6[(e)   any item not covered in clause (a) to (d) above and specified 
+in the First Schedule.] 
+at the rate of 7[fifteen] per cent ad valorem except the goods and services 
+specified in the First Schedule, which shall be charged to Federal excise 
+duty as, and at the rates, set-forth therein. 
+(2) Duty in respect of goods imported into Pakistan shall be 
+levied and collected in the same manner and at the same time as if it were 
+a duty of customs payable under the Customs Act, 1969 (IV of 1969), and 
+the provisions of the said Act including section 31A thereof shall apply. 
+                         
+1 
+The expression inserted by Finance Act, 2017. 
+2 
+Words “Federal Government” substituted by Finance Act, 2018. 
+3 Word omitted by Finance Act, 2023 
+4 
+Inserted vide Finance Act, 2008. 
+5 Word added by Finance Act, 2023 
+6 New clause added by Finance Act, 2023 
+7 
+Substituted “fifty” vide Finance Act, 2006. 
+The Federal Excise Act, 2005 
+ 
+13 
+(3) The Board may, by notification in the official Gazette, in lieu 
+of levying and collecting under sub-section (1) duties of excise on goods 
+and services, as the case may be, levy and collect duties,— 
+ 
+ 
+(a) on the production capacity of plants, machinery, undertakings, 
+establishments or installations producing or manufacturing 
+such goods; or 
+ 
+(b) on fixed basis, as it may deem fit, on any goods or class of 
+goods or on any services or class of services, payable by any 
+establishment or undertaking producing or manufacturing 
+such goods or providing or rendering such services. 
+ 
+1[(3A) Subject to the provision of sub-section (3) of section 6 or any 
+notification issued there under, where excisable goods and services are 
+supplied to a person who has not obtained registration number, the Federal 
+Government may, by notification in the official Gazette, charge, levy and 
+collect, on the excisable goods and services specified in that notification, a 
+further duty at the rate of two percent of the value in addition to the rate 
+specified in sub-sections (1), (3), (4) and (5) of this section.] 
+ 
+(4) Without prejudice to other provisions of this Act, the 
+2[Federal Government] may levy and collect duty on any class or classes of 
+goods or services by notification in the official Gazette at such higher or 
+lower rate or rates as may be specified in such notification. 
+ 
+3[(5) The liability to pay duty shall be— 
+ 
+(a) in case of goods produced or manufactured in Pakistan, 
+of the person manufacturing or producing such goods; 
+           (b)   in case of goods imported  into Pakistan, of the person 
+importing such goods; 
+ 
+(c) in case of services provided or rendered in Pakistan, of 
+the person providing or rendering such service  
+                         
+1 
+Sub-section (3A) inserted by Finance Act, 2013. 
+2 
+Words “Federal Government” substituted by Finance Act, 2018. 
+3 
+Sub-section (5) inserted by Finance Act, 2013. 
+The Federal Excise Act, 2005 
+ 
+14 
+1[, provided where services are rendered by the person 
+out of Pakistan, the recipient of such service in Pakistan 
+shall be liable to pay duty]; and 
+           (d)  in case of goods produced or manufactured in non-tariff 
+areas and brought to tariff areas for sale or consumption 
+therein, of the person bringing or causing to bring such 
+goods to tariff areas.] 
+ 
+2[(5A) In respect of goods, specified in the Fourth Schedule, the 
+minimum production for a month shall be determined on the basis of a 
+single or more inputs as consumed in the production process as per 
+criterion specified in the Fourth Schedule and if minimum production so 
+determined exceeds the actual supplies for the month, such minimum 
+production shall be treated as quantity supplied during the month and the 
+liability to pay duty shall be discharged accordingly.] 
+Explanation.– Subject to sub-section (1), for the purpose of this section, 
+“goods” means the goods specified in CHAPTERS 1 TO 97 and “services” 
+means the services specified in CHAPTER 98 of the First Schedule to the 
+Customs Act, 1969 (IV of 1969). 
+ 
+ 3[3A***]
+---
+
+Section 4:
+4. Filing of return and payment of duty etc.— 4[(1) 5[For every 
+month, a registered person] shall furnish not later than the due date a true 
+and correct return in such manner and form as may be prescribed by the 
+Board by notification in the official Gazette.] 
+ 
+6[(2) Duty due for the dutiable supplies made or services rendered 
+during a month shall be deposited by the registered person in the 
+designated branch of the bank 7[by the date as prescribed in this respect]: 
+                         
+1 
+Words etc. inserted by Finance Act, 2008. 
+2 
+New sub-section (5A) inserted through Finance Act, 2019. 
+3 
+Section 3A omitted by Finance Act, 2011 providing that in case of imports, this shall be deemed to have   
+been made on June 20, 2011. Earlier it was inserted by Finance Act, 2007. 
+4 
+Sub section (1) substituted by Finance Act, 2006. 
+5 
+Substituted vide Finance Act, 2007. 
+6 
+Substituted vide Finance Act, 2007.                                                    
+7 
+Expression substituted through Finance Act, 2016. 
+The Federal Excise Act, 2005 
+ 
+15 
+Provided that the Board may, by notification in the official Gazette, 
+prescribe any other manner of depositing the duty.] 
+1[(3)***]. 
+ 
+2(4) A registered person may, subject to approval of the 3[Commissioner 
+Inland Revenue] of Federal Excise having jurisdiction, file a revised return within 
+4[one hundred and twenty] days of the filing of return under sub-section (1), to 
+correct any omission or wrong declaration made therein 4[:] 
+  
+5[Provided that the approval under this sub-section shall not 
+be required if revised return is filed within sixty days of filing of 
+the original return and either the duty payable as per the revised 
+return is more than the amount paid or the refund claimed therein 
+is less than the amount as claimed, under the return sought to be 
+revised.] 
+ 
+(5) The Board may, by notification in the official Gazette, require 
+any person or class of persons for any goods or class of goods to furnish 
+such summary or details of particulars pertaining to imports, purchases, 
+utilization, consumption, production, sales or disposal of such goods during 
+any month or months in such format and manner as may be specified and 
+provisions of this subsection may be invoked mutatis mutandis in respect of 
+services. 
+ 
+(6) The Board may by an order, specify the manner and procedure 
+for filing of return for the purpose of this Act or rules made there under 
+and for payment of duty by electronic means. The Board may specify the 
+manner and procedure for the submission, receipt and transmission of any 
+information for the purpose of this Act or rules made there under by 
+electronic means. 
+ 
+(7) Every amount of duty due from any person on any other 
+                         
+1 
+Sub-section (3) omitted through Finance Act, 2016. 
+2 
+Substituted vide Finance Act, 2006.                                                    
+3 
+Substituted for “Collector of Federal Excise” by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 june 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+4 
+Amended vide Finance Act, 2008.                                                    
+5 For full stop a colon substituted and thereafter proviso inserted by Finance Act, 2021. 
+The Federal Excise Act, 2005 
+ 
+16 
+account shall also be deposited on the prescribed 1[return] in the bank branch 
+designated and in the same manner as aforesaid. 
+ 
+2[(8) The Board may, by rules made under this Act, prescribe a 
+composite return.]
+---
+
+Section 5:
+5.  Zero rate of duty and drawback of duty etc.—(1) 
+Notwithstanding the provisions of section 3, the goods exported out of 
+Pakistan or such goods as may be, by a notification in the official Gazette, 
+specified by the Federal Government shall be charged to duty at the rate of 
+zero per cent and adjustment of duty in terms of section 6 shall be admissible 
+on such goods. 
+ 
+(2) The Board may, by notification in the official Gazette, grant 
+drawback of duty paid on any goods used in the manufacture of any goods 
+manufactured in and exported out of Pakistan, or shipped as provisions or 
+stores for consumption on board a ship or aircraft proceeding to a 
+destination outside Pakistan, at such rate or rates and subject to such 
+conditions and limitations as may be specified in the notification. 
+ 
+3[(3) Notwithstanding anything in sub-sections (1) and (2), the 
+Board may, by notification in the official Gazette, prohibit the payment of 
+drawback, refund or adjustment of duty upon the exportation of goods or 
+any specified goods or class of goods to any specified foreign port or 
+territory.]
+---
+
+Section 6:
+6. Adjustment of duties of excise.— (1) For the purpose of 
+determining net liability of duty in respect of any goods, the duty already 
+paid on goods specified in the First Schedule and used directly as input 
+goods for the manufacture or production of such goods shall be deducted 
+from the amount of duty calculated on such goods. 
+ 
+(2) Adjustment of duty of excise under sub-section (1) shall be 
+admissible only if a person registered under this Act holds a valid proof to 
+the effect that he has paid the price of goods purchased by him including the 
+amount of duty and received the price of goods sold by him including the 
+amount of duty through banking channels including online payment whether 
+through credit card or otherwise. 
+                         
+1 
+Substituted for “challan” by Finance Act, 2007. 
+2 
+Added vide Finance Act, 2008.                                                    
+3 
+Added vide Finance Act, 2007.                                                    
+The Federal Excise Act, 2005 
+ 
+17 
+ 
+1[(2A) From the date to be notified by the Board, adjustment of duty 
+of excise under sub-section (1) shall be admissible only if the 
+supplier of input goods and services has declared such supply 
+in his return and he has paid amount of tax due as indicated in 
+his return]. 
+ 2[(2AB) Notwithstanding anything contained in this Act or the rules 
+made thereunder, the Board may, by notification in the 
+official Gazette, may impose restrictions on wastage of 
+material on which input tax has been claimed in respect of the 
+goods or class of goods.] 
+ 
+(3) Notwithstanding the provisions of sub-section (1), the Board 
+may, by a notification in the official Gazette, disallow or restrict whole or part 
+of the amount of or otherwise regulate the adjustment of duty in respect of 
+any goods or class of goods.
+---
+
+Section 7:
+7.  Application of the provisions of the Sales Tax Act, 1990.— 
+ 
+3[(1)] In case of goods specified in the Second Schedule or such 
+services as may be specified by the Board through a notification in the 
+official Gazette 4[the duty shall be payable in sales tax mode, whereby],— 
+ 
+(a) a registered person manufacturing or producing such goods or 
+providing or rendering such services shall be entitled to deduct 
+input tax paid during the tax period from the amount of duty of 
+excise due from him on such goods or services in respect of that 
+tax period; 
+ 
+(b) a registered person shall be entitled to deduct the amount of duty 
+of excise paid or payable by him on such goods or services as are 
+acquired by him during a tax period from the output tax due from 
+him in respect of that tax period; 
+ 
+(c) a registered person supplying such goods or providing or 
+rendering such services shall be entitled to deduct duty of excise 
+paid or payable on such goods or services as are acquired by him 
+                         
+1 
+New sub-section added through Finance Act, 2016. 
+2 New sub-section inserted by Finance Act, 2020. 
+3 
+Section 7 renumbered as sub-section (1) by Finance Act, 2008. 
+4 
+Words and commas inserted by Finance Act, 2007. 
+The Federal Excise Act, 2005 
+ 
+18 
+during the tax period from the amount of duty of excise due from 
+him on such goods manufactured or produced or services as are 
+provided or rendered by him during that period; and  
+ 
+(d) a person shall be entitled to deduct duty of excise paid or payable, 
+on such goods or services as are acquired by him during a month, 
+from the amount of duty of excise due from him on such goods 
+manufactured or produced or services as are provided or rendered 
+by him, during that month. Such services as are provided or 
+rendered by him, during that month. 
+Explanation.— For the purposes of this section, the expressions 
+“input tax”, “output tax” and “tax period” shall have the same meanings as 
+are assigned to them in the Sales Tax Act, 1990 1[*** ]. 
+ 
+2[(2) The 3[Board, with the approval of the Federal Minister-in-
+charge,] may, by notification in the official Gazette, declare that any of the 
+provisions of the Sales Tax Act,1990, relating to the levy of and 
+exemption from sales tax, registration, book keeping and invoicing 
+requirements, returns, offences and penalties, appeals and recovery of 
+arrears shall, with such modifications and alterations as it may consider 
+necessary or desirable to adapt them to the circumstances, be applicable in 
+regard to like matters in respect of the duty leviable under this Act.] 
+ 
+4[8. Default surcharge.—If a person does not pay the duty due or 
+any part thereof within the prescribed time or receives a refund of duty or 
+drawback or makes an adjustment which is not admissible to him, he shall, 
+in addition to the duty due, pay default surcharge at the rate of 5[twelve] 
+per cent” 6[per annum]] of the duty due, refund of duty or drawback. 
+Explanation.—For the purpose of this section,– 
+ 
+(a) the period of default shall be reckoned from the date following 
+the due date on which the duty was payable to the preceding day on which 
+the duty is actually paid; and  
+ 
+(b) in case of inadmissible adjustment or refund of duty or 
+                         
+1  Omitted vide Finance Act, 2007.                                                   
+2 
+Inserted vide Finance Act, 2008.                                                    
+3 
+The words “Federal Government” substituted through Finance Act, 2019. 
+4  Inserted vide Finance Act, 2008. 
+5  Words “twelve” substituted by Finance Act, 2018. 
+6  Words inserted by Finance Act, 2011. 
+The Federal Excise Act, 2005 
+ 
+19 
+drawback, the period of default shall be reckoned from the date of such 
+adjustment or as the case may be, refund of duty or drawback is received.]
+---
+
+Section 8:
+9. Liability for payment of duty in the case of private 
+companies or business enterprises or in case of sale of business 
+ownership.—(1) Notwithstanding anything contained in any other  law for 
+the time being in force, where any private company or business enterprise is 
+closed or discontinued or otherwise ceases to exist and any amount of duty 
+chargeable on the company or business enterprise, whether before, or in the 
+course of, or after its liquidation cannot be recovered from the company or 
+business enterprise, every person who was a owner of, or partner in, or 
+director of, the company or business enterprise shall, jointly and severally 
+with such persons, be liable for the payment of such duty. 
+ 
+(2) In the case of sale or transfer of ownership of a business or 
+part thereof involving any charge of duty to another person as an ongoing 
+concern, the chargeable duty shall be paid by the person to whom such sale 
+is made or ownership is transferred provided that if any amount of duty 
+payable by such person remains unpaid, such unpaid amount of duty shall 
+be the first charge on the assets of the business and shall be payable by the 
+transferee of business: 
+Provided that no business enterprise or a part thereof shall be sold 
+or transferred unless the outstanding duty is paid and a no objection 
+certificate in this behalf from the 1[Commissioner] concerned is obtained. 
+ 
+(3) In case of termination of a business or part thereof involving 
+any outstanding charge of duty, a person terminating such business or part 
+thereof shall be required to account for and pay the outstanding charge of 
+duty as if no such termination has taken place.
+---
+
+Section 9:
+10. Applicable value and rate of duty.— The value and the rate 
+of duty applicable to any goods or services shall be the value, retail price, 
+tariff value and the rate of duty in force,–. 
+ 
+(a) in the case of goods, on the date on which the goods are 
+2[supplies] for export or for home consumption; 
+ 
+(b) in the case of services, on the date on which the services are 
+provided or rendered; and 
+                         
+1 
+Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. 
+2 
+Substituted for “cleared” by Finance Act, 2007. 
+The Federal Excise Act, 2005 
+ 
+20 
+ 
+(c) in the case of goods produced or manufactured outside the areas 
+to which this Act has been applied and brought to such areas for 
+sale or consumption therein, the date on which the goods are 
+brought to those areas.
+---
+
+Section 10:
+11. Collection of excess duty etc.– Every person who for any 
+reason whatever has collected or collects any duty, which is not payable as 
+duty or which is in excess of the duty actually payable and the incidence of 
+which has been passed on to the consumer, shall pay the amount so 
+collected to the Federal Government and all the provisions of this Act or 
+rules made there under shall apply for the recovery of such amount and 
+claim for refund of any such amount paid or recovered shall not be 
+admissible on any ground whatever.
+---
+
+Section 11:
+12. Determination of value for the purposes of duty.– 1[(1) 
+Where any goods are liable to duty under this Act at a rate dependent on 
+their value, duty shall be assessed and paid on the basis of value as 
+determined in accordance with sub-section (46)of section 2 of the Sales 
+Tax Act, 1990, excluding the amount of duty payable thereon. ] 
+ 
+(2) Where any services are liable to duty under this Act at a rate 
+dependent on the charges therefore, the duty shall be paid on total amount 
+of charges for the services including the ancillary facilities or utilities, if 
+any, irrespective whether such services have been rendered or provided on 
+payment of charge or free of charge or on any concessional basis. 
+ 
+(3) Where any goods are chargeable to duty at the import stage, 
+duty will be assessed and paid on the value determined in accordance with 
+section 25 of the Customs Act, 1969 (IV of 1969), including customs duties 
+payable thereon. 
+ 
+(4) Where any goods are chargeable to a duty on the basis of retail 
+price, duty thereon shall be paid on the retail price fixed by the manufacturer, 
+inclusive of all 2[duties,] charges and taxes, other than sales tax levied and 
+collected under section 3 of the Sales Tax Act, 1990, at which any particular 
+brand or variety of such goods should be sold to the general body of 
+consumers or, if more than one such price is so fixed for the same brand or 
+variety, the highest of such price and such retail price shall, unless otherwise 
+                         
+1 
+Substituted vide Finance Act, 2008 
+2 
+Words and comma inserted by Finance Act, 2007. 
+The Federal Excise Act, 2005 
+ 
+21 
+directed by the Board, be legibly, prominently and indelibly indicated on each 
+good, packet, container, package, cover or label of such goods: 
+Provided that where so and as specified by the Board, any goods or 
+class of goods liable to duty on local production as percentage of retail 
+price, the provisions of this sub-section shall mutatis mutandis apply in case 
+such goods are imported from abroad 1[:] 
+2[Provided further that the Board may through a general order 
+specify zones or areas only for the purpose of determination of highest 
+retail price for any brand or variety of goods.] 
+ 
+(5) The Board may fix the minimum price of any goods or class 
+of goods, for the purpose of levying and collecting of duty and duty on 
+such goods shall be paid accordingly. 
+ 
+3[Provided that, where the price at which the goods or class of 
+goods are sold, is higher than the price fixed by the Board, the duty shall, 
+unless otherwise directed by the Board, be levied and collected at such 
+higher price.]
+---
+
+Section 12:
+13. Registration.— (1) Any person engaged in the production or 
+manufacture of goods or providing or rendering services liable to duty of 
+excise under this Act shall, unless otherwise specified, be required to obtain 
+registration in the prescribed manner regardless of his annual turnover or 
+volume of sales of such goods or services. 
+ 
+(2) Where a person who is already registered under the Sales Tax 
+Act, 1990, shall not be required to take separate registration for excise 
+purpose and his sales tax registration shall be deemed to be a registration for 
+the purpose of this Act: 
+Provided that provisions of the Sales Tax Act, 1990, including those 
+relating to exemption threshold shall not apply where a person obtains or is 
+liable to obtain registration for the purposes of this Act but does not have or is 
+not liable to registration under the Sales Tax Act, 1990.
+---
+
+Section 13:
+14. Recovery of unpaid duty or of erroneously refunded duty or 
+arrears of duty, etc.—(1) Where any person has not levied or paid any duty 
+or has short levied or short paid such duty or where any amount of duty has 
+                         
+1 
+Colon substituted vide Finance Act, 2014. 
+2 
+Proviso inserted vide Finance Act, 2014. 
+3 
+Added vide Finance Act, 2006.                                                  
+The Federal Excise Act, 2005 
+ 
+22 
+been refunded erroneously, such person shall be serviced with notice 
+requiring him to show cause for payment of such duty provided that such 
+notice shall be issued within 1[five] years from the relevant date. 
+ 
+(2) The 2[officer of Inland Revenue], empowered in this behalf, 
+shall after considering the objections of the person served with a notice to 
+show cause under sub-section (1), determine the amount of duty payable by 
+him and such person shall pay the amount so determined along with default 
+surcharge and penalty as specified by such officer under the provisions of this 
+Act 3[:] 
+4[Provided that an order under this section shall be made within one 
+hundred and twenty days of issuance of show cause notice or within such 
+extended period as the Commissioner may, for reasons to be recorded in 
+writing, fix, provided that such extended period shall in no case exceed sixty 
+days: 
+Provided further that any period during which the proceedings are 
+adjourned on account of a stay order or Alternative Dispute Resolution 
+proceedings or the time taken through adjournment by the petitioner not 
+exceeding thirty days shall be excluded from the computation of the 
+periods specified in the first proviso.] 
+ 
+(3) Where any amount of duty levied and penalty imposed or any 
+other amount payable under this Act is due from any person, such amount or 
+sum shall be recovered in such manner as is prescribed under this Act or 
+rules made there under. 
+ 
+5[(4) The provision of sub-section (2) shall mutatis mutandis apply 
+regarding assistance in collection and recovery of duties in pursuance of a 
+request from a foreign jurisdiction under a tax treaty, a multilateral 
+convention, and inter-governmental agreement or similar agreement or 
+mechanism as the case may be.] 
+ 
+                         
+1 
+Substituted for three by Finance Act, 2011. 
+2 
+Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+3 
+Substituted for full stop by Finance Act, 2011. 
+4 
+Proviso inserted by Finance Act, 2011. 
+5 New sub-section (4) inserted by Finance Act, 2021. 
+The Federal Excise Act, 2005 
+ 
+23 
+ 
+(4) Notwithstanding anything contained under any other law for the 
+time being in force, where any business or activity involving liability to 
+charge, levy and pay duty under this Act is sold, discontinued or liquidated, 
+the amount of unpaid or recoverable duty shall be the first charge on the 
+assets of the business. 
+Explanation.—For the purpose of this section, 1[refund includes 
+drawback of duty and]  the expression “relevant date” means the date on 
+which the payment of duty was due under sub-section (3) and in case 
+where any amount of duty has been erroneously refunded, the date of its 
+refund. 
+ 
+ 
+2[14A. Short paid amounts recoverable. –Notwithstanding the 
+provisions of this Act or the rules made there under, here a registered 
+person pays the amount of duty less than the duty due as indicated in his 
+return, the short paid amount of duty along with default surcharge shall be 
+recovered from such person by stopping removal of any goods from his 
+business premises and through attachment of his business bank accounts 
+without prejudice to any other action under this Act or the rules made 
+there under: 
+Provided that no penalty under this Act or rules made there under 
+shall be imposed unless a show cause notice is given to such person.] 
+ 
+3[14B. Assessment giving effect to an order.–. (1) Except where 
+sub-section (2) applies, where, in consequence of, or to give effect to, any 
+finding or direction in any order made under Chapter-V by the 
+Commissioner (Appeals), Appellate Tribunal, High Court, or Supreme 
+Court, the Commissioner or an officer of Inland Revenue empowered in 
+this behalf, shall issue the order within one year from the end of the 
+financial year in which the order of the Commissioner (Appeals), 
+Appellate Tribunal, High Court or Supreme Court, as the case may be, 
+was served on the Commissioner or Officer of Inland Revenue. 
+ 
+(2) Where, by an order made under Chapter V by the Appellate 
+Tribunal, High Court, or Supreme Court, an order of assessment is 
+remanded wholly or partly, and the Commissioner or Commissioner 
+(Appeals) or the Officer of Inland Revenue, as the case may be, is directed 
+                         
+1 
+Added vide Finance Act, 2008. 
+2 
+Inserted by Finance Act, 2007. 
+3New section 14B inserted by Finance Act, 2018. 
+ 
+The Federal Excise Act, 2005 
+ 
+24 
+to pass a new order of assessment, the Commissioner or Commissioner 
+(Appeals) or Officer of Inland Revenue, as the case may be, shall pass the 
+new order within one year from the end of the financial year in which the 
+Commissioner or Commissioner (Appeals) or Officer of Inland Revenue, 
+as the case may be, is served with the order: 
+Provided that limitation under this sub-section shall not apply if an 
+appeal or reference has been preferred against the order passed by 
+Appellate Tribunal or a High Court.] 
+ 
+1[14C. Power of tax authorities to modify orders, etc.–. (1) 
+Where a question of law has been decided by a High Court or the 
+Appellate Tribunal in the case of a registered person, on or after first day 
+of July 2005, the Commissioner or an officer of Inland Revenue may, 
+notwithstanding that he has preferred an appeal against the decision of the 
+High Court or made an application for reference against the order of the 
+Appellate Tribunal, as the case may be, follow the said decision in the 
+case of the said taxpayer in so far as it applies to said question of law 
+arising in any assessment pending before the Commissioner or an officer 
+of Inland Revenue, until the decision of the High Court or of the Appellate 
+Tribunal is reversed or modified.  
+(2)  
+In case the decision of High Court or the Appellate 
+Tribunal, referred to in sub-section (1), is reversed or modified, the 
+Commissioner or an officer of Inland Revenue may, notwithstanding the 
+expiry of period of limitation prescribed for making any assessment or 
+order, within a period of one year from the date of receipt of decision, 
+modify the assessment or order in which the said decision was applied so 
+that it conforms to the final decision.]
+---
+
+Section 14:
+15. 
+Application of the Customs Act, 1969 (IV of 1969) to 
+Federal excise duties.—The Federal Government may, by notification in 
+the official Gazette, declare that any or all of the provisions of the Customs 
+Act, 1969 (IV of 1969), shall, with such modifications and alterations it 
+may specify, consider necessary or desirable to adapt them to the 
+circumstances, be applicable in regard to like matters in respect of the duties 
+levied by sections 3 and 8.
+---
+
+Section 15:
+16. Exemptions.—(1) 
+All 
+goods 
+imported, 
+produced 
+or 
+                         
+1 New section 14C inserted by Finance Act, 2020. 
+The Federal Excise Act, 2005 
+ 
+25 
+manufactured in Pakistan and services provided or rendered except such 
+goods and services as are specified in the First Schedule shall be exempt 
+from whole of excise duties 1[levied under section 3]: 
+ 
+Provided that goods and services specified in the Third Schedule 
+shall be exempt from duty subject to such conditions and restrictions, if any, 
+specified therein and no adjustment in terms of section 6 shall be admissible 
+in respect of goods exempt from duty of excise whether conditionally or 
+otherwise. 
+ 
+ 
+2[(2) The Federal Government may, whenever circumstances exist 
+to take immediate action for the purposes of national security, natural 
+disaster, 
+national 
+food 
+security 
+in 
+emergency 
+situations 
+and 
+implementation of bilateral and multilateral agreements, by notification in 
+the official Gazette, exempt subject to such conditions as may be specified 
+therein, any goods or class of goods or any services or class of services 
+from the whole or any part of the duty leviable under this Act.] 
+3[(3)  * * *] 
+ 
+(4) Notwithstanding the provisions of 4[sub-section (2)], the 
+Federal Government or the Board may, by a notification in the official 
+Gazette, for reasons to be recorded, exempt any person or class of persons 
+from payment of the whole or part of the default surcharge imposed under 
+section 8 5[and penalties] subject to the such conditions or limitations as 
+may be specified in such notification. 
+ 
+6[(5) The 7[Board] shall place before the National Assembly all 
+notifications issued under this section in a financial year. 
+ 
+(6) Any notification issued under sub-section (2) after 1st July, 
+2015, shall, if not earlier rescinded, stand rescinded on the expiry of the 
+financial year in which it was issued 8[: 
+                         
+1 
+Added vide Finance Act, 2007. 
+2 
+Sub-section (2) substituted by Finance Act, 2019. 
+3 
+Sub-section (3) omitted by Finance Act, 2015 
+4 
+Substituted for the words, figures and brackets “sub-sections (2) and (3)” by Finance Act, 2015 
+5 
+Inserted vide Finance Act, 2007. 
+6 
+Sub-sections (5) and (6) inserted by Finance Act, 2015  
+7 
+Substituted for the words “Federal Government” by Finance Act, 2017 
+8 
+Provisos added by Finance Act, 2017 
+The Federal Excise Act, 2005 
+ 
+26 
+Provided that all such notifications, except those earlier rescinded, 
+shall be deemed to have been in force with effect from the 1st July, 2016 
+and shall continue to be in force till the 30th June, 2018, if not earlier 
+rescinded: 
+Provided further that all notifications issued on or after the first 
+day of July, 2016 and placed before the National Assembly as required 
+under sub-section (5) shall continue to be in force till thirtieth day of June, 
+2018, if not earlier rescinded by the Federal Government or the National 
+Assembly.]
+---
+
+Section 16:
+17. Records.—(1) Every person registered for the purposes of this 
+Act shall maintain and keep for a period of 1[six] years 2[or till such 
+further period the final decision in any proceedings including proceedings 
+for assessment, appeal, revision, reference, petition and any, proceedings 
+before an Alternative Dispute Resolution Committee is finalized] at his 
+business premises or registered office in English or Urdu language the 
+following records of excisable goods purchased, manufactured and cleared 
+(including those cleared without payment of excise duty) by him or by his 
+agent acting on his behalf in such form and manner as would permit ready 
+ascertainment of his liability of duty, namely:— 
+ 
+(a) records of clearances and sales made indicating the 
+description, quantity and value of goods, name and address of 
+the person to whom sales were made and the amount of the 
+duty charged; 
+ 
+(b) records of goods purchased showing the description, quantity and 
+value of goods, name, address and registration number of the 
+supplier and the amount of the duty, if any, on purchases; 
+                         
+1 
+Substituted for “Five” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+2 
+Words and commas inserted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+The Federal Excise Act, 2005 
+ 
+27 
+ 
+(c) records of goods cleared and sold without payment of duty; 
+ 
+(d) records of invoices, bills, accounts, agreements, contracts, 
+orders and other allied business matters; 
+ 
+1[(da) record relating to gate passes, inward or outward, and 
+transport receipts;] 
+ 
+(e) records of production, stocks and inventory; 
+ 
+(f) records of imports and exports; and 
+ 
+(g) such other records as may be specified by the Board. 
+ 
+(2) For any person or class of persons registered under this Act, or 
+for any goods or class of goods the Board may specify or prescribe,— 
+ 
+(a) to keep any other records for the purposes of this Act; 
+ 
+(b) to use such electronic fiscal cash registers as may be approved 
+by the Board; and 
+ 
+(c) the procedure or software for electronic maintenance of records 
+and filing of statements, documents or information by any 
+person or class of persons. 
+ 
+(3) Provisions of sub-sections (1) and (2) shall apply mutatis 
+mutandis on services provided or rendered by a person registered under this 
+Act.
+---
+
+Section 17:
+18. Invoices.—(1) A person registered under this Act shall issue 
+for each transaction a serially numbered invoice at the time of clearance or 
+sale of goods, including goods chargeable to duty at the rate of zero per cent, 
+or providing or rendering services containing the following particulars, 
+namely:– 
+ 
+a. name, address and registration number of the seller; 
+ 
+b. name, address and registration number of the buyer; 
+                         
+1 
+Clause (da) inserted by Finance Act, 2013. 
+The Federal Excise Act, 2005 
+ 
+28 
+ 
+c. date of issue of the invoice; 
+ 
+d. description and quantity of goods or as the case may be, 
+description of services; 
+ 
+e. value exclusive of excise duty; 
+ 
+f. amount of excise duty; and 
+ 
+g. value inclusive of excise duty. 
+ 
+(2) Notwithstanding sub-section (1), where a registered person is 
+also engaged in making supplies taxable under the Sales Tax Act, 1990, 
+such person shall not be required to issue a separate invoice for excise 
+purposes and the amount of excise duty and other related information may 
+in such cases be mentioned on the invoice issued for sales tax purposes. 
+ 
+(3) The Board may, by notification in the official Gazette, specify 
+such modified invoices for different persons or classes of persons as it may 
+deem necessary. 
+ 
+(4) The Board may, by notification in the official Gazette, specify 
+goods in respect of which a copy of the invoice shall be carried or 
+accompanied with the conveyance during their transportation or movement 
+in such manner and subject to such conditions as may be specified in this 
+behalf either in such notification or otherwise. 
+ 
+1[(5) The Board may, by notification in the official Gazette, specify 
+the goods or services in respect of which sales invoice shall be issued 
+electronically and prescribe the manner and procedure therein.] 
+CHAPTER III 
+OFFENCES AND PENALTIES
+---
+
+Section 18:
+19. Offences, penalties, fines and allied matters.—(1)  Any 
+person who fails to file or files an incorrect return within the period specified 
+in sub-section (1) of section 4 or fails to make payment or makes short 
+payment of duty on any account, shall pay a penalty of 2[five thousand 
+                         
+1  Added vide Finance Act, 2006 
+2 
+Substituted vide Finance Act, 2008. 
+The Federal Excise Act, 2005 
+ 
+29 
+rupees in case of non-filing of return  and ten thousand rupees or five per 
+cent of the duty involved whichever is higher in case of short payment of 
+duty due] in addition to the amount due from him and without prejudice to 
+other liabilities which may be determined against him or action which may 
+be taken against him under this Act and rules made there under ;  
+1[Provided that where a person files the return within fifteen days 
+after the due date he shall pay a penalty of one hundred rupees for each 
+day of default”; and] 
+ 
+(2) Any person who,–– 
+ 
+(a) makes, orally or in writing, or signs any declaration, 
+certificate or other document required by this Act or rules 
+made there under or by any Federal Excise officer to do so, 
+which is untrue or incorrect in any particular or which is 
+incomplete by omitting any material particular there 
+from; 
+ 
+(b) counterfeits or falsifies, or uses, when counterfeited or 
+falsified, any document which is or may be required 
+under this Act or rules made there under or any document 
+used in the transaction of any business or matter relevant 
+to this Act or rules made there under; 2[omitted] 
+ 
+(c) fails or refuses to give or produce to the 3[officer of 
+Inland Revenue] any information or document required 
+to be given or produced under this Act or rules made there 
+under; 4[and] 
+ 
+1[(d) a person who sells cigarettes in retail at a price lower 
+than the retail price plus the amount of sales tax as 
+                         
+1  Added vide Finance Act, 2008. 
+2  The word “and” omitted by Finance Act, 2019. 
+3  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259. 
+4 
+The word “and” inserted by Finance Act, 2019. 
+The Federal Excise Act, 2005 
+ 
+30 
+printed thereon,] 
+shall be guilty of an offence and for every such offence shall be liable to fine 
+which may extend to twenty thousand rupees and in case of offence under 
+clause (b), the fine may extend to one hundred thousand rupees and he shall 
+be punishable with imprisonment for a term which may extend to five years 
+or with both. 
+ 
+(3) Any person who,— 
+ 
+(a) illegally removes, stores, keeps, or withdraws or in any way 
+assists or is concerned in the illegal removal or withdrawal of 
+any goods in the manner other than the manner prescribed 
+under this Act or rules made there under; 
+ 
+(b) is in any way concerned in conveying, removing, depositing or 
+dealing with any goods with intent to defraud the Government 
+of any duty of excise due thereon, or to violate any of the 
+provisions of this Act or rules made there under;  
+ 
+(c) is in any way concerned in any fraudulent evasion or attempt at 
+fraudulent evasion of any duty of excise; 
+ 
+(d) claims, takes or avails adjustment of duty not admissible 
+under this Act or the rules made there under; and 
+ 
+(e) is in any way concerned in the manufacture of any dutiable 
+goods in contravention of the provisions of this Act or rules 
+made there under; 
+shall be guilty of an offence and for each such offence, shall be liable to fine 
+which may extend to fifty thousand rupees or five times of the duty involved, 
+whichever is higher and to punishment with imprisonment which may 
+extend to five years or both. 
+ 
+(4) Any person who, without the approval of the 2[Commissioner], 
+                                                             
+1  New clause (d) inserted through Finance Act, 2019. 
+2  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+The Federal Excise Act, 2005 
+ 
+31 
+directly or otherwise destroys, damages, erases or otherwise manipulates 
+data stored in or used in connection with a computer or otherwise uses a 
+computer, the purpose or effect of which is to reduce, avoid or evade any 
+liability to duty of excise which would otherwise have been imposed by this 
+Act, or to defeat any provisions of this Act or rules made there under shall be 
+guilty of an offence and shall be liable to fine which may extend to seventy 
+five thousand rupees or ten times of the duty involved, whichever is higher 
+and to punishment with imprisonment which may extend to five years or 
+both. 
+(5) If any person obtains, attempts to obtain or abets in obtaining, 
+or does anything whereby there might be obtained by another person, any 
+amount by way of refund or drawback of any duty in respect of any goods 
+1[or services] not lawfully payable or allowable in respect thereof or which 
+is greater than the amount so payable or allowable, he shall be guilty of an 
+offence and shall be liable to fine which may extend to one hundred 
+thousand rupees or five times of duty involved, whichever is higher and to 
+punishment with imprisonment which may extend to five years or both. 
+(6) Any person who obstructs any 2[officer of Inland Revenue] or 
+other public servant or any person acting in his aid or assistance, or duly 
+employed for the prevention of offences under this Act or rules made there 
+under in the execution of his duty or in the due seizing of any goods liable to 
+seizure under this Act or rules made there under, shall be guilty of an offence 
+and for each such offence, shall be liable to fine which may extend to fifty 
+thousand rupees or five times of duty involved, whichever is higher and to 
+punishment which may extend to three years or both. 
+(7) Where an offence under this Act or rules made there under has 
+been committed by a company, firm, or other body of persons, any person 
+who at the time of the commission of the offence was a director, manager, 
+or other similar officer or a partner of the company, firm, or other body of 
+                                                             
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+1  Words inserted by Finance Act, 2008. 
+2 
+Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+The Federal Excise Act, 2005 
+ 
+32 
+persons or was purporting to act in that capacity shall be deemed to be 
+guilty of that offence unless he proves that the offence was committed 
+without his consent or connivance and that he exercised all such diligence to 
+prevent the commission of the offence as he ought to have exercised, 
+having regard to the nature of his functions in that capacity and to all the 
+circumstances. 
+(8) Unless otherwise legally proved, where any person is liable 
+under this Act to any penalty or punishment for any act, omission, neglect or 
+default, he shall be liable to the same punishment, penalty or forfeiture for 
+every such act, omission, neglect or default of any agent or employee. 
+(9) Where any goods are chargeable to duty on the basis of retail 
+price under this Act and the retail price is not indicated on the goods 1[and 
+in case of cigarettes, retail price, health warning and name of the 
+manufacturer is not mentioned] in the manner specified therein or in the 
+rules made there under, the duty shall be charged at the rate of 500 per cent 
+ad valorem in case of cigarettes, and 40 per cent ad valorem in case of 
+goods other than cigarettes: 
+ 
+Provided that in cases where a registered person does not intend to 
+print   retail price for any genuine reasons, he may voluntarily pay duty on the 
+said higher rates as applicable to him and declare his duty payments in the 
+return accordingly and other provisions of this section shall not apply in such 
+cases. 
+ 
+(10) 
+2[Where any person is engaged in the manufacture or 
+production of cigarettes 3[or un-manufactured tobacco] in the manner contrary 
+to this Act or the rules made thereunder or otherwise evades duty of excise on 
+cigarettes 4[or un-manufactured tobacco] or is engaged in the manufacture or 
+production of counterfeited cigarettes or tax stamps, banderoles, stickers, labels 
+or barcodes, or is engaged in the manufacturing or production of cigarettes 
+packs without affixing, or affixing counterfeited, tax stamps, banderoles, 
+stickers, labels or barcodes, the machinery, equipments, instruments or devices 
+used in such manufacture or production shall, after outright confiscation, be 
+destroyed in such manner as may be approved by the Commissioner and such 
+                         
+1  Added vide Finance Act, 2009. 
+2  Sub-section (10) substituted by Finance Act, 2017 
+3  Words inserted by Finance Supplementary (Amendment) Act, 2018 
+4  Words inserted by Finance Supplementary (Amendment) Act, 2018 
+The Federal Excise Act, 2005 
+ 
+33 
+person shall not be entitled to any claim on any ground whatsoever, or be 
+otherwise not entitled to any compensation in respect of such machinery or 
+equipments, instruments or devices and such confiscation or destruction shall 
+be without prejudice to any other penal action which may be taken under the 
+law against the person or in respect of the cigarettes 1[or un-manufactured 
+tobacco], tax stamps, stickers, labels, barcodes or vehicles involved in or 
+otherwise linked or connected with the case.] 
+(11) 
+Any goods in respect of which any of the provisions of this 
+Act or rules made or notifications issued there under has been contravened 
+shall be liable to confiscation along with the conveyance, if any, in which 
+such goods are laden or have been or being carried and all confiscations in 
+this regard shall vest with the Federal Government. 
+(12) 
+Any person who attempts to commit any offence punishable 
+under this Act, or abets the commission of the offence, shall be liable to the 
+punishment provided for the offence. 
+(13) 
+1[Any person who contravenes any provision of this Act or 
+rules made thereunder for which no penalty has specifically been provided 
+in this section shall be liable to pay a penalty of five thousand rupees or 
+three percent of the amount of duty involved, whichever is higher]. 
+ 
+ 
+2[19A. ***]
+---
+
+Section 19:
+20. Appointment of Special Judges for trial of offences.– (1) 
+The Federal Government may, by notification in the official Gazette, 
+appoint as many Special Judges as it may consider necessary, and, where it 
+appoints more than one Special Judge, shall specify in the notification the 
+territorial limits within which each one of them shall exercise jurisdiction. 
+(2)  
+A Special Judge shall be a person who is or has been or is 
+qualified to be a Sessions Judge.
+---
+
+Section 20:
+21. Trial of offences by Special Judge. — (1) On the appointment 
+of a Special Judge for any area, an offence punishable under this Act shall be 
+tried exclusively by the Special Judge and all cases pending in any other 
+court in such area immediately before such appointment shall stand 
+                         
+1 
+New sub-section (13) inserted through Finance Act, 2016. 
+2 
+Section 19A omitted through Finance Act, 2022. 
+The Federal Excise Act, 2005 
+ 
+34 
+transferred to such Special Judge. 
+ 
+(2) The provisions of the Code of Criminal Procedure, 1898 (Act 
+V of 1898), except those of Chapter XXXVIII of that Code, shall apply to 
+the proceedings of the court of a Special Judge and, for the purposes of the 
+said provisions, the court of a Special Judge shall be deemed to be a Court of 
+Session trying cases, and a person conducting prosecution before the court 
+of a Special Judge shall be deemed to be a Public Prosecutor. 
+ 
+(3) For the purposes of sub-section (2), the Code of Criminal 
+Procedure, 1898 (Act V of 1898), shall have effect as if an offence 
+punishable   under this Act were one of the offences referred to in sub-
+section (1) of section 337 of the Code. 
+ 
+(4) A Special Judge shall take cognizance of, and have jurisdiction 
+to try an offence tribal under sub-section (1) only upon a complaint in 
+writing made by such 1[officer of Inland Revenue] as may be authorized by 
+the Board in this behalf, by a general or special order in writing. 
+ 
+(5) The provisions of Chapter XX of the Code of Criminal 
+Procedure, 1898 (Act V of 1898), shall apply to trial of cases under this Act 
+in so far as they are not inconsistent with the provisions of this Act. 
+ 
+(6) The Federal Government may, by order in writing, direct the 
+transfer, at any stage of the trial, of any case from the court of one Special 
+Judge to the court of another Special Judge for disposal, whenever it 
+appears to the Federal Government that such transfer will promote the ends 
+of justice or tend to the general convenience of parties or witnesses. 
+ 
+ 
+(7) In respect of a case transferred to a Special Judge by virtue of 
+sub-section (1) or under sub-section (6), such Judge shall not, by reason of 
+the said transfer, be bound to recall and rehear any witness who has given 
+evidence in the case before the transfer and may act on the evidence already 
+                         
+1 
+Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+The Federal Excise Act, 2005 
+ 
+35 
+recorded by or produced before the court which tried the case before the 
+transfer. 
+ 
+1[21A. Appeal against the order of Special Judge.– An appeal against 
+the order of a special Judge in respect of the trial of offence sall lie to the 
+respective High Court of the Province within thirty days of the passing of the 
+order and it shall be heard as an appeal under the Code of Criminal Procedure 
+1898 (Act V of 1898) by a single judge of High Court.]
+---
+
+Section 21:
+22. Power to arrest and prosecute.– (1) Any 2[officer of Inland 
+Revenue] authorized by the Board in this behalf who has reason to believe 
+that any person has committed an offence under this Act may arrest such 
+person after obtaining permission in writing from the 3[Commissioner] 
+concerned: 
+Provided that the 1[officer of Inland Revenue] shall immediately 
+intimate the fact of the arrest of a person to the Special Judge who may 
+direct such Officer to produce that person at such time and place and on 
+such date as the Special Judge considers expedient and such Officer shall act 
+accordingly. 
+ 
+(2) Notwithstanding anything contained in proviso to sub-section 
+(1), any person arrested under this Act shall be produced before the Special 
+Judge or, if there is no Special Judge within a reasonable distance, to the 
+nearest Judicial Magistrate, within twenty-four hours of such arrest, 
+excluding the time necessary for the journey from the place of arrest to the 
+Court of the Special Judge or, as the case may be, of such Magistrate. 
+ 
+(3) When any person is produced under sub-section (2) before the 
+                         
+1  Section 21A inserted by Finance Act, 2010 w.e.f. June 5, 2010. 
+2  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259. 
+3  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+ 
+The Federal Excise Act, 2005 
+ 
+36 
+Special Judge, he may, on the request of such person, after perusing the 
+record, if any, and after giving the prosecution an opportunity of being 
+heard, admit him to bail on his executing a bond, with or without sureties, or 
+refuse to admit him to bail and direct his detention at such place as he 
+deems fit: 
+Provided that nothing herein contained shall preclude the Special 
+Judge from canceling the bail of any such person at a subsequent stage if, 
+for any reason, he considers such cancellation necessary, but before passing 
+such order he shall afford such person an opportunity of being heard, unless 
+for reasons to be recorded he considers that the affording of such 
+opportunity shall defeat the purposes of this Act. 
+ 
+(4) When such person is produced under sub-section (2) before a 
+Judicial Magistrate, such Magistrate may, after authorizing his detention in 
+such custody, at such place and for such period as he considers necessary 
+or proper for facilitating his earliest production before the Special Judge, 
+direct his production before the Special Judge on a date and time to be fixed 
+by him or direct such person to be forthwith taken to, and produced before, 
+the Special Judge and he shall be so taken. 
+ 
+(5) Nothing in sub-section (3) or sub-section (4) shall preclude 
+the Special Judge or the Magistrate from remanding any such person to the 
+custody of the 1[officer of Inland Revenue] holding inquiry against that 
+person if such Officer makes a request in writing, to that effect and the 
+Special Judge or the Judicial Magistrate, after perusing the record, if any, 
+and hearing such person, is of the opinion that for the completion of inquiry 
+or investigation it is necessary to make such an order, provided that in no 
+case the period of such custody shall exceed fourteen days. 
+ 
+ 
+ 
+ 
+(6) When any person is arrested under this Act, the 1[officer of 
+Inland Revenue] shall record the fact of arrest and other relevant particulars 
+in the register mentioned in sub-section (10) and shall immediately proceed 
+to inquire into the charge against such person and if he completes the 
+inquiry within twenty-four hours of his arrest, excluding the time necessary 
+for journey as aforesaid, he may, after producing such person before the 
+Special Judge or the nearest Judicial Magistrate make a request for his 
+further detention in his custody. 
+ 
+The Federal Excise Act, 2005 
+ 
+37 
+ 
+(7) While holding an inquiry under sub-section (6), the 1[officer of 
+Inland Revenue] shall exercise the same powers as are exercisable by an 
+officer in charge of a police-station under the Code of Criminal Procedure, 
+1898 (Act V of 1898), but such Officer shall exercise such powers subject 
+to the foregoing provisions of this section while holding an inquiry under 
+this Act. 
+ 
+ 
+(8) If a 1[officer of Inland Revenue], after holding an inquiry, is of 
+the opinion that there is no sufficient evidence or reasonable grounds to 
+proceed against a person he shall make a report to this effect to the 
+2[Commissioner]  and with his approval may release him on his executing a 
+bond with or without sureties and shall direct such person to appear, as and 
+when required, before the Special Judge and may make a report to the 
+Special Judge for the discharge of such person and shall make a full report 
+of the case of his immediate superior. 
+ 
+ 
+ 
+(9) The Special Judge to whom a report has been made under 
+subsection (8) may, after the perusal of record of the inquiry and hearing 
+the prosecution, agree with such report and discharge the accused or, if he is 
+of the opinion that there is sufficient ground for proceeding against such 
+person, proceed with his trial and direct the prosecution to produce evidence. 
+ 
+ 
+(10) The 3[officer of Inland Revenue] empowered to hold inquiry 
+under this section shall maintain a register to be called "Register of Arrests 
+                         
+1 
+Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+2  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+3  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+The Federal Excise Act, 2005 
+ 
+38 
+and Detention" in the prescribed form in which he shall enter the name and 
+other particulars of every person arrested under this Act, together with the 
+time and date of arrest, the details of the information received, the details of 
+things, goods or documents, recovered from his custody, the name of the 
+witnesses and the explanation, if any, given by him and the manner in which 
+the inquiry has been conducted from day to day, and such register or 
+authenticated copies of its aforesaid entries shall be produced before the 
+Special Judge whenever such Officer is so directed by him. 
+ 
+(11) After completing the inquiry, the 1[officer of Inland Revenue]  
+shall, as early as possible, submit to the Special Judge a complaint in the 
+same form and manner, in which the officer in charge of a police-station 
+submits a report before a court. 
+ 
+(12) Any Magistrate of the first class may record any statement or 
+confession during inquiry under this Act, in accordance with the 
+provisions of section 164 of the Code of Criminal Procedure, 1898 (Act V of 
+1898). 
+ 
+(13) Without prejudice to the foregoing provisions of this section, 
+the 1[Board, with the approval of the Federal Minister-in-charge,] may, by 
+notification in the official Gazette, authorize any other officer working 
+under the Board to exercise the powers and perform the functions of a 
+1[officer of Inland Revenue] under this section, subject to such conditions, if 
+any, that it may deem fit to impose. 
+ 
+(14) Notwithstanding any provision of this Act, where any person 
+has committed an offence liable to penalty or punishment under this Act, the 
+2[Commissioner] may, either before or after the initiation of any proceedings 
+for the recovery of duty or prosecution of such person, compound the 
+offence if he pays the amount of duty along with such default surcharge 
+and penalty as is determined under the provisions of this Act.
+---
+
+Section 22:
+23. Power to summon persons to give evidence and produce 
+                         
+1  The words “Federal Government” substituted through Finance Act, 2019. 
+2  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+ 
+The Federal Excise Act, 2005 
+ 
+39 
+documents in inquiries.– (1) Any 1[officer of Inland Revenue] duly 
+empowered by the Board in this behalf shall have power to summon any 
+person whose attendance he considers necessary either to give evidence or 
+to produce a document or any other thing or information in any inquiry 
+which such officer is making for any of the purposes of this Act. 
+ 
+(2) All persons so summoned shall be bound to attend, either in 
+person or by an authorized agent, as such Officer may direct, and all 
+persons so summoned shall be bound to state the truth upon any subject 
+respecting which they are examined or make statements and to produce such 
+documents and other things as may be required: 
+Provided that the exemptions under sections 132 and 133 of the 
+Code of Civil Procedure (V of 1908) shall be applicable to requisitions for 
+attendance under this section. 
+ 
+(3) Every such inquiry as aforesaid shall be deemed to be a 
+"judicial proceeding" within the meaning of section 193 and section 228 of 
+the Pakistan Penal Code (XLV of 1860).
+---
+
+Section 23:
+24. Officers required to assist 1[officer of Inland Revenue].– 
+All officers of Police and Customs, sales tax, the civil armed forces and all 
+officers of Government engaged in the collection of land-revenue, and all 
+village officers shall assist the 1[officer of Inland Revenue] in the execution 
+of this Act as and when required by such Officers. 
+                         
+1  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259. 
+The Federal Excise Act, 2005 
+ 
+40 
+CHAPTER IV  
+ 
+SEARCHES, ARRESTS AND SEIZURES
+---
+
+Section 24:
+25. Searches and arrests how to be made.– All searches or 
+arrests made under this Act or any rules made there under and all arrests 
+made under this Act shall be carried out in accordance with the relevant 
+provisions of the Code of Criminal Procedure, 1898 (V of 1898).
+---
+
+Section 25:
+26. Power to seize.– 1[(1) The   counterfeited cigarettes or 
+beverages which have been manufactured or produced unlawfully and 
+other dutiable goods on which duty of excise has not been paid in the 
+manner as required under this Act and the rules made thereunder, shall be 
+liable to seizure along with the conveyance, which has been used for the 
+movement, carriage or transportation of such goods.] 
+ 
+(2) For the purpose of this section, ‘conveyance’ shall include all 
+of its fixtures, fittings and accessories etc.]
+---
+
+Section 26:
+27. Confiscation 2[of goods subject to federal excise duty].– (1) 
+The cigarettes 1[or beverages] seized for the reasons of counterfeiting shall 
+be liable to outright confiscation and shall be destroyed in the manner 
+prescribed in sub-section (10) of section 19. 
+ 
+(2) In case of 3[dutiable goods] seized on account of evasion of 
+duty, the owner shall be given an option to pay penalties and fines as 
+provided under section 19 and meet other obligations as provided under 
+other relevant provisions of the Act and rules made there under, for release 
+of such 3[dutiable goods] in lieu of confiscation provided that if such 
+release is not claimed or availed, no reduction or abatement in respect of 
+amounts of duty, penalties and fine shall be admissible in case such 
+3[dutiable goods] are auctioned. 
+ 
+(3) In case confiscated cigarettes 1[ , un-manufactured tobacco] are 
+rendered unfit for human consumption or become otherwise unfit for sale, 
+the 4[Commissioner] may allow destruction of such cigarettes 1[ , un-
+                         
+1 Sub-section (1) substituted by Finance Act, 2020. 
+2 Marginal note expression substituted by Finance Act, 2020. 
+3 Expression substituted by Finance Act, 2020. 
+4 
+Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+The Federal Excise Act, 2005 
+ 
+41 
+manufactured tobacco] in such manner as he may deem appropriate.
+---
+
+Section 27:
+28. Power to release seized conveyance.– (1) Where any 
+conveyance is seized which is liable to confiscation, the adjudicating 
+authority may, subject to such conditions as may be prescribed, order its 
+release pending adjudication of the case and on furnishing a guarantee by the 
+owner of the seized conveyance, from a scheduled bank valid for at least 
+one year equal to the value of such conveyance. 
+ 
+(2) In respect of cases pending before the Special Judge, release of 
+conveyance under sub-section (1) shall not be allowed without prior 
+permission of the Special Judge. 
+                                                             
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+ 
+The Federal Excise Act, 2005 
+ 
+42 
+CHAPTER V 
+POWERS, ADJUDICATION AND APPEALS
+---
+
+Section 28:
+29. Appointment of Federal excise officers and delegation of 
+powers.—1[(1) For the purposes of this Act and rules made there under, the 
+Board may, by notification in the official Gazette, appoint, in relation to 
+any area or jurisdiction specified in the notification, any person to be – 
+ 
+(a) 
+Chief Commissioner Inland Revenue; 
+(b) 
+Commissioner Inland Revenue; 
+(c) 
+Commissioner Inland Revenue (Appeals); 
+(d) 
+Additional Commissioner Inland Revenue; 
+(e) 
+Deputy Commissioner Inland Revenue;  
+2[(ea) District Taxation Officer Inland Revenue]; 
+(f) 
+Assistant Commissioner Inland Revenue; 
+2[(fa) Assistant Director Audit Inland Revenue]; 
+(g) 
+Inland Revenue Officer; 
+(h) 
+Superintendent Inland Revenue; 
+(i) 
+Inspector Inland Revenue; 
+(j) 
+Inland revenue Audit Officer; and 
+(k) 
+Officer of Inland Revenue with any other designation.] 
+ 
+ 
+ 
+3[(1A) The Chief Commissioner Inland Revenue and Commissioner 
+Inland Revenue (Appeals) shall be subordinate to the Board and 
+Commissioner Inland Revenue shall be subordinate to the Chief 
+Commissioner Inland Revenue. 
+ 
+                         
+1 
+Sub-section (1) substituted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+2  Clauses (ea) & (fa) added by Finance Act, 2017 
+3 
+Section (1A), (1B) and (1C) inserted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was 
+made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 
+6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was 
+presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this 
+amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. 
+XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 
+229 to 259 
+The Federal Excise Act, 2005 
+ 
+43 
+ 1[(1AA) The Chief Commissioners Inland Revenue shall perform their 
+functions in respect of such persons or classes of persons or such areas as 
+the Board may direct. 
+ 
+ 
+4(1AB) The Commissioners Inland Revenue shall perform their 
+functions in respect of such persons or classes of persons or such areas as 
+the Chief Commissioner, to whom they are sub-ordinate, may direct.] 
+ 
+ 
+(1B) Additional 
+Commissioner 
+Inland 
+Revenue, 
+Deputy 
+Commissioner Inland Revenue 
+2[, District Taxation Officer Inland 
+Revenue], Assistant Commissioners Inland Revenue Officers 3[, Assistant 
+Director Audit Inland Revenue], Inspector Inland Revenue and Officers of 
+Inland Revenue with any other designation shall be subordinate to the 
+Commissioner Inland Revenue and shall perform their functions in respect of 
+such persons or classes of persons or such areas as the Commissioners, to 
+whom they are subordinate, may direct. 
+ 
+ 
+(1C) Deputy Commissioners Inland Revenue 1[, District Taxation 
+Officer Inland Revenue], Assistant Commissioners Inland Revenue 1[, 
+Assistant Director Audit Inland Revenue], Inland Revenue Officers, 
+Superintendents Inland Revenue, Inland Revenue Audit Officers, Inspectors 
+Inland Revenue, and Officers of Inland Revenue with any other designation 
+shall be subordinate top the Additional Commissioner Inland Revenue.] 
+ 
+(2) Notwithstanding the other designations of the officers of 
+Federal Excise used in this Act or the rules made there under: 
+ 
+(a) the Directorate General (Intelligence & Investigation) 4[Inland 
+Revenue] shall consist of a Director General and as many 
+Directors, Additional Directors, Deputy Directors and Assistant 
+Directors and other officers with any other designation as the 
+Board may appoint by notification in the official Gazette; 
+ 
+ 
+5[(aa) The Board may, by notification in the official Gazette,– 
+                         
+1  Sub-sections (1AA) & (1AB) added by Finance Act, 2017 
+2  The expression inserted by Finance Act, 2017 
+3  The expressions inserted by Finance Act, 2017 
+4  Substituted vide Finance Act, 2007. 
+5  New clause “aa” added by Finance Act, 2018. 
+The Federal Excise Act, 2005 
+ 
+44 
+ 
+(i) specify the functions and jurisdiction of the Directorate 
+General and its officers; and 
+(ii) confer the powers of authorities specified in 1[sub-
+section (1) of section 29] upon the Directorate General 
+and its officers]; 
+ 
+(b) the Directorate General 2[***] Internal Audit shall consist of a 
+Director General and as many Directors, Additional Directors, 
+Deputy Directors and Assistant Directors and other officers 
+with any other designation as the Board may appoint by 
+notification in the official Gazette; 3[***] 
+ 
+(c) the 4[Inland Revenue Services Academy] shall consist of a 
+Director General and as many Directors, Additional Directors, 
+Deputy Directors and Assistant Directors and other officers with 
+any other designation as the Board may appoint by notification 
+in the official Gazette5; [and] 
+           6[(d)  the Directorate General of Digital Initiatives shall consist of a 
+Director General and as many Directors, Additional Directors, 
+Deputy Directors and Assistant Directors and such other 
+officers as the Board may, by notification in the official 
+Gazette, appoint.] 
+ 
+ 
+(3) 
+7[The Board or the Chief Commissioner with the approval of 
+the Board, may], empower by name or designation,— 
+ 
+ 
+(a) any 8[Additional Commissioner Inland Revenue] or 1[Deputy 
+                         
+1  Words substituted by Finance Supplementary (Second Amendment) Act, 2019 
+2  Omitted vide Finance Act, 2007. 
+3 Word omitted by Finance Act, 2023  
+4 Words substituted by Finance Act, 2022. 
+5 For full stop semi colon substituted and word “and” added by Finance Act, 2023  
+6 New clause added by Finance Act, 2023 
+7 Words substituted by Finance Act, 2010. 
+8  Substituted for “Additional Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was 
+made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 
+6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was 
+presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this 
+amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. 
+XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 
+229 to 259 
+The Federal Excise Act, 2005 
+ 
+45 
+Commissioner Inland Revenue] to exercise any of the powers of 
+a 2[Commissioner Inland Revenue]; 
+ 
+(b) any 4[Deputy Commissioner Inland Revenue] or 3[Assistant 
+Commissioner Inland Revenue] to exercise any of the powers 
+of an 4[Additional Commissioner Inland Revenue]; 
+ 
+(c) any 5[Assistant Commissioner Inland Revenue]  to exercise any 
+of the powers of a 6[Deputy Commissioner Inland Revenue]; 
+and 
+                                                             
+1  Substituted for “Deputy Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was 
+made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 
+6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was 
+presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this 
+amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. 
+XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 
+229 to 259 
+2  Substituted for “Collector of Federal Excise” by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+3  Substituted for “Assistant Collector of Federal Excise” by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 june 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+4  Substituted for “Additional Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was 
+made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 
+6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was 
+presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this 
+amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. 
+XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 
+229 to 259 
+5  Substituted for “Assistant Collector of Federal Excise” by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+6  Substituted for “Deputy Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was 
+made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 
+6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was 
+presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this 
+amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. 
+XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 
+229 to 259 
+The Federal Excise Act, 2005 
+ 
+46 
+ 
+(d) any other 1[officer of Inland Revenue] to exercise any of the 
+powers of a 2[Commissioner Inland Revenue], 1[Additional 
+Commissioner Inland Revenue], 
+3[Deputy Commissioner 
+Inland Revenue] or 2[Assistant Commissioner Inland Revenue]; 
+under this Act and the rules made there under. 
+ 
+3[ 4 *** ] 
+ 
+(5) The officer to whom any powers of any senior officer are 
+delegated under this section shall not further delegate such powers.
+---
+
+Section 29:
+30. Use of powers of subordinate officer.— (1) An officer 
+appointed under this Act shall exercise such powers and discharge such duties 
+as are conferred or imposed on him under this Act and he shall also be 
+competent to exercise all powers and discharge all duties or functions 
+conferred or imposed upon any officer subordinate to him. 
+ 
+(2) Notwithstanding anything contained in this Act or the rules 
+made there under, the Board may, by general or special order, impose such 
+limitations or conditions on the exercise of such powers and discharge of 
+such duties by any 4[officer of Inland Revenue]as it deems fit. 
+ 5[  31***] 
+                         
+1  Substituted for “Officer of Inland Revenue” by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+2  Substituted for “Collector of Federal Excise” by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+3 
+ Sub-section (4) omitted by Finance Act, 2010 w.e.f. June 5, 2010. 
+4  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+5  Section (31) omitted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by Finance 
+The Federal Excise Act, 2005 
+ 
+47
+---
+
+Section 30:
+32. Option to pay fine in lieu of confiscation of conveyance.– 
+Wherever confiscation is adjudged under this Act or the rules made there 
+under, the officer adjudging it may give the owner of the conveyance an 
+option to pay in lieu of confiscation such fine as the officer thinks fit.
+---
+
+Section 31:
+33. Appeals to 1[Commissioner] (Appeals).— 2[(1)] Any person 
+other than Federal Excise officer aggrieved by any decision or order passed 
+under this Act or the rules made there under by a 1[officer of Inland 
+Revenue up to the rank of 3[Additional Commissioner Inland Revenue], 
+other than a decision or order or notice given or action taken for recovery of 
+the arrears of duty under this Act or rules made there under may within 
+thirty days of receipt of such decision or order prefer appeal there from to the 
+3[Commissioner] (Appeals). 
+ 
+4[(1A) where in a particular case, the Commissioner (Appeals) is of 
+the opinion that the recovery of tax levied under this Act, shall cause 
+undue hardship to the taxpayer, he, after affording opportunity of being 
+heard to the Commissioner or officer of Inland Revenue against whose 
+order appeal has been made, may stay the recovery of such tax for a period 
+not exceeding thirty days in aggregate.] 
+ 
+ 
+5[(1B) 
+An appeal under sub-section (1) shall– 
+(a) 
+be in the prescribed form; 
+(b) 
+be verified in the prescribed manner;  
+                                                             
+(Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+1  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+2  Numbered vide Finance Act, 2006. 
+3  Substituted for “Additional Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was 
+made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 
+6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was 
+presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this 
+amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. 
+XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 
+229 to 259. 
+4  Sub section (1A) inserted vid Finance Act, 2013. 
+5    New sub-sections (1B) and (1C) inserted by Finance Act, 2020. 
+The Federal Excise Act, 2005 
+ 
+48 
+(c) 
+state precisely the grounds upon which the appeal is 
+made; 
+(d) 
+be accompanied by the prescribed fee specified in 
+sub-section (1C); and  
+(e) 
+be filed with the Commissioner (Appeals) within 
+the time set out in sub-section (1). 
+ 
+(1C) 
+The prescribed fee shall be– 
+(a) 
+in the case of an appeal against an assessment– 
+(i) 
+where the appellant is a company, 
+five thousand rupees; or 
+(ii) 
+where 
+the 
+appellant 
+is 
+not 
+a 
+company, two thousand and five hundred 
+rupees; and  
+(b) 
+in any other case– 
+(i) 
+where appellant is a company, five 
+thousand rupees; or 
+ 
+  
+(ii) 
+where 
+the 
+appellant 
+is 
+not 
+a 
+company, one thousand rupees.] 
+ 
+ 
+1[(2) The 2[Commissioner] (Appeals) may, after giving both parties 
+to the appeal an opportunity of being heard, pass such order as he thinks 
+fit, confirming, varying, altering, setting aside or annulling the decision or 
+order appealed against 3[:] 
+4[Provided that such order shall be passed not later than [one 
+hundred and twenty] days from the date of filing of appeal or within such 
+extended period, not exceeding 5[sixty] days, as the 2[Commissioner] 
+(Appeals) may, for reasons to be recorded in writing, extend.] 
+ 6[Provided further that any period during which the proceeding are 
+                         
+1  Added vide Finance Act, 2006. 
+2  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+3  Full stop substituted vide Finance Act, 2007. 
+4  Inserted vide Finance Act, 2007. 
+5  Substituted vide Finance Act, 2009. 
+6  Added vide Finance Act, 2009. 
+The Federal Excise Act, 2005 
+ 
+49 
+adjourned on account of stay order or Alternative Dispute Resolution 
+proceedings or the time taken through adjournment by the petitioner not 
+exceeding thirty days shall be excluded for the computation of these 
+period.] 
+ 
+(3) In deciding an appeal, the 2[Commissioner]  (Appeals) may 
+make such further inquiry as may be necessary provided that he shall not 
+remand the case for de novo consideration.] 
+ 
+1[(4) The 
+Commissioner 
+(Appeals) 
+shall 
+not 
+admit 
+any 
+documentary material or evidence which was not produced before the 
+Officer Inland Revenue unless the Commissioner (Appeals) is satisfied 
+that the appellant was prevented by sufficient cause from producing such 
+material or evidence before the Officer Inland Revenue.]
+---
+
+Section 32:
+34. Appeals to the Appellate Tribunal 2[***].–– (1) Any person 
+or 3[officer of Inland Revenue] aggrieved by any of the following orders 
+may within sixty days of the receipt of such orders file appeal to the 
+Appellate Tribunal against such orders,– 
+ 
+(a) an order passed by the 2[Commissioner] (Appeals); and 
+ 
+(b) an order passed by the Board or the Commissioner Inland 
+Revenue under section 35: 
+Provided that the Appellate Tribunal shall decide the appeal filed 
+under this sub-section within six months of its filing. 
+ 4[(2)***] 
+ 
+5[(3) The Appellate Tribunal may admit, hear and dispose of the 
+appeal as per procedure laid down in sections 131 and 132 of the Income 
+                         
+1 New sub-section (4) inserted by Finance Act, 2020. 
+2  Words “and Reference to High Court” omitted by Finance Act, 2011. 
+3  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 june 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259. 
+4  Sub-section (2) omitted by Finance Act, 2010. 
+5 New sub-section (3) inserted by Finance Act, 2020. 
+The Federal Excise Act, 2005 
+ 
+50 
+Tax Ordinance, 2001 (XLIX of 2001), and rules made thereunder.] 
+ 
+1[34A. Reference to High Court.– (1) Within ninety days of the 
+communication of the order of the Appellate Tribunal under sub-section (2A) of 
+section 34, the aggrieved person or the Commissioner may preference 
+application, in the prescribed form along with a statement of the case, to the High 
+Court, stating any question of law arising out of such order.  
+ 
+(2) The statement to the High Court referred to in sub-section (1), shall 
+set out the facts, the determination of the Appellate Tribunal and the question of 
+law which arises out of its order. 
+ 
+(3) Where, on an application made under sub-section (1), the High 
+Court is satisfied that a question of law arises out of the order referred to in sub-
+section (1), it may proceed to hear the case. 
+ 
+(4) A reference to the High Court under this section shall be heard by a 
+Bench of not less than two judges of the High Court and, in respect of the 
+reference , the provisions of section 98 of the Code  of Civil Procedure, 1908 
+(Act V of 1908), shall apply. 
+ 
+(5) The High Court upon hearing a reference under this section shall 
+decide the question of law raised by the reference and pass judgment thereon 
+specifying the grounds on which such judgment is based and the Tribunal’s order 
+shall stand modified accordingly. The Court shall send a copy of the Judgment 
+under the seal of the Court to the Appellate Tribunal. 
+ 
+(6) Notwithstanding that a reference has been made to the High Court, 
+the tax shall be payable in accordance with the order of the Appellate Tribunal. 
+ 
+(7) Where recovery of tax has been stayed by the High Court by an 
+order, such order shall cease to have effect on the expiration of a period of six 
+month following the day on which it was made unless the appeal is decided or 
+such order is withdrawn by the High Court earlier. 
+ 
+(8) Section 5 of the Limitation Act, 1908 (IX of 1908), shall apply to 
+an application made to the High Court under sub-section (1). 
+ 
+(9) An application under sub-section (1) by a person other than the 
+                         
+1  Section 34A inserted by Finance Act, 2010. 
+The Federal Excise Act, 2005 
+ 
+51 
+Commissioner shall be accompanied by a fee of one hundred rupees.]
+---
+
+Section 33:
+35. Powers of Board or 1[Commissioner] to pass certain 
+orders.– (1) The Board or the 2[Commissioner] within his jurisdiction, may 
+suo moto 2[, or otherwise] call for and examine the records of any 
+proceedings under this Act for the purpose of satisfying itself or, as the case 
+may be, himself as to the legality or propriety of any decision or order passed 
+by a subordinate officer and may pass such order as it or he may think fit. 
+ 
+(2) No order confiscating goods of greater value or enhancing any 
+fine, or imposing or enhancing any penalty, or requiring payment of any duty 
+not levied or short-levied shall be passed under sub-section (1) unless the 
+person affected thereby has been given an opportunity of showing cause 
+against it and of being heard in person or through a counsel or other person 
+duly authorized by him. 
+ 
+(3) No record of any proceedings relating to any decision or order 
+passed by any 3[officer of Inland Revenue] shall be called for or examined 
+under subsection (1) after the expiry of two years from the date of such 
+decision or order. 
+ 
+4[Explanation.– For the purpose of sections 35, 45 and 46 and for 
+removal of doubt, it is declared that the powers of the Board, Commissioner 
+or officer of Inland Revenue under these sections are independent of the 
+powers of the Board under section 42B and nothing contained in section 42B 
+restrict the powers of the Board, Commissioner or officer of Inland Revenue 
+under these sections or to conduct audit under these sections.] 
+                         
+1  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+2  Comma and words inserted by Finance Act, 2015. 
+3  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+4  Explanation inserted by Finance Act, 2013. It aims at nullifying judgments of higher courts, see under 
+section 42B. 
+The Federal Excise Act, 2005 
+ 
+52
+---
+
+Section 34:
+36. Power to rectify mistakes in orders.– The Federal 
+Government, the Board or any 1[officer of Inland Revenue]  may rectify any 
+mistake which is apparent from the record in any order passed by it or him 
+under any of the provisions of this Act or the rules made there under, on its 
+or his own motion or on an application made by a person affected by the 
+order within three years of the passing of such order provided that no such 
+rectification which has the effect of enhancing any penalty or fine or 
+requiring the payment of a greater amount of duty shall be made unless the 
+person affected by the proposed rectification has been given an 
+opportunity of being heard.
+---
+
+Section 35:
+37. Deposit, pending appeal, of duty demanded or penalty 
+levied.– 
+ 
+(1) Where in any appeal, the decision or order appealed against 
+relates to any duty demanded or penalty imposed under this Act, the 
+person desirous of appealing against such decision or order shall, pending 
+the appeal, deposit the duty demanded or the penalty imposed provided that 
+the Appellate Tribunal or 2[Commissioner] (Appeals) may in any particular 
+case dispense with such deposit subject to such conditions as it may deem fit 
+to impose so as to safeguard the interest of revenue. 
+ 
+(2) The order for such dispensation under sub-section (1) shall cease 
+to have effect on the expiration of a period of six months following the date 
+on which order for dispensation was passed or until the order of dispensation 
+is withdrawn earlier or the case is finally decided earlier by the Appellate 
+Tribunal or 1[Commissioner] (Appeals). 
+ 
+(3) Notwithstanding sub-sections (1) and (2), the Appellate 
+Tribunal or 1[Commissioner] (Appeals) may direct that, pending decision 
+                         
+1  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+2  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+The Federal Excise Act, 2005 
+ 
+53 
+on the appeal, the duty demanded or penalty imposed, alongwith the default 
+surcharge payable under this Act, be paid by the appellant in suitable 
+installments spread over a period not exceeding six months from the date of 
+such direction: 
+Provided that where a person has, at the time of filing appeal, 
+deposited fifteen per cent of the liability covered under the decision or 
+order appealed against, he shall not be required to separately seek stay 
+against recovery and stay in such a case shall commence from the date of 
+payment of such fifteen per cent amount and shall remain valid till the 
+expiry of a period of six months or till the decision of the appeal, whichever 
+is earlier unless the case is decided in his favour and the amount so paid is 
+claimed to have become due for refund 1[:] 
+ 
+1[Provided further that the Commissioner Inland Revenue or any 
+officer of Inland Revenue subordinate to him shall not issue notice under 
+this section or recovery rules made under the Federal Excise Rules, 2005 
+for recovery of any tax due from a taxpayer if the said taxpayer has filed 
+an appeal under section 33 in respect of the order under which the tax 
+sought to be recovered has become payable and the appeal has not been 
+decided by the Commissioner (Appeals), subject to the condition that 
+2[ten] per cent of the said amount of tax due has been paid by the 
+taxpayer.] 
+ 
+3[38. Alternative Dispute Resolution. -- (1) Notwithstanding any 
+other provision of this Act, or the rules made thereunder, an aggrieved 
+person in connection with any dispute pertaining to—  
+ 
+ 
+(a) the liability of duty of one hundred million rupees or  
+ 
+ 
+above against the aggrieved person or admissibility of  
+ 
+ 
+refund, as the case may be;  
+ 
+ 
+(b) the extent of waiver of default surcharge and penalty; or  
+ 
+ 
+ 
+(c) any other specific relief required to resolve the dispute, 
+may apply to the Board for the appointment of a committee for the 
+                         
+1  Colon & new proviso added by Finance Act, 2017 
+2  Words “ten” substituted by Finance Act, 2018. 
+3 Section 38 substituted by Finance Act, 2023. 
+The Federal Excise Act, 2005 
+ 
+54 
+resolution of any hardship or dispute mentioned in detail in the 
+application, which is under litigation in any court of law or an appellate 
+authority, except where criminal proceedings have been initiated.  
+ 
+(2) The application for dispute resolution shall be accompanied by 
+an initial proposition for resolution of the dispute, including an offer of 
+payment of duty.  
+ 
+(3) The Board may, after examination of the application of an 
+aggrieved person, appoint a committee, within fifteen days of receipt of 
+such application in the Board, comprising,—  
+ 
+ 
+(i) a retired judge not below the rank of a judge of a High 
+Court, who shall also be the Chairperson of the Committee, to be 
+nominated by the Board from a panel notified by the Law and Justice 
+Division for such purpose;  
+ 
+ 
+(ii) 
+Chief 
+Commissioner 
+Inland 
+Revenue 
+having 
+jurisdiction over the case; and  
+ 
+ 
+(iii) person to be nominated by the registered person from a 
+panel notified by the Board comprising –  
+ 
+ 
+ 
+(a) chartered accountants, cost and management 
+accountants and advocates having a minimum of ten years’ experience in 
+the field of taxation;  
+ 
+ 
+ 
+(b) officers of the Inland Revenue Service who 
+stood retired in BPS 21 or above; or  
+ 
+ 
+ 
+(c) reputable businessmen as nominated by 
+Chambers of Commerce and Industry: Provided that the registered person 
+shall not nominate a chartered accountant or an advocate if the said 
+chartered accountant or the advocate is or has been an auditor.  
+ 
+(4) The Board shall communicate the order of appointment of 
+committee to the aggrieved person, court of law or the appellate authority 
+where the dispute is pending and the concerned Commissioner.  
+ 
+The Federal Excise Act, 2005 
+ 
+55 
+(5) The committee appointed under sub-section (3) shall examine 
+the issue and may, if it deems necessary, conduct inquiry, seek expert 
+opinion, direct any officer of the Inland Revenue or any other person to 
+conduct an audit and shall decide the dispute by majority, within forty-five 
+days of its appointment extendable by another fifteen days for the reasons 
+to be recorded in writing.  
+ 
+(6) The decision by the committee under sub-section (5) shall not 
+be cited or taken as a precedent in any other case or in the same case for a 
+different tax year.  
+ 
+(7) The recovery of duty payable by a registered person in 
+connection with any dispute for which a committee has been appointed 
+under sub-section (3) shall be deemed to have been stayed on the 
+constitution of committee till the final decision or dissolution of the 
+committee, whichever is earlier.  
+(8) The decision of the committee under sub-section (5) shall be 
+binding on the Commissioner when the aggrieved person, being satisfied 
+with the decision, has withdrawn the appeal pending before the court of 
+law or any appellate authority in respect of dispute as mentioned in sub-
+section (1) and has communicated the order of withdrawal to the 
+Commissioner:  
+Provided that if the order of withdrawal is not communicated to the 
+Commissioner within sixty days of the service of decision of the 
+committee upon the aggrieved person, the decision of the committee shall 
+not be binding on the Commissioner.  
+ 
+(9) 
+Subject to sub-section (10), the Commissioner shall also 
+withdraw the appeal, if any, pending before any court of law or an 
+appellate authority in respect of dispute as mentioned in sub-section (1) 
+within thirty days of the communication of the order of withdrawal by the 
+aggrieved person to the Commissioner.  
+ 
+(10) 
+The aggrieved person shall make the payment of federal 
+excise duty and other taxes and within such time as decided by the 
+committee under sub section (5) and all decisions and orders made or 
+passed shall stand modified to that extent.  
+ 
+The Federal Excise Act, 2005 
+ 
+56 
+ 
+(11) 
+If the committee fails to decide within the period of sixty 
+days under sub-section (5), the Board shall dissolve the committee by an 
+order in writing and the matter shall be decided by the court of law or the 
+appellate authority where the dispute is pending under litigation.  
+ 
+(12) 
+The Board shall communicate the order of dissolution of 
+the committee to the aggrieved person, court of law or the appellate 
+authority and the Commissioner. 
+ 
+(13) 
+On receipt of the order of dissolution of the committee, the 
+court of law or the appellate authority shall decide the appeal within six 
+months of the communication of said order.  
+ 
+(14) 
+The Board may prescribe the amount to be paid as 
+remuneration for the services of the members of the committee, other than 
+the member appointed under clause (ii) of sub-section (3).  
+ 
+(15) The Board may, by notification in the official Gazette, make 
+rules for carrying out the purposes of this section.]
+---
+
+Section 36:
+39. Exclusion of time taken for copy.– In computing the period 
+of limitation specified for an appeal or application under this Chapter, the 
+day on which the order complained was served, and if the party preferring 
+the appeal or making the application was not furnished with a copy of the 
+order when the notice of the order was served upon him, the time requisite 
+for obtaining a copy of such order shall be excluded. 
+ 
+CHAPTER VI  
+ 
+SUPPLEMENTAL PROVISIONS
+---
+
+Section 37:
+40. Power of Board to make rules.– (1) The Board may make 
+rules to carry into effect the purposes of any or all the provisions of this Act 
+including charging fee for processing of returns, claims and other 
+documents and for preparation of copies thereof. 
+ 
+(2) In making rules under this section, the Board may provide that 
+The Federal Excise Act, 2005 
+ 
+57 
+any person committing a breach of any rule shall, without prejudice to any 
+other action that may be taken against him under this Act, be liable to such 
+penalty as may be prescribed under the rules and that any article in respect of 
+which any such breach is committed shall be confiscated or destroyed. 
+ 
+(3) The Board may, in respect of cigarettes, make rules or issue 
+instructions for the purpose of affixing duty stamps and banderoles and any 
+instructions issued in this behalf shall have the force of rules issued under this 
+Act. 
+           1[(4)   All rules made under sub-section (1) or any other provisions 
+of this Act, shall be collected, arranged and published along with general 
+orders and departmental instructions and rulings, if any, at appropriate 
+intervals and sold to the public at reasonable price or may be placed 
+regularly on the official website maintained by the Board.]
+---
+
+Section 38:
+41. Bar of suit and limitation of suit and other legal 
+proceedings.– (1) No suit shall be brought in any civil court to set aside or 
+modify any order passed, or any assessment, levy or collection of any duty, 
+under this Act. 
+ 
+(2) No suit prosecution or other legal proceeding shall lie against 
+the Federal Government or against any officer of the Government in respect 
+of any order passed in good faith or any act in good faith done or ordered 
+to be done under this Act. 
+ 
+(3) Notwithstanding anything in any other law for the time being 
+in force, no investigation or inquiry shall be undertaken or initiated by any 
+governmental agency against any officer or official for anything done in his 
+official capacity under this Act, rules, instructions or direction made or issued 
+there under without the prior approval of the Board.
+---
+
+Section 39:
+42. Observance of Board's orders, directions and instructions.– 
+All officers and persons employed in the execution of this Act and the rules 
+made there under shall observe and follow the orders, directions and 
+instructions of the Board provided that no such order, direction or 
+instruction shall be given by the Board so as to interfere with the discretion 
+of an officer in deciding the issues or matters brought before him for 
+                         
+1 New sub-section added by Finance Act, 2023. 
+The Federal Excise Act, 2005 
+ 
+58 
+adjudication under this Act or rules made there under. 
+ 
+1[42A. Reference to authorities.– Any reference to Collector, 
+Additional 
+Collector, 
+Deputy 
+Collector, 
+Assistant 
+Collector, 
+Superintendent and an officer of federal excise, wherever occurring, in 
+this Act and the rules Notifications, clarifications, general orders or orders 
+made or issued there under, shall be construed as reference to 
+Commissioner Inland Revenue,  Additional Commissioner Inland 
+Revenue, Deputy Commissioner Inland Revenue, Assistant Commissioner 
+Inland Revenue, Superintendent Inland Revenue and an officer of inland 
+Revenue, respectively. 
+ 
+2[42B. Selection for audit by the Board.– (1) The Board may select 
+persons or classes of persons for audit of records and documents through 
+computer ballot which may be random or parametric as the Board may 
+deem fit. 
+ 
+3[(1A) Notwithstanding anything contained in this Act or any other 
+law, for the time being in force, the Board shall keep the parameters 
+confidential.] 
+ 
+(2) Audit of such persons selected under sub-section (1) shall be 
+conducted as per procedure given in section 46 and all the provisions of 
+Act shall apply accordingly. 
+ 
+(3) For the removal of doubt, it is hereby declared that Board 
+shall be deemed always to have had, the power to select any persons or 
+classes of persons for audit.] 
+ 
+4[42C. Reward to Inland Revenue officers and officials.– (1) In 
+cases involving concealment or evasion of excise duty and other taxes, 
+cash reward shall be sanctioned to the officers and officials of Inland 
+Revenue for their meritorious conduct in such cases and to the informer 
+                         
+1 
+Section 42A and 42B inserted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+2 Section 42B inserted by Finance Act, 2010. 
+3 New sub-section (1A) inserted by Finance Act, 2020. 
+4  Section 42C inserted by Finance Act, 2013.  
+The Federal Excise Act, 2005 
+ 
+59 
+providing credible information leading to such detection, as may be 
+prescribed by the Board, only after realization of part or whole of the taxes 
+involved in such cases. 
+ 
+(1) The Board may, by notification in the official Gazette, 
+prescribe the procedure in this behalf and specify the apportionment of 
+reward sanctioned under this section for individual performance or to 
+collective welfare of the officers and officials of Inland Revenue.] 
+ 
+1[42D. Reward to whistleblowers.-(1) The Board may sanction 
+reward to whistleblowers in cases of concealment or evasion of duty, 
+corruption or misconduct providing credible information leading to such 
+detection of evasion of duty. 
+ 
+(2) The Board may, by notification in the official Gazette, 
+prescribe the procedure in this behalf and also specify the apportionment 
+of reward sanctioned under this section for whistleblowers. 
+ 
+(3) The claim for reward by the whistleblower shall be rejected, 
+if- 
+ 
+(a) the information provided is of no value; 
+ 
+(b) the Board already had the information; 
+ 
+(c) the information was available in public records; or 
+ 
+(d) no collection of duty is made from the information provided 
+from which the Board can pay the reward. 
+(4) 
+For the purpose of this section, “whistleblower” means a 
+person who reports concealment or evasion of duty leading to detection or 
+collection of duty, corruption or misconduct, to the competent authority 
+having power to take action against the person or a federal excise 
+authority committing fraud, corruption, misconduct, or involved in 
+concealment or evasion of duty.]
+---
+
+Section 40:
+43. Removal of difficulties and condonation of time limit etc.— 
+(1) If any difficulty or situation arises in giving effect to or applying the 
+provisions of this Act or the rules made or notifications issued there under, 
+                         
+1  Section 42D added by Finance Act, 2015. 
+The Federal Excise Act, 2005 
+ 
+60 
+the Board may, through a general order or otherwise, issue instructions or 
+directions for such actions to be taken by an officer of 1[Federal Excise] or 
+any other person as it considers necessary or expedient for the purpose of 
+removing the difficulty or tackling such situation and every such officer or 
+person shall be bound to comply with such instructions or directions in such 
+manner as may be specified therein. 
+ 
+(2)  Where any time or period has been specified under any of the 
+provisions of this Act or rules made there under within which any 
+application is to be made or any act or thing is to be done, the Board may 
+2[at any time before or after the expiry of such time or period], in any case 
+or class of cases, permit such application to be made or such act or thing to 
+done within such time or period as it may consider appropriate provided that 
+the Board may subject to such limitations or conditions as may be specified 
+therein, empower any 3[Commissioner]  or other 4[officer of Inland 
+Revenue] to exercise the powers under this subsection in any case or class 
+of cases. 
+ 
+5[Explanation.– For the purpose of this section, the expression 
+“any act or thing is to be done” includes any act or thing to be done by the 
+registered person or by the authorities specified in section 29 of this Act.] 
+ 
+ 
+ 
+6[43A. Issuance of duplicate of 7[Federal Excise] documents.– An 
+                         
+1  Words “Inland Revenue” substituted for Federal Excise by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259. 
+2 Words inserted by Finance Act, 2022. 
+3  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+4  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+5  Explanation inserted by Finance Act, 2011. 
+6  Inserted vide Finance Act, 2008. 
+7  The “Inland Revenue” were substituted for “Federal Excise by Finance Act, 2010 w.e.f. June 5, 2010. The 
+same amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III 
+The Federal Excise Act, 2005 
+ 
+61 
+officer of federal excise not below the rank of Assistant Collector may, on 
+payment of one hundred rupees, issue an attested duplicate of any 5[federal 
+excise] document as is available with the department or has been filed 
+under this Act or rules made there under to a relevant registered person 
+applying for the same.]
+---
+
+Section 41:
+44. Refund of duty.—(1) No refund of any amount of duty 
+accrued for any reason under this Act or rules made there under shall be 
+allowed unless claimed within one year of its accrual. 
+ 
+ 
+(2) In a case where a registered person did not avail adjustment of 
+duty admissible at the relevant time, the 1[Commissioner] may allow such 
+person to avail the adjustment at any subsequent time provided that claim 
+for such adjustment is made within a period of one year from the date on 
+which it was admissible. 
+ 
+(3) In a case where claim for refund or adjustment has accrued in 
+consequence of any decision or judgment of any Federal Excise Officer, the 
+Tribunal or Court, the period of one year, for the purpose of this section, 
+shall be computed from the date of such decision or judgment. 
+ 
+2[44A. Delayed refund.- Where a refund due under section 44 is not made 
+within the time specified in this behalf, there shall be paid to the claimant, in 
+addition the amount of refund due to him, a further sum equal to KIBOR per 
+annum of the amount of refund due, from the date following the expiry of the 
+time specified as aforesaid, to the day preceding the day of payment of refund:  
+ 
+Provided that where there is a reason to believe that a person has claimed 
+the refund which is not admissible to him, he shall not be entitled to additional 
+amount unless the investigation of his claim is completed.]
+---
+
+Section 42:
+45. Access to records and posting of excise staff, etc.— (1)    A 
+person who is required to maintain any record or documents under this Act 
+                                                             
+of 2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+1  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+2  Inserted vide Finance Act, 2009. 
+The Federal Excise Act, 2005 
+ 
+62 
+or any other law shall, as and when required by the 1[officer of Inland 
+Revenue] produce record or documents which are in his possession or 
+control or in the possession or control of his agent and where such record or 
+documents have been kept on electronic data, he shall allow access to such 
+officer to have access and use of any machine on which such data is kept 
+and shall facilitate such officer to retrieve whole or part of such data in such 
+manner and to such extent as may be required by him. 
+ 
+(2) Subject to such conditions and restrictions, as deemed fit to 
+specify, the Board 2[***] may, post 3[officer of Inland Revenue] to the 
+premises of registered person or class of such persons to monitor production, 
+removal or sale of goods and the stock position or the maintenance of 
+records 3[.] 
+ 
+2[***] 
+ 
+ 
+4[(3) The Board may, by notification in the official Gazette, for the 
+purpose to monitor production or manufacture of any goods, specify the 
+manner and procedure for appointment and posting of technical staff and 
+installation, operation, maintenance of close circuit T.V system anywhere 
+in the factory premises.] 
+ 
+ 
+5[45A. Monitoring or tracking by electronic or other means.– (1) 
+Subject to such conditions, restriction and procedures as it may deem fit to 
+impose or specify, the Board may, by notification ion the official Gazette, 
+specify any registered person or class of registered persons or any goods 
+or class of goods in respect of which monitoring or tracking of production, 
+sales, clearance, stocks or any other related activity may be implemented 
+through electronic or other means as may be prescribed. 
+ 
+ 
+(2) From such date, as may be prescribed by the Board, no 
+                         
+1  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+2  Words “or Chief Commissioner” omitted by Finance Act, 2018. 
+3  Full stop inserted and proviso omitted by Finance Act, 2018. 
+4  Inserted vide Finance Act, 2008. 
+5  Section 45A inserted by Finance Act, 2013. 
+The Federal Excise Act, 2005 
+ 
+63 
+excisable goods shall be removed or sold by the manufacturer or any other 
+person without affixing tax stamp, banderole, stickers, labels, 1[barcodes,] 
+etc. in any such form, style and manner as may be prescribed by the Board 
+in this behalf.] 
+ 
+ 
+2[(3) Such tax stamps, banderoles, stickers, labels, barcodes etc., 
+shall be acquired by the registered person referred to in sub-section (2) 
+from a licensee appointed by the Board for the purpose, against price 
+approved by the Board, which shall include the cost of equipment installed 
+by such licensee in the premises of the said registered person.] 
+ 
+3[45AA. Licensing of brand name.- (1) Manufacturers of the 
+specified goods shall be required to obtain brand licence for each brand or 
+stock keeping unit (SKU) in such manner as may be prescribed by the 
+Board.  
+(2) 
+Any specified brand and SKU found to be sold without obtaining a 
+licence from the Board shall be deemed counterfeit goods and liable to 
+outright confiscation and destruction in the prescribed manner and such 
+destruction and confiscation shall be without prejudice to any other penal 
+action which may be taken under this Act.]
+---
+
+Section 43:
+46. 
+4[***] Audit.— (1) The 
+5[officer of Inland Revenue] 
+authorized by the Board 6[or the Commissioner] by designation may, once 
+in a year, after giving advance notice in writing, conduct audit of the 
+records and documents of any person registered under this Act. 
+ 
+(2) In case the 7[Commissioner] has information or sufficient 
+                         
+1  Word and comma inserted by Finance Act, 2015. 
+2  Sub-section (3) added by Finance Act, 2015. 
+3 New Section 45AA inserted by Finance Act, 2021. 
+4  Word “Departmental” omitted by Finance Act, 2015. 
+5  Substituted for “Federal Excise Officer” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment 
+was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated 
+February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This 
+Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259. 
+6  Words inserted by Finance Act, 2010. 
+7  Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+The Federal Excise Act, 2005 
+ 
+64 
+evidence showing that such registered person is involved in fraud or 
+evasion of duty, he may authorize a Federal Excise Officer, not below the 
+rank of 1[Assistant Commissioner], to conduct audit at any time in a year. 
+ 
+2[(2A) After completion of the audit under this section or any other 
+provision of law, the officer of Inland Revenue may, after obtaining the 
+registered person’s explanation on all the issues raised in the audit shall 
+pass an order under section 14, imposing the amount of duty as per law, 
+charging default surcharge, imposing penalty and recovery of any amount 
+erroneously refunded.] 
+ 
+(3) Notwithstanding the penalties prescribed in section 19, if a 
+registered person wishes to deposit the amount of duty not paid, short paid or 
+the amount of duty evaded along with default surcharge voluntarily, 
+whenever it comes to his notice, before commencement of audit, no penalty 
+shall be recovered from him: 
+Provided that if a registered person wishes to deposit the amount of 
+duty not paid, short paid or amount of duty evaded along with default 
+surcharge during or after the audit but before the 3[determination of liability 
+under sub-section (2A)] conclusion of original adjudication proceedings, he 
+may deposit such amount along with twenty five percent of the amount of 
+penalty prescribed under this Act or the rules made there under and in such 
+case, further proceedings in the case shall abate.  
+ 
+4[(4) The Board may appoint as many special audit panels as may 
+be necessary, comprising two or more members from the following – 
+ 
+ 
+(a) an officer or officers of Inland Revenue; 
+ 
+ 
+(b) a firm of Chartered Accountants as defined under the 
+                                                             
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259 
+1  Substituted for “Assistant Collector of Federal Excise” by Finance Act, 2010 w.e.f. June 5, 2010. The same 
+amendment was made by Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 
+2010, dated February 6, 2010, published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. 
+This Ordinance was presented in the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. 
+Originally this amendment was made through Finance (Amendment) Ordinance, 2009, promulgated as 
+Ordinance No. XXII of 2009, dated October 28, 2009, published in the Gazette of Pakistan Extraordinary 
+Part I at pages 229 to 259 
+2  Sub-section (2A) inserted by Finance Act, 2010. 
+3  Substituted for “conclusion of original adjudication proceedings” by Finance Act, 2010 w.e.f. June 5, 2010 
+4  Substituted for sub-section (4) by Finance Act, 2015. 
+The Federal Excise Act, 2005 
+ 
+65 
+Chartered Accountants Ordinance, 1961 (X of 1961); 
+ 
+ 
+ 
+(c) a firm of Cost and Management Accountants as defined under 
+the Cost and Management Accountants Act, 1966 (XIV of 
+1966); or  
+ 
+ 
+(d) any other person as directed by the Board,  
+ 
+ 
+ to conduct audit of a registered person or persons, including 
+audit of refund claims and forensic audit and the scope of 
+such audit shall be determined by the Board or the 
+Commissioner Inland Revenue on a case-to-case basis. In 
+addition, the Board may, where it considers appropriate, also 
+get such audit conducted jointly with similar audits being 
+conducted by provincial administrations of sales tax on 
+services.] 
+ 
+ 
+1[(5) Each special audit panel shall be headed by a chairman who 
+shall be an officer of Inland Revenue; 
+ 
+ 
+(6) If any one member of the special audit panel, other than the 
+chairman, is absent from conducting an audit, the proceedings of the audit 
+may continue and the audit conducted by the special audit panel shall not 
+be invalid or be called in question merely on the ground of such absence. 
+ 
+ 
+(7) The Board may prescribe rules in respect of constitution, 
+procedure and working of special audit panel. 
+ 
+ 
+(8) Every member of the special audit panel shall have the 
+powers of officers of Inland Revenue under sections 23 and 45 and sub-
+sections (1) to (3) of section 46.] 
+ 
+ 
+2[9] The audit of the registered person shall generally be a 
+composite audit covering all duties and taxes to which his business or 
+activity is liable under the laws administered by the Board. 
+ 
+                         
+1  Sub-sections (5), (6), (7) and (8) inserted by Finance Act, 2015. 
+2  Sub-section (5) re-numbered as sub-section (9) by Finance Act, 2015. 
+The Federal Excise Act, 2005 
+ 
+66 
+1[***] 
+ 
+ 
+2[47. Service 
+of 
+notices 
+and 
+other 
+documents.–– 
+(1)
+Subject to this Act, any notice, order or requisition required to be served 
+on a resident individual other than in a representative capacity for the 
+purposes of this Act shall be treated as properly served on the individual 
+if–  
+  
+ 
+(a) personally served on the individual or, in the case of an 
+individual under a legal disability or a non-resident individual, 
+the representative as defined in section 172 of the Income Tax 
+Ordinance, 2001 (XLIX of 2001) of the individual; 
+ 
+ 
+(b) sent by registered post or courier service to the place specified in 
+clause (b) of sub-section (2) or to the individual’s usual or last 
+known address in Pakistan; or 
+ 
+ 
+(c) served on the individual in the manner prescribed for service of a 
+summons under the Code of Civil Procedure, 1908 (Act V of 
+1908) 1[; or]  
+ 
+ 
+3(d) sent electronically through email or to the e-folder maintained 
+for the purpose of e-filing of sales tax-cum-Federal excise 
+returns by the 4[registered person.] 
+ 
+(2) Subject to this Act, any notice, order or requisition required to be 
+served on any person (other than a resident individual to whom sub-section 
+(1) applies) for the purposes of this Act, shall be treated as properly served on 
+the person if– 
+ 
+ 
+(a) personally served on the representative of the person; 
+ 
+ 
+(b) sent by registered post or courier service to the person’s 
+                         
+1  Sub-section (10) omitted by Finance Act, 2020. 
+2  Section 47 substituted by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+3  The word “or” and clause (d) added by Finance Act, 2017. 
+4 Words substituted by Finance Act, 2020. 
+The Federal Excise Act, 2005 
+ 
+67 
+registered office or address for service of notices under this Act, 
+in Pakistan, or where the person does not have such office or 
+address, the notice is sent by registered post to any office or 
+place of business of the [person in Pakistan; or 
+ 
+ 
+(c) served on the person in the manner prescribed for service of a 
+summons under the Code of Civil Procedure, 1908 (V of 1908) 
+1[; or 
+ 
+ 
+(d) sent electronically through email or to the e-folder maintained 
+for the purpose of e-filing of sales tax-cum-Federal excise 
+returns by the 1[registered person.] 
+ 
+(3) Where as association of person is dissolved, any notice, order or 
+requisition required to be served under this Act, on the association may be 
+served on any person who was the principal officer or a member of the 
+association immediately before such dissolution. 
+ 
+(4) Where, business stands discontinued, any notice, order or 
+requisition required to be served under this Act, on the person discontinuing 
+the business may be served on the person personally or any individual who 
+was the person’s representative at the time of discontinuance, 
+ 
+(5) The validity of any service of a notice under this Act, shall not 
+be called into question after the notice has been complied with in any 
+manner.]                
+                                                                                                                                                                 
+ 
+2[47A. Agreements for the exchange of information 
+3[or 
+assistance in recovery of duties.]– (1) The Federal Government may 
+enter into bilateral or multilateral agreements with provincial governments 
+or with governments of foreign countries for the exchange of information, 
+including electronic exchange of information, with respect to excise duty 
+imposed under this Act or any other law of Pakistan, or under the 
+corresponding laws of that country and may, by notification in the official 
+Gazette, make such provisions as may be necessary for implementing such 
+agreements. 
+                         
+1  The word “or” and clause (d) added by Finance Act, 2017. 
+2  Sections 47A and 47B added by Finance Act, 2015. 
+3 Words inserted by Finance Act, 2021. 
+The Federal Excise Act, 2005 
+ 
+68 
+ 
+ 
+1[(1A)  Notwithstanding anything contained in this Act, the Board 
+shall have power to share data or information including real time data 
+videos, images received under the provisions of this Act with any other 
+Ministry or Division of the Federal Government or Provincial 
+Government, subject to such limitations and conditions an may be 
+specified by the Board.] 
+ 
+ 
+(2) The provisions of section 107 of the Income Tax Ordinance, 
+2001 (XLIX of 2001) shall, mutatis mutandis, apply to this section. 
+ 
+2[(3) 
+The Federal Government may enter into a bilateral or 
+multilateral convention, and inter-governmental agreement or similar 
+agreement or mechanism for assistance in the recovery of duties.] 
+ 
+ 
+3[47AB. Real-time access to information and databases.─ (1) 
+Notwithstanding anything contained in any law for the time being in force, 
+including but not limited to the National Database and Registration 
+Authority Ordinance, 2000 (Ordinance VIII of 2000) and the Emigration 
+Ordinance, 1979 (Ordinance XVIII of 1979), arrangements shall be made 
+to provide real-time access of information and database to the Board in the 
+prescribed form and manner by– 
+(a) 
+the National Database and Registration Authority with 
+respect to information pertaining to National Identity Card 
+(NIC), Pakistan Origin Card, Overseas Identity Card, Alien 
+Registration Card and other particulars contained in the 
+citizen database; 
+(b) 
+the Federal Investigation Agency and the Bureau of 
+Emigration and Overseas Employment with respect to 
+details of international travel; 
+(c) 
+the Islamabad Capital Territory and provincial  and local 
+land record and development authorities with respect to 
+record-of-rights including digitized edition of record-of-
+rights, periodic record, record of mutations and report of 
+acquisition of rights; 
+                         
+1 New sub-section (1A) inserted by Finance Act, 2021. 
+2 New sub-section (3) inserted by Finance Act, 2021. 
+3 New section 47AB inserted by Finance Act, 2020. 
+The Federal Excise Act, 2005 
+ 
+69 
+(d) 
+the Islamabad Capital Territory and provincial excise and 
+taxation departments with respect to information regarding 
+registration of vehicles, transfer of ownership and other 
+associated record; 
+(e) 
+all electricity suppliers and gas transmission and 
+distribution companies with respect to particulars of a 
+consumer, the units consumed and the amount of bill 
+charged or paid: 
+ 
+Provided that where the connection is shared or is 
+used by a person other than the owner, the name and NIC 
+of the owner and the user shall also be furnished: 
+ 
+Provided further that all electricity suppliers and gas 
+transmission and distribution companies shall make 
+arrangements by the 1st day of January, 2021 for allowing 
+consumers to update the ratio of sharing of a connection or 
+the particulars of users, as the case may be; and 
+ 
+(f) 
+any other agency, authority, institution or organization 
+notified by the Board. 
+ 
+(2) 
+The Board shall make arrangements for laying the 
+infrastructure for real-time access to information and database under sub-
+section (1) and aligning it with its own database in the manner as may be 
+prescribed. 
+ 
+(3) 
+Until real-time access to information and database is made 
+available under sub-section (1), such information and data shall be 
+provided periodically in such form and manner as may be prescribed. 
+ 
+ 
+ (4)  Subject to section 47B, all information received under this 
+section shall be used only for tax purposes and kept confidential.] 
+ 
+The Federal Excise Act, 2005 
+ 
+70 
+ 
+1[47B. Disclosure of information by a public servant.─ (1) Any 
+information acquired under any provision of this Act shall be confidential 
+and no public servant shall disclose any such information, except as 
+provided under section 216 of the Income Tax Ordinance, 2001 (XLIX of 
+2001). 
+ 
+ 
+(2) Notwithstanding anything contained in sub-section (1) and the 
+Freedom of Information Ordinance, 2002 (XCVI of 2002), any 
+information received or supplied in pursuance of bilateral or multilateral 
+agreements with government of foreign countries for exchange of 
+information under section 47A shall be confidential]. 
+ 
+ 
+2[47C. Validation.– 3[(1)] All notifications and orders issued and 
+notified in exercise of the powers conferred upon the Federal Government, 
+before the commencement of Finance Act, 2017 shall be deemed to have 
+been validly issued and notified in exercise of those powers.] 
+ 
+ 
+3[(2) Notwithstanding any omission, irregularity or deficiency in 
+the establishment of or conferment of powers and functions on the 
+Directorate General (Intelligence and Investigation), Inland Revenue and 
+authorities specified in clause (a) of sub-section (2) of section 29 of this 
+Act, all orders passed, notices issued and actions taken in exercise or 
+purported exercise of the powers and functions of the Officers of Inland 
+Revenue under this Act by the Director General (Intelligence and 
+Investigation), Inland Revenue or the authorities specified in clause (a) of 
+sub-section (2) of section 29 of this Act shall be treated to have been 
+validly passed, issued and taken under this Act.]
+---
+
+Section 44:
+48. Repeal.–(1) Subject to the provisions of sub-section (2), the 
+Central Excises Act, 1944 (I of 1944) shall stand repealed with effect from 
+the date notified under sub-section (3) of section 1. 
+ 
+(2) Unless otherwise directed by the Federal Government, in case 
+of area where the repealed Act was extended through an order by a Governor 
+of the Province or otherwise through an order by any other authority, the 
+application of the repealed Act shall continue to be in force till this Act is 
+                         
+1  Section 47B substituted through Finance Act, 2016. 
+2  New section 47C inserted through by Finance Act, 2017. 
+3  Section 47C re-numbered and new sub-section (2) added by Finance Act, 2018. 
+The Federal Excise Act, 2005 
+ 
+71 
+made applicable in that area. 
+ 
+1[49. Fee and service charges.– 2[(1)] The 3[Board with the 
+approval of Federal Minster-in-charge”] may, by notification in the 
+official Gazette, subject to such conditions, limitations or restrictions as it 
+may deem fit to impose, levy fee and service charges for valuation, in 
+respect of any other service or control mechanism provided by any 
+formation under the control of the Board, including ventures of public-
+private partnership, at such rates as may be specified in the notification.] 
+ 
+4[(2) The Board may authorize and prescribe the manner in which 
+fee and service charges collected under sub-section (1) shall be expended.] 
+ 
+5[50.  Uniform.– The Board may, by notification in the official 
+Gazette, prescribe rules for wearing of uniform by officers and staff of 
+Inland Revenue Services.] 
+          
+                         
+1  New section 49 inserted through Finance Act, 2019. 
+2    Existing sub-section renumbered as sub-section (1) by Finance Act, 2021. 
+3   
+Words “Federal Government” substituted by Tax Laws (Amendment) Act, 2020. 
+4 New sub-section  (2) inserted by Finance Act, 2021. 
+5 New section 50 added by Finance Act, 2022. 
+The Federal Excise Act, 2005 
+ 
+72 
+FIRST SCHEDULE 
+[See Section 3] 
+ 
+TABLE 1 
+(EXCISABLE GOODS) 
+ 
+ 
+S.No. 
+Description of Goods 
+Heading/ 
+sub-heading 
+Number 
+Rate of Duty 
+ 
+Col.(1) 
+Col.(2) 
+Col.(3) 
+Col.(4) 
+ 
+1[1*** 
+omitted] 
+ 
+ 
+ 
+ 
+ 1[2*** 
+omitted] 
+ 
+ 
+ 
+ 
+ 
+3 
+Concentrates 
+for 
+aerated 
+beverages 
+in 
+all 
+forms 
+including syrup form 
+ 
+2106.9010 
+Fifty per cent ad val. 
+ 
+4 
+Aerated waters 
+2201.1020 
+ 2[Twenty] per cent of 
+retail price 
+5 
+Aerated waters, containing 
+added 
+sugar 
+or 
+other 
+sweetening matter or flavored 
+ 
+2202.1010 
+3[Twenty] per cent of 
+retail price 
+6 
+Aerated 
+waters 
+if 
+manufactured wholly from 
+juices or pulp of 
+4[  ] 
+vegetables, food grains or 
+fruits and which do not 
+contain any other ingredient, 
+indigenous or imported, other 
+than sugar, coloring materials, 
+preservatives or additives in 
+Respective 
+headings 
+ 
+ 
+ 
+ 
+5[Twenty]  per cent of 
+retail price 
+                         
+1 Serial numbers 1, 2 and entries relating thereto omitted through Finance Act, 2021. 
+2  The figure “thirteen” substituted through Finance (Supplementary) Act, 2023. 
+3  The figure “thirteen” substituted through Finance (Supplementary) Act, 2023. 
+4  Word omitted by Finance Act, 2008. 
+5  The figure “thirteen” substituted through Finance (Supplementary) Act, 2023. 
+The Federal Excise Act, 2005 
+ 
+73 
+S.No. 
+Description of Goods 
+Heading/ 
+sub-heading 
+Number 
+Rate of Duty 
+ 
+Col.(1) 
+Col.(2) 
+Col.(3) 
+Col.(4) 
+ 
+quantities prescribed under 
+the West Pakistan Pure Food 
+Rules, 1965.  
+ 
+7 
+Un-manufactured tobacco 
+24.01 
+1[Three hundred and 
+ninety rupees] per 
+kilogram 
+ 
+2[8 
+ 
+ 
+ 
+ 
+ 
+3[8a 
+Cigarettes of tobacco or tobacco 
+substitutes excluding locally 
+produced cigarettes. 
+ 
+ 
+ 
+E-liquids by whatsoever name 
+called, for electric cigarette kits. 
+ 
+ 
+ 
+24.02 
+ 
+ 
+ 
+ 
+Respective 
+heading 
+Sixty five percent of 
+retail price or the rate 
+of duty as prescribed 
+against S. No. 9 
+whichever is higher. 
+ 
+Rupees ten 4[thousand 
+per kg]. 
+ 
+8b 
+Cigars, cheroots and cigarillos of 
+tobacco and tobacco substitute. 
+Respective 
+heading 
+Sixty five percent of 
+retail price or rupees 
+ten thousand per kg 
+whichever is higher.] 
+ 
+5[8c. 
+ 
+Tobacco mixture in an 
+electrically heated tobacco 
+product by whatever name 
+called, intended for consumption 
+by using a tobacco heating 
+system without combustion  
+ 
+6[Respective 
+headings] 
+ 
+7[Rupees sixteen 
+thousand five hundred 
+per kg] 
+                         
+1  The figure “ten” substituted through Tax Laws (Second Amendment) Ordinance, 2022. 
+2    Serial number 8 substituted by Finance Act, 2020. 
+3 New serial numbers 8a and 8b inserted by Finance Act, 2020. 
+4 Words substituted by Finance Act, 2022. 
+5 New serial number 8c inserted by Finance Act, 2021. 
+6 Words substituted by Finance Act, 2022. 
+7 Expression substituted by Finance Act, 2023 
+The Federal Excise Act, 2005 
+ 
+74 
+ 
+1[9. 
+Locally produced cigarettes 
+if their on-pack printed retail 
+price 
+exceeds 
+2[nine 
+thousand] 
+rupees 
+per 
+thousand cigarettes. 
+24.02 
+Rupees 
+3[sixteen 
+thousand 
+five 
+hundred] 
+per 
+thousand 
+cigarettes
+---
+
+Section 45:
+10. 
+Locally produced cigarettes 
+if their on-pack printed retail 
+price does not exceed 4[nine 
+thousand] 
+per 
+thousand 
+cigarettes.  
+24.02 
+Rupees 
+5[five 
+thousand and fifty] 
+per 
+thousand 
+cigarettes] 
+6[10a. 
+***] omitted.  
+ 
+ 
+ 
+7[11***]   
+ 
+ 
+ 
+ 
+.  
+12 
+Cigarettes manufactured by a 
+manufacturer who remains 
+engaged on and after the 10th 
+June, 1994, either directly or 
+through 
+any 
+other 
+arrangement, 
+if 
+the 
+manufacture of any brand of 
+cigarette in non-tariff areas 
+ 
+24.02 
+Sixty 8[five] 
+percent of retail 
+price. 
+ 
+13 
+Portland cement, aluminous 
+cement, slag cement, super 
+sulphate cement and similar 
+hydraulic cements, whether 
+or not colored or in the form 
+of clinkers  
+ 
+25.23 
+ 
+ 
+ 
+  
+ 
+ 9[two rupees] per 
+kilogram  
+                         
+1  Serial numbers 9 and 10 and entries relating thereto substituted through Finance Act, 2019. 
+2 Words substituted by Finance (Supplementary) Act, 2023. 
+3 Words substituted by Finance (Supplementary), Act 2023. 
+4 Words substituted by Finance (Supplementary), Act 2023. 
+5 Words substituted by Finance (Supplementary), Act 2023. 
+6 
+Serial numbers 10a and entries relating thereto omitted through Finance Act, 2019. 
+7  Serial No. 11 omitted by Finance Act, 2013. 
+8  Substituted for “four” by Finance Act, 2010. 
+9  Words “one and half rupees” substituted by Finance (Supplementary) Act, 2023. 
+The Federal Excise Act, 2005 
+ 
+75 
+1[14, 15 and 
+16***  ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2[17 & 18]   
+ 
+ 
+ 
+ 
+3[19&20] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4[21***] 
+ 
+ 
+ 
+5[22 to 
+25***] 
+ 
+ 
+ 
+6[26to30***] 
+ 
+ 
+ 
+ 
+31 
+Liquefied Natural Gas 
+2711.1100 
+7[ten rupees per 
+Million British 
+Thermal Unit 
+(MMBTu)] 
+32 
+Liquefied propone 
+2711.1200 
+Seventeen rupees 
+and eighteen paisa 
+per hundred cubic 
+meters. 
+33 
+Liquefied butanes 
+2711.1300 
+Seventeen rupees 
+and eighteen paisa 
+per hundred cubic 
+meters. 
+ 
+34 
+Liquefied ethylene, 
+propylene, butylenes and 
+butadiene 
+2711.1400 
+ 
+Seventeen rupees 
+and eighteen paisa 
+per hundred cubic 
+meters. 
+                         
+1  Serial no. 14, 15 & 16 omitted by Finance Act, 2007. 
+2  Serial no. 17 and 18 omitted by Finance Act, 2011. 
+3  Serial no. 19 & 20 Omitted vide Finance Act, 2007. 
+4 
+Sr. No. 21 omitted by Finance Act, 2011. 
+5  Sr. Nos. 22 to 25 omitted by Finance Act, 2012. 
+6  Sr. Nos. 26 to 30 omitted by Finance Act, 2011. Sr. No. 27 omitted by  Finance Act, 2012. 
+7  The expression substituted through Finance Act, 2019. 
+The Federal Excise Act, 2005 
+ 
+76 
+35 
+Other Liquefied petroleum 
+Gases and   gaseous 
+hydrocarbons 
+2711.1900 
+1[Rupees sixty per 
+hundred metric 
+tonne]. 
+36 
+Natural Gas in gaseous state 
+2711.2100 
+2[ten rupees] per 
+Million British 
+Thermal Unit 
+(MMBTu) 
+37 
+Other petroleum Gases  in 
+gaseous state 
+2711.2900 
+ 
+4[ten rupees]  per 
+Million British 
+Thermal Unit 
+(MMBTu) 
+3[38***] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4[39 & 40] 
+ 
+ 
+ 
+     41 
+Flavors and concentrates for 
+use in aerated beverages 
+3302.1010 
+Fifty per cent ad 
+valorem. 
+ 4[ 42 to 
+45] 
+omitted 
+ 
+ 
+5[46 to 49] 
+ 
+omitted 
+ 
+ 
+ 6[(53)] 
+ 
+ 
+ 
+7[54 
+***] omitted. 
+ 
+ 
+                         
+1 Words substituted by Finance Act, 2022. 
+2  Substituted vide Finance Act, 2010. 
+3  Omitted vide Finance Act, 2007. 
+4 
+Sr. Nos. 39 to 40 omitted by Finance Act, 2011 & Sr. Nos. 42 to 45 omitted by Finance Act, 2012. 
+5  Sr. Nos. 46 47, 48 and 49 omitted by Finance Act, 2011 
+6  Sr.No. 53 omitted through Finance Act, 2016 
+7  Serial number 54 and entries relating thereto omitted through Finance Act, 2019. 
+The Federal Excise Act, 2005 
+ 
+77 
+ 
+   1[55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2[55B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+Imported motor cars, SUVs and 
+other motor vehicles, excluding 
+auto 
+rickshaws, 
+principally 
+designed for the transport of 
+persons (other than those of 
+headings 87.02), 1[and till the 
+30th day of June, 2026 electric 
+vehicles (4 wheelers)] including 
+station wagons and racing cars 
+ 
+(a) of cylinder capacity up to 
+1000cc 
+(b) of cylinder capacity from 
+1001cc            to 1799cc 
+(c) of cylinder capacity 1800cc 
+to 3000cc 
+ 
+(d) 
+of 
+cylinder 
+capacity 
+exceeding 3001cc 
+ 
+Locally 
+manufactured 
+or 
+assembled motor cars, SUVs 
+and other motor vehicles, 
+excluding 
+auto 
+rickshaws 
+principally designed for the 
+transport of persons (other 
+than those of headings 87.02), 
+and till the 30th day of June, 
+2026 electric vehicles (4 
+wheelers) including station 
+wagons and racing cars: 
+ (a) of cylinder capacity up to 
+1300cc 
+(b) of cylinder capacity from 
+1301cc to 2000cc 
+(c) 
+of 
+cylinder 
+capacity 
+2001cc and above 
+ 
+ 
+ 
+ 
+87.03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      87.03 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5% ad val 
+3[10]% ad val. 
+4[30]% ad val. 
+ 
+ 
+5[40]% ad val.] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.5 % ad val. 
+ 
+ 5% ad val.  
+ 
+ 10% ad val. 
+ 
+ 
+ 
+ 
+ 
+                         
+1  Serial number 55 and 55A and entries relating thereto substituted by Finance Act, 2019. 
+2 
+Serial number 55B and entries relating thereto substituted by Finance (Supplementary) Act, 2022. 
+The Federal Excise Act, 2005 
+ 
+78 
+1[55C 
+ 
+ 
+2[55D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3[56 
+ 
+Imported double cabin (4x4) 
+pick-up vehicles 
+ 
+Locally manufactured double 
+cabin (4x4) pick-up vehicles 
+except the vehicles booked on 
+or before the 30th June, 2020 
+subject to the restriction or 
+conditions specified by the 
+Board. 
+ 
+Filter rod for cigarettes 
+8704.2190 
+      8704.3190 
+ 
+ 
+8704.2190 
+      8704.3190 
+ 
+ 
+ 
+ 
+ 
+5[Respective 
+headings] 
+ 
+ 
+9[30]% ad val] 
+ 
+ 
+ 
+ 
+ 
+10[10]% ad val.] 
+ 
+ 
+ 
+ 
+11[Rupees fifteen 
+hundred per kg] 
+12[57. 
+Omitted] 
+ 
+ 
+ 
+ 
+11[58. 
+Omitted] 
+ 
+ 
+ 
+ 
+13[59. 
+Sugary Fruit juices, syrups 
+and squashes, waters whether 
+or not containing added sugar 
+or 
+artificial 
+sweeteners 
+excluding 
+mineral 
+and 
+aerated waters 
+Respective 
+headings 
+14[Twenty] percent of 
+retail price] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                             
+4 Expression inserted by Finance Act, 2021. 
+6 Expression substituted by Finance (Supplementary) Act, 2022. 
+7 Expression substituted by Finance (Supplementary) Act, 2022. 
+8 Expression substituted by Finance (Supplementary) Act, 2022. 
+1     New serial number 55C inserted by Finance Act, 2020. 
+2 New serial number 55D inserted by Finance Act, 2020. 
+3  Serial number 56 and entries relating thereto in column (2), (3) and (4) added by Finance Act, 2015. 
+5 Words substituted by Finance Act, 2022. 
+9 Expression substituted by Finance (Supplementary) Act, 2022. 
+10 Expression substituted by Finance (Supplementary) Act, 2022. 
+11 Expression substituted by Finance Act, 2022. 
+12 Serial numbers 57, 58 and entries relating thereto omitted through Finance Act, 2021. 
+13 New serial number 59 added by Finance (Supplementary) Act, 2023. 
+14 For the word “ten” the word “twenty” substituted by Finance Act, 2023 
+The Federal Excise Act, 2005 
+ 
+79 
+1[60 
+Energy inefficient fans both 
+locally 
+manufactured 
+and 
+imported 
+which 
+do 
+not 
+comply 
+with 
+the 
+MEPS, 
+notified by PSQCA 
+Respective 
+heading 
+Rupees two thousand 
+per fan with effect 
+from the 1st day of 
+January, 2024 
+ 
+ 
+ 
+ 
+61 
+Incandescent 
+bulbs 
+both 
+locally 
+manufactured 
+and 
+imported 
+8539.2200 and 
+8539.2990 
+Twenty percent ad 
+valorem with effect 
+from the 1st day of 
+January, 2024 
+ 
+ 
+ 
+ 
+62 
+Fertilizers 
+Respective 
+heading 
+Five percent ad 
+valorem.] 
+ 
+ 
+ 
+ 
+ 
+Interpretation.–– (1) Unless the intent appears otherwise, for the 
+purpose of levy of duty of excise, the description of goods shall prevail 
+upon the tariff classification. However in order for interpretation of 
+description of any goods or verification of any characteristics of any 
+product, the reliance shall be made on the relevant version of the 
+Explanatory Notes to the Harmonized Commodity Description and Coding 
+System. 
+ 
+(2) The rate of duty mentioned in column (4) of the above table 
+shall also apply on the goods mentioned in column (2) thereof, if imported, 
+or brought from non-tariff to tariff areas in case of notified goods. 
+ 
+2[Restriction-1– Reduction.– For the purpose of levy, collection 
+and payment of duty at the rates specified in column (4) against serial 
+number 9 3[and 10], no cigarette manufacturer shall reduce retail price 
+from the level adopted on the day of the announcement of the latest 
+budget]. 
+ 
+ 
+(2) Variants at different price points.– No manufacturer or 
+importer of cigarette can introduce or sell a new cigarette brand variant at 
+the same existing brand family at a price lower than the lowest actual price 
+                         
+1 New serial numbers 60 to 62 added by Finance Act, 2023 
+2  Restriction-1 & Restriction-3 substituted by Finance Act, 2017 
+3  The words added through Finance Act, 2019. 
+The Federal Excise Act, 2005 
+ 
+80 
+of the existing variant of the same brand family. For the purposes of this 
+restriction, current minimum price variant of existing brand means the 
+lowest price of a brand variant on the day of announcement of Budget 1[of 
+the current Financial year].  
+ 
+ 
+1[(3) Restriction-3 – Minimum price. –  No brand shall be priced 
+and sold at a retail price (excluding sales tax) lower than 2[sixty] percent of the 
+retail price under column (2) against serial number 9 of Table-I of the First 
+Schedule to this Act.] 
+ 
+ 
+3[(4) Rate of Duty - Notwithstanding the limitation on the retail price 
+under column (2) against serial number 9, manufacturers whose brands were 
+liable to duty at the rates specified in column (4) against serial number 9, one 
+day before the date of amendment (through a notification, an ordinance or an 
+act of parliament), shall continue to collect and pay the duty against serial 
+number 9 at the amended rates specified in column (4) (through a notification, 
+an ordinance or an act of parliament)]. 
+                         
+1  Words substituted by Finance Act, 2014. 
+2 Words inserted by Finance (Supplementary) Act, 2023. 
+3 Expression added by Finance (Supplementary) Act, 2023. 
+The Federal Excise Act, 2005 
+ 
+81 
+TABLE II 
+(EXCISABLE SERVICES) 
+ 
+S.No. 
+Description of 1[Services] 
+Heading/sub-
+heading 
+Number 
+Rate of Duty 
+ 
+Col.(1) 
+Col.(2) 
+Col.(3) 
+Col.(4) 
+1 
+Advertisement 
+on 
+closed 
+circuit T.V. 
+9802.3000 
+ 
+Sixteen per cent of 
+the charges. 
+2 
+Advertisements on cable T.V. 
+network. 
+9802.5000 
+ 
+Sixteen per cent of 
+the charges. 
+2a 
+2[Advertisements in news 
+papers 
+ 
+and 
+periodicals 
+(excluding and           
+Classified advertisements) of 
+hoarding boards, poles Signs 
+and sign boards.                     
+9802.4000 
+and 
+9802.9000 
+Sixteen per cent of 
+the charges.] 
+3 
+3[Facilities for travel 
+ 
+(a)  Services provided or 
+rendered in respect  of 
+travel 
+by 
+air 
+of 
+passengers within the 
+territorial jurisdiction of 
+Pakistan 
+ 
+4[(i)   Long routes 
+ 
+(ii)  Short routes 
+ 
+ 
+5[(iii) * * *] 
+ 
+Explanation: 
+For 
+the 
+purpose of this entry, 
+“Long routes” means 
+journeys exceeding 500 
+kilometers, short routes 
+98.03 
+ 
+9803.1000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 1[Fifteen Hundred] 
+ rupees 
+ 
+2[Nine Hundred] 
+rupees 
+ 
+ 
+ 
+                         
+1 Words substituted by Finance Act, 2021. 
+2 
+Inserted vide Finance Act, 2009. 
+3  Inserted by Finance Act, 2014. 
+4  Inserted by Finance Act, 2014 
+5  Sub-clause (iii) and entry relating thereto in column (4) omitted by Finance Act, 2015. 
+The Federal Excise Act, 2005 
+ 
+82 
+S.No. 
+Description of 1[Services] 
+Heading/sub-
+heading 
+Number 
+Rate of Duty 
+ 
+Col.(1) 
+Col.(2) 
+Col.(3) 
+Col.(4) 
+means 
+the 
+remaining 
+journeys, 
+other 
+than 
+socio-economic 
+route 
+1[as defined in S. No. 9 
+of Table II of the Third 
+Schedule]. 
+Routes 
+exempt from duty as on 
+1st 
+July, 
+2014 
+shall, 
+however, remain exempt. 
+ 
+4[(b)  Services provided or 
+rendered in respect of 
+travel 
+by 
+air 
+of 
+passengers embarking on 
+international 
+journey 
+from Pakistan,–] 
+5[(i) 
+Economy 
+and 
+economy plus 
+6[(ii) Club, business and first 
+class air tickets issued on or 
+after 
+the 
+date 
+of 
+commencement 
+of 
+the 
+Finance 
+(Supplementary) 
+Act, 2023: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Five thousand 
+rupees 
+ 
+ 
+ 
+ 
+ 
+(a) IATA Traffic Conference 
+Area 1  (North, Central, 
+South America and 
+Environs) 
+ 
+       (b) 
+IATA 
+Traffic 
+Conference Area 2  
+ 
+ 
+Two hundred and fifty 
+thousand rupees 
+ 
+ 
+ 
+(I) 
+Seventy-five 
+thousand rupees 
+                                                             
+2  The figures substituted through Finance Act, 2019. 
+3 
+The figures substituted through Finance Act, 2019. 
+1  Substituted for the expression “, and “socio-economic routes” means journeys along the Baluchistan coastal 
+belt” by     Finance Act, 2015. 
+4  Inserted vide Finance Act, 2008. 
+5  Inserted vide Finance Act, 2014. 
+6 Sub-clause (ii) of clause (b) of serial number 3 substituted by Finance (Supplementary) Act, 2023. 
+The Federal Excise Act, 2005 
+ 
+83 
+S.No. 
+Description of 1[Services] 
+Heading/sub-
+heading 
+Number 
+Rate of Duty 
+ 
+Col.(1) 
+Col.(2) 
+Col.(3) 
+Col.(4) 
+(I) 
+Middle East  
+ 
+and Africa 
+  
+(II) 
+Europe 
+ 
+ 
+ 
+  (c) IATA Traffic  
+ 
+ 
+Conference Area 3 
+ 
+(Far East, Australia, New 
+ 
+Zealand and Pacific 
+ 
+Islands) 
+ 
+ 
+ 
+ 
+ 
+(II) 
+One hundred 
+and fifty thousand 
+rupees 
+ 
+One hundred and fifty 
+thousand rupees] 
+ 
+ 
+4 
+Inland carriage of goods by air 
+9804.1000 
+3[Sixteen] per cent 
+of the charges. 
+ 
+5 
+ 
+Shipping agents 
+ 
+9805.1000 
+ 
+(i) Two hundred 
+rupees per house-
+bill 
+of 
+lading 
+issued in case of 
+Non-Vessel 
+Operating  
+Common Carriers 
+(NVOCC), 
+International Freight 
+ 
+ 
+ 
+ii) 
+1[sixteen] per 
+cent of the charges 
+in case of other 
+categories 
+of 
+shipping agents. 
+ 
+2[6 
+ 
+Telecommunication services 
+3[, excluding such services in 
+the area of a Province where 
+such Province has imposed 
+ 
+98.12 
+(All sub 
+headings ) 
+ 
+ 4[nineteen and half] 
+per cent of charges 
+                         
+1 
+Substituted vide Finance Act, 2008. 
+2  Serial no. 6 substituted by Finance Act, 2008. 
+3  Comma and words added by Finance Act, 2014. 
+4 For the word “sixteen” the word “nineteen and half” substituted by Finance Act, 2022. 
+The Federal Excise Act, 2005 
+ 
+84 
+S.No. 
+Description of 1[Services] 
+Heading/sub-
+heading 
+Number 
+Rate of Duty 
+ 
+Col.(1) 
+Col.(2) 
+Col.(3) 
+Col.(4) 
+Provincial sales tax and has 
+started collecting the same 
+through its own Board or 
+Authority, as the case may 
+be.] 
+ 
+ 
+ 
+ 
+1[6A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2[ 7*** 
+] 
+Following 
+telecommunication 
+services: 
+Mobile phone call, if call 
+duration exceeds five 
+minutes; 
+Respective 
+sub-heading 
+of 98.12 
+Seventy five paisa 
+per call in addition 
+to the rates of duty 
+specified under 
+Serial No.6] 
+38 
+Services 
+provided 
+or 
+rendered 
+by 
+banking 
+companies 
+4[excluding 
+Merchant Discount Rate 
+(MDR) 
+for 
+accepting 
+digital payment], insurance 
+companies, 
+cooperative 
+financing 
+ 
+societies, 
+modarabas , musharikas, 
+leasing companies, foreign 
+exchange 
+dealers, 
+non-
+banking 
+financial 
+institutions, 
+Assets 
+Management 
+Companies 
+98.13 
+Sixteen percent of 
+the charges.] 
+                         
+1 New serial number 6A and entries relating thereto inserted by Finance Act, 2021. 
+2  Serial No. 7 and entries relating thereto omitted by Finance Act, 2013. 
+3  Serial no. 8 substituted by Finance Act, 2013. 
+4 Words inserted by Finance Act, 2021. 
+The Federal Excise Act, 2005 
+ 
+85 
+S.No. 
+Description of 1[Services] 
+Heading/sub-
+heading 
+Number 
+Rate of Duty 
+ 
+Col.(1) 
+Col.(2) 
+Col.(3) 
+Col.(4) 
+and other persons dealing 
+in any such services. 
+1[9 & 
+10*** ] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2[11 
+Franchise services, royalty and 
+fee for technical services 
+Respective 
+heading 
+Ten per cent of the 
+charges.] 
+3[ 12** 
+] 
+ 
+ 
+ 
+4[13 
+Services provided or rendered 
+by stock brokers 
+9819.1000 
+Sixteen percent of 
+the charges.] 
+ 
+5[14 
+ 
+Services 
+provided 
+or 
+rendered by port and terminal 
+operators 
+in 
+relation 
+to 
+imports 
+excluding 
+stevedoring services. 
+ 
+9819.9090 
+ 
+Sixteen percent of 
+the charges.] 
+ 
+6[15 
+ 
+Chartered flights 
+ 
+98.03 
+ 
+Sixteen percent of 
+the charges] 
+ 
+ 
+7[Note.– The duty on the services as specified against serial 
+numbers 1, 2, 2A, 5, 8, 11 and 13 shall not be levied on services provided 
+in a Province where the provincial sales tax has been levied thereon]. 
+ 
+ 
+ 
+ 
+ 
+                         
+1  Serial Nos. 9 & 10 Omitted vide Finance Act, 2007 
+2  Serial no. 11 substituted by Finance Act, 2023 
+3  Serial No. 12 omitted by Finance Act, 2011. 
+4  Inserted vide Finance Act, 2009. 
+5  Inserted vide Finance Act, 2009. 
+6  Serial no. 15 inserted by Finance Act, 2014. 
+7  Note inserted through Finance Act, 2016. 
+The Federal Excise Act, 2005 
+ 
+86 
+SECOND SCHEDULE 
+ 
+(Goods on which duty is collectible under sales tax mode with entitlement 
+for adjustment with sales tax and vice versa) 
+[See section 7] 
+S.No. 
+Description of Goods 
+Heading/ 
+sub-heading 
+Number 
+1 
+2 
+3 
+ 
+1(1) 
+ 
+[omitted] 
+ 
+ 
+3(2) 
+ 
+[omitted] 
+ 
+ 
+2[(3)***] 
+ 
+ 
+ 
+ 
+ 3[(4) 
+[omitted] 
+ 
+ 
+                         
+1 Serial numbers 1,2 and 4 omitted by Finance Act, 2021. 
+2  Serial number 3 omitted through Finance Act, 2016 
+The Federal Excise Act, 2005 
+ 
+87 
+THIRD SCHEDULE 
+(Conditional exemptions)  
+[See Sub-section (1) of section 16] 
+ 
+TABLE-I 
+(Goods) 
+ 
+S.No. 
+Description of Goods 
+Heading/ 
+sub-heading 
+Number 
+ 
+(1) 
+ 
+Crude vegetable oil, if obtained from the locally 
+grown seeds excluding cooking oil, without 
+having undergone any process other than the 
+process of washing. 
+ 
+5.07, 15.08, 
+15.09, 15010, 
+15.11, 15.12, 
+15.13, 15.14 
+15.15, 15.16, 
+15.17 & 15.18 
+ 
+1[2  
+***] 
+ 
+ 
+ 
+(3) 
+ 
+Un-manufactured tobacco or tobacco refuses if 
+used for the purposes other than the manufacturer 
+of cigarettes, smoking mixtures for pipes and 
+cigarettes and cigars and cheroots. 
+ 
+24.01 
+ 
+2[3A ** 
+3B** ] 
+ 
+ 
+ 
+ 
+ 
+(4) 
+Cigars, cheroots, cigarillos and cigarettes, of 
+tobacco or of tobacco substitutes,- 
+ 
+24.02 
+ 
+(i) 
+If supplied to Pakistan Navy for consumption 
+by its personnel on board its vessels. 
+ 
+(ii) If made by hand in tapered shape of biris 
+without the use of any manual or power-
+operated machine in any process of their 
+manufacture. 
+ 
+ 
+ 
+                         
+1 
+Omitted vide Finance Act, 2007. 
+2  Omitted vide Finance Act, 2008. 
+The Federal Excise Act, 2005 
+ 
+88 
+S.No. 
+Description of Goods 
+Heading/ 
+sub-heading 
+Number 
+(iii)  If supplied for consumption by the President 
+of Pakistan, the President of Azad Jammu & 
+Kashmir and the Governors of the Provinces, 
+members of their families and guests 
+provided that the cigarettes are manufactured 
+and supplied on the specific written orders of 
+the competent official authority and the 
+cigarettes and their packets are special-crested 
+for the respective privileged House. 
+ 
+(iv) If supplied against payment in foreign 
+exchange, to M/s Duty Free Shops Ltd for 
+sale in its Duty Free Shops and on board 
+international 
+flight 
+by 
+the 
+Pakistan 
+International Airlines subject to the same 
+conditions and procedures as are applicable 
+for the purposes of exemption of customs 
+duty. 
+ 
+1[5 ***] 
+ 
+ 
+ 
+6 
+Motor spirit,– 
+2710.1110 
+(i)  If supplied to Pakistan Navy for consumption 
+in its vessels 
+(ii) 
+If 
+supplied 
+for 
+consumption 
+by 
+the 
+International Bank for Reconstruction and 
+Development in its official cars 
+2710.1110 
+ 
+2[7** 
+8** ] 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+Sludge and sediment recovered from storage tanks 
+of the   incoming vessels or ships meant for 
+breaking 
+ 
+ 
+2710.9900 
+                         
+1  Omitted vide Finance Act, 2013. 
+2 
+Omitted vide Finance Act, 2013. 
+The Federal Excise Act, 2005 
+ 
+89 
+S.No. 
+Description of Goods 
+Heading/ 
+sub-heading 
+Number 
+10 
+Natural gas if produced and used in the same field 
+for drilling,   production, pressure maintenance or 
+in any other joint operations including flaring in 
+the same field. 
+2711.2100 
+ 
+Explanation.- For the purpose of this entry, "Joint Operations" means all 
+marine and land activities, including gas exploration, prospection, development 
+and production activities conducted by Working Interest Owners under a 
+petroleum concession agreement with the Government. 
+ 
+ 
+ 
+ 
+ 
+11 
+Carbon black oil (carbon black feed stock) if 
+imported by 1[a duly registered manufacturer of 
+carbon black]. 
+ 
+2707.9910 
+2713.9010 
+ 
+Goods,- 
+ 
+ 
+12 
+(i) If donated to the President's Funds for Afghan 
+Refugees, Assistance to Palestine and Famine 
+Relief for Africa, provided that before making such 
+donation the manufacturer or importer shall 
+inform in writing to the Collector of Federal 
+Excise or as the case may be, Collector of 
+Customs about quantity, value and the duty 
+involved on such goods and shall in case of 
+imports, fulfill the conditions and comply with the 
+procedures specified for the purposes of 
+exemption from customs duty. 
+(ii) If purchased by the Cabinet Division, 
+Government of Pakistan, for donation to a 
+foreign country in the event of natural disasters 
+as certified by the Emergency Relief Cell of 
+that Division. 
+ 
+(iii) If supplied   against   international   tender   
+issued   by UNICEF,  UNDP,  WHO,  WFP,  
+ 
+Respective  
+headings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                         
+1  Substituted for “National Petrocarbon (Pvt.) Limited, Pipri, Karachi as raw material for the manufacture of 
+the carbon black” by Finance Act, 2008. 
+The Federal Excise Act, 2005 
+ 
+90 
+ 
+ 
+ 
+UNHCR,  International  Red Cross or any other 
+relief agency, for Afghan Refugees subject to 
+the conditions given below, namely,- 
+(
+(a) payment for the supply shall be received in 
+foreign currency, which shall be surrendered to 
+the State Bank of Pakistan and the supplier shall 
+receive payment in Pak rupees as per State Bank 
+procedure and foreign exchange regulations; 
+(b) 
+the goods shall be duly received by the 
+organization which signed the contract, and a 
+certificate to this effect shall be issued by the 
+organization which shall be duly attested by the 
+Chief Commissioner/ Commissioner of Afghan 
+Refugees and will be submitted by the 
+manufacturer to the 1[Commissioner] of Federal 
+excise; and 
+(c) 
+the registered person shall retain the 
+relevant documents and certificates in record. 
+(iv) If supplied as ship stores to ships and 
+aircrafts leaving for abroad subject to the 
+satisfaction of the Collector of Customs in terms 
+of section 24 of the Customs Act, 1969. 
+ 
+13 
+Goods imported or supplied under grants-in-aid 
+for which a specific consent has been obtained 
+from the 2[Board]. 
+ 
+Respective 
+Heading 
+                         
+1 
+Substituted for “Collector” by Finance Act, 2010 w.e.f. June 5, 2010. The same amendment was made by 
+Finance (Amendment) Ordinance, 2010, promulgated as Ordinance No. III of 2010, dated February 6, 2010, 
+published in the Gazette of Pakistan Extraordinary Part I at pages 23 to 53. This Ordinance was presented in 
+the Parliament but lapsed on 5 June 2010 as Parliament did not approve it. Originally this amendment was 
+made through Finance (Amendment) Ordinance, 2009, promulgated as Ordinance No. XXII of 2009, dated 
+October 28, 2009, published in the Gazette of Pakistan Extraordinary Part I at pages 229 to 259. 
+2  Substituted vide Finance Act, 2007. 
+The Federal Excise Act, 2005 
+ 
+91 
+ 
+ 
+ 
+14 
+ 
+ 
+15 
+Goods if imported as bonafide baggage 
+ 
+Goods if imported by Duty Free Shops as baggage 
+free of   custom  duty,  regulatory  duty  and  sales  
+tax  under  the   baggage rules made under the 
+Customs Act, 1969 (IV of 1969). 
+Respective 
+Heading 
+ 
+Respective  
+Heading 
+ 
+ 
+ 
+ 
+16 
+Any 
+goods 
+1[,excluding 
+un-manufactured 
+tobacco,] which are manufactured produced in-
+house by a   registered   person   and   used   for   
+the   manufacture   and   production of goods on 
+which duty of excise is paid by such     person. 
+2[omitted] 
+ 
+ 
+Respective 
+Headings. 
+ 
+217 
+ 
+ 
+3[18***
+] 
+Goods for further manufacture of goods in the 
+Export Processing Zones 
+ 
+ 
+Respective 
+Headings. 
+ 
+4[19 
+Materials and equipment 
+5[(plant, machinery, 
+equipment, appliances and accessories)] for 
+construction and operation of 6[Gwadar] Port and 
+development of Free Zone for 3[Gwadar] Port as 
+imported by or supplied to China Overseas Ports 
+Holding Company Limited (COPHCL) and its 
+operating companies namely (i) China Overseas 
+Ports Holding Company Pakistan (Private) 
+Limited, (ii) Gwadar International Terminals 
+Limited, (iii) Gwadar Marine Services Limited 
+and (iv) Gwadar Free Zone Company Limited, 
+their contractors and sub-contractors; and Ship 
+Bunker Oils bought and sold to the ships calling 
+on/visiting 3[Gwadar] Port, having Concession 
+Agreement with the Gwadar Port Authority, for a 
+period of forty years, subject to the conditions and 
+procedure as specified under S. No. 100A of 
+Respective 
+Headings 
+                         
+1  Expression inserted and Explanation omitted by Finance Supplementary (Amendment)Act,2018. 
+2  Inserted vide Finance Act, 2008. 
+3  Serial number 18 omitted through Finance Act, 2016. 
+4  New serial number 19 added through Finance Act, 2016. 
+5  The expression inserted by Finance Act, 2017. 
+6  The word “Gwadar” substituted for the word “Gawadar” by Finance Act, 2017. 
+The Federal Excise Act, 2005 
+ 
+92 
+ 
+ 
+ 
+Table-1 of Sixth Schedule to the Sales Tax Act,
+---
+
+Section 46:
+22. 
+Signed by importers on this ____________________ day of 
+_______________________201_. 
+Managing Director or person next 
+                         
+1  Annex “A” & “B” added by Finance Act, 2018. 
+The Federal Excise Act, 2005 
+ 
+97 
+in hierarchy duly authorized by MD 
+(Name and permanent address) 
+Collector of Customs 
+(On behalf of President)  
+Witness (1) 
+________________________________________________ 
+(signature, name, designation and full address)  
+Witness (2)  
+________________________________________________ 
+(signature, name, designation and full address) 
+ 
+1[Annex-B 
+[See conditions (c) and (e)] 
+NTN or FTN of Importer 
+Approval No. 
+Details of equipment (to be filled by the authorized officer of the Regulatory 
+Authority) to be imported 
+Description 
+and 
+specifications. 
+Quantity/UOM 
+L/C No. or 
+bank contract 
+No. and B/L. 
+IGM 
+No. 
+Date 
+& 
+Index No. 
+Remarks, 
+if any. 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+CERTIFICATE 
+BY 
+THE 
+AUTHORIZED 
+OFFICER 
+OF 
+REGULATORY AUTHORITY:  It is hereby certified that the 
+description, quantity and other details mentioned above are true 
+and correct. Goods imported are in commensuration with the 
+project requirements and are bona fide requirement of the Project 
+under the Contract. It is further certified that the above items shall 
+not be used for any other purpose except for the Project.  
+Signature: 
+ 
+ 
+__________________________ 
+Name and Designation: 
+__________________________ 
+Official Stamp: 
+ 
+__________________________ 
+Date: 
+ 
+ 
+__________________________ 
+The Federal Excise Act, 2005 
+ 
+98 
+ 
+1[23 
+Imported construction materials and goods 
+imported by M/s China State Construction 
+Engineering 
+Corporation 
+Limited 
+(M/s 
+CSCECL), 
+whether 
+or 
+not 
+locally 
+manufactured, for construction of Karachi-
+Peshawar Motorway (Sukkur-Multan Section) 
+subject to fulfilment of same conditions, 
+limitations and restrictions as are specified 
+under S. No. 145 of Table-1 of Sixth Schedule 
+to the Sales Tax Act, 1990, provided that total 
+incidence of exemptions of all duties and 
+taxes in respect of construction materials and 
+goods imported for the project shall not 
+exceed ten thousand eight hundred ninety-
+eight million rupees including the benefit of 
+exemption from duties and taxes availed 
+before 30th June, 2018 under the provisions of 
+Sales Tax Act, 1990, the Customs Act, 1969, 
+The Federal Excise Act 2005 and the Income 
+Tax Ordinance, 2001 and the notifications 
+issued thereunder. 
+ 
+ 
+Respective 
+headings 
+2[24 
+The following goods, when supplied within 
+the limits of the Border Sustenance Markets, 
+established in cooperation with Iran and 
+Afghanistan: 
+ 
+ 
+(i)  Animal Fats and Oil and their fractions 
+1516.1000 
+ 
+(ii)  Vegetable Fats and their fractions 
+1516.2010 
+ 
+(iii) Vegetable Oils and their fractions 
+1516.2020 
+ 
+Provided that, such items in case of import, 
+shall be allowed clearance by the Customs 
+Authorities subject to furnishing of bank 
+guarantee equal to the amount of duty 
+involved and the same shall be released after 
+ 
+                         
+1  New serial number 23 added by Finance Act, 2018. 
+2 New serial numbers 24 and 25 inserted by Finance Act, 2021. 
+The Federal Excise Act, 2005 
+ 
+99 
+presentation of consumption certificate issued 
+by the Commissioner Inland Revenue having 
+jurisdiction: 
+Provided further that, the said exemption shall 
+only be available to a person upon furnishing 
+proof of having a functional business 
+premises located within limits of the Border 
+Sustenance Markets.
+---
+
